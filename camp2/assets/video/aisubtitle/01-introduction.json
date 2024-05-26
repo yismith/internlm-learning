@@ -1,0 +1,6668 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.6.0.4",
+  "body": [
+    {
+      "from": 0.18,
+      "to": 1.56,
+      "sid": 1,
+      "location": 2,
+      "content": "嗯大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 1.56,
+      "to": 4.62,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎来到书生葡语大模型实战营啊",
+      "music": 0.0
+    },
+    {
+      "from": 4.62,
+      "to": 6.52,
+      "sid": 3,
+      "location": 2,
+      "content": "这是第二期的呃",
+      "music": 0.0
+    },
+    {
+      "from": 6.52,
+      "to": 8.21,
+      "sid": 4,
+      "location": 2,
+      "content": "客场在第一期里面",
+      "music": 0.0
+    },
+    {
+      "from": 8.21,
+      "to": 11.33,
+      "sid": 5,
+      "location": 2,
+      "content": "有很多同学都已经啊就参加了我们的",
+      "music": 0.0
+    },
+    {
+      "from": 11.33,
+      "to": 12.89,
+      "sid": 6,
+      "location": 2,
+      "content": "就整个的一个课程学习",
+      "music": 0.0
+    },
+    {
+      "from": 12.89,
+      "to": 14.72,
+      "sid": 7,
+      "location": 2,
+      "content": "并且有着很好的一个收获",
+      "music": 0.0
+    },
+    {
+      "from": 14.72,
+      "to": 19.16,
+      "sid": 8,
+      "location": 2,
+      "content": "那这一次的话我将就来介绍书生葡语大模型",
+      "music": 0.0
+    },
+    {
+      "from": 19.16,
+      "to": 21.56,
+      "sid": 9,
+      "location": 2,
+      "content": "全年度的开源体系",
+      "music": 0.0
+    },
+    {
+      "from": 25.68,
+      "to": 27.74,
+      "sid": 10,
+      "location": 2,
+      "content": "大模型其实现在已经成为了",
+      "music": 0.0
+    },
+    {
+      "from": 27.74,
+      "to": 30.17,
+      "sid": 11,
+      "location": 2,
+      "content": "发展通用人工智能的一个重要的途径",
+      "music": 0.0
+    },
+    {
+      "from": 30.17,
+      "to": 33.63,
+      "sid": 12,
+      "location": 2,
+      "content": "我们可以看到从呃就本世纪初",
+      "music": 0.0
+    },
+    {
+      "from": 33.63,
+      "to": 35.43,
+      "sid": 13,
+      "location": 2,
+      "content": "然后一直到2021年",
+      "music": 0.0
+    },
+    {
+      "from": 35.43,
+      "to": 36.42,
+      "sid": 14,
+      "location": 2,
+      "content": "2022年",
+      "music": 0.0
+    },
+    {
+      "from": 36.42,
+      "to": 38.379,
+      "sid": 15,
+      "location": 2,
+      "content": "就这一段时间里面呃",
+      "music": 0.0
+    },
+    {
+      "from": 38.379,
+      "to": 41.469,
+      "sid": 16,
+      "location": 2,
+      "content": "大家的更多的研究会集中在专用模型上",
+      "music": 0.0
+    },
+    {
+      "from": 41.469,
+      "to": 44.619,
+      "sid": 17,
+      "location": 2,
+      "content": "也就是针对特定的任务来采用一个模型",
+      "music": 0.0
+    },
+    {
+      "from": 44.619,
+      "to": 45.83,
+      "sid": 18,
+      "location": 2,
+      "content": "解决一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 45.83,
+      "to": 48.89,
+      "sid": 19,
+      "location": 2,
+      "content": "比如说人工智能里面其实有很多的一些任务",
+      "music": 0.0
+    },
+    {
+      "from": 48.89,
+      "to": 50.65,
+      "sid": 20,
+      "location": 2,
+      "content": "或者说有很多的一些方向",
+      "music": 0.0
+    },
+    {
+      "from": 50.65,
+      "to": 53.05,
+      "sid": 21,
+      "location": 2,
+      "content": "那包括我们有语音识别",
+      "music": 0.0
+    },
+    {
+      "from": 53.05,
+      "to": 55.15,
+      "sid": 22,
+      "location": 2,
+      "content": "那会有专门语音识别的模型",
+      "music": 0.0
+    },
+    {
+      "from": 55.15,
+      "to": 56.41,
+      "sid": 23,
+      "location": 2,
+      "content": "然后图像分类",
+      "music": 0.0
+    },
+    {
+      "from": 56.41,
+      "to": 57.78,
+      "sid": 24,
+      "location": 2,
+      "content": "有图像分类的模型",
+      "music": 0.0
+    },
+    {
+      "from": 57.78,
+      "to": 59.7,
+      "sid": 25,
+      "location": 2,
+      "content": "然后还有人脸识别的",
+      "music": 0.0
+    },
+    {
+      "from": 59.7,
+      "to": 61.26,
+      "sid": 26,
+      "location": 2,
+      "content": "有做围棋比赛的",
+      "music": 0.0
+    },
+    {
+      "from": 61.26,
+      "to": 62.52,
+      "sid": 27,
+      "location": 2,
+      "content": "然后有阿尔法",
+      "music": 0.0
+    },
+    {
+      "from": 62.52,
+      "to": 63.24,
+      "sid": 28,
+      "location": 2,
+      "content": "阿尔法fold",
+      "music": 0.0
+    },
+    {
+      "from": 63.24,
+      "to": 65.34,
+      "sid": 29,
+      "location": 2,
+      "content": "比如说去预测蛋白质结构的",
+      "music": 0.0
+    },
+    {
+      "from": 65.34,
+      "to": 66.72,
+      "sid": 30,
+      "location": 2,
+      "content": "然后有打得哭的",
+      "music": 0.0
+    },
+    {
+      "from": 66.72,
+      "to": 68.52,
+      "sid": 31,
+      "location": 2,
+      "content": "那这样的一些模型的话",
+      "music": 0.0
+    },
+    {
+      "from": 68.52,
+      "to": 70.55,
+      "sid": 32,
+      "location": 2,
+      "content": "它其实都是属于专用模型",
+      "music": 0.0
+    },
+    {
+      "from": 70.55,
+      "to": 72.11,
+      "sid": 33,
+      "location": 2,
+      "content": "那最近两年的话",
+      "music": 0.0
+    },
+    {
+      "from": 72.11,
+      "to": 75.65,
+      "sid": 34,
+      "location": 2,
+      "content": "大家会越来越往通用大模型的方向去发展",
+      "music": 0.0
+    },
+    {
+      "from": 75.65,
+      "to": 79.7,
+      "sid": 35,
+      "location": 2,
+      "content": "也就是说一个模型来应对多种任务和多种模态",
+      "music": 0.0
+    },
+    {
+      "from": 79.7,
+      "to": 81.47,
+      "sid": 36,
+      "location": 2,
+      "content": "比如说像CHEGBT",
+      "music": 0.0
+    },
+    {
+      "from": 81.47,
+      "to": 83.54,
+      "sid": 37,
+      "location": 2,
+      "content": "它其实就把所有的这种啊",
+      "music": 0.0
+    },
+    {
+      "from": 83.54,
+      "to": 85.76,
+      "sid": 38,
+      "location": 2,
+      "content": "就从文本到文本的各类的任务",
+      "music": 0.0
+    },
+    {
+      "from": 85.76,
+      "to": 88.759,
+      "sid": 39,
+      "location": 2,
+      "content": "其实呃通过一个模型就可以去解决",
+      "music": 0.0
+    },
+    {
+      "from": 88.759,
+      "to": 90.979,
+      "sid": 40,
+      "location": 2,
+      "content": "那还有就比如说像gp four v",
+      "music": 0.0
+    },
+    {
+      "from": 90.979,
+      "to": 93.499,
+      "sid": 41,
+      "location": 2,
+      "content": "它其实能够去解决多种跨模态的",
+      "music": 0.0
+    },
+    {
+      "from": 93.499,
+      "to": 95.1,
+      "sid": 42,
+      "location": 2,
+      "content": "这样的一些任务啊",
+      "music": 0.0
+    },
+    {
+      "from": 95.1,
+      "to": 98.07,
+      "sid": 43,
+      "location": 2,
+      "content": "那这个的话其实都是最近这两年来呃",
+      "music": 0.0
+    },
+    {
+      "from": 98.07,
+      "to": 100.14,
+      "sid": 44,
+      "location": 2,
+      "content": "就整个的学术社区",
+      "music": 0.0
+    },
+    {
+      "from": 100.14,
+      "to": 101.7,
+      "sid": 45,
+      "location": 2,
+      "content": "包括整个的一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 101.7,
+      "to": 103.94,
+      "sid": 46,
+      "location": 2,
+      "content": "工业应用的一个重要的发展趋势",
+      "music": 0.0
+    },
+    {
+      "from": 103.94,
+      "to": 106.25,
+      "sid": 47,
+      "location": 2,
+      "content": "那这样的话在这种趋势下",
+      "music": 0.0
+    },
+    {
+      "from": 106.25,
+      "to": 109.32,
+      "sid": 48,
+      "location": 2,
+      "content": "就通用大模型也成为了大家追逐的一个热点",
+      "music": 0.0
+    },
+    {
+      "from": 109.32,
+      "to": 112.32,
+      "sid": 49,
+      "location": 2,
+      "content": "以及说大家会相信它其实是通用",
+      "music": 0.0
+    },
+    {
+      "from": 112.32,
+      "to": 117.44,
+      "sid": 50,
+      "location": 2,
+      "content": "通通通往通用人工智能的一个关键的途径",
+      "music": 0.0
+    },
+    {
+      "from": 118.32,
+      "to": 120.56,
+      "sid": 51,
+      "location": 2,
+      "content": "那接下来我们简单介绍一下",
+      "music": 0.0
+    },
+    {
+      "from": 120.56,
+      "to": 123.04,
+      "sid": 52,
+      "location": 2,
+      "content": "书生葡语大模型的开源历程呃",
+      "music": 0.0
+    },
+    {
+      "from": 123.04,
+      "to": 124.0,
+      "sid": 53,
+      "location": 2,
+      "content": "书上铺与大模型",
+      "music": 0.0
+    },
+    {
+      "from": 124.0,
+      "to": 128.29,
+      "sid": 54,
+      "location": 2,
+      "content": "其实从去年啊就6月份第一次啊发布以来",
+      "music": 0.0
+    },
+    {
+      "from": 128.29,
+      "to": 131.94,
+      "sid": 55,
+      "location": 2,
+      "content": "一直都有着呃就快速的一个迭代啊",
+      "music": 0.0
+    },
+    {
+      "from": 131.94,
+      "to": 133.92,
+      "sid": 56,
+      "location": 2,
+      "content": "在7月份的时候呃",
+      "music": 0.0
+    },
+    {
+      "from": 133.92,
+      "to": 137.9,
+      "sid": 57,
+      "location": 2,
+      "content": "就千亿参数的大模型进行了全面的升级",
+      "music": 0.0
+    },
+    {
+      "from": 137.9,
+      "to": 139.91,
+      "sid": 58,
+      "location": 2,
+      "content": "同来支持了8K语境",
+      "music": 0.0
+    },
+    {
+      "from": 139.91,
+      "to": 141.579,
+      "sid": 59,
+      "location": 2,
+      "content": "然后有26种语言",
+      "music": 0.0
+    },
+    {
+      "from": 141.579,
+      "to": 144.549,
+      "sid": 60,
+      "location": 2,
+      "content": "同时我们也推出了就可以呃",
+      "music": 0.0
+    },
+    {
+      "from": 144.549,
+      "to": 147.759,
+      "sid": 61,
+      "location": 2,
+      "content": "就全免费商用的这种7B的开源模型",
+      "music": 0.0
+    },
+    {
+      "from": 147.759,
+      "to": 150.23,
+      "sid": 62,
+      "location": 2,
+      "content": "和全链条的工具体系",
+      "music": 0.0
+    },
+    {
+      "from": 150.23,
+      "to": 153.23,
+      "sid": 63,
+      "location": 2,
+      "content": "那到8月份发布了书生万卷1.0",
+      "music": 0.0
+    },
+    {
+      "from": 153.23,
+      "to": 155.42,
+      "sid": 64,
+      "location": 2,
+      "content": "这样的多模态的预训练语料库",
+      "music": 0.0
+    },
+    {
+      "from": 155.42,
+      "to": 158.86,
+      "sid": 65,
+      "location": 2,
+      "content": "然后后续又发布了升级版的对话模型来",
+      "music": 0.0
+    },
+    {
+      "from": 158.86,
+      "to": 162.88,
+      "sid": 66,
+      "location": 2,
+      "content": "并且开源的智能体的框架来去支持英特尔M",
+      "music": 0.0
+    },
+    {
+      "from": 162.88,
+      "to": 166.24,
+      "sid": 67,
+      "location": 2,
+      "content": "它从语言模型到智能体的一个升级转换",
+      "music": 0.0
+    },
+    {
+      "from": 166.24,
+      "to": 168.58,
+      "sid": 68,
+      "location": 2,
+      "content": "那进一步的我们发布了啊",
+      "music": 0.0
+    },
+    {
+      "from": 168.58,
+      "to": 171.26,
+      "sid": 69,
+      "location": 2,
+      "content": "就123B的这种迁移参数模型",
+      "music": 0.0
+    },
+    {
+      "from": 171.26,
+      "to": 174.26,
+      "sid": 70,
+      "location": 2,
+      "content": "然后到9月份又发布了呃",
+      "music": 0.0
+    },
+    {
+      "from": 174.26,
+      "to": 176.39,
+      "sid": 71,
+      "location": 2,
+      "content": "就中等尺寸是比的开源模型",
+      "music": 0.0
+    },
+    {
+      "from": 176.39,
+      "to": 178.75,
+      "sid": 72,
+      "location": 2,
+      "content": "并且升级了整个的开源工具链",
+      "music": 0.0
+    },
+    {
+      "from": 178.75,
+      "to": 180.97,
+      "sid": 73,
+      "location": 2,
+      "content": "那今年1月17号呃",
+      "music": 0.0
+    },
+    {
+      "from": 180.97,
+      "to": 182.5,
+      "sid": 74,
+      "location": 2,
+      "content": "英特尔M2是正式的开源",
+      "music": 0.0
+    },
+    {
+      "from": 182.5,
+      "to": 184.15,
+      "sid": 75,
+      "location": 2,
+      "content": "那相比于第一代模型",
+      "music": 0.0
+    },
+    {
+      "from": 184.15,
+      "to": 186.3,
+      "sid": 76,
+      "location": 2,
+      "content": "英特尔M2有了非常大的一个提升",
+      "music": 0.0
+    },
+    {
+      "from": 186.3,
+      "to": 188.82,
+      "sid": 77,
+      "location": 2,
+      "content": "那也能够去解决更多的一些",
+      "music": 0.0
+    },
+    {
+      "from": 188.82,
+      "to": 192.6,
+      "sid": 78,
+      "location": 2,
+      "content": "这种真实的一些问题和复杂的一些场景",
+      "music": 0.0
+    },
+    {
+      "from": 193.56,
+      "to": 195.11,
+      "sid": 79,
+      "location": 2,
+      "content": "啊书上普于2.0",
+      "music": 0.0
+    },
+    {
+      "from": 195.11,
+      "to": 197.36,
+      "sid": 80,
+      "location": 2,
+      "content": "它其实面向不同的使用需求",
+      "music": 0.0
+    },
+    {
+      "from": 197.36,
+      "to": 199.7,
+      "sid": 81,
+      "location": 2,
+      "content": "我们有不同尺寸的模型",
+      "music": 0.0
+    },
+    {
+      "from": 199.7,
+      "to": 202.35,
+      "sid": 82,
+      "location": 2,
+      "content": "以及说有不同类型的模型啊",
+      "music": 0.0
+    },
+    {
+      "from": 202.35,
+      "to": 205.62,
+      "sid": 83,
+      "location": 2,
+      "content": "那我们提供了7B这样的一个轻量级的模型",
+      "music": 0.0
+    },
+    {
+      "from": 205.62,
+      "to": 208.56,
+      "sid": 84,
+      "location": 2,
+      "content": "它其实可以为比如说轻量级的研究和应用",
+      "music": 0.0
+    },
+    {
+      "from": 208.56,
+      "to": 209.58,
+      "sid": 85,
+      "location": 2,
+      "content": "来去呃",
+      "music": 0.0
+    },
+    {
+      "from": 209.58,
+      "to": 212.04,
+      "sid": 86,
+      "location": 2,
+      "content": "有一个呃就相对而言比较便宜",
+      "music": 0.0
+    },
+    {
+      "from": 212.04,
+      "to": 214.44,
+      "sid": 87,
+      "location": 2,
+      "content": "并且性能也还过得去",
+      "music": 0.0
+    },
+    {
+      "from": 214.44,
+      "to": 215.79,
+      "sid": 88,
+      "location": 2,
+      "content": "也还不错的模型",
+      "music": 0.0
+    },
+    {
+      "from": 215.79,
+      "to": 219.33,
+      "sid": 89,
+      "location": 2,
+      "content": "那同时的话我们也有了20B这样的一个综合",
+      "music": 0.0
+    },
+    {
+      "from": 219.33,
+      "to": 220.29,
+      "sid": 90,
+      "location": 2,
+      "content": "性能更强",
+      "music": 0.0
+    },
+    {
+      "from": 220.29,
+      "to": 223.29,
+      "sid": 91,
+      "location": 2,
+      "content": "能够去支持更加复杂的一些这种啊",
+      "music": 0.0
+    },
+    {
+      "from": 223.29,
+      "to": 224.55,
+      "sid": 92,
+      "location": 2,
+      "content": "实实际的场景",
+      "music": 0.0
+    },
+    {
+      "from": 224.55,
+      "to": 226.14,
+      "sid": 93,
+      "location": 2,
+      "content": "这样的一个重量级的模型",
+      "music": 0.0
+    },
+    {
+      "from": 226.14,
+      "to": 228.58,
+      "sid": 94,
+      "location": 2,
+      "content": "那对于每一个尺寸的模型",
+      "music": 0.0
+    },
+    {
+      "from": 228.58,
+      "to": 230.71,
+      "sid": 95,
+      "location": 2,
+      "content": "其实我们都包含了intimal base",
+      "music": 0.0
+    },
+    {
+      "from": 230.71,
+      "to": 231.58,
+      "sid": 96,
+      "location": 2,
+      "content": "Inte2",
+      "music": 0.0
+    },
+    {
+      "from": 231.58,
+      "to": 234.76,
+      "sid": 97,
+      "location": 2,
+      "content": "还有英特尔chat这样的不同的三个模型",
+      "music": 0.0
+    },
+    {
+      "from": 234.76,
+      "to": 238.36,
+      "sid": 98,
+      "location": 2,
+      "content": "就其中英特尔base它其实是这种高质量的",
+      "music": 0.0
+    },
+    {
+      "from": 238.36,
+      "to": 240.66,
+      "sid": 99,
+      "location": 2,
+      "content": "具有很强可塑性的一个模型基座",
+      "music": 0.0
+    },
+    {
+      "from": 240.66,
+      "to": 243.08,
+      "sid": 100,
+      "location": 2,
+      "content": "那在它的基础之上",
+      "music": 0.0
+    },
+    {
+      "from": 243.08,
+      "to": 245.93,
+      "sid": 101,
+      "location": 2,
+      "content": "我们在多个能力方向上去进行了强化",
+      "music": 0.0
+    },
+    {
+      "from": 245.93,
+      "to": 249.16,
+      "sid": 102,
+      "location": 2,
+      "content": "那可以取得非常不错的一些评测成绩",
+      "music": 0.0
+    },
+    {
+      "from": 249.16,
+      "to": 251.2,
+      "sid": 103,
+      "location": 2,
+      "content": "和通用的语言能力啊",
+      "music": 0.0
+    },
+    {
+      "from": 251.2,
+      "to": 252.94,
+      "sid": 104,
+      "location": 2,
+      "content": "这就是我们英特尔的模型",
+      "music": 0.0
+    },
+    {
+      "from": 252.94,
+      "to": 254.14,
+      "sid": 105,
+      "location": 2,
+      "content": "我们也推荐大家",
+      "music": 0.0
+    },
+    {
+      "from": 254.14,
+      "to": 256.18,
+      "sid": 106,
+      "location": 2,
+      "content": "其实可以基于英特尔这样的一个模型",
+      "music": 0.0
+    },
+    {
+      "from": 256.18,
+      "to": 258.55,
+      "sid": 107,
+      "location": 2,
+      "content": "去做下一步下游进一步的微调",
+      "music": 0.0
+    },
+    {
+      "from": 258.55,
+      "to": 259.63,
+      "sid": 108,
+      "location": 2,
+      "content": "那与此同时",
+      "music": 0.0
+    },
+    {
+      "from": 259.63,
+      "to": 261.97,
+      "sid": 109,
+      "location": 2,
+      "content": "我们也有INTEMARCHAT这样的一个",
+      "music": 0.0
+    },
+    {
+      "from": 261.97,
+      "to": 264.439,
+      "sid": 110,
+      "location": 2,
+      "content": "在base模型上的基础之上",
+      "music": 0.0
+    },
+    {
+      "from": 264.439,
+      "to": 264.679,
+      "sid": 111,
+      "location": 2,
+      "content": "来",
+      "music": 0.0
+    },
+    {
+      "from": 264.679,
+      "to": 267.289,
+      "sid": 112,
+      "location": 2,
+      "content": "去经过sf和IHF",
+      "music": 0.0
+    },
+    {
+      "from": 267.289,
+      "to": 270.18,
+      "sid": 113,
+      "location": 2,
+      "content": "来去面向对话交互进行优化的模型",
+      "music": 0.0
+    },
+    {
+      "from": 270.18,
+      "to": 273.18,
+      "sid": 114,
+      "location": 2,
+      "content": "那intel chat其实它是一个具有很好的指令",
+      "music": 0.0
+    },
+    {
+      "from": 273.18,
+      "to": 274.2,
+      "sid": 115,
+      "location": 2,
+      "content": "遵循共情",
+      "music": 0.0
+    },
+    {
+      "from": 274.2,
+      "to": 276.76,
+      "sid": 116,
+      "location": 2,
+      "content": "聊天和调用工具这样的一些能力的模型",
+      "music": 0.0
+    },
+    {
+      "from": 276.76,
+      "to": 277.33,
+      "sid": 117,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 277.33,
+      "to": 277.9,
+      "sid": 118,
+      "location": 2,
+      "content": "所以的话",
+      "music": 0.0
+    },
+    {
+      "from": 277.9,
+      "to": 280.93,
+      "sid": 119,
+      "location": 2,
+      "content": "我们把这所有的模型都面向社区去做了开源",
+      "music": 0.0
+    },
+    {
+      "from": 280.93,
+      "to": 284.44,
+      "sid": 120,
+      "location": 2,
+      "content": "而用户也可以根据自己的实际场景和需求",
+      "music": 0.0
+    },
+    {
+      "from": 284.44,
+      "to": 286.12,
+      "sid": 121,
+      "location": 2,
+      "content": "来去选用",
+      "music": 0.0
+    },
+    {
+      "from": 287.22,
+      "to": 288.38,
+      "sid": 122,
+      "location": 2,
+      "content": "那英特尔M2的话",
+      "music": 0.0
+    },
+    {
+      "from": 288.38,
+      "to": 290.21,
+      "sid": 123,
+      "location": 2,
+      "content": "我们到底做了些什么事情呢",
+      "music": 0.0
+    },
+    {
+      "from": 290.21,
+      "to": 294.78,
+      "sid": 124,
+      "location": 2,
+      "content": "呃就英特尔其实啊我们最主要的一个呃初心",
+      "music": 0.0
+    },
+    {
+      "from": 294.78,
+      "to": 297.66,
+      "sid": 125,
+      "location": 2,
+      "content": "其实就是回归语言建模的本质啊",
+      "music": 0.0
+    },
+    {
+      "from": 297.66,
+      "to": 298.87,
+      "sid": 126,
+      "location": 2,
+      "content": "我们都知道呃",
+      "music": 0.0
+    },
+    {
+      "from": 298.87,
+      "to": 302.44,
+      "sid": 127,
+      "location": 2,
+      "content": "大模型它本质上其实是在做语言建模这件事情",
+      "music": 0.0
+    },
+    {
+      "from": 302.44,
+      "to": 305.77,
+      "sid": 128,
+      "location": 2,
+      "content": "也就是说我们能够通过给定的context",
+      "music": 0.0
+    },
+    {
+      "from": 305.77,
+      "to": 307.62,
+      "sid": 129,
+      "location": 2,
+      "content": "然后去预测接下来的token",
+      "music": 0.0
+    },
+    {
+      "from": 307.62,
+      "to": 311.43,
+      "sid": 130,
+      "location": 2,
+      "content": "那这里面的话其实最关键的就是我们要去呃",
+      "music": 0.0
+    },
+    {
+      "from": 311.43,
+      "to": 314.639,
+      "sid": 131,
+      "location": 2,
+      "content": "有想就高质量的这种语料",
+      "music": 0.0
+    },
+    {
+      "from": 314.639,
+      "to": 320.27,
+      "sid": 132,
+      "location": 2,
+      "content": "然后让模型能够去学会就更好的这种建模能力",
+      "music": 0.0
+    },
+    {
+      "from": 320.67,
+      "to": 324.65,
+      "sid": 133,
+      "location": 2,
+      "content": "那我们呃通过新一代的数据清洗过滤技术啊",
+      "music": 0.0
+    },
+    {
+      "from": 324.65,
+      "to": 327.7,
+      "sid": 134,
+      "location": 2,
+      "content": "那里面包括了像多维度的数据价值评估",
+      "music": 0.0
+    },
+    {
+      "from": 327.7,
+      "to": 331.0,
+      "sid": 135,
+      "location": 2,
+      "content": "我们基于不同的一些这种呃讲文本质量",
+      "music": 0.0
+    },
+    {
+      "from": 331.0,
+      "to": 331.66,
+      "sid": 136,
+      "location": 2,
+      "content": "信息质量",
+      "music": 0.0
+    },
+    {
+      "from": 331.66,
+      "to": 332.35,
+      "sid": 137,
+      "location": 2,
+      "content": "信息密度",
+      "music": 0.0
+    },
+    {
+      "from": 332.35,
+      "to": 333.52,
+      "sid": 138,
+      "location": 2,
+      "content": "这样的不同的维度",
+      "music": 0.0
+    },
+    {
+      "from": 333.52,
+      "to": 336.94,
+      "sid": 139,
+      "location": 2,
+      "content": "来去对数据价值进行了一个综合的评估和提升",
+      "music": 0.0
+    },
+    {
+      "from": 336.94,
+      "to": 341.02,
+      "sid": 140,
+      "location": 2,
+      "content": "那同时我们也呃通过高质量的语料驱动的",
+      "music": 0.0
+    },
+    {
+      "from": 341.02,
+      "to": 341.62,
+      "sid": 141,
+      "location": 2,
+      "content": "这种数据",
+      "music": 0.0
+    },
+    {
+      "from": 341.62,
+      "to": 342.64,
+      "sid": 142,
+      "location": 2,
+      "content": "负极的方式",
+      "music": 0.0
+    },
+    {
+      "from": 342.64,
+      "to": 343.06,
+      "sid": 143,
+      "location": 2,
+      "content": "来",
+      "music": 0.0
+    },
+    {
+      "from": 343.06,
+      "to": 346.74,
+      "sid": 144,
+      "location": 2,
+      "content": "从互联网上以及说语料库里面去进一步的复习",
+      "music": 0.0
+    },
+    {
+      "from": 346.74,
+      "to": 348.22,
+      "sid": 145,
+      "location": 2,
+      "content": "更多的类似的语料",
+      "music": 0.0
+    },
+    {
+      "from": 348.22,
+      "to": 352.0,
+      "sid": 146,
+      "location": 2,
+      "content": "同时我们也针对性的去做了一些新数据的补齐",
+      "music": 0.0
+    },
+    {
+      "from": 352.0,
+      "to": 354.91,
+      "sid": 147,
+      "location": 2,
+      "content": "来去加强包括模型在世界知识",
+      "music": 0.0
+    },
+    {
+      "from": 354.91,
+      "to": 357.7,
+      "sid": 148,
+      "location": 2,
+      "content": "梳理代码等等核心能力上面的呃",
+      "music": 0.0
+    },
+    {
+      "from": 357.7,
+      "to": 359.94,
+      "sid": 149,
+      "location": 2,
+      "content": "就存在的一些差异",
+      "music": 0.0
+    },
+    {
+      "from": 360.34,
+      "to": 363.3,
+      "sid": 150,
+      "location": 2,
+      "content": "那下面左边这张图其实是说初代的",
+      "music": 0.0
+    },
+    {
+      "from": 363.3,
+      "to": 364.14,
+      "sid": 151,
+      "location": 2,
+      "content": "就英特尔",
+      "music": 0.0
+    },
+    {
+      "from": 364.14,
+      "to": 366.049,
+      "sid": 152,
+      "location": 2,
+      "content": "英特尔一和INTEM2",
+      "music": 0.0
+    },
+    {
+      "from": 366.049,
+      "to": 368.749,
+      "sid": 153,
+      "location": 2,
+      "content": "他们在大规模的这种高质量验证语调上面",
+      "music": 0.0
+    },
+    {
+      "from": 368.749,
+      "to": 370.41,
+      "sid": 154,
+      "location": 2,
+      "content": "loss分布呃",
+      "music": 0.0
+    },
+    {
+      "from": 370.41,
+      "to": 374.09,
+      "sid": 155,
+      "location": 2,
+      "content": "我们可以看到就英特尔的这种呃基座模型",
+      "music": 0.0
+    },
+    {
+      "from": 374.09,
+      "to": 375.59,
+      "sid": 156,
+      "location": 2,
+      "content": "它整体的啊",
+      "music": 0.0
+    },
+    {
+      "from": 375.59,
+      "to": 380.02,
+      "sid": 157,
+      "location": 2,
+      "content": "这种分布其实是呃就往相当相当于是说在左翼",
+      "music": 0.0
+    },
+    {
+      "from": 380.02,
+      "to": 381.58,
+      "sid": 158,
+      "location": 2,
+      "content": "其实这个也是说明了",
+      "music": 0.0
+    },
+    {
+      "from": 381.58,
+      "to": 386.11,
+      "sid": 159,
+      "location": 2,
+      "content": "他确实语言建模的能力是比初代要强很多的",
+      "music": 0.0
+    },
+    {
+      "from": 386.11,
+      "to": 388.75,
+      "sid": 160,
+      "location": 2,
+      "content": "那右边的话其实也有一个更直观的对比",
+      "music": 0.0
+    },
+    {
+      "from": 388.75,
+      "to": 392.05,
+      "sid": 161,
+      "location": 2,
+      "content": "就是说呃我们随着训练数据的升级",
+      "music": 0.0
+    },
+    {
+      "from": 392.05,
+      "to": 394.3,
+      "sid": 162,
+      "location": 2,
+      "content": "就每一代训练数据的升级",
+      "music": 0.0
+    },
+    {
+      "from": 394.3,
+      "to": 397.77,
+      "sid": 163,
+      "location": 2,
+      "content": "下游任务的性能其实也在不断的去进行提升",
+      "music": 0.0
+    },
+    {
+      "from": 397.77,
+      "to": 400.17,
+      "sid": 164,
+      "location": 2,
+      "content": "我们可以采用更少的语料",
+      "music": 0.0
+    },
+    {
+      "from": 400.17,
+      "to": 403.32,
+      "sid": 165,
+      "location": 2,
+      "content": "就能够达到和上一代这种数据呃",
+      "music": 0.0
+    },
+    {
+      "from": 403.32,
+      "to": 405.36,
+      "sid": 166,
+      "location": 2,
+      "content": "或者上一代语料相同的效果",
+      "music": 0.0
+    },
+    {
+      "from": 405.36,
+      "to": 407.25,
+      "sid": 167,
+      "location": 2,
+      "content": "或者说我们随着语调提升",
+      "music": 0.0
+    },
+    {
+      "from": 407.25,
+      "to": 411.17,
+      "sid": 168,
+      "location": 2,
+      "content": "整体的下游任务性能是在不断增强",
+      "music": 0.0
+    },
+    {
+      "from": 411.81,
+      "to": 413.03,
+      "sid": 169,
+      "location": 2,
+      "content": "书上普于2.0",
+      "music": 0.0
+    },
+    {
+      "from": 413.03,
+      "to": 414.98,
+      "sid": 170,
+      "location": 2,
+      "content": "它其实有这样几个主要亮点",
+      "music": 0.0
+    },
+    {
+      "from": 414.98,
+      "to": 418.62,
+      "sid": 171,
+      "location": 2,
+      "content": "首先第一个是具备超长的上下文的能力",
+      "music": 0.0
+    },
+    {
+      "from": 418.62,
+      "to": 419.25,
+      "sid": 172,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 419.25,
+      "to": 420.66,
+      "sid": 173,
+      "location": 2,
+      "content": "在1月份发布的时候",
+      "music": 0.0
+    },
+    {
+      "from": 420.66,
+      "to": 422.28,
+      "sid": 174,
+      "location": 2,
+      "content": "我们就已经支持了呃",
+      "music": 0.0
+    },
+    {
+      "from": 422.28,
+      "to": 426.159,
+      "sid": 175,
+      "location": 2,
+      "content": "200000token上面的一个呃长度也就200K",
+      "music": 0.0
+    },
+    {
+      "from": 426.159,
+      "to": 430.38,
+      "sid": 176,
+      "location": 2,
+      "content": "它可以实现比较完美的大海捞针的测试呃",
+      "music": 0.0
+    },
+    {
+      "from": 430.38,
+      "to": 432.87,
+      "sid": 177,
+      "location": 2,
+      "content": "并且它的综合性能也得到了全面提升",
+      "music": 0.0
+    },
+    {
+      "from": 432.87,
+      "to": 435.25,
+      "sid": 178,
+      "location": 2,
+      "content": "包括像推理数学代码等等",
+      "music": 0.0
+    },
+    {
+      "from": 435.25,
+      "to": 437.65,
+      "sid": 179,
+      "location": 2,
+      "content": "它我们在20B的模型",
+      "music": 0.0
+    },
+    {
+      "from": 437.65,
+      "to": 441.36,
+      "sid": 180,
+      "location": 2,
+      "content": "在重点的评测上面是可以比肩7GP的",
+      "music": 0.0
+    },
+    {
+      "from": 441.76,
+      "to": 444.84,
+      "sid": 181,
+      "location": 2,
+      "content": "那我们也有着非常优秀的对话和创作体验",
+      "music": 0.0
+    },
+    {
+      "from": 444.84,
+      "to": 447.2,
+      "sid": 182,
+      "location": 2,
+      "content": "像呃指定遵循的能力",
+      "music": 0.0
+    },
+    {
+      "from": 447.2,
+      "to": 449.87,
+      "sid": 183,
+      "location": 2,
+      "content": "然后结构化创作能力都是非常不错",
+      "music": 0.0
+    },
+    {
+      "from": 449.87,
+      "to": 451.49,
+      "sid": 184,
+      "location": 2,
+      "content": "在像APAA1V二",
+      "music": 0.0
+    },
+    {
+      "from": 451.49,
+      "to": 456.07,
+      "sid": 185,
+      "location": 2,
+      "content": "还上面是超过了GP3.5和germini pro",
+      "music": 0.0
+    },
+    {
+      "from": 456.07,
+      "to": 459.1,
+      "sid": 186,
+      "location": 2,
+      "content": "并且工具调用的能力也得到了整体的升级",
+      "music": 0.0
+    },
+    {
+      "from": 459.1,
+      "to": 463.24,
+      "sid": 187,
+      "location": 2,
+      "content": "可以去呃做可靠的可靠的支持工具的多能调用",
+      "music": 0.0
+    },
+    {
+      "from": 463.24,
+      "to": 465.63,
+      "sid": 188,
+      "location": 2,
+      "content": "能够去搭建复杂的智能体",
+      "music": 0.0
+    },
+    {
+      "from": 465.63,
+      "to": 468.09,
+      "sid": 189,
+      "location": 2,
+      "content": "那同时的话也有很突出的数理能力",
+      "music": 0.0
+    },
+    {
+      "from": 468.09,
+      "to": 469.71,
+      "sid": 190,
+      "location": 2,
+      "content": "和使用的数据分析的功能",
+      "music": 0.0
+    },
+    {
+      "from": 469.71,
+      "to": 473.22,
+      "sid": 191,
+      "location": 2,
+      "content": "我们模型是强化了它的内生计算能力",
+      "music": 0.0
+    },
+    {
+      "from": 473.22,
+      "to": 473.88,
+      "sid": 192,
+      "location": 2,
+      "content": "也就是说",
+      "music": 0.0
+    },
+    {
+      "from": 473.88,
+      "to": 477.62,
+      "sid": 193,
+      "location": 2,
+      "content": "它不借助任何的外部工具或者计算器的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 477.62,
+      "to": 481.39,
+      "sid": 194,
+      "location": 2,
+      "content": "也能够有着比较准确的一个计算的能力",
+      "music": 0.0
+    },
+    {
+      "from": 481.39,
+      "to": 483.58,
+      "sid": 195,
+      "location": 2,
+      "content": "那通过加入代码解释器",
+      "music": 0.0
+    },
+    {
+      "from": 483.58,
+      "to": 487.3,
+      "sid": 196,
+      "location": 2,
+      "content": "我们再像JS8K和max这种数学的评测集上",
+      "music": 0.0
+    },
+    {
+      "from": 487.3,
+      "to": 490.17,
+      "sid": 197,
+      "location": 2,
+      "content": "就可以达到和GP4相仿的水平啊",
+      "music": 0.0
+    },
+    {
+      "from": 490.17,
+      "to": 493.04,
+      "sid": 198,
+      "location": 2,
+      "content": "当然这只是一个20B的模型",
+      "music": 0.0
+    },
+    {
+      "from": 493.92,
+      "to": 496.4,
+      "sid": 199,
+      "location": 2,
+      "content": "那这边的话是对它的一个性能",
+      "music": 0.0
+    },
+    {
+      "from": 496.4,
+      "to": 498.12,
+      "sid": 200,
+      "location": 2,
+      "content": "有一个简单的一个阐述",
+      "music": 0.0
+    },
+    {
+      "from": 498.12,
+      "to": 501.0,
+      "sid": 201,
+      "location": 2,
+      "content": "我们可以看到就在各个能力维度这边",
+      "music": 0.0
+    },
+    {
+      "from": 501.0,
+      "to": 504.18,
+      "sid": 202,
+      "location": 2,
+      "content": "比如说像考试语言知识推理数学代码",
+      "music": 0.0
+    },
+    {
+      "from": 504.18,
+      "to": 507.06,
+      "sid": 203,
+      "location": 2,
+      "content": "其实它都是有呃多个数据集",
+      "music": 0.0
+    },
+    {
+      "from": 507.06,
+      "to": 510.63,
+      "sid": 204,
+      "location": 2,
+      "content": "多个开源数据集的一个综合性的一个评测结果",
+      "music": 0.0
+    },
+    {
+      "from": 510.63,
+      "to": 513.55,
+      "sid": 205,
+      "location": 2,
+      "content": "那我们总共呃是测了呃",
+      "music": 0.0
+    },
+    {
+      "from": 513.55,
+      "to": 515.32,
+      "sid": 206,
+      "location": 2,
+      "content": "四五十个这种开源的数据集",
+      "music": 0.0
+    },
+    {
+      "from": 515.32,
+      "to": 518.08,
+      "sid": 207,
+      "location": 2,
+      "content": "然后根据这些维度去算的一个平均分",
+      "music": 0.0
+    },
+    {
+      "from": 518.08,
+      "to": 523.03,
+      "sid": 208,
+      "location": 2,
+      "content": "我们可以看到呃在呃像推理数学代码等等方面",
+      "music": 0.0
+    },
+    {
+      "from": 523.03,
+      "to": 525.82,
+      "sid": 209,
+      "location": 2,
+      "content": "而INTEL的提升其实是非常大的",
+      "music": 0.0
+    },
+    {
+      "from": 525.82,
+      "to": 526.6,
+      "sid": 210,
+      "location": 2,
+      "content": "综合的性能",
+      "music": 0.0
+    },
+    {
+      "from": 526.6,
+      "to": 529.38,
+      "sid": 211,
+      "location": 2,
+      "content": "也达到了同量级的开源模型的领先水平",
+      "music": 0.0
+    },
+    {
+      "from": 529.38,
+      "to": 531.48,
+      "sid": 212,
+      "location": 2,
+      "content": "在一些重点能力评测上面",
+      "music": 0.0
+    },
+    {
+      "from": 531.48,
+      "to": 533.07,
+      "sid": 213,
+      "location": 2,
+      "content": "像我们20B的模型",
+      "music": 0.0
+    },
+    {
+      "from": 533.07,
+      "to": 537.64,
+      "sid": 214,
+      "location": 2,
+      "content": "其实就已经可以比肩就gt3.5",
+      "music": 0.0
+    },
+    {
+      "from": 538.7,
+      "to": 542.8,
+      "sid": 215,
+      "location": 2,
+      "content": "那这边的话呃会给大家一些简单的例子",
+      "music": 0.0
+    },
+    {
+      "from": 542.8,
+      "to": 547.16,
+      "sid": 216,
+      "location": 2,
+      "content": "比如说嗯就我们模型可以扮演一个就贴心",
+      "music": 0.0
+    },
+    {
+      "from": 547.16,
+      "to": 548.57,
+      "sid": 217,
+      "location": 2,
+      "content": "可靠的这种AI助手",
+      "music": 0.0
+    },
+    {
+      "from": 548.57,
+      "to": 550.19,
+      "sid": 218,
+      "location": 2,
+      "content": "让他去规划一下",
+      "music": 0.0
+    },
+    {
+      "from": 550.19,
+      "to": 552.8,
+      "sid": 219,
+      "location": 2,
+      "content": "安排一下三天的行程",
+      "music": 0.0
+    },
+    {
+      "from": 555.56,
+      "to": 557.8,
+      "sid": 220,
+      "location": 2,
+      "content": "我们可以看到模型整体写出来的",
+      "music": 0.0
+    },
+    {
+      "from": 557.8,
+      "to": 561.64,
+      "sid": 221,
+      "location": 2,
+      "content": "这样的一个规划都还是比较呃就比较丰富",
+      "music": 0.0
+    },
+    {
+      "from": 561.64,
+      "to": 564.599,
+      "sid": 222,
+      "location": 2,
+      "content": "并且也比较符合实际的一个情况",
+      "music": 0.0
+    },
+    {
+      "from": 565.45,
+      "to": 569.07,
+      "sid": 223,
+      "location": 2,
+      "content": "那他除了比如说去作为这种助手之外哦",
+      "music": 0.0
+    },
+    {
+      "from": 569.07,
+      "to": 571.53,
+      "sid": 224,
+      "location": 2,
+      "content": "模型其实还可以去给出",
+      "music": 0.0
+    },
+    {
+      "from": 571.53,
+      "to": 574.95,
+      "sid": 225,
+      "location": 2,
+      "content": "这种非常充充满人文关怀的对话啊",
+      "music": 0.0
+    },
+    {
+      "from": 574.95,
+      "to": 576.99,
+      "sid": 226,
+      "location": 2,
+      "content": "就我们可以看到很多的一些模型",
+      "music": 0.0
+    },
+    {
+      "from": 576.99,
+      "to": 579.93,
+      "sid": 227,
+      "location": 2,
+      "content": "其实它有着非常强的这种回复的一些风格",
+      "music": 0.0
+    },
+    {
+      "from": 579.93,
+      "to": 584.39,
+      "sid": 228,
+      "location": 2,
+      "content": "比如说呃它会就进行就列举",
+      "music": 0.0
+    },
+    {
+      "from": 584.39,
+      "to": 588.42,
+      "sid": 229,
+      "location": 2,
+      "content": "比如说首先其次最后或者123等等",
+      "music": 0.0
+    },
+    {
+      "from": 588.42,
+      "to": 590.88,
+      "sid": 230,
+      "location": 2,
+      "content": "它会容易去列列一些列表",
+      "music": 0.0
+    },
+    {
+      "from": 590.88,
+      "to": 594.66,
+      "sid": 231,
+      "location": 2,
+      "content": "那当我们的模型在遇到这种情感",
+      "music": 0.0
+    },
+    {
+      "from": 594.66,
+      "to": 595.74,
+      "sid": 232,
+      "location": 2,
+      "content": "相关的问题的时候",
+      "music": 0.0
+    },
+    {
+      "from": 595.74,
+      "to": 597.96,
+      "sid": 233,
+      "location": 2,
+      "content": "它其实就我们可以看到他的回复里面",
+      "music": 0.0
+    },
+    {
+      "from": 597.96,
+      "to": 600.29,
+      "sid": 234,
+      "location": 2,
+      "content": "是充满了人文关怀",
+      "music": 0.0
+    },
+    {
+      "from": 601.11,
+      "to": 604.61,
+      "sid": 235,
+      "location": 2,
+      "content": "同时他也可以去进行一些有想象力的创作",
+      "music": 0.0
+    },
+    {
+      "from": 604.61,
+      "to": 606.85,
+      "sid": 236,
+      "location": 2,
+      "content": "比如说我们让他去呃",
+      "music": 0.0
+    },
+    {
+      "from": 606.85,
+      "to": 609.76,
+      "sid": 237,
+      "location": 2,
+      "content": "就写一个流浪地球三的一个剧本啊",
+      "music": 0.0
+    },
+    {
+      "from": 609.76,
+      "to": 612.89,
+      "sid": 238,
+      "location": 2,
+      "content": "我们要求它的内容是跟前两部的是相关的",
+      "music": 0.0
+    },
+    {
+      "from": 612.89,
+      "to": 614.21,
+      "sid": 239,
+      "location": 2,
+      "content": "那我们可以看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 614.21,
+      "to": 615.34,
+      "sid": 240,
+      "location": 2,
+      "content": "模型也可以去",
+      "music": 0.0
+    },
+    {
+      "from": 615.34,
+      "to": 618.34,
+      "sid": 241,
+      "location": 2,
+      "content": "比如说写出接下来的一些剧情的创作",
+      "music": 0.0
+    },
+    {
+      "from": 618.34,
+      "to": 620.38,
+      "sid": 242,
+      "location": 2,
+      "content": "那这个对于模型的一个想象力",
+      "music": 0.0
+    },
+    {
+      "from": 620.38,
+      "to": 623.08,
+      "sid": 243,
+      "location": 2,
+      "content": "是有着比较大的挑战",
+      "music": 0.0
+    },
+    {
+      "from": 628.68,
+      "to": 632.48,
+      "sid": 244,
+      "location": 2,
+      "content": "同时我们也升级了啊英特尔的工具调用能力",
+      "music": 0.0
+    },
+    {
+      "from": 632.48,
+      "to": 636.06,
+      "sid": 245,
+      "location": 2,
+      "content": "那这边比如说呃也举一个例子",
+      "music": 0.0
+    },
+    {
+      "from": 636.82,
+      "to": 640.17,
+      "sid": 246,
+      "location": 2,
+      "content": "像我们可以告诉模型接下来要去参加",
+      "music": 0.0
+    },
+    {
+      "from": 640.17,
+      "to": 641.52,
+      "sid": 247,
+      "location": 2,
+      "content": "要要去参会",
+      "music": 0.0
+    },
+    {
+      "from": 641.52,
+      "to": 644.54,
+      "sid": 248,
+      "location": 2,
+      "content": "然后希望模型去做一些包括路线规划",
+      "music": 0.0
+    },
+    {
+      "from": 644.54,
+      "to": 647.84,
+      "sid": 249,
+      "location": 2,
+      "content": "然后一些这种啊就餐厅查查询",
+      "music": 0.0
+    },
+    {
+      "from": 647.84,
+      "to": 650.49,
+      "sid": 250,
+      "location": 2,
+      "content": "然后并且做一些邮件发送的任务",
+      "music": 0.0
+    },
+    {
+      "from": 650.49,
+      "to": 651.87,
+      "sid": 251,
+      "location": 2,
+      "content": "对我们可以看到模型",
+      "music": 0.0
+    },
+    {
+      "from": 651.87,
+      "to": 654.9,
+      "sid": 252,
+      "location": 2,
+      "content": "它是可以通过不同的这种工具的组合调用",
+      "music": 0.0
+    },
+    {
+      "from": 654.9,
+      "to": 658.76,
+      "sid": 253,
+      "location": 2,
+      "content": "然后来去完成这样的一个比较复杂的任务",
+      "music": 0.0
+    },
+    {
+      "from": 663.08,
+      "to": 663.88,
+      "sid": 254,
+      "location": 2,
+      "content": "英特尔M",
+      "music": 0.0
+    },
+    {
+      "from": 663.88,
+      "to": 665.98,
+      "sid": 255,
+      "location": 2,
+      "content": "它其实在这种计算能力上",
+      "music": 0.0
+    },
+    {
+      "from": 665.98,
+      "to": 667.77,
+      "sid": 256,
+      "location": 2,
+      "content": "也有着很大的一个增强",
+      "music": 0.0
+    },
+    {
+      "from": 667.77,
+      "to": 671.55,
+      "sid": 257,
+      "location": 2,
+      "content": "比如说这边我们去呃就问了一些四则运算",
+      "music": 0.0
+    },
+    {
+      "from": 671.55,
+      "to": 674.44,
+      "sid": 258,
+      "location": 2,
+      "content": "或者说一些简单数学计算的这样的一个例子",
+      "music": 0.0
+    },
+    {
+      "from": 674.44,
+      "to": 677.08,
+      "sid": 259,
+      "location": 2,
+      "content": "并且它可能都是这种多步的一个计算",
+      "music": 0.0
+    },
+    {
+      "from": 677.08,
+      "to": 680.02,
+      "sid": 260,
+      "location": 2,
+      "content": "我们可以看到模型对于这样的一些计算",
+      "music": 0.0
+    },
+    {
+      "from": 680.02,
+      "to": 682.06,
+      "sid": 261,
+      "location": 2,
+      "content": "都能够达到回答得比较准确",
+      "music": 0.0
+    },
+    {
+      "from": 682.06,
+      "to": 684.59,
+      "sid": 262,
+      "location": 2,
+      "content": "比如说100以内的这种数学运算",
+      "music": 0.0
+    },
+    {
+      "from": 684.59,
+      "to": 686.93,
+      "sid": 263,
+      "location": 2,
+      "content": "基本上是能够做到百分之百的准确率",
+      "music": 0.0
+    },
+    {
+      "from": 686.93,
+      "to": 689.57,
+      "sid": 264,
+      "location": 2,
+      "content": "然后1000以内的也可以达到80%左右的",
+      "music": 0.0
+    },
+    {
+      "from": 689.57,
+      "to": 691.26,
+      "sid": 265,
+      "location": 2,
+      "content": "一个运算准确率",
+      "music": 0.0
+    },
+    {
+      "from": 691.26,
+      "to": 694.08,
+      "sid": 266,
+      "location": 2,
+      "content": "并且他也可以去做一些比较复杂",
+      "music": 0.0
+    },
+    {
+      "from": 694.08,
+      "to": 696.11,
+      "sid": 267,
+      "location": 2,
+      "content": "这种数学题的运算和求解",
+      "music": 0.0
+    },
+    {
+      "from": 696.11,
+      "to": 697.43,
+      "sid": 268,
+      "location": 2,
+      "content": "比如说这边呃",
+      "music": 0.0
+    },
+    {
+      "from": 697.43,
+      "to": 701.97,
+      "sid": 269,
+      "location": 2,
+      "content": "他可能有一些这种呃像高中的一些题目",
+      "music": 0.0
+    },
+    {
+      "from": 702.31,
+      "to": 705.21,
+      "sid": 270,
+      "location": 2,
+      "content": "以及以及说像一些呃就大学的",
+      "music": 0.0
+    },
+    {
+      "from": 705.21,
+      "to": 707.43,
+      "sid": 271,
+      "location": 2,
+      "content": "比如说像微积分之类的一些题目",
+      "music": 0.0
+    },
+    {
+      "from": 707.43,
+      "to": 711.435,
+      "sid": 272,
+      "location": 2,
+      "content": "其实我们在测试过程中发现它也能够做对不少",
+      "music": 0.0
+    },
+    {
+      "from": 712.06,
+      "to": 715.5,
+      "sid": 273,
+      "location": 2,
+      "content": "那刚才其实都是模型内生的这种计算能力",
+      "music": 0.0
+    },
+    {
+      "from": 715.5,
+      "to": 716.73,
+      "sid": 274,
+      "location": 2,
+      "content": "或者说数学能力",
+      "music": 0.0
+    },
+    {
+      "from": 716.73,
+      "to": 720.33,
+      "sid": 275,
+      "location": 2,
+      "content": "那呃我们也知道大模型它的计算能力",
+      "music": 0.0
+    },
+    {
+      "from": 720.33,
+      "to": 722.19,
+      "sid": 276,
+      "location": 2,
+      "content": "在有的时候可能不太可靠",
+      "music": 0.0
+    },
+    {
+      "from": 722.19,
+      "to": 723.33,
+      "sid": 277,
+      "location": 2,
+      "content": "来借助这种",
+      "music": 0.0
+    },
+    {
+      "from": 723.33,
+      "to": 725.2,
+      "sid": 278,
+      "location": 2,
+      "content": "比如说代码解释器呃",
+      "music": 0.0
+    },
+    {
+      "from": 725.2,
+      "to": 726.73,
+      "sid": 279,
+      "location": 2,
+      "content": "我们就可以在",
+      "music": 0.0
+    },
+    {
+      "from": 726.73,
+      "to": 730.98,
+      "sid": 280,
+      "location": 2,
+      "content": "就进一步的来去提升他的数学的一个成绩",
+      "music": 0.0
+    },
+    {
+      "from": 731.44,
+      "to": 735.42,
+      "sid": 281,
+      "location": 2,
+      "content": "比如说JS8K和max都是目前比较呃",
+      "music": 0.0
+    },
+    {
+      "from": 735.42,
+      "to": 738.99,
+      "sid": 282,
+      "location": 2,
+      "content": "就使用使用比较广泛的两个数学测试集",
+      "music": 0.0
+    },
+    {
+      "from": 738.99,
+      "to": 740.55,
+      "sid": 283,
+      "location": 2,
+      "content": "我们可以看到呃",
+      "music": 0.0
+    },
+    {
+      "from": 740.55,
+      "to": 742.65,
+      "sid": 284,
+      "location": 2,
+      "content": "in time2单纯依靠模型的能力",
+      "music": 0.0
+    },
+    {
+      "from": 742.65,
+      "to": 744.87,
+      "sid": 285,
+      "location": 2,
+      "content": "它就已经能够获得很高的分数",
+      "music": 0.0
+    },
+    {
+      "from": 744.87,
+      "to": 747.02,
+      "sid": 286,
+      "location": 2,
+      "content": "当它配合代码解释器之后",
+      "music": 0.0
+    },
+    {
+      "from": 747.02,
+      "to": 750.02,
+      "sid": 287,
+      "location": 2,
+      "content": "其实就能够有进一步的这种大幅的提高",
+      "music": 0.0
+    },
+    {
+      "from": 750.02,
+      "to": 751.04,
+      "sid": 288,
+      "location": 2,
+      "content": "比如说像max",
+      "music": 0.0
+    },
+    {
+      "from": 751.04,
+      "to": 753.88,
+      "sid": 289,
+      "location": 2,
+      "content": "它从32.5提升到了51.2",
+      "music": 0.0
+    },
+    {
+      "from": 753.88,
+      "to": 756.97,
+      "sid": 290,
+      "location": 2,
+      "content": "甚至是说能够超过gt4的表现",
+      "music": 0.0
+    },
+    {
+      "from": 756.97,
+      "to": 758.53,
+      "sid": 291,
+      "location": 2,
+      "content": "那比如说呃",
+      "music": 0.0
+    },
+    {
+      "from": 758.53,
+      "to": 761.29,
+      "sid": 292,
+      "location": 2,
+      "content": "像右边我们给了一道这种微积分的例子啊",
+      "music": 0.0
+    },
+    {
+      "from": 761.29,
+      "to": 763.39,
+      "sid": 293,
+      "location": 2,
+      "content": "那我们来去问模型",
+      "music": 0.0
+    },
+    {
+      "from": 763.39,
+      "to": 765.46,
+      "sid": 294,
+      "location": 2,
+      "content": "然后模型首先会进行一些分析",
+      "music": 0.0
+    },
+    {
+      "from": 765.46,
+      "to": 769.0,
+      "sid": 295,
+      "location": 2,
+      "content": "然后接下来可能就通过这种呃撰写代码",
+      "music": 0.0
+    },
+    {
+      "from": 769.0,
+      "to": 770.23,
+      "sid": 296,
+      "location": 2,
+      "content": "然后去执行代码",
+      "music": 0.0
+    },
+    {
+      "from": 770.23,
+      "to": 772.96,
+      "sid": 297,
+      "location": 2,
+      "content": "得到最终的一个结果",
+      "music": 0.0
+    },
+    {
+      "from": 773.98,
+      "to": 776.58,
+      "sid": 298,
+      "location": 2,
+      "content": "同时的话模型也有一些比较实用的",
+      "music": 0.0
+    },
+    {
+      "from": 776.58,
+      "to": 778.65,
+      "sid": 299,
+      "location": 2,
+      "content": "这种数据分析的功能",
+      "music": 0.0
+    },
+    {
+      "from": 778.93,
+      "to": 781.71,
+      "sid": 300,
+      "location": 2,
+      "content": "比如说我们可以去呃上传一张表格",
+      "music": 0.0
+    },
+    {
+      "from": 781.71,
+      "to": 784.77,
+      "sid": 301,
+      "location": 2,
+      "content": "然后让模型去帮忙嗯",
+      "music": 0.0
+    },
+    {
+      "from": 784.77,
+      "to": 787.27,
+      "sid": 302,
+      "location": 2,
+      "content": "就就看一下表格文件",
+      "music": 0.0
+    },
+    {
+      "from": 787.27,
+      "to": 790.39,
+      "sid": 303,
+      "location": 2,
+      "content": "那模型可能通过一些这种代码的撰写",
+      "music": 0.0
+    },
+    {
+      "from": 790.39,
+      "to": 794.85,
+      "sid": 304,
+      "location": 2,
+      "content": "然后去把这种表格就读进来",
+      "music": 0.0
+    },
+    {
+      "from": 795.25,
+      "to": 798.23,
+      "sid": 305,
+      "location": 2,
+      "content": "然后去做一个简单的一个呃就概述",
+      "music": 0.0
+    },
+    {
+      "from": 798.23,
+      "to": 801.71,
+      "sid": 306,
+      "location": 2,
+      "content": "那接下来的话可能我们会要求模型去啊",
+      "music": 0.0
+    },
+    {
+      "from": 801.71,
+      "to": 804.11,
+      "sid": 307,
+      "location": 2,
+      "content": "结合表格里面的数据来去画一些",
+      "music": 0.0
+    },
+    {
+      "from": 804.11,
+      "to": 807.05,
+      "sid": 308,
+      "location": 2,
+      "content": "比如说行业的发展趋势图",
+      "music": 0.0
+    },
+    {
+      "from": 808.22,
+      "to": 811.24,
+      "sid": 309,
+      "location": 2,
+      "content": "我们可以看到模型就可以通过这种",
+      "music": 0.0
+    },
+    {
+      "from": 811.24,
+      "to": 813.1,
+      "sid": 310,
+      "location": 2,
+      "content": "比如说去写代码",
+      "music": 0.0
+    },
+    {
+      "from": 813.1,
+      "to": 814.57,
+      "sid": 311,
+      "location": 2,
+      "content": "使用max pro lib",
+      "music": 0.0
+    },
+    {
+      "from": 814.57,
+      "to": 817.13,
+      "sid": 312,
+      "location": 2,
+      "content": "然后去画出这样的一些直线图",
+      "music": 0.0
+    },
+    {
+      "from": 819.3,
+      "to": 821.66,
+      "sid": 313,
+      "location": 2,
+      "content": "那进一步的我们还可以要求",
+      "music": 0.0
+    },
+    {
+      "from": 821.66,
+      "to": 824.17,
+      "sid": 314,
+      "location": 2,
+      "content": "比如说模型去使用一些机器学习的算法",
+      "music": 0.0
+    },
+    {
+      "from": 824.17,
+      "to": 825.01,
+      "sid": 315,
+      "location": 2,
+      "content": "那这边的话",
+      "music": 0.0
+    },
+    {
+      "from": 825.01,
+      "to": 826.69,
+      "sid": 316,
+      "location": 2,
+      "content": "比如说用一个线性的模型",
+      "music": 0.0
+    },
+    {
+      "from": 826.69,
+      "to": 829.28,
+      "sid": 317,
+      "location": 2,
+      "content": "来去做接下来的数据的预测",
+      "music": 0.0
+    },
+    {
+      "from": 829.28,
+      "to": 832.04,
+      "sid": 318,
+      "location": 2,
+      "content": "那模型就会去调用像SK",
+      "music": 0.0
+    },
+    {
+      "from": 832.04,
+      "to": 834.84,
+      "sid": 319,
+      "location": 2,
+      "content": "那这里面的一些就是线性模型",
+      "music": 0.0
+    },
+    {
+      "from": 834.84,
+      "to": 838.86,
+      "sid": 320,
+      "location": 2,
+      "content": "然后去完成这样的一个预测的工作",
+      "music": 0.0
+    },
+    {
+      "from": 839.62,
+      "to": 842.58,
+      "sid": 321,
+      "location": 2,
+      "content": "那刚才已经介绍了",
+      "music": 0.0
+    },
+    {
+      "from": 842.58,
+      "to": 845.34,
+      "sid": 322,
+      "location": 2,
+      "content": "就英特尔二整体的一个啊",
+      "music": 0.0
+    },
+    {
+      "from": 845.34,
+      "to": 849.11,
+      "sid": 323,
+      "location": 2,
+      "content": "就情况以及说相比于上一代模型的一些提升",
+      "music": 0.0
+    },
+    {
+      "from": 849.16,
+      "to": 851.68,
+      "sid": 324,
+      "location": 2,
+      "content": "那呃从模型到应用啊",
+      "music": 0.0
+    },
+    {
+      "from": 851.68,
+      "to": 854.43,
+      "sid": 325,
+      "location": 2,
+      "content": "比如说从我们有书生葡语的模型",
+      "music": 0.0
+    },
+    {
+      "from": 854.43,
+      "to": 858.12,
+      "sid": 326,
+      "location": 2,
+      "content": "那我们希望去呃就去构建",
+      "music": 0.0
+    },
+    {
+      "from": 858.12,
+      "to": 861.01,
+      "sid": 327,
+      "location": 2,
+      "content": "像比如说智能客服或者说个人助手",
+      "music": 0.0
+    },
+    {
+      "from": 861.01,
+      "to": 862.69,
+      "sid": 328,
+      "location": 2,
+      "content": "以及各种各样行业应用",
+      "music": 0.0
+    },
+    {
+      "from": 862.69,
+      "to": 866.11,
+      "sid": 329,
+      "location": 2,
+      "content": "那这个过程其实他也不是那么直接",
+      "music": 0.0
+    },
+    {
+      "from": 866.11,
+      "to": 869.47,
+      "sid": 330,
+      "location": 2,
+      "content": "或者说他其实需要经历过很多的经历",
+      "music": 0.0
+    },
+    {
+      "from": 869.47,
+      "to": 871.2,
+      "sid": 331,
+      "location": 2,
+      "content": "很多的一些这种环节",
+      "music": 0.0
+    },
+    {
+      "from": 871.2,
+      "to": 874.83,
+      "sid": 332,
+      "location": 2,
+      "content": "那具体啊这里面存在什么样的一些gap",
+      "music": 0.0
+    },
+    {
+      "from": 874.83,
+      "to": 876.94,
+      "sid": 333,
+      "location": 2,
+      "content": "我们可以做一个简单的分析",
+      "music": 0.0
+    },
+    {
+      "from": 876.94,
+      "to": 879.28,
+      "sid": 334,
+      "location": 2,
+      "content": "那从模型到最终的一个应用",
+      "music": 0.0
+    },
+    {
+      "from": 879.28,
+      "to": 880.39,
+      "sid": 335,
+      "location": 2,
+      "content": "它可能有一个",
+      "music": 0.0
+    },
+    {
+      "from": 880.39,
+      "to": 883.13,
+      "sid": 336,
+      "location": 2,
+      "content": "比如说这边列了一个比较典型的流程",
+      "music": 0.0
+    },
+    {
+      "from": 883.13,
+      "to": 884.48,
+      "sid": 337,
+      "location": 2,
+      "content": "那首先第一个",
+      "music": 0.0
+    },
+    {
+      "from": 884.48,
+      "to": 887.15,
+      "sid": 338,
+      "location": 2,
+      "content": "我们可能就需要去做模型的一个选型",
+      "music": 0.0
+    },
+    {
+      "from": 887.15,
+      "to": 890.92,
+      "sid": 339,
+      "location": 2,
+      "content": "那模型选型的过程可能是一个九模型",
+      "music": 0.0
+    },
+    {
+      "from": 890.92,
+      "to": 891.79,
+      "sid": 340,
+      "location": 2,
+      "content": "评测的过程",
+      "music": 0.0
+    },
+    {
+      "from": 891.79,
+      "to": 894.01,
+      "sid": 341,
+      "location": 2,
+      "content": "我们可能去看一下呃",
+      "music": 0.0
+    },
+    {
+      "from": 894.01,
+      "to": 896.45,
+      "sid": 342,
+      "location": 2,
+      "content": "就现在社区的各个不同的开源模型",
+      "music": 0.0
+    },
+    {
+      "from": 896.45,
+      "to": 899.0,
+      "sid": 343,
+      "location": 2,
+      "content": "他们在一些经典的评测集上",
+      "music": 0.0
+    },
+    {
+      "from": 899.0,
+      "to": 902.38,
+      "sid": 344,
+      "location": 2,
+      "content": "或者说在一些呃这种大规模的榜单上",
+      "music": 0.0
+    },
+    {
+      "from": 902.38,
+      "to": 903.46,
+      "sid": 345,
+      "location": 2,
+      "content": "整体的一个效果",
+      "music": 0.0
+    },
+    {
+      "from": 903.46,
+      "to": 905.38,
+      "sid": 346,
+      "location": 2,
+      "content": "然后我们可能去选其中一个",
+      "music": 0.0
+    },
+    {
+      "from": 905.38,
+      "to": 909.41,
+      "sid": 347,
+      "location": 2,
+      "content": "或者说选其中几个来去在业务场景里面去考虑",
+      "music": 0.0
+    },
+    {
+      "from": 909.41,
+      "to": 912.77,
+      "sid": 348,
+      "location": 2,
+      "content": "那呃选初步选选好模型之后",
+      "music": 0.0
+    },
+    {
+      "from": 912.77,
+      "to": 915.85,
+      "sid": 349,
+      "location": 2,
+      "content": "我们就会去考虑业务场景是否复杂",
+      "music": 0.0
+    },
+    {
+      "from": 915.85,
+      "to": 918.25,
+      "sid": 350,
+      "location": 2,
+      "content": "如果业务场景比如说是比较复杂",
+      "music": 0.0
+    },
+    {
+      "from": 918.25,
+      "to": 922.03,
+      "sid": 351,
+      "location": 2,
+      "content": "业务场景我们就可能去需要去对模型进行微调",
+      "music": 0.0
+    },
+    {
+      "from": 922.03,
+      "to": 923.29,
+      "sid": 352,
+      "location": 2,
+      "content": "那模型微调的话",
+      "music": 0.0
+    },
+    {
+      "from": 923.29,
+      "to": 924.61,
+      "sid": 353,
+      "location": 2,
+      "content": "我们需要进一步去考虑",
+      "music": 0.0
+    },
+    {
+      "from": 924.61,
+      "to": 927.67,
+      "sid": 354,
+      "location": 2,
+      "content": "我们目前的算力它是否足够呃",
+      "music": 0.0
+    },
+    {
+      "from": 927.67,
+      "to": 929.53,
+      "sid": 355,
+      "location": 2,
+      "content": "如果是比如说有充足的算力",
+      "music": 0.0
+    },
+    {
+      "from": 929.53,
+      "to": 932.17,
+      "sid": 356,
+      "location": 2,
+      "content": "我们就可以去进行模型的这种顺序",
+      "music": 0.0
+    },
+    {
+      "from": 932.17,
+      "to": 933.78,
+      "sid": 357,
+      "location": 2,
+      "content": "或者全参数的微调",
+      "music": 0.0
+    },
+    {
+      "from": 933.78,
+      "to": 935.52,
+      "sid": 358,
+      "location": 2,
+      "content": "如果算力非常有限",
+      "music": 0.0
+    },
+    {
+      "from": 935.52,
+      "to": 937.8,
+      "sid": 359,
+      "location": 2,
+      "content": "可能只能去进行部分参数的微调",
+      "music": 0.0
+    },
+    {
+      "from": 937.8,
+      "to": 942.35,
+      "sid": 360,
+      "location": 2,
+      "content": "比如说像URA那微调出来模型之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 942.35,
+      "to": 944.93,
+      "sid": 361,
+      "location": 2,
+      "content": "那可能它就具备一些业务场景的相关的",
+      "music": 0.0
+    },
+    {
+      "from": 944.93,
+      "to": 946.299,
+      "sid": 362,
+      "location": 2,
+      "content": "一些知识呃",
+      "music": 0.0
+    },
+    {
+      "from": 946.299,
+      "to": 947.979,
+      "sid": 363,
+      "location": 2,
+      "content": "我们可能需要去评估模型",
+      "music": 0.0
+    },
+    {
+      "from": 947.979,
+      "to": 949.839,
+      "sid": 364,
+      "location": 2,
+      "content": "是否需要和环绕进去做交互",
+      "music": 0.0
+    },
+    {
+      "from": 949.839,
+      "to": 951.7,
+      "sid": 365,
+      "location": 2,
+      "content": "也就是说在我们业务系统里面",
+      "music": 0.0
+    },
+    {
+      "from": 951.7,
+      "to": 955.6,
+      "sid": 366,
+      "location": 2,
+      "content": "或者说实际应用里面是否有这种外部的一些啊",
+      "music": 0.0
+    },
+    {
+      "from": 955.6,
+      "to": 959.319,
+      "sid": 367,
+      "location": 2,
+      "content": "就API或者说外部的一些工具需要模型去做交互",
+      "music": 0.0
+    },
+    {
+      "from": 959.319,
+      "to": 960.939,
+      "sid": 368,
+      "location": 2,
+      "content": "那如果需要的话",
+      "music": 0.0
+    },
+    {
+      "from": 960.939,
+      "to": 963.3,
+      "sid": 369,
+      "location": 2,
+      "content": "我们需要去进一步构建智能体",
+      "music": 0.0
+    },
+    {
+      "from": 963.3,
+      "to": 964.38,
+      "sid": 370,
+      "location": 2,
+      "content": "如果不需要",
+      "music": 0.0
+    },
+    {
+      "from": 964.38,
+      "to": 965.64,
+      "sid": 371,
+      "location": 2,
+      "content": "那就可以啊",
+      "music": 0.0
+    },
+    {
+      "from": 965.64,
+      "to": 968.65,
+      "sid": 372,
+      "location": 2,
+      "content": "就直接去考虑啊测试模型性能",
+      "music": 0.0
+    },
+    {
+      "from": 968.65,
+      "to": 971.17,
+      "sid": 373,
+      "location": 2,
+      "content": "那接下来肯定在上线之前",
+      "music": 0.0
+    },
+    {
+      "from": 971.17,
+      "to": 972.94,
+      "sid": 374,
+      "location": 2,
+      "content": "我们就会去进行模型评测",
+      "music": 0.0
+    },
+    {
+      "from": 972.94,
+      "to": 974.29,
+      "sid": 375,
+      "location": 2,
+      "content": "在实际的场景里面",
+      "music": 0.0
+    },
+    {
+      "from": 974.29,
+      "to": 976.95,
+      "sid": 376,
+      "location": 2,
+      "content": "或者说我们呃实际的这种嗯",
+      "music": 0.0
+    },
+    {
+      "from": 976.95,
+      "to": 979.09,
+      "sid": 377,
+      "location": 2,
+      "content": "叫预期的一些领域里面",
+      "music": 0.0
+    },
+    {
+      "from": 979.09,
+      "to": 981.4,
+      "sid": 378,
+      "location": 2,
+      "content": "然后对它做进行进一步的评测",
+      "music": 0.0
+    },
+    {
+      "from": 981.4,
+      "to": 982.87,
+      "sid": 379,
+      "location": 2,
+      "content": "如果能够通过评测",
+      "music": 0.0
+    },
+    {
+      "from": 982.87,
+      "to": 985.87,
+      "sid": 380,
+      "location": 2,
+      "content": "那接下来就是模型的一个部署和上线",
+      "music": 0.0
+    },
+    {
+      "from": 985.87,
+      "to": 988.18,
+      "sid": 381,
+      "location": 2,
+      "content": "那我们可以看到就从模型",
+      "music": 0.0
+    },
+    {
+      "from": 988.18,
+      "to": 989.2,
+      "sid": 382,
+      "location": 2,
+      "content": "然后到应用",
+      "music": 0.0
+    },
+    {
+      "from": 989.2,
+      "to": 991.89,
+      "sid": 383,
+      "location": 2,
+      "content": "它需要经过很多的一些步骤",
+      "music": 0.0
+    },
+    {
+      "from": 991.89,
+      "to": 994.77,
+      "sid": 384,
+      "location": 2,
+      "content": "那这里面可能每一步又会需要",
+      "music": 0.0
+    },
+    {
+      "from": 994.77,
+      "to": 999.13,
+      "sid": 385,
+      "location": 2,
+      "content": "比如说啊一些啊这种大量的这种代码的开发",
+      "music": 0.0
+    },
+    {
+      "from": 999.13,
+      "to": 1001.98,
+      "sid": 386,
+      "location": 2,
+      "content": "或者说去选择各种不同的工具",
+      "music": 0.0
+    },
+    {
+      "from": 1001.98,
+      "to": 1005.39,
+      "sid": 387,
+      "location": 2,
+      "content": "然后去完成里面每个环节的事情",
+      "music": 0.0
+    },
+    {
+      "from": 1005.85,
+      "to": 1007.97,
+      "sid": 388,
+      "location": 2,
+      "content": "那针对这样的一个现状呃",
+      "music": 0.0
+    },
+    {
+      "from": 1007.97,
+      "to": 1008.96,
+      "sid": 389,
+      "location": 2,
+      "content": "我们其实也开",
+      "music": 0.0
+    },
+    {
+      "from": 1008.96,
+      "to": 1010.85,
+      "sid": 390,
+      "location": 2,
+      "content": "就为了让大家更轻松",
+      "music": 0.0
+    },
+    {
+      "from": 1010.85,
+      "to": 1014.55,
+      "sid": 391,
+      "location": 2,
+      "content": "或者说更容易的把书上葡语的模型给用起来",
+      "music": 0.0
+    },
+    {
+      "from": 1014.55,
+      "to": 1017.25,
+      "sid": 392,
+      "location": 2,
+      "content": "我们也开发了书生葡语的这种呃",
+      "music": 0.0
+    },
+    {
+      "from": 1017.25,
+      "to": 1019.23,
+      "sid": 393,
+      "location": 2,
+      "content": "就全链条的工具体系",
+      "music": 0.0
+    },
+    {
+      "from": 1019.23,
+      "to": 1022.39,
+      "sid": 394,
+      "location": 2,
+      "content": "并且把它都呃面向社区做了开源",
+      "music": 0.0
+    },
+    {
+      "from": 1022.39,
+      "to": 1026.89,
+      "sid": 395,
+      "location": 2,
+      "content": "那我这边会分成包括从数据到预训练到微调",
+      "music": 0.0
+    },
+    {
+      "from": 1026.89,
+      "to": 1029.249,
+      "sid": 396,
+      "location": 2,
+      "content": "到部署到评测到应用呃",
+      "music": 0.0
+    },
+    {
+      "from": 1029.249,
+      "to": 1033.54,
+      "sid": 397,
+      "location": 2,
+      "content": "其实多个环节基本上都完成了一个全覆盖",
+      "music": 0.0
+    },
+    {
+      "from": 1033.54,
+      "to": 1034.74,
+      "sid": 398,
+      "location": 2,
+      "content": "数据方面的话",
+      "music": 0.0
+    },
+    {
+      "from": 1034.74,
+      "to": 1035.7,
+      "sid": 399,
+      "location": 2,
+      "content": "其实我们有呃",
+      "music": 0.0
+    },
+    {
+      "from": 1035.7,
+      "to": 1038.28,
+      "sid": 400,
+      "location": 2,
+      "content": "就书生万卷这样的一些开源的数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1038.28,
+      "to": 1041.01,
+      "sid": 401,
+      "location": 2,
+      "content": "然后预训练上我们有啊INTETRAIN",
+      "music": 0.0
+    },
+    {
+      "from": 1041.01,
+      "to": 1043.26,
+      "sid": 402,
+      "location": 2,
+      "content": "或以及说现在INTEEVIL啊",
+      "music": 0.0
+    },
+    {
+      "from": 1043.26,
+      "to": 1045.28,
+      "sid": 403,
+      "location": 2,
+      "content": "这样的一个预训练的框架",
+      "music": 0.0
+    },
+    {
+      "from": 1045.28,
+      "to": 1047.59,
+      "sid": 404,
+      "location": 2,
+      "content": "微微调上面我们有x ta",
+      "music": 0.0
+    },
+    {
+      "from": 1047.59,
+      "to": 1050.77,
+      "sid": 405,
+      "location": 2,
+      "content": "然后部署上我们也开源了i m deploy",
+      "music": 0.0
+    },
+    {
+      "from": 1050.77,
+      "to": 1053.12,
+      "sid": 406,
+      "location": 2,
+      "content": "评测上面的话我们开源了open compass",
+      "music": 0.0
+    },
+    {
+      "from": 1053.12,
+      "to": 1055.06,
+      "sid": 407,
+      "location": 2,
+      "content": "司南这样的一个评测体系",
+      "music": 0.0
+    },
+    {
+      "from": 1055.06,
+      "to": 1057.1,
+      "sid": 408,
+      "location": 2,
+      "content": "然后在智能体的应用上",
+      "music": 0.0
+    },
+    {
+      "from": 1057.1,
+      "to": 1059.2,
+      "sid": 409,
+      "location": 2,
+      "content": "我们开开源了legend",
+      "music": 0.0
+    },
+    {
+      "from": 1059.2,
+      "to": 1061.06,
+      "sid": 410,
+      "location": 2,
+      "content": "还有agent lego这样的",
+      "music": 0.0
+    },
+    {
+      "from": 1061.06,
+      "to": 1064.46,
+      "sid": 411,
+      "location": 2,
+      "content": "包括智能体的框架和智能体的工具箱",
+      "music": 0.0
+    },
+    {
+      "from": 1065.37,
+      "to": 1068.69,
+      "sid": 412,
+      "location": 2,
+      "content": "那接下来对于我们的一些开源工具体系",
+      "music": 0.0
+    },
+    {
+      "from": 1068.69,
+      "to": 1070.67,
+      "sid": 413,
+      "location": 2,
+      "content": "做一个简单的介绍啊",
+      "music": 0.0
+    },
+    {
+      "from": 1070.67,
+      "to": 1073.29,
+      "sid": 414,
+      "location": 2,
+      "content": "那首先是呃数据方面呃",
+      "music": 0.0
+    },
+    {
+      "from": 1073.29,
+      "to": 1076.29,
+      "sid": 415,
+      "location": 2,
+      "content": "实验室去年已经发布了书生万卷",
+      "music": 0.0
+    },
+    {
+      "from": 1076.29,
+      "to": 1078.45,
+      "sid": 416,
+      "location": 2,
+      "content": "1.0这样的一个多模态的数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1078.45,
+      "to": 1081.589,
+      "sid": 417,
+      "location": 2,
+      "content": "它总数据量其实达到了两个tb啊",
+      "music": 0.0
+    },
+    {
+      "from": 1081.589,
+      "to": 1084.439,
+      "sid": 418,
+      "location": 2,
+      "content": "并且它都是符合主流的中国价值观的",
+      "music": 0.0
+    },
+    {
+      "from": 1084.439,
+      "to": 1085.819,
+      "sid": 419,
+      "location": 2,
+      "content": "一些中文语料里面",
+      "music": 0.0
+    },
+    {
+      "from": 1085.819,
+      "to": 1087.139,
+      "sid": 420,
+      "location": 2,
+      "content": "包括有文本数据",
+      "music": 0.0
+    },
+    {
+      "from": 1087.139,
+      "to": 1088.579,
+      "sid": 421,
+      "location": 2,
+      "content": "有图像文本的数据",
+      "music": 0.0
+    },
+    {
+      "from": 1088.579,
+      "to": 1089.79,
+      "sid": 422,
+      "location": 2,
+      "content": "有视频数据",
+      "music": 0.0
+    },
+    {
+      "from": 1089.79,
+      "to": 1092.73,
+      "sid": 423,
+      "location": 2,
+      "content": "他们其实经过了非常精细化的处理",
+      "music": 0.0
+    },
+    {
+      "from": 1092.73,
+      "to": 1093.66,
+      "sid": 424,
+      "location": 2,
+      "content": "就依赖",
+      "music": 0.0
+    },
+    {
+      "from": 1093.66,
+      "to": 1097.58,
+      "sid": 425,
+      "location": 2,
+      "content": "而实验室这边在整个大模型研发过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 1097.58,
+      "to": 1100.47,
+      "sid": 426,
+      "location": 2,
+      "content": "积累的关于数据的一些理解和经验",
+      "music": 0.0
+    },
+    {
+      "from": 1100.47,
+      "to": 1104.49,
+      "sid": 427,
+      "location": 2,
+      "content": "那在呃前不久又发布了书上万卷cc啊",
+      "music": 0.0
+    },
+    {
+      "from": 1104.49,
+      "to": 1107.43,
+      "sid": 428,
+      "location": 2,
+      "content": "就这样的一个呃就KO数据集啊",
+      "music": 0.0
+    },
+    {
+      "from": 1107.43,
+      "to": 1109.07,
+      "sid": 429,
+      "location": 2,
+      "content": "它其实包呃",
+      "music": 0.0
+    },
+    {
+      "from": 1109.07,
+      "to": 1112.43,
+      "sid": 430,
+      "location": 2,
+      "content": "包括了从2013年到2023年的",
+      "music": 0.0
+    },
+    {
+      "from": 1112.43,
+      "to": 1113.54,
+      "sid": 431,
+      "location": 2,
+      "content": "互联网的公开内容",
+      "music": 0.0
+    },
+    {
+      "from": 1113.54,
+      "to": 1116.21,
+      "sid": 432,
+      "location": 2,
+      "content": "它其实是基于cc这样的一个税集",
+      "music": 0.0
+    },
+    {
+      "from": 1116.21,
+      "to": 1118.6,
+      "sid": 433,
+      "location": 2,
+      "content": "做了非常精细的一些清洗",
+      "music": 0.0
+    },
+    {
+      "from": 1118.6,
+      "to": 1122.38,
+      "sid": 434,
+      "location": 2,
+      "content": "那同时的话它也来源是非常丰富多样的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1122.38,
+      "to": 1125.68,
+      "sid": 435,
+      "location": 2,
+      "content": "并且在一些这种呃安全信息",
+      "music": 0.0
+    },
+    {
+      "from": 1125.68,
+      "to": 1126.809,
+      "sid": 436,
+      "location": 2,
+      "content": "安就呃",
+      "music": 0.0
+    },
+    {
+      "from": 1126.809,
+      "to": 1131.4,
+      "sid": 437,
+      "location": 2,
+      "content": "像一些呃就安全方面也做了比较多的一些处理",
+      "music": 0.0
+    },
+    {
+      "from": 1131.4,
+      "to": 1135.3,
+      "sid": 438,
+      "location": 2,
+      "content": "那通过这样的一些呃数据集其实是支持了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1135.3,
+      "to": 1136.98,
+      "sid": 439,
+      "location": 2,
+      "content": "整个英特尔的迭代工作",
+      "music": 0.0
+    },
+    {
+      "from": 1136.98,
+      "to": 1140.48,
+      "sid": 440,
+      "location": 2,
+      "content": "那么我们也将其中的呃就很多的一些呃",
+      "music": 0.0
+    },
+    {
+      "from": 1140.48,
+      "to": 1144.29,
+      "sid": 441,
+      "location": 2,
+      "content": "就一些数据的成果来开源出来啊",
+      "music": 0.0
+    },
+    {
+      "from": 1144.29,
+      "to": 1146.75,
+      "sid": 442,
+      "location": 2,
+      "content": "大家都可以在open data lab这样的平台",
+      "music": 0.0
+    },
+    {
+      "from": 1146.75,
+      "to": 1149.92,
+      "sid": 443,
+      "location": 2,
+      "content": "就相当于是实验室的数据平台上来去获取到",
+      "music": 0.0
+    },
+    {
+      "from": 1149.92,
+      "to": 1151.3,
+      "sid": 444,
+      "location": 2,
+      "content": "包括这边开源的数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1151.3,
+      "to": 1156.04,
+      "sid": 445,
+      "location": 2,
+      "content": "以及说还有很多其他的一些社区的开源数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1157.12,
+      "to": 1158.79,
+      "sid": 446,
+      "location": 2,
+      "content": "那在预训练的层面",
+      "music": 0.0
+    },
+    {
+      "from": 1158.79,
+      "to": 1159.63,
+      "sid": 447,
+      "location": 2,
+      "content": "我们也开",
+      "music": 0.0
+    },
+    {
+      "from": 1159.63,
+      "to": 1163.89,
+      "sid": 448,
+      "location": 2,
+      "content": "就相当于开发了INTEL这样的一个预训练框架",
+      "music": 0.0
+    },
+    {
+      "from": 1163.89,
+      "to": 1166.26,
+      "sid": 449,
+      "location": 2,
+      "content": "其实它具备这种高可扩展性",
+      "music": 0.0
+    },
+    {
+      "from": 1166.31,
+      "to": 1169.46,
+      "sid": 450,
+      "location": 2,
+      "content": "就支持了从巴卡到千卡级的一个训练",
+      "music": 0.0
+    },
+    {
+      "from": 1169.46,
+      "to": 1171.71,
+      "sid": 451,
+      "location": 2,
+      "content": "并且在千卡的级别上面",
+      "music": 0.0
+    },
+    {
+      "from": 1171.71,
+      "to": 1173.57,
+      "sid": 452,
+      "location": 2,
+      "content": "加速效率达到了92%",
+      "music": 0.0
+    },
+    {
+      "from": 1173.57,
+      "to": 1177.29,
+      "sid": 453,
+      "location": 2,
+      "content": "是远远超过了比如说一些竞品啊",
+      "music": 0.0
+    },
+    {
+      "from": 1177.29,
+      "to": 1178.72,
+      "sid": 454,
+      "location": 2,
+      "content": "就竞品的框架",
+      "music": 0.0
+    },
+    {
+      "from": 1178.72,
+      "to": 1183.04,
+      "sid": 455,
+      "location": 2,
+      "content": "同时的话呃通过实验室这边的一些优化技术啊",
+      "music": 0.0
+    },
+    {
+      "from": 1183.04,
+      "to": 1186.04,
+      "sid": 456,
+      "location": 2,
+      "content": "来能够去实现性能的一个技术优化",
+      "music": 0.0
+    },
+    {
+      "from": 1186.04,
+      "to": 1187.99,
+      "sid": 457,
+      "location": 2,
+      "content": "来达到50%的加速",
+      "music": 0.0
+    },
+    {
+      "from": 1187.99,
+      "to": 1191.35,
+      "sid": 458,
+      "location": 2,
+      "content": "同时也能够去兼容主流的一些技术生态",
+      "music": 0.0
+    },
+    {
+      "from": 1191.35,
+      "to": 1195.04,
+      "sid": 459,
+      "location": 2,
+      "content": "比如说像hiking face的模型和各种轻量化的技术",
+      "music": 0.0
+    },
+    {
+      "from": 1195.04,
+      "to": 1196.6,
+      "sid": 460,
+      "location": 2,
+      "content": "并且能够开箱即用",
+      "music": 0.0
+    },
+    {
+      "from": 1196.6,
+      "to": 1199.11,
+      "sid": 461,
+      "location": 2,
+      "content": "也支持了多种不同规格的语言模型",
+      "music": 0.0
+    },
+    {
+      "from": 1199.11,
+      "to": 1203.96,
+      "sid": 462,
+      "location": 2,
+      "content": "只需要修改配置就可以去进行模型的预训练",
+      "music": 0.0
+    },
+    {
+      "from": 1205.54,
+      "to": 1206.76,
+      "sid": 463,
+      "location": 2,
+      "content": "在微调方面的话",
+      "music": 0.0
+    },
+    {
+      "from": 1206.76,
+      "to": 1211.02,
+      "sid": 464,
+      "location": 2,
+      "content": "我们其实呃就开发了x ta这样的一个微调框架",
+      "music": 0.0
+    },
+    {
+      "from": 1211.02,
+      "to": 1213.439,
+      "sid": 465,
+      "location": 2,
+      "content": "在大模型的下游应用里面呃",
+      "music": 0.0
+    },
+    {
+      "from": 1213.439,
+      "to": 1215.419,
+      "sid": 466,
+      "location": 2,
+      "content": "增量续讯和有监督的微调",
+      "music": 0.0
+    },
+    {
+      "from": 1215.419,
+      "to": 1217.86,
+      "sid": 467,
+      "location": 2,
+      "content": "是经常会用到两种方式呃",
+      "music": 0.0
+    },
+    {
+      "from": 1217.86,
+      "to": 1218.7,
+      "sid": 468,
+      "location": 2,
+      "content": "增量去训",
+      "music": 0.0
+    },
+    {
+      "from": 1218.7,
+      "to": 1222.72,
+      "sid": 469,
+      "location": 2,
+      "content": "其实就能通过以这种类似预训练的方式来",
+      "music": 0.0
+    },
+    {
+      "from": 1222.72,
+      "to": 1224.82,
+      "sid": 470,
+      "location": 2,
+      "content": "去让模型学到一些新的知识",
+      "music": 0.0
+    },
+    {
+      "from": 1224.82,
+      "to": 1227.23,
+      "sid": 471,
+      "location": 2,
+      "content": "比如某个垂类领域的知识",
+      "music": 0.0
+    },
+    {
+      "from": 1227.23,
+      "to": 1230.17,
+      "sid": 472,
+      "location": 2,
+      "content": "那这边的训练数据可能是比如说像书籍",
+      "music": 0.0
+    },
+    {
+      "from": 1230.17,
+      "to": 1231.94,
+      "sid": 473,
+      "location": 2,
+      "content": "文章代码等等",
+      "music": 0.0
+    },
+    {
+      "from": 1231.94,
+      "to": 1233.86,
+      "sid": 474,
+      "location": 2,
+      "content": "那有监督的微调呃",
+      "music": 0.0
+    },
+    {
+      "from": 1233.86,
+      "to": 1237.22,
+      "sid": 475,
+      "location": 2,
+      "content": "主要是让模型学会理解各种指令来去进行对话",
+      "music": 0.0
+    },
+    {
+      "from": 1237.22,
+      "to": 1239.56,
+      "sid": 476,
+      "location": 2,
+      "content": "或者我们也可以通过有监督微调方式",
+      "music": 0.0
+    },
+    {
+      "from": 1239.56,
+      "to": 1241.28,
+      "sid": 477,
+      "location": 2,
+      "content": "去注入少量的领域知识",
+      "music": 0.0
+    },
+    {
+      "from": 1241.28,
+      "to": 1244.64,
+      "sid": 478,
+      "location": 2,
+      "content": "那这边的训练数据通常来讲是高质量的",
+      "music": 0.0
+    },
+    {
+      "from": 1244.64,
+      "to": 1247.389,
+      "sid": 479,
+      "location": 2,
+      "content": "这种对话或者问答的数据",
+      "music": 0.0
+    },
+    {
+      "from": 1247.849,
+      "to": 1249.369,
+      "sid": 480,
+      "location": 2,
+      "content": "那有监督微调里面",
+      "music": 0.0
+    },
+    {
+      "from": 1249.369,
+      "to": 1253.029,
+      "sid": 481,
+      "location": 2,
+      "content": "其实它又会分为就这种全量参数的微调",
+      "music": 0.0
+    },
+    {
+      "from": 1253.029,
+      "to": 1254.649,
+      "sid": 482,
+      "location": 2,
+      "content": "也就是说我们所模型",
+      "music": 0.0
+    },
+    {
+      "from": 1254.649,
+      "to": 1256.999,
+      "sid": 483,
+      "location": 2,
+      "content": "所有参数都是放开训练的呃",
+      "music": 0.0
+    },
+    {
+      "from": 1256.999,
+      "to": 1258.439,
+      "sid": 484,
+      "location": 2,
+      "content": "也有这种部分参数微调",
+      "music": 0.0
+    },
+    {
+      "from": 1258.439,
+      "to": 1260.149,
+      "sid": 485,
+      "location": 2,
+      "content": "比如说这边是一张LAURA的图",
+      "music": 0.0
+    },
+    {
+      "from": 1260.149,
+      "to": 1262.19,
+      "sid": 486,
+      "location": 2,
+      "content": "就呃LAURA的一个示意图",
+      "music": 0.0
+    },
+    {
+      "from": 1262.19,
+      "to": 1264.05,
+      "sid": 487,
+      "location": 2,
+      "content": "我们会去啊",
+      "music": 0.0
+    },
+    {
+      "from": 1264.05,
+      "to": 1268.48,
+      "sid": 488,
+      "location": 2,
+      "content": "就相当于固定啊模型的就绝大部分参数",
+      "music": 0.0
+    },
+    {
+      "from": 1268.48,
+      "to": 1271.93,
+      "sid": 489,
+      "location": 2,
+      "content": "然后通过放开或者引入少量的参数",
+      "music": 0.0
+    },
+    {
+      "from": 1271.93,
+      "to": 1276.705,
+      "sid": 490,
+      "location": 2,
+      "content": "然后这样能够去降低整体的一个微调的成本",
+      "music": 0.0
+    },
+    {
+      "from": 1278.62,
+      "to": 1282.06,
+      "sid": 491,
+      "location": 2,
+      "content": "那这边我们有高效微调框架EXTUNA呃",
+      "music": 0.0
+    },
+    {
+      "from": 1282.06,
+      "to": 1286.21,
+      "sid": 492,
+      "location": 2,
+      "content": "它能够去啊适配不同的各种各样的生态",
+      "music": 0.0
+    },
+    {
+      "from": 1286.21,
+      "to": 1288.49,
+      "sid": 493,
+      "location": 2,
+      "content": "比如说不同的一些微调策略和算法",
+      "music": 0.0
+    },
+    {
+      "from": 1288.49,
+      "to": 1291.28,
+      "sid": 494,
+      "location": 2,
+      "content": "能够去覆盖各类的sf d的场景",
+      "music": 0.0
+    },
+    {
+      "from": 1291.28,
+      "to": 1293.98,
+      "sid": 495,
+      "location": 2,
+      "content": "同时的话它也能够去适配不同的一些",
+      "music": 0.0
+    },
+    {
+      "from": 1293.98,
+      "to": 1295.24,
+      "sid": 496,
+      "location": 2,
+      "content": "开源生态啊",
+      "music": 0.0
+    },
+    {
+      "from": 1295.24,
+      "to": 1297.28,
+      "sid": 497,
+      "location": 2,
+      "content": "比如说加载hiking face模型啊",
+      "music": 0.0
+    },
+    {
+      "from": 1297.28,
+      "to": 1300.03,
+      "sid": 498,
+      "location": 2,
+      "content": "model scope的一些模型或者说是集",
+      "music": 0.0
+    },
+    {
+      "from": 1300.03,
+      "to": 1302.88,
+      "sid": 499,
+      "location": 2,
+      "content": "同时里面也会去做自动的优化加速",
+      "music": 0.0
+    },
+    {
+      "from": 1302.88,
+      "to": 1304.219,
+      "sid": 500,
+      "location": 2,
+      "content": "这优化加速",
+      "music": 0.0
+    },
+    {
+      "from": 1304.219,
+      "to": 1307.879,
+      "sid": 501,
+      "location": 2,
+      "content": "让开发者可以不用去关注这些复杂的一些显存",
+      "music": 0.0
+    },
+    {
+      "from": 1307.879,
+      "to": 1309.89,
+      "sid": 502,
+      "location": 2,
+      "content": "优化和计算加速的细节呃",
+      "music": 0.0
+    },
+    {
+      "from": 1309.89,
+      "to": 1313.07,
+      "sid": 503,
+      "location": 2,
+      "content": "可以把更多的一些呃精力来去投入到",
+      "music": 0.0
+    },
+    {
+      "from": 1313.07,
+      "to": 1316.58,
+      "sid": 504,
+      "location": 2,
+      "content": "比如说呃数据的一些准备和优化上面",
+      "music": 0.0
+    },
+    {
+      "from": 1316.58,
+      "to": 1320.69,
+      "sid": 505,
+      "location": 2,
+      "content": "同时的话X2也能够去适配不同的硬件啊",
+      "music": 0.0
+    },
+    {
+      "from": 1320.69,
+      "to": 1321.35,
+      "sid": 506,
+      "location": 2,
+      "content": "能够覆盖",
+      "music": 0.0
+    },
+    {
+      "from": 1321.35,
+      "to": 1323.81,
+      "sid": 507,
+      "location": 2,
+      "content": "比如说像MV点二零系列以上的所有显卡",
+      "music": 0.0
+    },
+    {
+      "from": 1323.81,
+      "to": 1326.27,
+      "sid": 508,
+      "location": 2,
+      "content": "也就是说它可以在很多的一些消费卡上",
+      "music": 0.0
+    },
+    {
+      "from": 1326.27,
+      "to": 1327.7,
+      "sid": 509,
+      "location": 2,
+      "content": "能够去跑起来",
+      "music": 0.0
+    },
+    {
+      "from": 1327.7,
+      "to": 1330.43,
+      "sid": 510,
+      "location": 2,
+      "content": "那通过这种呃一些量化的方式",
+      "music": 0.0
+    },
+    {
+      "from": 1330.43,
+      "to": 1332.56,
+      "sid": 511,
+      "location": 2,
+      "content": "它最低其实只需要8G的显存",
+      "music": 0.0
+    },
+    {
+      "from": 1332.56,
+      "to": 1335.32,
+      "sid": 512,
+      "location": 2,
+      "content": "就可以去微调7B的模型",
+      "music": 0.0
+    },
+    {
+      "from": 1337.18,
+      "to": 1341.28,
+      "sid": 513,
+      "location": 2,
+      "content": "呃那接下来还是呃评测的这样的一个环节啊",
+      "music": 0.0
+    },
+    {
+      "from": 1341.28,
+      "to": 1344.089,
+      "sid": 514,
+      "location": 2,
+      "content": "评测其实也是呃实验室呃",
+      "music": 0.0
+    },
+    {
+      "from": 1344.089,
+      "to": 1347.63,
+      "sid": 515,
+      "location": 2,
+      "content": "持续在投入呃力量来去做的事情",
+      "music": 0.0
+    },
+    {
+      "from": 1347.63,
+      "to": 1351.53,
+      "sid": 516,
+      "location": 2,
+      "content": "嗯从去年的啊整体5月份开始啊",
+      "music": 0.0
+    },
+    {
+      "from": 1351.53,
+      "to": 1353.12,
+      "sid": 517,
+      "location": 2,
+      "content": "其实就陆陆续续啊",
+      "music": 0.0
+    },
+    {
+      "from": 1353.12,
+      "to": 1356.51,
+      "sid": 518,
+      "location": 2,
+      "content": "都有这种评测框架的一个开发和开源",
+      "music": 0.0
+    },
+    {
+      "from": 1356.51,
+      "to": 1360.65,
+      "sid": 519,
+      "location": 2,
+      "content": "那在今年的1月份额也正式发布了open compass",
+      "music": 0.0
+    },
+    {
+      "from": 1360.65,
+      "to": 1362.93,
+      "sid": 520,
+      "location": 2,
+      "content": "2.0思南大模型评测体系",
+      "music": 0.0
+    },
+    {
+      "from": 1362.93,
+      "to": 1365.47,
+      "sid": 521,
+      "location": 2,
+      "content": "那这也是open compass呃",
+      "music": 0.0
+    },
+    {
+      "from": 1365.47,
+      "to": 1369.97,
+      "sid": 522,
+      "location": 2,
+      "content": "就整体的评测体系的一个呃就重大的升级",
+      "music": 0.0
+    },
+    {
+      "from": 1370.61,
+      "to": 1372.79,
+      "sid": 523,
+      "location": 2,
+      "content": "它里面包括有三个部分啊",
+      "music": 0.0
+    },
+    {
+      "from": 1372.79,
+      "to": 1374.89,
+      "sid": 524,
+      "location": 2,
+      "content": "首先第一个是compass rank啊",
+      "music": 0.0
+    },
+    {
+      "from": 1374.89,
+      "to": 1378.54,
+      "sid": 525,
+      "location": 2,
+      "content": "我们会提供一个这种中立全面的性能榜单啊",
+      "music": 0.0
+    },
+    {
+      "from": 1378.54,
+      "to": 1382.47,
+      "sid": 526,
+      "location": 2,
+      "content": "就包括呃就大语言模型的这种榜单",
+      "music": 0.0
+    },
+    {
+      "from": 1382.47,
+      "to": 1384.97,
+      "sid": 527,
+      "location": 2,
+      "content": "包括多模态模型评测的榜单",
+      "music": 0.0
+    },
+    {
+      "from": 1384.97,
+      "to": 1388.15,
+      "sid": 528,
+      "location": 2,
+      "content": "那基本上就主流的模型",
+      "music": 0.0
+    },
+    {
+      "from": 1388.15,
+      "to": 1390.25,
+      "sid": 529,
+      "location": 2,
+      "content": "大家应该都可以在这个榜单上面来看到",
+      "music": 0.0
+    },
+    {
+      "from": 1390.25,
+      "to": 1394.205,
+      "sid": 530,
+      "location": 2,
+      "content": "我们也会定期的去发布相关的一些更新",
+      "music": 0.0
+    },
+    {
+      "from": 1395.2,
+      "to": 1397.05,
+      "sid": 531,
+      "location": 2,
+      "content": "以及说还有compass kate",
+      "music": 0.0
+    },
+    {
+      "from": 1397.05,
+      "to": 1399.5,
+      "sid": 532,
+      "location": 2,
+      "content": "就大模型的评测的权杖工具链啊",
+      "music": 0.0
+    },
+    {
+      "from": 1399.5,
+      "to": 1404.34,
+      "sid": 533,
+      "location": 2,
+      "content": "我们会把呃就评测所依赖的呃各种相关的工具",
+      "music": 0.0
+    },
+    {
+      "from": 1404.34,
+      "to": 1407.64,
+      "sid": 534,
+      "location": 2,
+      "content": "其实都在open compass这样的一个github organization",
+      "music": 0.0
+    },
+    {
+      "from": 1407.64,
+      "to": 1409.179,
+      "sid": 535,
+      "location": 2,
+      "content": "里面去做一个开源",
+      "music": 0.0
+    },
+    {
+      "from": 1409.179,
+      "to": 1413.469,
+      "sid": 536,
+      "location": 2,
+      "content": "那里面会包括呃就除了各个数据集的兼容",
+      "music": 0.0
+    },
+    {
+      "from": 1413.469,
+      "to": 1415.299,
+      "sid": 537,
+      "location": 2,
+      "content": "目前里面应该已经支持了",
+      "music": 0.0
+    },
+    {
+      "from": 1415.299,
+      "to": 1416.92,
+      "sid": 538,
+      "location": 2,
+      "content": "超过100个数据集的评测",
+      "music": 0.0
+    },
+    {
+      "from": 1416.92,
+      "to": 1417.49,
+      "sid": 539,
+      "location": 2,
+      "content": "对",
+      "music": 0.0
+    },
+    {
+      "from": 1417.49,
+      "to": 1421.63,
+      "sid": 540,
+      "location": 2,
+      "content": "那它包括也也有很丰富的这种模型推理的接入",
+      "music": 0.0
+    },
+    {
+      "from": 1421.63,
+      "to": 1424.63,
+      "sid": 541,
+      "location": 2,
+      "content": "然后也包括像数据污染检查的一些功能",
+      "music": 0.0
+    },
+    {
+      "from": 1424.63,
+      "to": 1426.04,
+      "sid": 542,
+      "location": 2,
+      "content": "常用的能力评测",
+      "music": 0.0
+    },
+    {
+      "from": 1426.04,
+      "to": 1428.56,
+      "sid": 543,
+      "location": 2,
+      "content": "以及说中英文双语的一些主观评测",
+      "music": 0.0
+    },
+    {
+      "from": 1428.56,
+      "to": 1430.26,
+      "sid": 544,
+      "location": 2,
+      "content": "能够去覆盖呃",
+      "music": 0.0
+    },
+    {
+      "from": 1430.26,
+      "to": 1431.49,
+      "sid": 545,
+      "location": 2,
+      "content": "就多个维度",
+      "music": 0.0
+    },
+    {
+      "from": 1431.49,
+      "to": 1434.22,
+      "sid": 546,
+      "location": 2,
+      "content": "多种需求的这种评测",
+      "music": 0.0
+    },
+    {
+      "from": 1435.34,
+      "to": 1438.78,
+      "sid": 547,
+      "location": 2,
+      "content": "同时的话我们也建立了compass这样的一个高质量",
+      "music": 0.0
+    },
+    {
+      "from": 1438.78,
+      "to": 1440.88,
+      "sid": 548,
+      "location": 2,
+      "content": "评测基准的一个社区",
+      "music": 0.0
+    },
+    {
+      "from": 1440.88,
+      "to": 1442.8,
+      "sid": 549,
+      "location": 2,
+      "content": "我们是希望以开源开放",
+      "music": 0.0
+    },
+    {
+      "from": 1442.8,
+      "to": 1446.25,
+      "sid": 550,
+      "location": 2,
+      "content": "共建共享的方式来去构建大模型的评测基准",
+      "music": 0.0
+    },
+    {
+      "from": 1446.25,
+      "to": 1447.81,
+      "sid": 551,
+      "location": 2,
+      "content": "或者说评测集的社区",
+      "music": 0.0
+    },
+    {
+      "from": 1447.81,
+      "to": 1448.84,
+      "sid": 552,
+      "location": 2,
+      "content": "来去",
+      "music": 0.0
+    },
+    {
+      "from": 1449.66,
+      "to": 1452.83,
+      "sid": 553,
+      "location": 2,
+      "content": "让更多的一些研究者和开发者",
+      "music": 0.0
+    },
+    {
+      "from": 1452.83,
+      "to": 1455.61,
+      "sid": 554,
+      "location": 2,
+      "content": "参与到大模型的评测中来来去",
+      "music": 0.0
+    },
+    {
+      "from": 1455.61,
+      "to": 1457.71,
+      "sid": 555,
+      "location": 2,
+      "content": "把各种优秀的这种评测集",
+      "music": 0.0
+    },
+    {
+      "from": 1457.71,
+      "to": 1460.17,
+      "sid": 556,
+      "location": 2,
+      "content": "能够在社区去进行汇聚",
+      "music": 0.0
+    },
+    {
+      "from": 1460.17,
+      "to": 1464.295,
+      "sid": 557,
+      "location": 2,
+      "content": "同时也提供了更好的一些这种支撑的服务",
+      "music": 0.0
+    },
+    {
+      "from": 1466.44,
+      "to": 1467.78,
+      "sid": 558,
+      "location": 2,
+      "content": "那open compass的话",
+      "music": 0.0
+    },
+    {
+      "from": 1467.78,
+      "to": 1472.53,
+      "sid": 559,
+      "location": 2,
+      "content": "其实他现在已经有非常广泛的应用呃",
+      "music": 0.0
+    },
+    {
+      "from": 1472.53,
+      "to": 1475.38,
+      "sid": 560,
+      "location": 2,
+      "content": "很多的一些大模型的那种头部的企业",
+      "music": 0.0
+    },
+    {
+      "from": 1475.38,
+      "to": 1476.76,
+      "sid": 561,
+      "location": 2,
+      "content": "或者说研究机构",
+      "music": 0.0
+    },
+    {
+      "from": 1476.76,
+      "to": 1479.58,
+      "sid": 562,
+      "location": 2,
+      "content": "他们在发布大模发布模型的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1479.58,
+      "to": 1483.07,
+      "sid": 563,
+      "location": 2,
+      "content": "都会呃用open卡pass来去进行评测",
+      "music": 0.0
+    },
+    {
+      "from": 1483.07,
+      "to": 1486.19,
+      "sid": 564,
+      "location": 2,
+      "content": "那同时的话它也是获得meta官方推荐的",
+      "music": 0.0
+    },
+    {
+      "from": 1486.19,
+      "to": 1488.47,
+      "sid": 565,
+      "location": 2,
+      "content": "唯一的一个国产大模型的评测体系",
+      "music": 0.0
+    },
+    {
+      "from": 1488.47,
+      "to": 1488.95,
+      "sid": 566,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 1488.95,
+      "to": 1492.07,
+      "sid": 567,
+      "location": 2,
+      "content": "目前也是社区支持最完善的评测体系之一啊",
+      "music": 0.0
+    },
+    {
+      "from": 1492.07,
+      "to": 1495.25,
+      "sid": 568,
+      "location": 2,
+      "content": "应该已经适配了超过100个评测集啊",
+      "music": 0.0
+    },
+    {
+      "from": 1495.25,
+      "to": 1496.81,
+      "sid": 569,
+      "location": 2,
+      "content": "50多万道题目",
+      "music": 0.0
+    },
+    {
+      "from": 1496.81,
+      "to": 1500.41,
+      "sid": 570,
+      "location": 2,
+      "content": "并且就整个的一套评测工具和",
+      "music": 0.0
+    },
+    {
+      "from": 1500.41,
+      "to": 1502.09,
+      "sid": 571,
+      "location": 2,
+      "content": "包括评测的一些prompt",
+      "music": 0.0
+    },
+    {
+      "from": 1502.09,
+      "to": 1504.32,
+      "sid": 572,
+      "location": 2,
+      "content": "其实都是开源的",
+      "music": 0.0
+    },
+    {
+      "from": 1504.84,
+      "to": 1508.88,
+      "sid": 573,
+      "location": 2,
+      "content": "那我们从呃就整体的open plus2.0",
+      "music": 0.0
+    },
+    {
+      "from": 1508.88,
+      "to": 1510.5,
+      "sid": 574,
+      "location": 2,
+      "content": "我们自己构建的一些评测器里面",
+      "music": 0.0
+    },
+    {
+      "from": 1510.5,
+      "to": 1512.37,
+      "sid": 575,
+      "location": 2,
+      "content": "也可以发现一些趋势",
+      "music": 0.0
+    },
+    {
+      "from": 1512.37,
+      "to": 1516.45,
+      "sid": 576,
+      "location": 2,
+      "content": "我们对呃主流的一些呃模型",
+      "music": 0.0
+    },
+    {
+      "from": 1516.45,
+      "to": 1518.25,
+      "sid": 577,
+      "location": 2,
+      "content": "都做了一些评测的分析啊",
+      "music": 0.0
+    },
+    {
+      "from": 1518.25,
+      "to": 1521.22,
+      "sid": 578,
+      "location": 2,
+      "content": "当然的话我们呃我们不不太需要去关注",
+      "music": 0.0
+    },
+    {
+      "from": 1521.22,
+      "to": 1524.96,
+      "sid": 579,
+      "location": 2,
+      "content": "具体这边每个模型它的一个呃性能",
+      "music": 0.0
+    },
+    {
+      "from": 1524.96,
+      "to": 1528.37,
+      "sid": 580,
+      "location": 2,
+      "content": "因为我们更多的是希望去给社区提供一些",
+      "music": 0.0
+    },
+    {
+      "from": 1528.37,
+      "to": 1530.53,
+      "sid": 581,
+      "location": 2,
+      "content": "这种关于模型整体的发展的",
+      "music": 0.0
+    },
+    {
+      "from": 1530.53,
+      "to": 1533.119,
+      "sid": 582,
+      "location": 2,
+      "content": "一些呃趋势的了解啊",
+      "music": 0.0
+    },
+    {
+      "from": 1533.119,
+      "to": 1535.099,
+      "sid": 583,
+      "location": 2,
+      "content": "那首先第一课这边是我们有一个",
+      "music": 0.0
+    },
+    {
+      "from": 1535.099,
+      "to": 1536.899,
+      "sid": 584,
+      "location": 2,
+      "content": "综合性的客观评测啊",
+      "music": 0.0
+    },
+    {
+      "from": 1536.899,
+      "to": 1539.299,
+      "sid": 585,
+      "location": 2,
+      "content": "也就是说在我们自己构造的客观的",
+      "music": 0.0
+    },
+    {
+      "from": 1539.299,
+      "to": 1541.65,
+      "sid": 586,
+      "location": 2,
+      "content": "评测集上来去进行啊",
+      "music": 0.0
+    },
+    {
+      "from": 1541.65,
+      "to": 1545.5,
+      "sid": 587,
+      "location": 2,
+      "content": "就结果的评测这边会从语言知识推理",
+      "music": 0.0
+    },
+    {
+      "from": 1545.5,
+      "to": 1545.98,
+      "sid": 588,
+      "location": 2,
+      "content": "数学代码",
+      "music": 0.0
+    },
+    {
+      "from": 1545.98,
+      "to": 1549.34,
+      "sid": 589,
+      "location": 2,
+      "content": "智能体这多个方面来去进行评测啊",
+      "music": 0.0
+    },
+    {
+      "from": 1549.34,
+      "to": 1552.17,
+      "sid": 590,
+      "location": 2,
+      "content": "就左边最高的是GP4啊",
+      "music": 0.0
+    },
+    {
+      "from": 1552.17,
+      "to": 1554.27,
+      "sid": 591,
+      "location": 2,
+      "content": "那我们也可以看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 1554.27,
+      "to": 1555.95,
+      "sid": 592,
+      "location": 2,
+      "content": "其实整体能力呃",
+      "music": 0.0
+    },
+    {
+      "from": 1555.95,
+      "to": 1559.25,
+      "sid": 593,
+      "location": 2,
+      "content": "大家呃是有比较大的提升空间的",
+      "music": 0.0
+    },
+    {
+      "from": 1559.25,
+      "to": 1561.17,
+      "sid": 594,
+      "location": 2,
+      "content": "因为在open compass2.0里面",
+      "music": 0.0
+    },
+    {
+      "from": 1561.17,
+      "to": 1564.3,
+      "sid": 595,
+      "location": 2,
+      "content": "我们采用了更加准确的这种循环评测的策略",
+      "music": 0.0
+    },
+    {
+      "from": 1564.3,
+      "to": 1564.78,
+      "sid": 596,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 1564.78,
+      "to": 1565.8,
+      "sid": 597,
+      "location": 2,
+      "content": "之前的很多评测集",
+      "music": 0.0
+    },
+    {
+      "from": 1565.8,
+      "to": 1568.98,
+      "sid": 598,
+      "location": 2,
+      "content": "其实是采用这种选择题的模式呃",
+      "music": 0.0
+    },
+    {
+      "from": 1568.98,
+      "to": 1570.36,
+      "sid": 599,
+      "location": 2,
+      "content": "比如说呃ABCD",
+      "music": 0.0
+    },
+    {
+      "from": 1570.36,
+      "to": 1571.74,
+      "sid": 600,
+      "location": 2,
+      "content": "然后让模型去选择",
+      "music": 0.0
+    },
+    {
+      "from": 1571.74,
+      "to": 1575.28,
+      "sid": 601,
+      "location": 2,
+      "content": "那这样的话呃模型其实有一些这种猜测的因素",
+      "music": 0.0
+    },
+    {
+      "from": 1575.28,
+      "to": 1577.479,
+      "sid": 602,
+      "location": 2,
+      "content": "或者说一些随机呃",
+      "music": 0.0
+    },
+    {
+      "from": 1577.479,
+      "to": 1581.079,
+      "sid": 603,
+      "location": 2,
+      "content": "就随机的因素在那在open compass2.0里面",
+      "music": 0.0
+    },
+    {
+      "from": 1581.079,
+      "to": 1583.329,
+      "sid": 604,
+      "location": 2,
+      "content": "我们采用了循环评测的策略",
+      "music": 0.0
+    },
+    {
+      "from": 1583.329,
+      "to": 1584.56,
+      "sid": 605,
+      "location": 2,
+      "content": "也就是说呃",
+      "music": 0.0
+    },
+    {
+      "from": 1584.56,
+      "to": 1589.08,
+      "sid": 606,
+      "location": 2,
+      "content": "我们会把选项去进行一个呃这种轮换啊",
+      "music": 0.0
+    },
+    {
+      "from": 1589.08,
+      "to": 1592.14,
+      "sid": 607,
+      "location": 2,
+      "content": "一模型只有在能够答对所有这种",
+      "music": 0.0
+    },
+    {
+      "from": 1592.14,
+      "to": 1594.36,
+      "sid": 608,
+      "location": 2,
+      "content": "轮换的方式的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1594.36,
+      "to": 1596.659,
+      "sid": 609,
+      "location": 2,
+      "content": "我们才认为模型这道题是对的",
+      "music": 0.0
+    },
+    {
+      "from": 1596.659,
+      "to": 1597.439,
+      "sid": 610,
+      "location": 2,
+      "content": "那这样的话",
+      "music": 0.0
+    },
+    {
+      "from": 1597.439,
+      "to": 1600.65,
+      "sid": 611,
+      "location": 2,
+      "content": "其实就能够获得更加准确的一个性能",
+      "music": 0.0
+    },
+    {
+      "from": 1600.65,
+      "to": 1603.38,
+      "sid": 612,
+      "location": 2,
+      "content": "那我们发现就哪怕是gt4",
+      "music": 0.0
+    },
+    {
+      "from": 1603.38,
+      "to": 1605.93,
+      "sid": 613,
+      "location": 2,
+      "content": "在这样的一个百分制的评测基准里面",
+      "music": 0.0
+    },
+    {
+      "from": 1605.93,
+      "to": 1608.27,
+      "sid": 614,
+      "location": 2,
+      "content": "也只是达到了61:08分的一个",
+      "music": 0.0
+    },
+    {
+      "from": 1608.27,
+      "to": 1609.5,
+      "sid": 615,
+      "location": 2,
+      "content": "大概及格的水平",
+      "music": 0.0
+    },
+    {
+      "from": 1609.5,
+      "to": 1611.66,
+      "sid": 616,
+      "location": 2,
+      "content": "所以大模型的整体能力",
+      "music": 0.0
+    },
+    {
+      "from": 1611.66,
+      "to": 1613.52,
+      "sid": 617,
+      "location": 2,
+      "content": "还是有比较大的提升空间",
+      "music": 0.0
+    },
+    {
+      "from": 1613.52,
+      "to": 1615.32,
+      "sid": 618,
+      "location": 2,
+      "content": "那我们也可以看到呃",
+      "music": 0.0
+    },
+    {
+      "from": 1615.32,
+      "to": 1617.96,
+      "sid": 619,
+      "location": 2,
+      "content": "复杂推理其实现在仍然是短板啊",
+      "music": 0.0
+    },
+    {
+      "from": 1617.96,
+      "to": 1620.71,
+      "sid": 620,
+      "location": 2,
+      "content": "国内的很多的模型综合能力比",
+      "music": 0.0
+    },
+    {
+      "from": 1620.71,
+      "to": 1623.38,
+      "sid": 621,
+      "location": 2,
+      "content": "其实在接近gt4呃",
+      "music": 0.0
+    },
+    {
+      "from": 1623.38,
+      "to": 1625.84,
+      "sid": 622,
+      "location": 2,
+      "content": "因为我们考察的维度是多种多样的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1625.84,
+      "to": 1628.93,
+      "sid": 623,
+      "location": 2,
+      "content": "我们也没有是说把所有的都是很难的题目",
+      "music": 0.0
+    },
+    {
+      "from": 1628.93,
+      "to": 1631.12,
+      "sid": 624,
+      "location": 2,
+      "content": "那会考虑到一些平均的分布",
+      "music": 0.0
+    },
+    {
+      "from": 1631.12,
+      "to": 1633.46,
+      "sid": 625,
+      "location": 2,
+      "content": "所以就这样综合性看下来的话",
+      "music": 0.0
+    },
+    {
+      "from": 1633.46,
+      "to": 1636.77,
+      "sid": 626,
+      "location": 2,
+      "content": "呃有些模型其实是在接近gt4top的水平",
+      "music": 0.0
+    },
+    {
+      "from": 1636.77,
+      "to": 1638.99,
+      "sid": 627,
+      "location": 2,
+      "content": "但是在一些比较复杂的推理上",
+      "music": 0.0
+    },
+    {
+      "from": 1638.99,
+      "to": 1640.7,
+      "sid": 628,
+      "location": 2,
+      "content": "仍然存在比较大的差距",
+      "music": 0.0
+    },
+    {
+      "from": 1640.7,
+      "to": 1643.74,
+      "sid": 629,
+      "location": 2,
+      "content": "并且和模型的尺寸也存在比较强的相关性",
+      "music": 0.0
+    },
+    {
+      "from": 1643.74,
+      "to": 1645.15,
+      "sid": 630,
+      "location": 2,
+      "content": "也就是说呃",
+      "music": 0.0
+    },
+    {
+      "from": 1645.15,
+      "to": 1649.2,
+      "sid": 631,
+      "location": 2,
+      "content": "我们拿这种相对比较平均的这种呃考题",
+      "music": 0.0
+    },
+    {
+      "from": 1649.2,
+      "to": 1650.88,
+      "sid": 632,
+      "location": 2,
+      "content": "来去区分模型",
+      "music": 0.0
+    },
+    {
+      "from": 1650.88,
+      "to": 1652.47,
+      "sid": 633,
+      "location": 2,
+      "content": "可能他们的分差并不大",
+      "music": 0.0
+    },
+    {
+      "from": 1652.47,
+      "to": 1654.96,
+      "sid": 634,
+      "location": 2,
+      "content": "但如果是一些比较复杂的推理场景",
+      "music": 0.0
+    },
+    {
+      "from": 1654.96,
+      "to": 1658.19,
+      "sid": 635,
+      "location": 2,
+      "content": "那有可能差距就显现得非常大",
+      "music": 0.0
+    },
+    {
+      "from": 1658.41,
+      "to": 1662.96,
+      "sid": 636,
+      "location": 2,
+      "content": "同时我们也发现就这种偏理科能力呃的一些呃",
+      "music": 0.0
+    },
+    {
+      "from": 1662.96,
+      "to": 1666.02,
+      "sid": 637,
+      "location": 2,
+      "content": "分数和模型的尺寸有比较强的一个关联性",
+      "music": 0.0
+    },
+    {
+      "from": 1666.02,
+      "to": 1668.9,
+      "sid": 638,
+      "location": 2,
+      "content": "比如说像呃语言和知识这样的一类文",
+      "music": 0.0
+    },
+    {
+      "from": 1668.9,
+      "to": 1671.01,
+      "sid": 639,
+      "location": 2,
+      "content": "偏文科的维度上呃",
+      "music": 0.0
+    },
+    {
+      "from": 1671.01,
+      "to": 1673.23,
+      "sid": 640,
+      "location": 2,
+      "content": "中轻量级的模型和这种重量级",
+      "music": 0.0
+    },
+    {
+      "from": 1673.23,
+      "to": 1675.59,
+      "sid": 641,
+      "location": 2,
+      "content": "或者说闭源的商业模型差距比较小",
+      "music": 0.0
+    },
+    {
+      "from": 1675.59,
+      "to": 1677.69,
+      "sid": 642,
+      "location": 2,
+      "content": "但是在比如说像数学推理代码",
+      "music": 0.0
+    },
+    {
+      "from": 1677.69,
+      "to": 1680.15,
+      "sid": 643,
+      "location": 2,
+      "content": "这样的一些偏理科的维度上呃",
+      "music": 0.0
+    },
+    {
+      "from": 1680.15,
+      "to": 1683.05,
+      "sid": 644,
+      "location": 2,
+      "content": "性能和尺寸就呈现比较强的相关性",
+      "music": 0.0
+    },
+    {
+      "from": 1683.05,
+      "to": 1686.83,
+      "sid": 645,
+      "location": 2,
+      "content": "同时的话我们也通过这种主客观的评测",
+      "music": 0.0
+    },
+    {
+      "from": 1686.83,
+      "to": 1688.15,
+      "sid": 646,
+      "location": 2,
+      "content": "其实也发现呃",
+      "music": 0.0
+    },
+    {
+      "from": 1688.15,
+      "to": 1691.15,
+      "sid": 647,
+      "location": 2,
+      "content": "有些模型可能在主观和客观的性能上存在",
+      "music": 0.0
+    },
+    {
+      "from": 1691.15,
+      "to": 1692.13,
+      "sid": 648,
+      "location": 2,
+      "content": "比较大的偏差",
+      "music": 0.0
+    },
+    {
+      "from": 1692.13,
+      "to": 1695.34,
+      "sid": 649,
+      "location": 2,
+      "content": "所以社区不仅是需要去夯实这种",
+      "music": 0.0
+    },
+    {
+      "from": 1695.34,
+      "to": 1696.78,
+      "sid": 650,
+      "location": 2,
+      "content": "客观评测的能力基础",
+      "music": 0.0
+    },
+    {
+      "from": 1696.78,
+      "to": 1700.59,
+      "sid": 651,
+      "location": 2,
+      "content": "也需要在一些对话体验上来去下功夫",
+      "music": 0.0
+    },
+    {
+      "from": 1700.59,
+      "to": 1704.31,
+      "sid": 652,
+      "location": 2,
+      "content": "那这边的话其实就是呃主观评测的一个胜率",
+      "music": 0.0
+    },
+    {
+      "from": 1704.31,
+      "to": 1706.53,
+      "sid": 653,
+      "location": 2,
+      "content": "我们是让呃就对比",
+      "music": 0.0
+    },
+    {
+      "from": 1706.53,
+      "to": 1709.54,
+      "sid": 654,
+      "location": 2,
+      "content": "比如说每个不同的模型和GP4的一个",
+      "music": 0.0
+    },
+    {
+      "from": 1709.54,
+      "to": 1711.55,
+      "sid": 655,
+      "location": 2,
+      "content": "这种综合的一个呃胜率",
+      "music": 0.0
+    },
+    {
+      "from": 1711.55,
+      "to": 1713.54,
+      "sid": 656,
+      "location": 2,
+      "content": "那gt4的胜率就是50%",
+      "music": 0.0
+    },
+    {
+      "from": 1713.54,
+      "to": 1716.66,
+      "sid": 657,
+      "location": 2,
+      "content": "那我们也可以看到GP4在主观评测里面",
+      "music": 0.0
+    },
+    {
+      "from": 1716.66,
+      "to": 1720.3,
+      "sid": 658,
+      "location": 2,
+      "content": "仍然现在是占据着第一的位置啊",
+      "music": 0.0
+    },
+    {
+      "from": 1720.3,
+      "to": 1721.56,
+      "sid": 659,
+      "location": 2,
+      "content": "那我们可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 1721.56,
+      "to": 1724.38,
+      "sid": 660,
+      "location": 2,
+      "content": "就国内近期发布的部分的大模型",
+      "music": 0.0
+    },
+    {
+      "from": 1724.38,
+      "to": 1726.27,
+      "sid": 661,
+      "location": 2,
+      "content": "其实表现也是非常优异的",
+      "music": 0.0
+    },
+    {
+      "from": 1726.27,
+      "to": 1729.84,
+      "sid": 662,
+      "location": 2,
+      "content": "多个维度上缩小了和GPS差不多一些差距",
+      "music": 0.0
+    },
+    {
+      "from": 1729.84,
+      "to": 1733.77,
+      "sid": 663,
+      "location": 2,
+      "content": "并且国内的模型在中文场景下是具有性能优势",
+      "music": 0.0
+    },
+    {
+      "from": 1733.77,
+      "to": 1736.47,
+      "sid": 664,
+      "location": 2,
+      "content": "再比如说像中文的语言理解中文知识",
+      "music": 0.0
+    },
+    {
+      "from": 1736.47,
+      "to": 1737.909,
+      "sid": 665,
+      "location": 2,
+      "content": "还有中文的创作上",
+      "music": 0.0
+    },
+    {
+      "from": 1737.909,
+      "to": 1740.699,
+      "sid": 666,
+      "location": 2,
+      "content": "国内的商业模型相比于GP4turbo",
+      "music": 0.0
+    },
+    {
+      "from": 1740.699,
+      "to": 1742.649,
+      "sid": 667,
+      "location": 2,
+      "content": "其实是具有很强的竞争能力的",
+      "music": 0.0
+    },
+    {
+      "from": 1742.649,
+      "to": 1744.629,
+      "sid": 668,
+      "location": 2,
+      "content": "甚至有些少数模型",
+      "music": 0.0
+    },
+    {
+      "from": 1744.629,
+      "to": 1746.25,
+      "sid": 669,
+      "location": 2,
+      "content": "它在单个维度上",
+      "music": 0.0
+    },
+    {
+      "from": 1746.25,
+      "to": 1749.99,
+      "sid": 670,
+      "location": 2,
+      "content": "甚至能够去完成对TT4TP的超越",
+      "music": 0.0
+    },
+    {
+      "from": 1749.99,
+      "to": 1751.67,
+      "sid": 671,
+      "location": 2,
+      "content": "那我们也可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 1751.67,
+      "to": 1755.44,
+      "sid": 672,
+      "location": 2,
+      "content": "开源社区其实也是有非常好的一个发展趋势",
+      "music": 0.0
+    },
+    {
+      "from": 1755.44,
+      "to": 1757.42,
+      "sid": 673,
+      "location": 2,
+      "content": "比如说像E34b chat",
+      "music": 0.0
+    },
+    {
+      "from": 1757.42,
+      "to": 1759.01,
+      "sid": 674,
+      "location": 2,
+      "content": "然后英特尔chat还是B",
+      "music": 0.0
+    },
+    {
+      "from": 1759.01,
+      "to": 1761.47,
+      "sid": 675,
+      "location": 2,
+      "content": "他们其实都是这种中轻量级的尺寸",
+      "music": 0.0
+    },
+    {
+      "from": 1761.47,
+      "to": 1763.38,
+      "sid": 676,
+      "location": 2,
+      "content": "那在这整个评测里面",
+      "music": 0.0
+    },
+    {
+      "from": 1763.38,
+      "to": 1765.96,
+      "sid": 677,
+      "location": 2,
+      "content": "就已经展现出非常优秀的综合性能",
+      "music": 0.0
+    },
+    {
+      "from": 1765.96,
+      "to": 1768.74,
+      "sid": 678,
+      "location": 2,
+      "content": "能够去接近这种商业闭源模型的性能",
+      "music": 0.0
+    },
+    {
+      "from": 1768.74,
+      "to": 1772.04,
+      "sid": 679,
+      "location": 2,
+      "content": "所以我们能够从这样的一些评测榜单里面",
+      "music": 0.0
+    },
+    {
+      "from": 1772.04,
+      "to": 1774.86,
+      "sid": 680,
+      "location": 2,
+      "content": "可以去发现现在整体的一些发展趋势",
+      "music": 0.0
+    },
+    {
+      "from": 1774.86,
+      "to": 1776.73,
+      "sid": 681,
+      "location": 2,
+      "content": "以及说对于我们未来",
+      "music": 0.0
+    },
+    {
+      "from": 1776.73,
+      "to": 1778.47,
+      "sid": 682,
+      "location": 2,
+      "content": "比如说开源模型的一些选型",
+      "music": 0.0
+    },
+    {
+      "from": 1778.47,
+      "to": 1780.98,
+      "sid": 683,
+      "location": 2,
+      "content": "能够去进行一些指导",
+      "music": 0.0
+    },
+    {
+      "from": 1781.44,
+      "to": 1783.5,
+      "sid": 684,
+      "location": 2,
+      "content": "那另外的话我们还有呃",
+      "music": 0.0
+    },
+    {
+      "from": 1783.5,
+      "to": 1785.66,
+      "sid": 685,
+      "location": 2,
+      "content": "就在整个全链条开源开放体系里面",
+      "music": 0.0
+    },
+    {
+      "from": 1785.66,
+      "to": 1787.4,
+      "sid": 686,
+      "location": 2,
+      "content": "还有一个部署环节",
+      "music": 0.0
+    },
+    {
+      "from": 1787.4,
+      "to": 1790.46,
+      "sid": 687,
+      "location": 2,
+      "content": "那这边的话我们其实开发了i m deploy",
+      "music": 0.0
+    },
+    {
+      "from": 1790.46,
+      "to": 1794.02,
+      "sid": 688,
+      "location": 2,
+      "content": "这样的一个大模型的全流程的部署的解决方案",
+      "music": 0.0
+    },
+    {
+      "from": 1794.02,
+      "to": 1798.08,
+      "sid": 689,
+      "location": 2,
+      "content": "那也包括像模型的轻量化推理和服务等等",
+      "music": 0.0
+    },
+    {
+      "from": 1798.08,
+      "to": 1799.16,
+      "sid": 690,
+      "location": 2,
+      "content": "模型部署",
+      "music": 0.0
+    },
+    {
+      "from": 1799.16,
+      "to": 1802.76,
+      "sid": 691,
+      "location": 2,
+      "content": "通常来讲是呃模型上线应用里面的最后一环",
+      "music": 0.0
+    },
+    {
+      "from": 1802.76,
+      "to": 1806.15,
+      "sid": 692,
+      "location": 2,
+      "content": "那怎么样去把模型能够去啊",
+      "music": 0.0
+    },
+    {
+      "from": 1806.15,
+      "to": 1809.27,
+      "sid": 693,
+      "location": 2,
+      "content": "就在GPU上呃更快的跑起来",
+      "music": 0.0
+    },
+    {
+      "from": 1809.27,
+      "to": 1811.4,
+      "sid": 694,
+      "location": 2,
+      "content": "然后去得到更极致的性能",
+      "music": 0.0
+    },
+    {
+      "from": 1811.4,
+      "to": 1813.12,
+      "sid": 695,
+      "location": 2,
+      "content": "显存等等那些优化",
+      "music": 0.0
+    },
+    {
+      "from": 1813.12,
+      "to": 1816.7,
+      "sid": 696,
+      "location": 2,
+      "content": "那这里面m depot也做了非常多的一些工作",
+      "music": 0.0
+    },
+    {
+      "from": 1816.7,
+      "to": 1819.46,
+      "sid": 697,
+      "location": 2,
+      "content": "那它里面支持了包括模型的轻量化",
+      "music": 0.0
+    },
+    {
+      "from": 1819.46,
+      "to": 1822.07,
+      "sid": 698,
+      "location": 2,
+      "content": "比如说呃四比特权重的量化",
+      "music": 0.0
+    },
+    {
+      "from": 1822.07,
+      "to": 1824.33,
+      "sid": 699,
+      "location": 2,
+      "content": "然后八比特KV开始的量化",
+      "music": 0.0
+    },
+    {
+      "from": 1824.33,
+      "to": 1827.81,
+      "sid": 700,
+      "location": 2,
+      "content": "然后也知呃我们也开发了不同的推理引擎",
+      "music": 0.0
+    },
+    {
+      "from": 1827.81,
+      "to": 1829.16,
+      "sid": 701,
+      "location": 2,
+      "content": "比如说像top man的",
+      "music": 0.0
+    },
+    {
+      "from": 1829.16,
+      "to": 1831.67,
+      "sid": 702,
+      "location": 2,
+      "content": "或者说基于PYTCH推理引擎啊",
+      "music": 0.0
+    },
+    {
+      "from": 1831.67,
+      "to": 1832.21,
+      "sid": 703,
+      "location": 2,
+      "content": "同时的话",
+      "music": 0.0
+    },
+    {
+      "from": 1832.21,
+      "to": 1835.87,
+      "sid": 704,
+      "location": 2,
+      "content": "我们也就开发了这样的一些服务的模块",
+      "music": 0.0
+    },
+    {
+      "from": 1835.87,
+      "to": 1839.73,
+      "sid": 705,
+      "location": 2,
+      "content": "比如说能够去兼容open i的这这种server的接口",
+      "music": 0.0
+    },
+    {
+      "from": 1839.73,
+      "to": 1842.07,
+      "sid": 706,
+      "location": 2,
+      "content": "然后也有gradient的一些这种呃",
+      "music": 0.0
+    },
+    {
+      "from": 1842.07,
+      "to": 1844.65,
+      "sid": 707,
+      "location": 2,
+      "content": "这个word mo就各种各样的一些",
+      "music": 0.0
+    },
+    {
+      "from": 1844.65,
+      "to": 1846.75,
+      "sid": 708,
+      "location": 2,
+      "content": "比如说他需要去部署上限",
+      "music": 0.0
+    },
+    {
+      "from": 1846.75,
+      "to": 1849.15,
+      "sid": 709,
+      "location": 2,
+      "content": "所依赖的一些这种功能或者feature",
+      "music": 0.0
+    },
+    {
+      "from": 1849.15,
+      "to": 1852.22,
+      "sid": 710,
+      "location": 2,
+      "content": "很多在M里面都可以找到",
+      "music": 0.0
+    },
+    {
+      "from": 1852.22,
+      "to": 1855.4,
+      "sid": 711,
+      "location": 2,
+      "content": "那同时我们也提供了不同的一些访问接口",
+      "music": 0.0
+    },
+    {
+      "from": 1855.4,
+      "to": 1857.83,
+      "sid": 712,
+      "location": 2,
+      "content": "比如说像直接的Python接口呃",
+      "music": 0.0
+    },
+    {
+      "from": 1857.83,
+      "to": 1861.7,
+      "sid": 713,
+      "location": 2,
+      "content": "或者说像这种restful接口和GIPC的接口",
+      "music": 0.0
+    },
+    {
+      "from": 1861.7,
+      "to": 1862.69,
+      "sid": 714,
+      "location": 2,
+      "content": "那这里面的话",
+      "music": 0.0
+    },
+    {
+      "from": 1862.69,
+      "to": 1863.83,
+      "sid": 715,
+      "location": 2,
+      "content": "我们其实呃",
+      "music": 0.0
+    },
+    {
+      "from": 1863.83,
+      "to": 1867.6,
+      "sid": 716,
+      "location": 2,
+      "content": "就在进行了一些高效的推理引擎的优化",
+      "music": 0.0
+    },
+    {
+      "from": 1867.6,
+      "to": 1870.45,
+      "sid": 717,
+      "location": 2,
+      "content": "比如说有这种持续批处理的一些技巧",
+      "music": 0.0
+    },
+    {
+      "from": 1870.45,
+      "to": 1872.16,
+      "sid": 718,
+      "location": 2,
+      "content": "然后也有一些深度优化",
+      "music": 0.0
+    },
+    {
+      "from": 1872.16,
+      "to": 1874.159,
+      "sid": 719,
+      "location": 2,
+      "content": "一种低比特计算的一些kernel",
+      "music": 0.0
+    },
+    {
+      "from": 1874.159,
+      "to": 1877.159,
+      "sid": 720,
+      "location": 2,
+      "content": "那还有就是说关于模型并行的一些优化",
+      "music": 0.0
+    },
+    {
+      "from": 1877.159,
+      "to": 1880.92,
+      "sid": 721,
+      "location": 2,
+      "content": "和这种kv cash的一些管理的机制",
+      "music": 0.0
+    },
+    {
+      "from": 1880.92,
+      "to": 1882.96,
+      "sid": 722,
+      "location": 2,
+      "content": "那就m deploy",
+      "music": 0.0
+    },
+    {
+      "from": 1882.96,
+      "to": 1886.78,
+      "sid": 723,
+      "location": 2,
+      "content": "它其实也是一个呃就比较完备的一个工具链呃",
+      "music": 0.0
+    },
+    {
+      "from": 1886.78,
+      "to": 1890.68,
+      "sid": 724,
+      "location": 2,
+      "content": "它能够去完成从量化到推理到服务",
+      "music": 0.0
+    },
+    {
+      "from": 1890.68,
+      "to": 1891.99,
+      "sid": 725,
+      "location": 2,
+      "content": "这样的一个全体流程",
+      "music": 0.0
+    },
+    {
+      "from": 1891.99,
+      "to": 1897.34,
+      "sid": 726,
+      "location": 2,
+      "content": "也可以无缝的对接open compass来去评测推理的精度",
+      "music": 0.0
+    },
+    {
+      "from": 1897.34,
+      "to": 1901.66,
+      "sid": 727,
+      "location": 2,
+      "content": "那实验室内部现在也是会使用MLOE和",
+      "music": 0.0
+    },
+    {
+      "from": 1901.66,
+      "to": 1905.42,
+      "sid": 728,
+      "location": 2,
+      "content": "哪怕去做这种评测的一个加速啊",
+      "music": 0.0
+    },
+    {
+      "from": 1905.42,
+      "to": 1908.9,
+      "sid": 729,
+      "location": 2,
+      "content": "我们也可以去这边也有多维度的推理",
+      "music": 0.0
+    },
+    {
+      "from": 1908.9,
+      "to": 1910.67,
+      "sid": 730,
+      "location": 2,
+      "content": "速度的评测的工具",
+      "music": 0.0
+    },
+    {
+      "from": 1910.67,
+      "to": 1914.9,
+      "sid": 731,
+      "location": 2,
+      "content": "同时的话fm depot也支持这种交互式推理",
+      "music": 0.0
+    },
+    {
+      "from": 1914.9,
+      "to": 1916.19,
+      "sid": 732,
+      "location": 2,
+      "content": "比如说类似于呃",
+      "music": 0.0
+    },
+    {
+      "from": 1916.19,
+      "to": 1919.43,
+      "sid": 733,
+      "location": 2,
+      "content": "我们呃就跟类似于UI上面",
+      "music": 0.0
+    },
+    {
+      "from": 1919.43,
+      "to": 1921.71,
+      "sid": 734,
+      "location": 2,
+      "content": "我们可能问一句答一句这种呃",
+      "music": 0.0
+    },
+    {
+      "from": 1921.71,
+      "to": 1922.49,
+      "sid": 735,
+      "location": 2,
+      "content": "那也支持",
+      "music": 0.0
+    },
+    {
+      "from": 1922.49,
+      "to": 1924.23,
+      "sid": 736,
+      "location": 2,
+      "content": "比如说这种非交互式的",
+      "music": 0.0
+    },
+    {
+      "from": 1924.23,
+      "to": 1927.275,
+      "sid": 737,
+      "location": 2,
+      "content": "我们把整个对话历史都发给模型",
+      "music": 0.0
+    },
+    {
+      "from": 1929.04,
+      "to": 1932.0,
+      "sid": 738,
+      "location": 2,
+      "content": "呃那这里的话是m deploy和V2",
+      "music": 0.0
+    },
+    {
+      "from": 1932.0,
+      "to": 1935.72,
+      "sid": 739,
+      "location": 2,
+      "content": "M这样的一个社区非常流行的呃推理框架",
+      "music": 0.0
+    },
+    {
+      "from": 1935.72,
+      "to": 1937.51,
+      "sid": 740,
+      "location": 2,
+      "content": "它的一个性能的对比",
+      "music": 0.0
+    },
+    {
+      "from": 1937.51,
+      "to": 1939.01,
+      "sid": 741,
+      "location": 2,
+      "content": "我们可以看到啊",
+      "music": 0.0
+    },
+    {
+      "from": 1939.01,
+      "to": 1940.6,
+      "sid": 742,
+      "location": 2,
+      "content": "在A100上呃",
+      "music": 0.0
+    },
+    {
+      "from": 1940.6,
+      "to": 1944.14,
+      "sid": 743,
+      "location": 2,
+      "content": "m deploy它的一个推理效率是要呃",
+      "music": 0.0
+    },
+    {
+      "from": 1944.14,
+      "to": 1947.98,
+      "sid": 744,
+      "location": 2,
+      "content": "在不同的模型尺寸上其实都是优于VRM的",
+      "music": 0.0
+    },
+    {
+      "from": 1947.98,
+      "to": 1951.82,
+      "sid": 745,
+      "location": 2,
+      "content": "那这这样的话其实也能够为我们的线上服务牛",
+      "music": 0.0
+    },
+    {
+      "from": 1951.82,
+      "to": 1954.22,
+      "sid": 746,
+      "location": 2,
+      "content": "就相当于预留更多的一个容量",
+      "music": 0.0
+    },
+    {
+      "from": 1954.22,
+      "to": 1958.28,
+      "sid": 747,
+      "location": 2,
+      "content": "然后也能够让我们的一些这种呃推荐响应呃",
+      "music": 0.0
+    },
+    {
+      "from": 1958.28,
+      "to": 1960.58,
+      "sid": 748,
+      "location": 2,
+      "content": "能够更快",
+      "music": 0.0
+    },
+    {
+      "from": 1963.08,
+      "to": 1964.84,
+      "sid": 749,
+      "location": 2,
+      "content": "啊那最后也介绍一下啊",
+      "music": 0.0
+    },
+    {
+      "from": 1964.84,
+      "to": 1966.16,
+      "sid": 750,
+      "location": 2,
+      "content": "我们智能体的框架",
+      "music": 0.0
+    },
+    {
+      "from": 1966.16,
+      "to": 1968.26,
+      "sid": 751,
+      "location": 2,
+      "content": "比如说这边我们开发了一个",
+      "music": 0.0
+    },
+    {
+      "from": 1968.26,
+      "to": 1970.61,
+      "sid": 752,
+      "location": 2,
+      "content": "轻量级的智能体框架leg啊",
+      "music": 0.0
+    },
+    {
+      "from": 1970.61,
+      "to": 1973.87,
+      "sid": 753,
+      "location": 2,
+      "content": "那他只能够去支持多种的智能体的能力啊",
+      "music": 0.0
+    },
+    {
+      "from": 1973.87,
+      "to": 1975.97,
+      "sid": 754,
+      "location": 2,
+      "content": "比如说像react的一些啊",
+      "music": 0.0
+    },
+    {
+      "from": 1975.97,
+      "to": 1976.87,
+      "sid": 755,
+      "location": 2,
+      "content": "还有人物",
+      "music": 0.0
+    },
+    {
+      "from": 1976.87,
+      "to": 1978.25,
+      "sid": 756,
+      "location": 2,
+      "content": "还有auto gp这样的",
+      "music": 0.0
+    },
+    {
+      "from": 1978.25,
+      "to": 1981.24,
+      "sid": 757,
+      "location": 2,
+      "content": "不同的一些这种智能体的一些拍拍啊",
+      "music": 0.0
+    },
+    {
+      "from": 1981.24,
+      "to": 1983.52,
+      "sid": 758,
+      "location": 2,
+      "content": "比如说我们呃从输入",
+      "music": 0.0
+    },
+    {
+      "from": 1983.52,
+      "to": 1986.28,
+      "sid": 759,
+      "location": 2,
+      "content": "然后接下来怎么去选择选择和执行工具",
+      "music": 0.0
+    },
+    {
+      "from": 1986.28,
+      "to": 1988.81,
+      "sid": 760,
+      "location": 2,
+      "content": "以及说是否有计划拆拆分等等",
+      "music": 0.0
+    },
+    {
+      "from": 1988.81,
+      "to": 1991.51,
+      "sid": 761,
+      "location": 2,
+      "content": "那这样不同的一些呃智能体的流程",
+      "music": 0.0
+    },
+    {
+      "from": 1991.51,
+      "to": 1994.27,
+      "sid": 762,
+      "location": 2,
+      "content": "其实都是在里面可以去啊一键支持",
+      "music": 0.0
+    },
+    {
+      "from": 1994.27,
+      "to": 1996.53,
+      "sid": 763,
+      "location": 2,
+      "content": "以及说可以去开发新的流程",
+      "music": 0.0
+    },
+    {
+      "from": 1996.53,
+      "to": 1999.5,
+      "sid": 764,
+      "location": 2,
+      "content": "并且也可以去灵活的支持各种大语言模型",
+      "music": 0.0
+    },
+    {
+      "from": 1999.5,
+      "to": 2002.41,
+      "sid": 765,
+      "location": 2,
+      "content": "包括一些这种大模型的API",
+      "music": 0.0
+    },
+    {
+      "from": 2002.41,
+      "to": 2004.33,
+      "sid": 766,
+      "location": 2,
+      "content": "像GP3.5和gt4",
+      "music": 0.0
+    },
+    {
+      "from": 2004.33,
+      "to": 2005.29,
+      "sid": 767,
+      "location": 2,
+      "content": "那也支持",
+      "music": 0.0
+    },
+    {
+      "from": 2005.29,
+      "to": 2007.03,
+      "sid": 768,
+      "location": 2,
+      "content": "比如说一些care模型啊",
+      "music": 0.0
+    },
+    {
+      "from": 2007.03,
+      "to": 2008.68,
+      "sid": 769,
+      "location": 2,
+      "content": "像哈根face里面的模型",
+      "music": 0.0
+    },
+    {
+      "from": 2008.68,
+      "to": 2010.79,
+      "sid": 770,
+      "location": 2,
+      "content": "还有英特的模型",
+      "music": 0.0
+    },
+    {
+      "from": 2010.79,
+      "to": 2014.09,
+      "sid": 771,
+      "location": 2,
+      "content": "它也能够有很多的一些内置的广工具啊",
+      "music": 0.0
+    },
+    {
+      "from": 2014.09,
+      "to": 2016.9,
+      "sid": 772,
+      "location": 2,
+      "content": "可以去直接使用",
+      "music": 0.0
+    },
+    {
+      "from": 2017.78,
+      "to": 2020.38,
+      "sid": 773,
+      "location": 2,
+      "content": "那这边的话呃比如说也举两个例子",
+      "music": 0.0
+    },
+    {
+      "from": 2020.38,
+      "to": 2023.32,
+      "sid": 774,
+      "location": 2,
+      "content": "就一个是通过legend这样的一个框架",
+      "music": 0.0
+    },
+    {
+      "from": 2023.32,
+      "to": 2025.28,
+      "sid": 775,
+      "location": 2,
+      "content": "我们就可以让模型去实现",
+      "music": 0.0
+    },
+    {
+      "from": 2025.28,
+      "to": 2028.87,
+      "sid": 776,
+      "location": 2,
+      "content": "比如说代码刚才提到的代码解数学题的能力",
+      "music": 0.0
+    },
+    {
+      "from": 2029.21,
+      "to": 2032.35,
+      "sid": 777,
+      "location": 2,
+      "content": "以及说这边还有一个多模态AI工具的使用啊",
+      "music": 0.0
+    },
+    {
+      "from": 2032.35,
+      "to": 2034.52,
+      "sid": 778,
+      "location": 2,
+      "content": "我们可以做到零样本的一个放化",
+      "music": 0.0
+    },
+    {
+      "from": 2034.52,
+      "to": 2037.4,
+      "sid": 779,
+      "location": 2,
+      "content": "那这样的话其实这个demo也是基于a legend",
+      "music": 0.0
+    },
+    {
+      "from": 2037.4,
+      "to": 2038.54,
+      "sid": 780,
+      "location": 2,
+      "content": "我们可以去搭建",
+      "music": 0.0
+    },
+    {
+      "from": 2038.54,
+      "to": 2040.1,
+      "sid": 781,
+      "location": 2,
+      "content": "那智能体的框架",
+      "music": 0.0
+    },
+    {
+      "from": 2040.1,
+      "to": 2042.47,
+      "sid": 782,
+      "location": 2,
+      "content": "其实就给我们如何去使用",
+      "music": 0.0
+    },
+    {
+      "from": 2042.47,
+      "to": 2044.57,
+      "sid": 783,
+      "location": 2,
+      "content": "和进一步的去开发大模型",
+      "music": 0.0
+    },
+    {
+      "from": 2044.57,
+      "to": 2047.889,
+      "sid": 784,
+      "location": 2,
+      "content": "就留下了很多的一些这种可能性",
+      "music": 0.0
+    },
+    {
+      "from": 2048.85,
+      "to": 2050.43,
+      "sid": 785,
+      "location": 2,
+      "content": "那刚才其实呃",
+      "music": 0.0
+    },
+    {
+      "from": 2050.43,
+      "to": 2053.52,
+      "sid": 786,
+      "location": 2,
+      "content": "legend是这种智能体的整体的一个框架",
+      "music": 0.0
+    },
+    {
+      "from": 2053.52,
+      "to": 2055.509,
+      "sid": 787,
+      "location": 2,
+      "content": "那除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 2055.509,
+      "to": 2057.039,
+      "sid": 788,
+      "location": 2,
+      "content": "我们还开发了多媒体",
+      "music": 0.0
+    },
+    {
+      "from": 2057.039,
+      "to": 2058.989,
+      "sid": 789,
+      "location": 2,
+      "content": "多模态智能体的一个工具箱啊",
+      "music": 0.0
+    },
+    {
+      "from": 2058.989,
+      "to": 2060.919,
+      "sid": 790,
+      "location": 2,
+      "content": "就agent lego这边的话",
+      "music": 0.0
+    },
+    {
+      "from": 2060.919,
+      "to": 2064.059,
+      "sid": 791,
+      "location": 2,
+      "content": "其实它主要是一个比较丰富的工具集合呃",
+      "music": 0.0
+    },
+    {
+      "from": 2064.059,
+      "to": 2066.519,
+      "sid": 792,
+      "location": 2,
+      "content": "尤其它提供了大量的这种跟视觉",
+      "music": 0.0
+    },
+    {
+      "from": 2066.519,
+      "to": 2069.339,
+      "sid": 793,
+      "location": 2,
+      "content": "多模态相关的领域的一些前沿的算法功能",
+      "music": 0.0
+    },
+    {
+      "from": 2069.339,
+      "to": 2071.379,
+      "sid": 794,
+      "location": 2,
+      "content": "比如说呃就open map",
+      "music": 0.0
+    },
+    {
+      "from": 2071.379,
+      "to": 2073.71,
+      "sid": 795,
+      "location": 2,
+      "content": "是目前啊计算机视觉领域",
+      "music": 0.0
+    },
+    {
+      "from": 2073.71,
+      "to": 2076.5,
+      "sid": 796,
+      "location": 2,
+      "content": "应该是最大或者说最全的一个模型库",
+      "music": 0.0
+    },
+    {
+      "from": 2080.22,
+      "to": 2081.42,
+      "sid": 797,
+      "location": 2,
+      "content": "或者说高性能的算法",
+      "music": 0.0
+    },
+    {
+      "from": 2081.42,
+      "to": 2083.37,
+      "sid": 798,
+      "location": 2,
+      "content": "其实在这里面去做了封装",
+      "music": 0.0
+    },
+    {
+      "from": 2083.37,
+      "to": 2085.59,
+      "sid": 799,
+      "location": 2,
+      "content": "那我们除了除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 2085.59,
+      "to": 2087.63,
+      "sid": 800,
+      "location": 2,
+      "content": "还包括像stable diffusion",
+      "music": 0.0
+    },
+    {
+      "from": 2087.63,
+      "to": 2089.79,
+      "sid": 801,
+      "location": 2,
+      "content": "然后像一些语音的模型",
+      "music": 0.0
+    },
+    {
+      "from": 2089.79,
+      "to": 2092.97,
+      "sid": 802,
+      "location": 2,
+      "content": "包括像这种SAM这一类分割的模型呃",
+      "music": 0.0
+    },
+    {
+      "from": 2092.97,
+      "to": 2094.11,
+      "sid": 803,
+      "location": 2,
+      "content": "在agent lego里面",
+      "music": 0.0
+    },
+    {
+      "from": 2094.11,
+      "to": 2095.27,
+      "sid": 804,
+      "location": 2,
+      "content": "其实都做了支持",
+      "music": 0.0
+    },
+    {
+      "from": 2095.27,
+      "to": 2097.85,
+      "sid": 805,
+      "location": 2,
+      "content": "所以的话当我们想要去把呃",
+      "music": 0.0
+    },
+    {
+      "from": 2097.85,
+      "to": 2099.89,
+      "sid": 806,
+      "location": 2,
+      "content": "就语言模型去拓展到一个",
+      "music": 0.0
+    },
+    {
+      "from": 2099.89,
+      "to": 2101.51,
+      "sid": 807,
+      "location": 2,
+      "content": "这种多模态智能体的时候",
+      "music": 0.0
+    },
+    {
+      "from": 2101.51,
+      "to": 2104.36,
+      "sid": 808,
+      "location": 2,
+      "content": "我们可以借助HNEO这样的一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 2104.36,
+      "to": 2107.71,
+      "sid": 809,
+      "location": 2,
+      "content": "就工具箱来去完成啊",
+      "music": 0.0
+    },
+    {
+      "from": 2107.71,
+      "to": 2111.43,
+      "sid": 810,
+      "location": 2,
+      "content": "整体的一个这种智能体的一个呃就工具集",
+      "music": 0.0
+    },
+    {
+      "from": 2111.43,
+      "to": 2116.11,
+      "sid": 811,
+      "location": 2,
+      "content": "然后大家就可以fox在智能体本身的一些开发商",
+      "music": 0.0
+    },
+    {
+      "from": 2116.27,
+      "to": 2117.61,
+      "sid": 812,
+      "location": 2,
+      "content": "那agent neo的话",
+      "music": 0.0
+    },
+    {
+      "from": 2117.61,
+      "to": 2119.77,
+      "sid": 813,
+      "location": 2,
+      "content": "它其实能够去兼容a legend",
+      "music": 0.0
+    },
+    {
+      "from": 2119.77,
+      "to": 2120.61,
+      "sid": 814,
+      "location": 2,
+      "content": "也可以去兼容",
+      "music": 0.0
+    },
+    {
+      "from": 2120.61,
+      "to": 2123.42,
+      "sid": 815,
+      "location": 2,
+      "content": "比如说像long cha呃和transformer agent",
+      "music": 0.0
+    },
+    {
+      "from": 2123.42,
+      "to": 2125.979,
+      "sid": 816,
+      "location": 2,
+      "content": "就其他的一些这种agent的框架啊",
+      "music": 0.0
+    },
+    {
+      "from": 2125.979,
+      "to": 2128.049,
+      "sid": 817,
+      "location": 2,
+      "content": "所以的话我们其实是把呃",
+      "music": 0.0
+    },
+    {
+      "from": 2128.049,
+      "to": 2131.439,
+      "sid": 818,
+      "location": 2,
+      "content": "智就智能体的工具箱和智能体本身框架",
+      "music": 0.0
+    },
+    {
+      "from": 2131.439,
+      "to": 2136.14,
+      "sid": 819,
+      "location": 2,
+      "content": "就框架本身呃是也是做了一定的解耦",
+      "music": 0.0
+    },
+    {
+      "from": 2137.92,
+      "to": 2141.09,
+      "sid": 820,
+      "location": 2,
+      "content": "好那最后的话呃来回顾一下",
+      "music": 0.0
+    },
+    {
+      "from": 2141.09,
+      "to": 2145.43,
+      "sid": 821,
+      "location": 2,
+      "content": "就是说书生葡语的全面条开就开源开放体系呃",
+      "music": 0.0
+    },
+    {
+      "from": 2145.43,
+      "to": 2148.34,
+      "sid": 822,
+      "location": 2,
+      "content": "包括了从数据到预训练到微调",
+      "music": 0.0
+    },
+    {
+      "from": 2148.34,
+      "to": 2152.4,
+      "sid": 823,
+      "location": 2,
+      "content": "到部署到评测到应用这样的不同的一些环节呃",
+      "music": 0.0
+    },
+    {
+      "from": 2152.4,
+      "to": 2156.75,
+      "sid": 824,
+      "location": 2,
+      "content": "就整体大家呃需要去基于呃大模型",
+      "music": 0.0
+    },
+    {
+      "from": 2156.75,
+      "to": 2160.109,
+      "sid": 825,
+      "location": 2,
+      "content": "然后去做这样的各种各样的一些应用开发",
+      "music": 0.0
+    },
+    {
+      "from": 2160.109,
+      "to": 2161.669,
+      "sid": 826,
+      "location": 2,
+      "content": "和一些微调实现",
+      "music": 0.0
+    },
+    {
+      "from": 2161.669,
+      "to": 2165.389,
+      "sid": 827,
+      "location": 2,
+      "content": "基本上都可以在英特尔M这样的一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 2165.389,
+      "to": 2169.234,
+      "sid": 828,
+      "location": 2,
+      "content": "就开源的工具链里面去找到相应的工具",
+      "music": 0.0
+    },
+    {
+      "from": 2169.54,
+      "to": 2175.62,
+      "sid": 829,
+      "location": 2,
+      "content": "好那呃就呃就这一节的那个课程就到此为止",
+      "music": 0.0
+    },
+    {
+      "from": 2175.62,
+      "to": 2176.82,
+      "sid": 830,
+      "location": 2,
+      "content": "也是非常感谢大家",
+      "music": 0.0
+    },
+    {
+      "from": 2176.82,
+      "to": 2180.72,
+      "sid": 831,
+      "location": 2,
+      "content": "我们也是希望以这种高质量的开源来去赋能啊",
+      "music": 0.0
+    },
+    {
+      "from": 2180.72,
+      "to": 2181.8,
+      "sid": 832,
+      "location": 2,
+      "content": "整体的一个创新",
+      "music": 0.0
+    }
+  ]
+}
