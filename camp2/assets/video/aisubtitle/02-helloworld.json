@@ -1,0 +1,2340 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.6.0.4",
+  "body": [
+    {
+      "from": 0.4,
+      "to": 0.88,
+      "sid": 1,
+      "location": 2,
+      "content": "Hello",
+      "music": 0.0
+    },
+    {
+      "from": 0.88,
+      "to": 1.36,
+      "sid": 2,
+      "location": 2,
+      "content": "大家好啊",
+      "music": 0.0
+    },
+    {
+      "from": 1.36,
+      "to": 2.11,
+      "sid": 3,
+      "location": 2,
+      "content": "我叫任玉鹏",
+      "music": 0.0
+    },
+    {
+      "from": 2.11,
+      "to": 4.18,
+      "sid": 4,
+      "location": 2,
+      "content": "是书生葡语社区大模型角色扮演",
+      "music": 0.0
+    },
+    {
+      "from": 4.18,
+      "to": 5.62,
+      "sid": 5,
+      "location": 2,
+      "content": "特别幸运小组的组长",
+      "music": 0.0
+    },
+    {
+      "from": 5.62,
+      "to": 7.72,
+      "sid": 6,
+      "location": 2,
+      "content": "我将和大家一起完成书生葡语",
+      "music": 0.0
+    },
+    {
+      "from": 7.72,
+      "to": 9.24,
+      "sid": 7,
+      "location": 2,
+      "content": "趣味demo的相关内容",
+      "music": 0.0
+    },
+    {
+      "from": 9.24,
+      "to": 12.66,
+      "sid": 8,
+      "location": 2,
+      "content": "课程的学习文档会在github tool上同步推出",
+      "music": 0.0
+    },
+    {
+      "from": 12.66,
+      "to": 15.66,
+      "sid": 9,
+      "location": 2,
+      "content": "在这里我会和大家进行简要的介绍",
+      "music": 0.0
+    },
+    {
+      "from": 15.66,
+      "to": 19.22,
+      "sid": 10,
+      "location": 2,
+      "content": "我们主要分成四部分完成demo实战",
+      "music": 0.0
+    },
+    {
+      "from": 19.22,
+      "to": 20.54,
+      "sid": 11,
+      "location": 2,
+      "content": "在基础练习中",
+      "music": 0.0
+    },
+    {
+      "from": 20.54,
+      "to": 23.69,
+      "sid": 12,
+      "location": 2,
+      "content": "我们会尝试部署英特尔M2产1.8B模型",
+      "music": 0.0
+    },
+    {
+      "from": 23.69,
+      "to": 24.86,
+      "sid": 13,
+      "location": 2,
+      "content": "以及实战营作品",
+      "music": 0.0
+    },
+    {
+      "from": 24.86,
+      "to": 27.32,
+      "sid": 14,
+      "location": 2,
+      "content": "八届产的1.8B在进阶部分",
+      "music": 0.0
+    },
+    {
+      "from": 27.32,
+      "to": 28.88,
+      "sid": 15,
+      "location": 2,
+      "content": "我会主要向大家演示",
+      "music": 0.0
+    },
+    {
+      "from": 28.88,
+      "to": 32.999,
+      "sid": 16,
+      "location": 2,
+      "content": "雷阵智能体demo和零比英特im x composer2",
+      "music": 0.0
+    },
+    {
+      "from": 32.999,
+      "to": 36.45,
+      "sid": 17,
+      "location": 2,
+      "content": "的图文生成以及视觉问答",
+      "music": 0.0
+    },
+    {
+      "from": 36.91,
+      "to": 38.37,
+      "sid": 18,
+      "location": 2,
+      "content": "对于demo任务",
+      "music": 0.0
+    },
+    {
+      "from": 38.37,
+      "to": 41.37,
+      "sid": 19,
+      "location": 2,
+      "content": "在实战部署英特尔M2chat1.8B时",
+      "music": 0.0
+    },
+    {
+      "from": 41.37,
+      "to": 43.0,
+      "sid": 20,
+      "location": 2,
+      "content": "我们会初步熟悉开发机",
+      "music": 0.0
+    },
+    {
+      "from": 43.0,
+      "to": 44.38,
+      "sid": 21,
+      "location": 2,
+      "content": "了解一些基础功能",
+      "music": 0.0
+    },
+    {
+      "from": 44.38,
+      "to": 45.85,
+      "sid": 22,
+      "location": 2,
+      "content": "并下载1.8B模型",
+      "music": 0.0
+    },
+    {
+      "from": 45.85,
+      "to": 49.48,
+      "sid": 23,
+      "location": 2,
+      "content": "以本地client demo的成功部署作为实现目标",
+      "music": 0.0
+    },
+    {
+      "from": 49.48,
+      "to": 53.26,
+      "sid": 24,
+      "location": 2,
+      "content": "紧接着我们会尝试部署第一期实战营优秀作品",
+      "music": 0.0
+    },
+    {
+      "from": 53.26,
+      "to": 56.44,
+      "sid": 25,
+      "location": 2,
+      "content": "八届产的1.8B并了解如何部署自定义模型",
+      "music": 0.0
+    },
+    {
+      "from": 56.44,
+      "to": 59.12,
+      "sid": 26,
+      "location": 2,
+      "content": "以及如何实现本地端口映射",
+      "music": 0.0
+    },
+    {
+      "from": 59.239,
+      "to": 62.599,
+      "sid": 27,
+      "location": 2,
+      "content": "第三部分也就来到了我们的实战进阶环节",
+      "music": 0.0
+    },
+    {
+      "from": 62.599,
+      "to": 64.999,
+      "sid": 28,
+      "location": 2,
+      "content": "我们需要以英特尔M2chat7B为基础",
+      "music": 0.0
+    },
+    {
+      "from": 64.999,
+      "to": 65.899,
+      "sid": 29,
+      "location": 2,
+      "content": "建立软链接",
+      "music": 0.0
+    },
+    {
+      "from": 65.899,
+      "to": 67.9,
+      "sid": 30,
+      "location": 2,
+      "content": "并且运行雷阵智能体demo",
+      "music": 0.0
+    },
+    {
+      "from": 67.9,
+      "to": 71.49,
+      "sid": 31,
+      "location": 2,
+      "content": "体验智能体在数据分析辅助下的应用效果",
+      "music": 0.0
+    },
+    {
+      "from": 71.49,
+      "to": 73.53,
+      "sid": 32,
+      "location": 2,
+      "content": "而实战进阶的最后部分",
+      "music": 0.0
+    },
+    {
+      "from": 73.53,
+      "to": 76.77,
+      "sid": 33,
+      "location": 2,
+      "content": "会通过零比英特尔arm x combos2的图文生成",
+      "music": 0.0
+    },
+    {
+      "from": 76.77,
+      "to": 78.72,
+      "sid": 34,
+      "location": 2,
+      "content": "以及视觉问答demo为切入点",
+      "music": 0.0
+    },
+    {
+      "from": 78.72,
+      "to": 81.085,
+      "sid": 35,
+      "location": 2,
+      "content": "浅尝多模态的超强能力",
+      "music": 0.0
+    },
+    {
+      "from": 81.81,
+      "to": 83.75,
+      "sid": 36,
+      "location": 2,
+      "content": "在完成本章节任务之后",
+      "music": 0.0
+    },
+    {
+      "from": 83.75,
+      "to": 85.97,
+      "sid": 37,
+      "location": 2,
+      "content": "我们就可以选择有意向的兴趣小组",
+      "music": 0.0
+    },
+    {
+      "from": 85.97,
+      "to": 87.289,
+      "sid": 38,
+      "location": 2,
+      "content": "做进一步探索",
+      "music": 0.0
+    },
+    {
+      "from": 87.289,
+      "to": 89.449,
+      "sid": 39,
+      "location": 2,
+      "content": "现有的书生葡语特别幸运小组",
+      "music": 0.0
+    },
+    {
+      "from": 89.449,
+      "to": 92.49,
+      "sid": 40,
+      "location": 2,
+      "content": "也就是SG包括了角色扮演多模态",
+      "music": 0.0
+    },
+    {
+      "from": 92.49,
+      "to": 93.69,
+      "sid": 41,
+      "location": 2,
+      "content": "Rng deploy",
+      "music": 0.0
+    },
+    {
+      "from": 93.69,
+      "to": 96.83,
+      "sid": 42,
+      "location": 2,
+      "content": "并行与量化A阵以及模型评测",
+      "music": 0.0
+    },
+    {
+      "from": 96.83,
+      "to": 99.23,
+      "sid": 43,
+      "location": 2,
+      "content": "SG会定期开展圆桌会议",
+      "music": 0.0
+    },
+    {
+      "from": 99.23,
+      "to": 101.52,
+      "sid": 44,
+      "location": 2,
+      "content": "并鼓励大家发掘自定义的开源项目",
+      "music": 0.0
+    },
+    {
+      "from": 101.52,
+      "to": 104.1,
+      "sid": 45,
+      "location": 2,
+      "content": "当然如果各位的项目计划成熟",
+      "music": 0.0
+    },
+    {
+      "from": 104.1,
+      "to": 104.97,
+      "sid": 46,
+      "location": 2,
+      "content": "设计独到",
+      "music": 0.0
+    },
+    {
+      "from": 104.97,
+      "to": 108.169,
+      "sid": 47,
+      "location": 2,
+      "content": "SG也会给予大家更多的资源支持",
+      "music": 0.0
+    },
+    {
+      "from": 108.169,
+      "to": 110.029,
+      "sid": 48,
+      "location": 2,
+      "content": "在第一期实战营之中",
+      "music": 0.0
+    },
+    {
+      "from": 110.029,
+      "to": 113.239,
+      "sid": 49,
+      "location": 2,
+      "content": "chi holo rolay西游以及chat嬛嬛",
+      "music": 0.0
+    },
+    {
+      "from": 113.239,
+      "to": 115.6,
+      "sid": 50,
+      "location": 2,
+      "content": "都是以角色扮演为出发点的优秀作品",
+      "music": 0.0
+    },
+    {
+      "from": 115.6,
+      "to": 118.66,
+      "sid": 51,
+      "location": 2,
+      "content": "这三个作品都在浦原大模型系列挑战赛之中",
+      "music": 0.0
+    },
+    {
+      "from": 118.66,
+      "to": 119.56,
+      "sid": 52,
+      "location": 2,
+      "content": "荣获的奖项",
+      "music": 0.0
+    },
+    {
+      "from": 119.56,
+      "to": 121.78,
+      "sid": 53,
+      "location": 2,
+      "content": "并且发布了1.8倍的mini版本",
+      "music": 0.0
+    },
+    {
+      "from": 121.78,
+      "to": 124.3,
+      "sid": 54,
+      "location": 2,
+      "content": "我们也会以西游为例向大家展示",
+      "music": 0.0
+    },
+    {
+      "from": 124.3,
+      "to": 127.55,
+      "sid": 55,
+      "location": 2,
+      "content": "在这里我也简单介绍一下角色扮演SG",
+      "music": 0.0
+    },
+    {
+      "from": 127.55,
+      "to": 128.81,
+      "sid": 56,
+      "location": 2,
+      "content": "我们以角色代入",
+      "music": 0.0
+    },
+    {
+      "from": 128.81,
+      "to": 129.62,
+      "sid": 57,
+      "location": 2,
+      "content": "角色微调",
+      "music": 0.0
+    },
+    {
+      "from": 129.62,
+      "to": 131.45,
+      "sid": 58,
+      "location": 2,
+      "content": "角色评测等多个综合角度",
+      "music": 0.0
+    },
+    {
+      "from": 131.45,
+      "to": 134.01,
+      "sid": 59,
+      "location": 2,
+      "content": "尝试探索大模型角色扮演的能力边界",
+      "music": 0.0
+    },
+    {
+      "from": 134.01,
+      "to": 135.09,
+      "sid": 60,
+      "location": 2,
+      "content": "而作为组长",
+      "music": 0.0
+    },
+    {
+      "from": 135.09,
+      "to": 138.0,
+      "sid": 61,
+      "location": 2,
+      "content": "我欢迎有兴趣的小伙伴一起来探索",
+      "music": 0.0
+    },
+    {
+      "from": 138.34,
+      "to": 139.26,
+      "sid": 62,
+      "location": 2,
+      "content": "说到这里",
+      "music": 0.0
+    },
+    {
+      "from": 139.26,
+      "to": 140.85,
+      "sid": 63,
+      "location": 2,
+      "content": "就让我们开始实战体验吧",
+      "music": 0.0
+    },
+    {
+      "from": 140.85,
+      "to": 141.75,
+      "sid": 64,
+      "location": 2,
+      "content": "如果觉得不错",
+      "music": 0.0
+    },
+    {
+      "from": 141.75,
+      "to": 145.329,
+      "sid": 65,
+      "location": 2,
+      "content": "就请大家在GITHUB之中给英特尔IM点一个star",
+      "music": 0.0
+    },
+    {
+      "from": 145.329,
+      "to": 150.249,
+      "sid": 66,
+      "location": 2,
+      "content": "OK那我们现在用英特m tutorial的hello world文档",
+      "music": 0.0
+    },
+    {
+      "from": 150.249,
+      "to": 153.37,
+      "sid": 67,
+      "location": 2,
+      "content": "带着大家一起完成趣味demo的任务",
+      "music": 0.0
+    },
+    {
+      "from": 153.37,
+      "to": 157.3,
+      "sid": 68,
+      "location": 2,
+      "content": "首先第一个是部署英特尔M2HD8B模型",
+      "music": 0.0
+    },
+    {
+      "from": 157.3,
+      "to": 159.04,
+      "sid": 69,
+      "location": 2,
+      "content": "并进行智能对话",
+      "music": 0.0
+    },
+    {
+      "from": 159.04,
+      "to": 161.91,
+      "sid": 70,
+      "location": 2,
+      "content": "我们先在英特尔studio里创建开发机",
+      "music": 0.0
+    },
+    {
+      "from": 161.91,
+      "to": 162.75,
+      "sid": 71,
+      "location": 2,
+      "content": "开发器名称",
+      "music": 0.0
+    },
+    {
+      "from": 162.75,
+      "to": 163.77,
+      "sid": 72,
+      "location": 2,
+      "content": "我们可以任意选择",
+      "music": 0.0
+    },
+    {
+      "from": 163.77,
+      "to": 166.62,
+      "sid": 73,
+      "location": 2,
+      "content": "我们这里选择教程示例",
+      "music": 0.0
+    },
+    {
+      "from": 166.62,
+      "to": 169.74,
+      "sid": 74,
+      "location": 2,
+      "content": "然后我们的镜像选择KDA11.7",
+      "music": 0.0
+    },
+    {
+      "from": 169.74,
+      "to": 174.52,
+      "sid": 75,
+      "location": 2,
+      "content": "KDGPU选择十一百%即可",
+      "music": 0.0
+    },
+    {
+      "from": 174.52,
+      "to": 177.1,
+      "sid": 76,
+      "location": 2,
+      "content": "我们立即创建",
+      "music": 0.0
+    },
+    {
+      "from": 179.96,
+      "to": 182.8,
+      "sid": 77,
+      "location": 2,
+      "content": "OK那么创建完成之后",
+      "music": 0.0
+    },
+    {
+      "from": 182.8,
+      "to": 185.18,
+      "sid": 78,
+      "location": 2,
+      "content": "我们进入开发机",
+      "music": 0.0
+    },
+    {
+      "from": 185.7,
+      "to": 188.45,
+      "sid": 79,
+      "location": 2,
+      "content": "在开发机里边有三种模式",
+      "music": 0.0
+    },
+    {
+      "from": 188.45,
+      "to": 190.61,
+      "sid": 80,
+      "location": 2,
+      "content": "第一个是jupiter lab",
+      "music": 0.0
+    },
+    {
+      "from": 190.61,
+      "to": 192.38,
+      "sid": 81,
+      "location": 2,
+      "content": "第二个是terminal",
+      "music": 0.0
+    },
+    {
+      "from": 192.38,
+      "to": 193.88,
+      "sid": 82,
+      "location": 2,
+      "content": "第三个是code server",
+      "music": 0.0
+    },
+    {
+      "from": 193.88,
+      "to": 194.95,
+      "sid": 83,
+      "location": 2,
+      "content": "也就是vs code",
+      "music": 0.0
+    },
+    {
+      "from": 194.98,
+      "to": 198.1,
+      "sid": 84,
+      "location": 2,
+      "content": "我们这次选用jupiter lab的方式",
+      "music": 0.0
+    },
+    {
+      "from": 198.1,
+      "to": 199.78,
+      "sid": 85,
+      "location": 2,
+      "content": "来去完成后续的任务",
+      "music": 0.0
+    },
+    {
+      "from": 199.78,
+      "to": 201.91,
+      "sid": 86,
+      "location": 2,
+      "content": "我们点击terminal",
+      "music": 0.0
+    },
+    {
+      "from": 202.37,
+      "to": 209.88,
+      "sid": 87,
+      "location": 2,
+      "content": "然后输入studio康达的命令来去创建环境",
+      "music": 0.0
+    },
+    {
+      "from": 222.64,
+      "to": 225.09,
+      "sid": 88,
+      "location": 2,
+      "content": "OK那么经过一段时间的等待",
+      "music": 0.0
+    },
+    {
+      "from": 225.09,
+      "to": 228.629,
+      "sid": 89,
+      "location": 2,
+      "content": "我们已经完成了基本环境的配置",
+      "music": 0.0
+    },
+    {
+      "from": 228.629,
+      "to": 232.67,
+      "sid": 90,
+      "location": 2,
+      "content": "我们来跟着文档继续输入后续的命令",
+      "music": 0.0
+    },
+    {
+      "from": 232.67,
+      "to": 237.8,
+      "sid": 91,
+      "location": 2,
+      "content": "我们首先要通过conda activate激活我们的环境",
+      "music": 0.0
+    },
+    {
+      "from": 237.8,
+      "to": 240.26,
+      "sid": 92,
+      "location": 2,
+      "content": "然后我们要输入以下命令",
+      "music": 0.0
+    },
+    {
+      "from": 240.26,
+      "to": 246.6,
+      "sid": 93,
+      "location": 2,
+      "content": "补充在后续实验之中所需要的Python包",
+      "music": 0.0
+    },
+    {
+      "from": 248.66,
+      "to": 252.82,
+      "sid": 94,
+      "location": 2,
+      "content": "OK然后我们按路径创建文件夹",
+      "music": 0.0
+    },
+    {
+      "from": 252.82,
+      "to": 256.24,
+      "sid": 95,
+      "location": 2,
+      "content": "并进入到对应的文件目录",
+      "music": 0.0
+    },
+    {
+      "from": 257.839,
+      "to": 260.8,
+      "sid": 96,
+      "location": 2,
+      "content": "通过左侧的文件夹栏目",
+      "music": 0.0
+    },
+    {
+      "from": 260.8,
+      "to": 264.13,
+      "sid": 97,
+      "location": 2,
+      "content": "我们会发现我们已经创建了demo文件",
+      "music": 0.0
+    },
+    {
+      "from": 264.13,
+      "to": 268.23,
+      "sid": 98,
+      "location": 2,
+      "content": "并且在里边有client demo跟download mini文件",
+      "music": 0.0
+    },
+    {
+      "from": 268.23,
+      "to": 272.07,
+      "sid": 99,
+      "location": 2,
+      "content": "我们首先要先双击打开down a mini",
+      "music": 0.0
+    },
+    {
+      "from": 272.07,
+      "to": 277.24,
+      "sid": 100,
+      "location": 2,
+      "content": "然后将文档之中的代码复制进去进行保存",
+      "music": 0.0
+    },
+    {
+      "from": 277.24,
+      "to": 282.12,
+      "sid": 101,
+      "location": 2,
+      "content": "并且执行命令下载相关的模型参数",
+      "music": 0.0
+    },
+    {
+      "from": 286.6,
+      "to": 288.99,
+      "sid": 102,
+      "location": 2,
+      "content": "当我们完成模型的下载之后",
+      "music": 0.0
+    },
+    {
+      "from": 288.99,
+      "to": 293.4,
+      "sid": 103,
+      "location": 2,
+      "content": "我们输入命令执行demo程序",
+      "music": 0.0
+    },
+    {
+      "from": 295.48,
+      "to": 298.62,
+      "sid": 104,
+      "location": 2,
+      "content": "OK当我们可以看到user这一栏的时候",
+      "music": 0.0
+    },
+    {
+      "from": 298.62,
+      "to": 300.75,
+      "sid": 105,
+      "location": 2,
+      "content": "就可以往里面输入内容了",
+      "music": 0.0
+    },
+    {
+      "from": 300.75,
+      "to": 304.409,
+      "sid": 106,
+      "location": 2,
+      "content": "我们将文档之中的例子复制进去",
+      "music": 0.0
+    },
+    {
+      "from": 309.1,
+      "to": 315.06,
+      "sid": 107,
+      "location": 2,
+      "content": "然后回车等待模型的响应",
+      "music": 0.0
+    },
+    {
+      "from": 333.08,
+      "to": 336.43,
+      "sid": 108,
+      "location": 2,
+      "content": "OK我们在完成故事创作之后",
+      "music": 0.0
+    },
+    {
+      "from": 336.43,
+      "to": 339.669,
+      "sid": 109,
+      "location": 2,
+      "content": "我们的第一个实战任务就结束了",
+      "music": 0.0
+    },
+    {
+      "from": 339.669,
+      "to": 341.889,
+      "sid": 110,
+      "location": 2,
+      "content": "这里我们输入exit",
+      "music": 0.0
+    },
+    {
+      "from": 341.889,
+      "to": 343.87,
+      "sid": 111,
+      "location": 2,
+      "content": "然后退出",
+      "music": 0.0
+    },
+    {
+      "from": 344.21,
+      "to": 346.27,
+      "sid": 112,
+      "location": 2,
+      "content": "我们来开始第二个实战任务",
+      "music": 0.0
+    },
+    {
+      "from": 346.27,
+      "to": 347.71,
+      "sid": 113,
+      "location": 2,
+      "content": "部署实战营优秀作品",
+      "music": 0.0
+    },
+    {
+      "from": 347.71,
+      "to": 349.59,
+      "sid": 114,
+      "location": 2,
+      "content": "八届产力点8B模型",
+      "music": 0.0
+    },
+    {
+      "from": 349.59,
+      "to": 351.15,
+      "sid": 115,
+      "location": 2,
+      "content": "我们在文档之中",
+      "music": 0.0
+    },
+    {
+      "from": 351.15,
+      "to": 355.53,
+      "sid": 116,
+      "location": 2,
+      "content": "已经将八戒环环以及后罗的1.8米模型",
+      "music": 0.0
+    },
+    {
+      "from": 355.53,
+      "to": 358.88,
+      "sid": 117,
+      "location": 2,
+      "content": "及其对应的链接放置在了下方",
+      "music": 0.0
+    },
+    {
+      "from": 358.88,
+      "to": 362.18,
+      "sid": 118,
+      "location": 2,
+      "content": "有兴趣的同学可以通过这些链接下载模型",
+      "music": 0.0
+    },
+    {
+      "from": 362.18,
+      "to": 363.35,
+      "sid": 119,
+      "location": 2,
+      "content": "来进行尝试",
+      "music": 0.0
+    },
+    {
+      "from": 363.35,
+      "to": 366.26,
+      "sid": 120,
+      "location": 2,
+      "content": "我们这里以八届chat1.8B为例",
+      "music": 0.0
+    },
+    {
+      "from": 366.26,
+      "to": 369.51,
+      "sid": 121,
+      "location": 2,
+      "content": "首先我们要运行康纳命令",
+      "music": 0.0
+    },
+    {
+      "from": 369.51,
+      "to": 371.61,
+      "sid": 122,
+      "location": 2,
+      "content": "激活环境",
+      "music": 0.0
+    },
+    {
+      "from": 372.52,
+      "to": 376.77,
+      "sid": 123,
+      "location": 2,
+      "content": "然后使用git命令来获得仓库内的demo文件",
+      "music": 0.0
+    },
+    {
+      "from": 376.77,
+      "to": 383.32,
+      "sid": 124,
+      "location": 2,
+      "content": "我们在tutorial里面将八戒download以及八戒chat",
+      "music": 0.0
+    },
+    {
+      "from": 383.32,
+      "to": 385.41,
+      "sid": 125,
+      "location": 2,
+      "content": "都已经放置完成",
+      "music": 0.0
+    },
+    {
+      "from": 385.41,
+      "to": 387.63,
+      "sid": 126,
+      "location": 2,
+      "content": "大家可以直接进行访问",
+      "music": 0.0
+    },
+    {
+      "from": 387.63,
+      "to": 390.52,
+      "sid": 127,
+      "location": 2,
+      "content": "然后运行就能达到相同的效果",
+      "music": 0.0
+    },
+    {
+      "from": 390.52,
+      "to": 394.54,
+      "sid": 128,
+      "location": 2,
+      "content": "我们首先运行八戒download",
+      "music": 0.0
+    },
+    {
+      "from": 397.92,
+      "to": 400.1,
+      "sid": 129,
+      "location": 2,
+      "content": "在程序下载完成之后",
+      "music": 0.0
+    },
+    {
+      "from": 400.1,
+      "to": 402.11,
+      "sid": 130,
+      "location": 2,
+      "content": "我们要输入运行命令",
+      "music": 0.0
+    },
+    {
+      "from": 402.11,
+      "to": 404.03,
+      "sid": 131,
+      "location": 2,
+      "content": "将命令复制进terminal",
+      "music": 0.0
+    },
+    {
+      "from": 404.03,
+      "to": 405.78,
+      "sid": 132,
+      "location": 2,
+      "content": "然后回车",
+      "music": 0.0
+    },
+    {
+      "from": 405.78,
+      "to": 407.64,
+      "sid": 133,
+      "location": 2,
+      "content": "在程序运行的同时",
+      "music": 0.0
+    },
+    {
+      "from": 407.64,
+      "to": 410.37,
+      "sid": 134,
+      "location": 2,
+      "content": "对端口环境要配置本地POWERSHELL",
+      "music": 0.0
+    },
+    {
+      "from": 410.37,
+      "to": 413.57,
+      "sid": 135,
+      "location": 2,
+      "content": "使用快捷键组合windows加R",
+      "music": 0.0
+    },
+    {
+      "from": 413.57,
+      "to": 415.61,
+      "sid": 136,
+      "location": 2,
+      "content": "然后打开指令界面",
+      "music": 0.0
+    },
+    {
+      "from": 415.61,
+      "to": 419.46,
+      "sid": 137,
+      "location": 2,
+      "content": "输入power shell",
+      "music": 0.0
+    },
+    {
+      "from": 420.04,
+      "to": 423.87,
+      "sid": 138,
+      "location": 2,
+      "content": "打开打开power shell之后呢",
+      "music": 0.0
+    },
+    {
+      "from": 423.87,
+      "to": 425.67,
+      "sid": 139,
+      "location": 2,
+      "content": "我们先要查询端口",
+      "music": 0.0
+    },
+    {
+      "from": 425.67,
+      "to": 429.63,
+      "sid": 140,
+      "location": 2,
+      "content": "我们从开发机之中找到我们的端口",
+      "music": 0.0
+    },
+    {
+      "from": 429.63,
+      "to": 433.07,
+      "sid": 141,
+      "location": 2,
+      "content": "名称是40028",
+      "music": 0.0
+    },
+    {
+      "from": 433.07,
+      "to": 436.67,
+      "sid": 142,
+      "location": 2,
+      "content": "然后我们回到power shell之中",
+      "music": 0.0
+    },
+    {
+      "from": 436.67,
+      "to": 439.57,
+      "sid": 143,
+      "location": 2,
+      "content": "将以下命令复制进去",
+      "music": 0.0
+    },
+    {
+      "from": 439.57,
+      "to": 442.63,
+      "sid": 144,
+      "location": 2,
+      "content": "使用SSH访问",
+      "music": 0.0
+    },
+    {
+      "from": 447.94,
+      "to": 450.2,
+      "sid": 145,
+      "location": 2,
+      "content": "在这里进入yes",
+      "music": 0.0
+    },
+    {
+      "from": 450.9,
+      "to": 452.69,
+      "sid": 146,
+      "location": 2,
+      "content": "然后我们需要输入密码",
+      "music": 0.0
+    },
+    {
+      "from": 452.69,
+      "to": 457.01,
+      "sid": 147,
+      "location": 2,
+      "content": "我们在开发机之中将密码复制",
+      "music": 0.0
+    },
+    {
+      "from": 457.01,
+      "to": 459.8,
+      "sid": 148,
+      "location": 2,
+      "content": "然后在里边CTRL加V即可",
+      "music": 0.0
+    },
+    {
+      "from": 459.8,
+      "to": 462.17,
+      "sid": 149,
+      "location": 2,
+      "content": "我们直接回车",
+      "music": 0.0
+    },
+    {
+      "from": 463.48,
+      "to": 466.5,
+      "sid": 150,
+      "location": 2,
+      "content": "当POWERSHELL处于现在这个状态的时候",
+      "music": 0.0
+    },
+    {
+      "from": 466.5,
+      "to": 468.12,
+      "sid": 151,
+      "location": 2,
+      "content": "说明已经连接成功",
+      "music": 0.0
+    },
+    {
+      "from": 468.12,
+      "to": 469.32,
+      "sid": 152,
+      "location": 2,
+      "content": "在这种情况之下",
+      "music": 0.0
+    },
+    {
+      "from": 469.32,
+      "to": 473.58,
+      "sid": 153,
+      "location": 2,
+      "content": "我们回到WIIDE打开URL链接",
+      "music": 0.0
+    },
+    {
+      "from": 473.58,
+      "to": 478.44,
+      "sid": 154,
+      "location": 2,
+      "content": "我们就可以正常的使用8G的demo",
+      "music": 0.0
+    },
+    {
+      "from": 482.82,
+      "to": 485.24,
+      "sid": 155,
+      "location": 2,
+      "content": "OK经过一段时间的等待",
+      "music": 0.0
+    },
+    {
+      "from": 485.24,
+      "to": 486.89,
+      "sid": 156,
+      "location": 2,
+      "content": "我们已经加载成功",
+      "music": 0.0
+    },
+    {
+      "from": 486.89,
+      "to": 490.63,
+      "sid": 157,
+      "location": 2,
+      "content": "我们在聊天栏之中输入",
+      "music": 0.0
+    },
+    {
+      "from": 490.63,
+      "to": 491.86,
+      "sid": 158,
+      "location": 2,
+      "content": "你好",
+      "music": 0.0
+    },
+    {
+      "from": 491.86,
+      "to": 495.34,
+      "sid": 159,
+      "location": 2,
+      "content": "请自我介绍",
+      "music": 0.0
+    },
+    {
+      "from": 525.8,
+      "to": 527.02,
+      "sid": 160,
+      "location": 2,
+      "content": "OK到这里",
+      "music": 0.0
+    },
+    {
+      "from": 527.02,
+      "to": 529.66,
+      "sid": 161,
+      "location": 2,
+      "content": "我们的第二个实战任务已经结束",
+      "music": 0.0
+    },
+    {
+      "from": 529.66,
+      "to": 532.3,
+      "sid": 162,
+      "location": 2,
+      "content": "我们关闭STREAMLET",
+      "music": 0.0
+    },
+    {
+      "from": 532.3,
+      "to": 537.42,
+      "sid": 163,
+      "location": 2,
+      "content": "然后使用CTRL加C键退出",
+      "music": 0.0
+    },
+    {
+      "from": 538.58,
+      "to": 541.67,
+      "sid": 164,
+      "location": 2,
+      "content": "然后我们就可以准备后续的任务了",
+      "music": 0.0
+    },
+    {
+      "from": 541.67,
+      "to": 544.85,
+      "sid": 165,
+      "location": 2,
+      "content": "当我们开启30%a100的权限之后",
+      "music": 0.0
+    },
+    {
+      "from": 544.85,
+      "to": 547.4,
+      "sid": 166,
+      "location": 2,
+      "content": "我们就可以完成第三个实战任务",
+      "music": 0.0
+    },
+    {
+      "from": 547.4,
+      "to": 551.14,
+      "sid": 167,
+      "location": 2,
+      "content": "使用legion运行英特尔M2chat GB模型",
+      "music": 0.0
+    },
+    {
+      "from": 551.14,
+      "to": 554.08,
+      "sid": 168,
+      "location": 2,
+      "content": "首先legend是一个轻量级开源的",
+      "music": 0.0
+    },
+    {
+      "from": 554.08,
+      "to": 556.579,
+      "sid": 169,
+      "location": 2,
+      "content": "基于大语言模型的智能体框架",
+      "music": 0.0
+    },
+    {
+      "from": 556.579,
+      "to": 558.379,
+      "sid": 170,
+      "location": 2,
+      "content": "我们会在任务之中",
+      "music": 0.0
+    },
+    {
+      "from": 558.379,
+      "to": 562.11,
+      "sid": 171,
+      "location": 2,
+      "content": "先将教程视力开发机的配置进行升级",
+      "music": 0.0
+    },
+    {
+      "from": 562.11,
+      "to": 564.36,
+      "sid": 172,
+      "location": 2,
+      "content": "我们点击升降配置",
+      "music": 0.0
+    },
+    {
+      "from": 564.36,
+      "to": 567.6,
+      "sid": 173,
+      "location": 2,
+      "content": "然后30%a100调整即可",
+      "music": 0.0
+    },
+    {
+      "from": 567.6,
+      "to": 569.61,
+      "sid": 174,
+      "location": 2,
+      "content": "注意这个升降配置之后",
+      "music": 0.0
+    },
+    {
+      "from": 569.61,
+      "to": 572.079,
+      "sid": 175,
+      "location": 2,
+      "content": "在关闭开发机的时候才能够完成",
+      "music": 0.0
+    },
+    {
+      "from": 572.079,
+      "to": 575.2,
+      "sid": 176,
+      "location": 2,
+      "content": "我们现在启动开发机",
+      "music": 0.0
+    },
+    {
+      "from": 576.34,
+      "to": 577.56,
+      "sid": 177,
+      "location": 2,
+      "content": "开启完成之后",
+      "music": 0.0
+    },
+    {
+      "from": 577.56,
+      "to": 580.08,
+      "sid": 178,
+      "location": 2,
+      "content": "我们进入开发机",
+      "music": 0.0
+    },
+    {
+      "from": 587.2,
+      "to": 588.03,
+      "sid": 179,
+      "location": 2,
+      "content": "在这里",
+      "music": 0.0
+    },
+    {
+      "from": 588.03,
+      "to": 591.96,
+      "sid": 180,
+      "location": 2,
+      "content": "我们先要进入到我们之前配置好的康大环境之",
+      "music": 0.0
+    },
+    {
+      "from": 591.96,
+      "to": 593.4,
+      "sid": 181,
+      "location": 2,
+      "content": "中",
+      "music": 0.0
+    },
+    {
+      "from": 594.46,
+      "to": 597.87,
+      "sid": 182,
+      "location": 2,
+      "content": "然后我们打开文件的子路径",
+      "music": 0.0
+    },
+    {
+      "from": 597.87,
+      "to": 602.74,
+      "sid": 183,
+      "location": 2,
+      "content": "使用git命令下载雷震相关的代码库",
+      "music": 0.0
+    },
+    {
+      "from": 604.36,
+      "to": 606.06,
+      "sid": 184,
+      "location": 2,
+      "content": "我们在完成安装之后",
+      "music": 0.0
+    },
+    {
+      "from": 606.06,
+      "to": 607.23,
+      "sid": 185,
+      "location": 2,
+      "content": "打开legion路径",
+      "music": 0.0
+    },
+    {
+      "from": 607.23,
+      "to": 609.4,
+      "sid": 186,
+      "location": 2,
+      "content": "在terminal中输入指令",
+      "music": 0.0
+    },
+    {
+      "from": 609.4,
+      "to": 610.84,
+      "sid": 187,
+      "location": 2,
+      "content": "构造软链接",
+      "music": 0.0
+    },
+    {
+      "from": 610.84,
+      "to": 612.04,
+      "sid": 188,
+      "location": 2,
+      "content": "快捷访问方式",
+      "music": 0.0
+    },
+    {
+      "from": 612.04,
+      "to": 616.92,
+      "sid": 189,
+      "location": 2,
+      "content": "访问share文件之中的模型参数",
+      "music": 0.0
+    },
+    {
+      "from": 618.4,
+      "to": 623.3,
+      "sid": 190,
+      "location": 2,
+      "content": "然后我们要打开legion路径下的examples",
+      "music": 0.0
+    },
+    {
+      "from": 624.0,
+      "to": 630.08,
+      "sid": 191,
+      "location": 2,
+      "content": "打开英特尔M2agent web demo hf",
+      "music": 0.0
+    },
+    {
+      "from": 630.08,
+      "to": 634.39,
+      "sid": 192,
+      "location": 2,
+      "content": "然后在代码71行左右的位置",
+      "music": 0.0
+    },
+    {
+      "from": 634.67,
+      "to": 638.86,
+      "sid": 193,
+      "location": 2,
+      "content": "将value的模型路径改成root models",
+      "music": 0.0
+    },
+    {
+      "from": 638.86,
+      "to": 641.53,
+      "sid": 194,
+      "location": 2,
+      "content": "Tm r chat7 b",
+      "music": 0.0
+    },
+    {
+      "from": 645.28,
+      "to": 645.96,
+      "sid": 195,
+      "location": 2,
+      "content": "保存",
+      "music": 0.0
+    },
+    {
+      "from": 647.04,
+      "to": 655.0,
+      "sid": 196,
+      "location": 2,
+      "content": "然后回到terminal运行我们的程序",
+      "music": 0.0
+    },
+    {
+      "from": 659.82,
+      "to": 662.36,
+      "sid": 197,
+      "location": 2,
+      "content": "同样的我们在程序运行的同时",
+      "music": 0.0
+    },
+    {
+      "from": 662.36,
+      "to": 665.7,
+      "sid": 198,
+      "location": 2,
+      "content": "对本地端口环境配置本地power shell",
+      "music": 0.0
+    },
+    {
+      "from": 665.7,
+      "to": 669.18,
+      "sid": 199,
+      "location": 2,
+      "content": "我们首先还是要使用快捷键组合windows加R",
+      "music": 0.0
+    },
+    {
+      "from": 669.18,
+      "to": 672.04,
+      "sid": 200,
+      "location": 2,
+      "content": "然后输入power shell",
+      "music": 0.0
+    },
+    {
+      "from": 675.7,
+      "to": 679.68,
+      "sid": 201,
+      "location": 2,
+      "content": "然后将命令复制进去",
+      "music": 0.0
+    },
+    {
+      "from": 680.84,
+      "to": 685.48,
+      "sid": 202,
+      "location": 2,
+      "content": "将里边的端口改成跟咱们的开发机端口",
+      "music": 0.0
+    },
+    {
+      "from": 685.48,
+      "to": 688.84,
+      "sid": 203,
+      "location": 2,
+      "content": "相同的端口号",
+      "music": 0.0
+    },
+    {
+      "from": 690.4,
+      "to": 695.88,
+      "sid": 204,
+      "location": 2,
+      "content": "输入之后我们再将密码复制进去",
+      "music": 0.0
+    },
+    {
+      "from": 697.6,
+      "to": 700.69,
+      "sid": 205,
+      "location": 2,
+      "content": "带power shall变成现在这个状态之后",
+      "music": 0.0
+    },
+    {
+      "from": 700.69,
+      "to": 702.88,
+      "sid": 206,
+      "location": 2,
+      "content": "我们就已经连接成功了",
+      "music": 0.0
+    },
+    {
+      "from": 702.88,
+      "to": 707.97,
+      "sid": 207,
+      "location": 2,
+      "content": "这个时候我们点击URL就可以正常访问",
+      "music": 0.0
+    },
+    {
+      "from": 713.62,
+      "to": 715.74,
+      "sid": 208,
+      "location": 2,
+      "content": "我们的模型还没有加载完成",
+      "music": 0.0
+    },
+    {
+      "from": 715.74,
+      "to": 718.68,
+      "sid": 209,
+      "location": 2,
+      "content": "需要在此时耐心地等待",
+      "music": 0.0
+    },
+    {
+      "from": 724.44,
+      "to": 728.36,
+      "sid": 210,
+      "location": 2,
+      "content": "OK我们的模型已经加载完成",
+      "music": 0.0
+    },
+    {
+      "from": 728.36,
+      "to": 733.37,
+      "sid": 211,
+      "location": 2,
+      "content": "我们现在需要到插件选择底下将数据分析勾上",
+      "music": 0.0
+    },
+    {
+      "from": 733.37,
+      "to": 735.609,
+      "sid": 212,
+      "location": 2,
+      "content": "然后不做任何其他的操作",
+      "music": 0.0
+    },
+    {
+      "from": 735.609,
+      "to": 737.169,
+      "sid": 213,
+      "location": 2,
+      "content": "在聊天栏之中",
+      "music": 0.0
+    },
+    {
+      "from": 737.169,
+      "to": 739.419,
+      "sid": 214,
+      "location": 2,
+      "content": "我们可以进入任意的内容",
+      "music": 0.0
+    },
+    {
+      "from": 739.419,
+      "to": 743.709,
+      "sid": 215,
+      "location": 2,
+      "content": "我们这里使用内容示例来完成",
+      "music": 0.0
+    },
+    {
+      "from": 782.28,
+      "to": 784.94,
+      "sid": 216,
+      "location": 2,
+      "content": "OK那我们得到了最终的答案",
+      "music": 0.0
+    },
+    {
+      "from": 784.94,
+      "to": 787.16,
+      "sid": 217,
+      "location": 2,
+      "content": "到此第三个实战任务",
+      "music": 0.0
+    },
+    {
+      "from": 787.16,
+      "to": 790.46,
+      "sid": 218,
+      "location": 2,
+      "content": "也就是legend web demo就结束了",
+      "music": 0.0
+    },
+    {
+      "from": 812.8,
+      "to": 815.76,
+      "sid": 219,
+      "location": 2,
+      "content": "当我们开启50%a100的权限之后",
+      "music": 0.0
+    },
+    {
+      "from": 815.76,
+      "to": 817.8,
+      "sid": 220,
+      "location": 2,
+      "content": "我们就可以尝试最后一个实战任务",
+      "music": 0.0
+    },
+    {
+      "from": 817.8,
+      "to": 818.88,
+      "sid": 221,
+      "location": 2,
+      "content": "时间部署",
+      "music": 0.0
+    },
+    {
+      "from": 818.88,
+      "to": 821.069,
+      "sid": 222,
+      "location": 2,
+      "content": "普与零比二模型",
+      "music": 0.0
+    },
+    {
+      "from": 821.409,
+      "to": 823.169,
+      "sid": 223,
+      "location": 2,
+      "content": "葡语零比二是基于书生",
+      "music": 0.0
+    },
+    {
+      "from": 823.169,
+      "to": 824.849,
+      "sid": 224,
+      "location": 2,
+      "content": "葡语二大语言模型研发的",
+      "music": 0.0
+    },
+    {
+      "from": 824.849,
+      "to": 826.349,
+      "sid": 225,
+      "location": 2,
+      "content": "突破性的图文多模态",
+      "music": 0.0
+    },
+    {
+      "from": 826.349,
+      "to": 826.949,
+      "sid": 226,
+      "location": 2,
+      "content": "大模型",
+      "music": 0.0
+    },
+    {
+      "from": 826.949,
+      "to": 830.03,
+      "sid": 227,
+      "location": 2,
+      "content": "是具有非凡的图文写作和图像理解能力的",
+      "music": 0.0
+    },
+    {
+      "from": 830.03,
+      "to": 834.35,
+      "sid": 228,
+      "location": 2,
+      "content": "我们还是需要升级一下我们原有的开发机配置",
+      "music": 0.0
+    },
+    {
+      "from": 834.35,
+      "to": 836.27,
+      "sid": 229,
+      "location": 2,
+      "content": "我们将30%的100",
+      "music": 0.0
+    },
+    {
+      "from": 836.27,
+      "to": 838.71,
+      "sid": 230,
+      "location": 2,
+      "content": "升级为50%的100",
+      "music": 0.0
+    },
+    {
+      "from": 838.71,
+      "to": 841.53,
+      "sid": 231,
+      "location": 2,
+      "content": "然后我们选择启动",
+      "music": 0.0
+    },
+    {
+      "from": 852.64,
+      "to": 853.86,
+      "sid": 232,
+      "location": 2,
+      "content": "启动成功之后",
+      "music": 0.0
+    },
+    {
+      "from": 853.86,
+      "to": 856.34,
+      "sid": 233,
+      "location": 2,
+      "content": "我们进入开发机",
+      "music": 0.0
+    },
+    {
+      "from": 862.94,
+      "to": 865.62,
+      "sid": 234,
+      "location": 2,
+      "content": "开启一个terminal",
+      "music": 0.0
+    },
+    {
+      "from": 868.26,
+      "to": 870.5,
+      "sid": 235,
+      "location": 2,
+      "content": "然后我们启动康大环境",
+      "music": 0.0
+    },
+    {
+      "from": 870.5,
+      "to": 873.26,
+      "sid": 236,
+      "location": 2,
+      "content": "并且补充一些环境包",
+      "music": 0.0
+    },
+    {
+      "from": 895.72,
+      "to": 898.05,
+      "sid": 237,
+      "location": 2,
+      "content": "安装完以上的环境包之后",
+      "music": 0.0
+    },
+    {
+      "from": 898.05,
+      "to": 900.54,
+      "sid": 238,
+      "location": 2,
+      "content": "我们可以下载intermx composer",
+      "music": 0.0
+    },
+    {
+      "from": 900.54,
+      "to": 903.48,
+      "sid": 239,
+      "location": 2,
+      "content": "仓库相关的代码资源",
+      "music": 0.0
+    },
+    {
+      "from": 912.46,
+      "to": 915.18,
+      "sid": 240,
+      "location": 2,
+      "content": "然后我们在terminal中输入指令",
+      "music": 0.0
+    },
+    {
+      "from": 915.18,
+      "to": 918.54,
+      "sid": 241,
+      "location": 2,
+      "content": "构造软链接快捷访问方式",
+      "music": 0.0
+    },
+    {
+      "from": 921.24,
+      "to": 923.72,
+      "sid": 242,
+      "location": 2,
+      "content": "这样的话我们就可以安全地访问葡语",
+      "music": 0.0
+    },
+    {
+      "from": 923.72,
+      "to": 928.46,
+      "sid": 243,
+      "location": 2,
+      "content": "零比二的图文写作模型和视觉问答模型",
+      "music": 0.0
+    },
+    {
+      "from": 928.8,
+      "to": 930.74,
+      "sid": 244,
+      "location": 2,
+      "content": "然后我们继续输入指令",
+      "music": 0.0
+    },
+    {
+      "from": 930.74,
+      "to": 934.4,
+      "sid": 245,
+      "location": 2,
+      "content": "用于启动intermx composer",
+      "music": 0.0
+    },
+    {
+      "from": 945.12,
+      "to": 946.64,
+      "sid": 246,
+      "location": 2,
+      "content": "待程序运行的同时",
+      "music": 0.0
+    },
+    {
+      "from": 946.64,
+      "to": 949.1,
+      "sid": 247,
+      "location": 2,
+      "content": "我们依然需要参考章节3.3部分",
+      "music": 0.0
+    },
+    {
+      "from": 949.1,
+      "to": 951.66,
+      "sid": 248,
+      "location": 2,
+      "content": "对端口环境配置本地power share",
+      "music": 0.0
+    },
+    {
+      "from": 951.66,
+      "to": 954.66,
+      "sid": 249,
+      "location": 2,
+      "content": "我们还是需要使用组合键windows加R",
+      "music": 0.0
+    },
+    {
+      "from": 954.66,
+      "to": 958.68,
+      "sid": 250,
+      "location": 2,
+      "content": "然后进入power shell",
+      "music": 0.0
+    },
+    {
+      "from": 960.28,
+      "to": 964.27,
+      "sid": 251,
+      "location": 2,
+      "content": "然后我们将指令复制进去",
+      "music": 0.0
+    },
+    {
+      "from": 965.47,
+      "to": 970.44,
+      "sid": 252,
+      "location": 2,
+      "content": "将其端口号换成我们自己的端口号",
+      "music": 0.0
+    },
+    {
+      "from": 972.76,
+      "to": 973.92,
+      "sid": 253,
+      "location": 2,
+      "content": "然后回车",
+      "music": 0.0
+    },
+    {
+      "from": 973.92,
+      "to": 976.17,
+      "sid": 254,
+      "location": 2,
+      "content": "这个时候我们需要输入密码",
+      "music": 0.0
+    },
+    {
+      "from": 976.17,
+      "to": 979.32,
+      "sid": 255,
+      "location": 2,
+      "content": "我们将密码复制进去",
+      "music": 0.0
+    },
+    {
+      "from": 980.34,
+      "to": 984.08,
+      "sid": 256,
+      "location": 2,
+      "content": "完成我们的链接之后",
+      "music": 0.0
+    },
+    {
+      "from": 984.08,
+      "to": 989.17,
+      "sid": 257,
+      "location": 2,
+      "content": "我们就可以访问在x composer之中的",
+      "music": 0.0
+    },
+    {
+      "from": 989.17,
+      "to": 993.4,
+      "sid": 258,
+      "location": 2,
+      "content": "127.0.0.16006端口",
+      "music": 0.0
+    },
+    {
+      "from": 998.7,
+      "to": 1000.73,
+      "sid": 259,
+      "location": 2,
+      "content": "我们这里已经预备好了",
+      "music": 0.0
+    },
+    {
+      "from": 1000.73,
+      "to": 1001.9,
+      "sid": 260,
+      "location": 2,
+      "content": "输入的内容",
+      "music": 0.0
+    },
+    {
+      "from": 1001.9,
+      "to": 1006.1,
+      "sid": 261,
+      "location": 2,
+      "content": "我们可以直接选择散妹提交",
+      "music": 0.0
+    },
+    {
+      "from": 1110.86,
+      "to": 1113.04,
+      "sid": 262,
+      "location": 2,
+      "content": "当我们的图片加载完成之后",
+      "music": 0.0
+    },
+    {
+      "from": 1113.04,
+      "to": 1115.44,
+      "sid": 263,
+      "location": 2,
+      "content": "我们的图文生成任务就完成了",
+      "music": 0.0
+    },
+    {
+      "from": 1115.44,
+      "to": 1118.29,
+      "sid": 264,
+      "location": 2,
+      "content": "接下来我们关闭葡语零比",
+      "music": 0.0
+    },
+    {
+      "from": 1118.29,
+      "to": 1120.929,
+      "sid": 265,
+      "location": 2,
+      "content": "Intex composer gradu",
+      "music": 0.0
+    },
+    {
+      "from": 1121.389,
+      "to": 1125.129,
+      "sid": 266,
+      "location": 2,
+      "content": "然后我们从左下角点开terminals",
+      "music": 0.0
+    },
+    {
+      "from": 1125.129,
+      "to": 1130.66,
+      "sid": 267,
+      "location": 2,
+      "content": "然后shut down重新开启一个新的terminal",
+      "music": 0.0
+    },
+    {
+      "from": 1131.56,
+      "to": 1139.2,
+      "sid": 268,
+      "location": 2,
+      "content": "然后康大activate demo打开我们的康达环境",
+      "music": 0.0
+    },
+    {
+      "from": 1140.58,
+      "to": 1143.0,
+      "sid": 269,
+      "location": 2,
+      "content": "然后我们开启图片理解实战",
+      "music": 0.0
+    },
+    {
+      "from": 1143.0,
+      "to": 1148.85,
+      "sid": 270,
+      "location": 2,
+      "content": "将我们的代码复制进去",
+      "music": 0.0
+    },
+    {
+      "from": 1148.85,
+      "to": 1151.64,
+      "sid": 271,
+      "location": 2,
+      "content": "直接进行运行",
+      "music": 0.0
+    },
+    {
+      "from": 1160.92,
+      "to": 1167.18,
+      "sid": 272,
+      "location": 2,
+      "content": "因为我们在刚才已经完成了本地端口映射",
+      "music": 0.0
+    },
+    {
+      "from": 1167.18,
+      "to": 1170.93,
+      "sid": 273,
+      "location": 2,
+      "content": "所以我们不需要在这时候重新配置一遍了",
+      "music": 0.0
+    },
+    {
+      "from": 1170.93,
+      "to": 1172.46,
+      "sid": 274,
+      "location": 2,
+      "content": "我们只需要耐心等待",
+      "music": 0.0
+    },
+    {
+      "from": 1172.46,
+      "to": 1177.05,
+      "sid": 275,
+      "location": 2,
+      "content": "然后访问它的链接就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 1204.04,
+      "to": 1206.179,
+      "sid": 276,
+      "location": 2,
+      "content": "我们打开链接",
+      "music": 0.0
+    },
+    {
+      "from": 1206.699,
+      "to": 1209.449,
+      "sid": 277,
+      "location": 2,
+      "content": "然后选择文件上传的位置",
+      "music": 0.0
+    },
+    {
+      "from": 1209.449,
+      "to": 1211.099,
+      "sid": 278,
+      "location": 2,
+      "content": "找到我们的图库",
+      "music": 0.0
+    },
+    {
+      "from": 1211.099,
+      "to": 1214.45,
+      "sid": 279,
+      "location": 2,
+      "content": "任意输入一张图片",
+      "music": 0.0
+    },
+    {
+      "from": 1214.45,
+      "to": 1218.47,
+      "sid": 280,
+      "location": 2,
+      "content": "然后在聊天内容之中输入",
+      "music": 0.0
+    },
+    {
+      "from": 1218.47,
+      "to": 1220.33,
+      "sid": 281,
+      "location": 2,
+      "content": "请分析一下图中的内容",
+      "music": 0.0
+    },
+    {
+      "from": 1220.33,
+      "to": 1221.89,
+      "sid": 282,
+      "location": 2,
+      "content": "然后submit",
+      "music": 0.0
+    },
+    {
+      "from": 1243.66,
+      "to": 1246.02,
+      "sid": 283,
+      "location": 2,
+      "content": "OK当分析完成之后",
+      "music": 0.0
+    },
+    {
+      "from": 1246.02,
+      "to": 1248.98,
+      "sid": 284,
+      "location": 2,
+      "content": "我们所有的实战任务也就结束了",
+      "music": 0.0
+    },
+    {
+      "from": 1248.98,
+      "to": 1253.72,
+      "sid": 285,
+      "location": 2,
+      "content": "我们可以在后面的附录之中找到一些小的技巧",
+      "music": 0.0
+    },
+    {
+      "from": 1253.72,
+      "to": 1256.48,
+      "sid": 286,
+      "location": 2,
+      "content": "包括我们如何在model scope",
+      "music": 0.0
+    },
+    {
+      "from": 1256.48,
+      "to": 1261.02,
+      "sid": 287,
+      "location": 2,
+      "content": "HuggingFace以及open x lab之中下载我们想要的模型",
+      "music": 0.0
+    },
+    {
+      "from": 1261.02,
+      "to": 1264.56,
+      "sid": 288,
+      "location": 2,
+      "content": "以及一些软链接的清除方法",
+      "music": 0.0
+    },
+    {
+      "from": 1265.32,
+      "to": 1268.7,
+      "sid": 289,
+      "location": 2,
+      "content": "到此我们的实战演示环节就结束了",
+      "music": 0.0
+    },
+    {
+      "from": 1268.7,
+      "to": 1270.44,
+      "sid": 290,
+      "location": 2,
+      "content": "非常感谢大家的观看",
+      "music": 0.0
+    },
+    {
+      "from": 1271.46,
+      "to": 1272.36,
+      "sid": 291,
+      "location": 2,
+      "content": "那么再见",
+      "music": 0.0
+    }
+  ]
+}
