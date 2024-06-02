@@ -1,0 +1,6076 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.6.0.4",
+  "body": [
+    {
+      "from": 0.16,
+      "to": 0.82,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 0.82,
+      "to": 3.64,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎来到上海人工智能实验室举办的",
+      "music": 0.0
+    },
+    {
+      "from": 3.64,
+      "to": 6.19,
+      "sid": 3,
+      "location": 2,
+      "content": "书生葡语大模型实战营第二期",
+      "music": 0.0
+    },
+    {
+      "from": 6.19,
+      "to": 8.54,
+      "sid": 4,
+      "location": 2,
+      "content": "我是今天的讲师北辰",
+      "music": 0.0
+    },
+    {
+      "from": 8.54,
+      "to": 12.14,
+      "sid": 5,
+      "location": 2,
+      "content": "今天的内容是用茴香豆搭建我们个人的RNG",
+      "music": 0.0
+    },
+    {
+      "from": 12.14,
+      "to": 12.89,
+      "sid": 6,
+      "location": 2,
+      "content": "知识助手",
+      "music": 0.0
+    },
+    {
+      "from": 12.89,
+      "to": 13.76,
+      "sid": 7,
+      "location": 2,
+      "content": "废话不多说",
+      "music": 0.0
+    },
+    {
+      "from": 13.76,
+      "to": 15.94,
+      "sid": 8,
+      "location": 2,
+      "content": "我们现在开始",
+      "music": 0.0
+    },
+    {
+      "from": 16.34,
+      "to": 18.97,
+      "sid": 9,
+      "location": 2,
+      "content": "今天的课程将主要分成三个部分",
+      "music": 0.0
+    },
+    {
+      "from": 18.97,
+      "to": 22.64,
+      "sid": 10,
+      "location": 2,
+      "content": "第一部分我们会介绍一下IG的基础知识",
+      "music": 0.0
+    },
+    {
+      "from": 22.64,
+      "to": 24.38,
+      "sid": 11,
+      "location": 2,
+      "content": "了解一下什么是RG",
+      "music": 0.0
+    },
+    {
+      "from": 24.38,
+      "to": 26.06,
+      "sid": 12,
+      "location": 2,
+      "content": "RG的原理架构",
+      "music": 0.0
+    },
+    {
+      "from": 26.06,
+      "to": 29.2,
+      "sid": 13,
+      "location": 2,
+      "content": "RG相关的应用等等",
+      "music": 0.0
+    },
+    {
+      "from": 29.66,
+      "to": 30.94,
+      "sid": 14,
+      "location": 2,
+      "content": "课程的第二部分",
+      "music": 0.0
+    },
+    {
+      "from": 30.94,
+      "to": 34.6,
+      "sid": 15,
+      "location": 2,
+      "content": "我们会接触一款应用了RG技术的开源应用",
+      "music": 0.0
+    },
+    {
+      "from": 34.6,
+      "to": 35.38,
+      "sid": 16,
+      "location": 2,
+      "content": "回香豆",
+      "music": 0.0
+    },
+    {
+      "from": 35.38,
+      "to": 38.09,
+      "sid": 17,
+      "location": 2,
+      "content": "了解一下RG技术的具体实现",
+      "music": 0.0
+    },
+    {
+      "from": 38.09,
+      "to": 41.31,
+      "sid": 18,
+      "location": 2,
+      "content": "最后一部分是我们本节课的实战演练",
+      "music": 0.0
+    },
+    {
+      "from": 41.31,
+      "to": 45.24,
+      "sid": 19,
+      "location": 2,
+      "content": "分别使用茴香豆web版和服务器部署的方式",
+      "music": 0.0
+    },
+    {
+      "from": 45.24,
+      "to": 48.81,
+      "sid": 20,
+      "location": 2,
+      "content": "来实现一款自己的知识问答助手",
+      "music": 0.0
+    },
+    {
+      "from": 49.41,
+      "to": 55.21,
+      "sid": 21,
+      "location": 2,
+      "content": "那么现在让我们快速了解一下IG技术能干什么",
+      "music": 0.0
+    },
+    {
+      "from": 55.21,
+      "to": 57.88,
+      "sid": 22,
+      "location": 2,
+      "content": "茴香豆是一款比较新的应用",
+      "music": 0.0
+    },
+    {
+      "from": 57.88,
+      "to": 61.57,
+      "sid": 23,
+      "location": 2,
+      "content": "因此我们的原始英特尔LM拆的7B模型",
+      "music": 0.0
+    },
+    {
+      "from": 61.57,
+      "to": 65.749,
+      "sid": 24,
+      "location": 2,
+      "content": "并没有能力去回答他的相关问题",
+      "music": 0.0
+    },
+    {
+      "from": 65.749,
+      "to": 69.829,
+      "sid": 25,
+      "location": 2,
+      "content": "因为我们并没有使用和茴香豆任何的有关的",
+      "music": 0.0
+    },
+    {
+      "from": 69.829,
+      "to": 74.43,
+      "sid": 26,
+      "location": 2,
+      "content": "任何资料去训练英特lm chat奇币",
+      "music": 0.0
+    },
+    {
+      "from": 74.43,
+      "to": 77.4,
+      "sid": 27,
+      "location": 2,
+      "content": "所以看到当我们问茴香豆是什么的时候",
+      "music": 0.0
+    },
+    {
+      "from": 77.4,
+      "to": 77.91,
+      "sid": 28,
+      "location": 2,
+      "content": "呃",
+      "music": 0.0
+    },
+    {
+      "from": 77.91,
+      "to": 80.85,
+      "sid": 29,
+      "location": 2,
+      "content": "7B模型原始的七步模型给出了我不知道",
+      "music": 0.0
+    },
+    {
+      "from": 80.85,
+      "to": 84.769,
+      "sid": 30,
+      "location": 2,
+      "content": "或者是一些他自己胡编乱造的问题",
+      "music": 0.0
+    },
+    {
+      "from": 84.769,
+      "to": 86.71,
+      "sid": 31,
+      "location": 2,
+      "content": "已经出现了幻觉",
+      "music": 0.0
+    },
+    {
+      "from": 86.99,
+      "to": 90.31,
+      "sid": 32,
+      "location": 2,
+      "content": "针对这种新增知识的情况",
+      "music": 0.0
+    },
+    {
+      "from": 92.62,
+      "to": 95.25,
+      "sid": 33,
+      "location": 2,
+      "content": "传统上我们会先去采集新增语料",
+      "music": 0.0
+    },
+    {
+      "from": 95.25,
+      "to": 98.91,
+      "sid": 34,
+      "location": 2,
+      "content": "然后通过微调等方式对模型进行再训练",
+      "music": 0.0
+    },
+    {
+      "from": 98.91,
+      "to": 102.02,
+      "sid": 35,
+      "location": 2,
+      "content": "这个操作在现实当中会遇到很多的问题",
+      "music": 0.0
+    },
+    {
+      "from": 102.02,
+      "to": 103.64,
+      "sid": 36,
+      "location": 2,
+      "content": "如知识更新太快",
+      "music": 0.0
+    },
+    {
+      "from": 103.64,
+      "to": 104.66,
+      "sid": 37,
+      "location": 2,
+      "content": "语料知识库太大",
+      "music": 0.0
+    },
+    {
+      "from": 104.66,
+      "to": 105.44,
+      "sid": 38,
+      "location": 2,
+      "content": "训练成本高",
+      "music": 0.0
+    },
+    {
+      "from": 105.44,
+      "to": 107.479,
+      "sid": 39,
+      "location": 2,
+      "content": "语料难以收集等等等等",
+      "music": 0.0
+    },
+    {
+      "from": 107.479,
+      "to": 110.959,
+      "sid": 40,
+      "location": 2,
+      "content": "那RG技术的出现可以很好地解决这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 110.959,
+      "to": 111.739,
+      "sid": 41,
+      "location": 2,
+      "content": "如图所示",
+      "music": 0.0
+    },
+    {
+      "from": 111.739,
+      "to": 114.02,
+      "sid": 42,
+      "location": 2,
+      "content": "在没有额外训练的情况下",
+      "music": 0.0
+    },
+    {
+      "from": 114.02,
+      "to": 115.64,
+      "sid": 43,
+      "location": 2,
+      "content": "针对同样的问题",
+      "music": 0.0
+    },
+    {
+      "from": 115.64,
+      "to": 117.59,
+      "sid": 44,
+      "location": 2,
+      "content": "茴香豆是什么",
+      "music": 0.0
+    },
+    {
+      "from": 117.59,
+      "to": 124.29,
+      "sid": 45,
+      "location": 2,
+      "content": "那我们的茴香豆知识助手就回答出了这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 124.29,
+      "to": 127.47,
+      "sid": 46,
+      "location": 2,
+      "content": "而这个问题是原始模型tb不能回答的",
+      "music": 0.0
+    },
+    {
+      "from": 127.47,
+      "to": 130.25,
+      "sid": 47,
+      "location": 2,
+      "content": "这个过程没有任何的训练过程",
+      "music": 0.0
+    },
+    {
+      "from": 130.25,
+      "to": 131.96,
+      "sid": 48,
+      "location": 2,
+      "content": "有了这个初步的认识",
+      "music": 0.0
+    },
+    {
+      "from": 131.96,
+      "to": 135.35,
+      "sid": 49,
+      "location": 2,
+      "content": "现在我们正式进入课程的第一部分",
+      "music": 0.0
+    },
+    {
+      "from": 135.35,
+      "to": 137.45,
+      "sid": 50,
+      "location": 2,
+      "content": "了解RAG",
+      "music": 0.0
+    },
+    {
+      "from": 138.27,
+      "to": 141.59,
+      "sid": 51,
+      "location": 2,
+      "content": "RNG全称是retro augmented generation",
+      "music": 0.0
+    },
+    {
+      "from": 141.59,
+      "to": 146.09,
+      "sid": 52,
+      "location": 2,
+      "content": "中文名称叫做检索增强生成技术",
+      "music": 0.0
+    },
+    {
+      "from": 146.09,
+      "to": 149.15,
+      "sid": 53,
+      "location": 2,
+      "content": "IG通过结合检索和生成的过程",
+      "music": 0.0
+    },
+    {
+      "from": 149.15,
+      "to": 152.47,
+      "sid": 54,
+      "location": 2,
+      "content": "增强了语言模型在处理特定任务时的性能",
+      "music": 0.0
+    },
+    {
+      "from": 152.47,
+      "to": 156.19,
+      "sid": 55,
+      "location": 2,
+      "content": "这个过程涉及从外部知识元检索相关信息",
+      "music": 0.0
+    },
+    {
+      "from": 156.19,
+      "to": 159.61,
+      "sid": 56,
+      "location": 2,
+      "content": "并将这些信息用于指导语言模型生成更准确",
+      "music": 0.0
+    },
+    {
+      "from": 159.61,
+      "to": 161.35,
+      "sid": 57,
+      "location": 2,
+      "content": "更丰富的回答",
+      "music": 0.0
+    },
+    {
+      "from": 161.51,
+      "to": 163.27,
+      "sid": 58,
+      "location": 2,
+      "content": "我们通俗一点讲",
+      "music": 0.0
+    },
+    {
+      "from": 163.27,
+      "to": 166.03,
+      "sid": 59,
+      "location": 2,
+      "content": "可以将RG理解成一个搜索引擎",
+      "music": 0.0
+    },
+    {
+      "from": 166.03,
+      "to": 168.58,
+      "sid": 60,
+      "location": 2,
+      "content": "将用户输入的内容作为索引",
+      "music": 0.0
+    },
+    {
+      "from": 168.58,
+      "to": 171.4,
+      "sid": 61,
+      "location": 2,
+      "content": "在外部知识库当中搜寻相关的内容",
+      "music": 0.0
+    },
+    {
+      "from": 171.4,
+      "to": 174.63,
+      "sid": 62,
+      "location": 2,
+      "content": "结合大语言模型的能力生成回答",
+      "music": 0.0
+    },
+    {
+      "from": 174.85,
+      "to": 178.41,
+      "sid": 63,
+      "location": 2,
+      "content": "RG最大的特点就是能够解决大模型",
+      "music": 0.0
+    },
+    {
+      "from": 178.41,
+      "to": 181.8,
+      "sid": 64,
+      "location": 2,
+      "content": "处理知识密集任务时遇到的各种挑战",
+      "music": 0.0
+    },
+    {
+      "from": 181.8,
+      "to": 184.83,
+      "sid": 65,
+      "location": 2,
+      "content": "例如我们刚刚看到的生成幻觉",
+      "music": 0.0
+    },
+    {
+      "from": 184.83,
+      "to": 187.05,
+      "sid": 66,
+      "location": 2,
+      "content": "对于自己不知道的东西胡说八道",
+      "music": 0.0
+    },
+    {
+      "from": 187.05,
+      "to": 189.21,
+      "sid": 67,
+      "location": 2,
+      "content": "过时知识像新闻",
+      "music": 0.0
+    },
+    {
+      "from": 189.21,
+      "to": 191.85,
+      "sid": 68,
+      "location": 2,
+      "content": "新技术这些知识的缺失",
+      "music": 0.0
+    },
+    {
+      "from": 191.85,
+      "to": 193.65,
+      "sid": 69,
+      "location": 2,
+      "content": "以及在回答时很难给出",
+      "music": 0.0
+    },
+    {
+      "from": 193.65,
+      "to": 198.13,
+      "sid": 70,
+      "location": 2,
+      "content": "让我们可追溯以及透明的推理过程和论证",
+      "music": 0.0
+    },
+    {
+      "from": 198.13,
+      "to": 201.7,
+      "sid": 71,
+      "location": 2,
+      "content": "RNG能够让大模型实现外部记忆",
+      "music": 0.0
+    },
+    {
+      "from": 201.7,
+      "to": 205.27,
+      "sid": 72,
+      "location": 2,
+      "content": "他在解决了诸多大模型常见问题的时候",
+      "music": 0.0
+    },
+    {
+      "from": 205.27,
+      "to": 207.49,
+      "sid": 73,
+      "location": 2,
+      "content": "也能够提供更准确的回答",
+      "music": 0.0
+    },
+    {
+      "from": 207.49,
+      "to": 209.3,
+      "sid": 74,
+      "location": 2,
+      "content": "因为没有训练的过程",
+      "music": 0.0
+    },
+    {
+      "from": 209.3,
+      "to": 212.04,
+      "sid": 75,
+      "location": 2,
+      "content": "它的总体成本会很低",
+      "music": 0.0
+    },
+    {
+      "from": 212.04,
+      "to": 214.92,
+      "sid": 76,
+      "location": 2,
+      "content": "RIG技术可以应用在很多地方",
+      "music": 0.0
+    },
+    {
+      "from": 214.92,
+      "to": 216.69,
+      "sid": 77,
+      "location": 2,
+      "content": "我们常见的问答系统",
+      "music": 0.0
+    },
+    {
+      "from": 216.69,
+      "to": 218.31,
+      "sid": 78,
+      "location": 2,
+      "content": "文本生成系统",
+      "music": 0.0
+    },
+    {
+      "from": 218.31,
+      "to": 219.54,
+      "sid": 79,
+      "location": 2,
+      "content": "信息检索",
+      "music": 0.0
+    },
+    {
+      "from": 219.54,
+      "to": 224.47,
+      "sid": 80,
+      "location": 2,
+      "content": "以及在结合了多模态大模型之后",
+      "music": 0.0
+    },
+    {
+      "from": 224.47,
+      "to": 228.19,
+      "sid": 81,
+      "location": 2,
+      "content": "RAG技术也能够用于图片的描述",
+      "music": 0.0
+    },
+    {
+      "from": 230.46,
+      "to": 234.23,
+      "sid": 82,
+      "location": 2,
+      "content": "在大概对RNG是什么有了初步的印象之后",
+      "music": 0.0
+    },
+    {
+      "from": 234.23,
+      "to": 237.44,
+      "sid": 83,
+      "location": 2,
+      "content": "现在让我们来了解一下RNG的工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 237.44,
+      "to": 239.84,
+      "sid": 84,
+      "location": 2,
+      "content": "经典的RG由三个部分组成",
+      "music": 0.0
+    },
+    {
+      "from": 239.84,
+      "to": 242.06,
+      "sid": 85,
+      "location": 2,
+      "content": "索引indexing retrieval",
+      "music": 0.0
+    },
+    {
+      "from": 242.06,
+      "to": 244.66,
+      "sid": 86,
+      "location": 2,
+      "content": "检索以及生成generation",
+      "music": 0.0
+    },
+    {
+      "from": 244.66,
+      "to": 248.77,
+      "sid": 87,
+      "location": 2,
+      "content": "索引部分负责处理我们的外部知识",
+      "music": 0.0
+    },
+    {
+      "from": 248.77,
+      "to": 252.2,
+      "sid": 88,
+      "location": 2,
+      "content": "将知识源例如我们的文档啊啊",
+      "music": 0.0
+    },
+    {
+      "from": 252.2,
+      "to": 254.15,
+      "sid": 89,
+      "location": 2,
+      "content": "还有网页分割成trunk",
+      "music": 0.0
+    },
+    {
+      "from": 254.15,
+      "to": 256.04,
+      "sid": 90,
+      "location": 2,
+      "content": "然后编码成向量",
+      "music": 0.0
+    },
+    {
+      "from": 256.04,
+      "to": 259.24,
+      "sid": 91,
+      "location": 2,
+      "content": "并存储在专用的向量数据库当中",
+      "music": 0.0
+    },
+    {
+      "from": 259.24,
+      "to": 261.97,
+      "sid": 92,
+      "location": 2,
+      "content": "第二重要的组成部分是检索",
+      "music": 0.0
+    },
+    {
+      "from": 261.97,
+      "to": 264.659,
+      "sid": 93,
+      "location": 2,
+      "content": "负责接收用户的问题",
+      "music": 0.0
+    },
+    {
+      "from": 265.239,
+      "to": 268.079,
+      "sid": 94,
+      "location": 2,
+      "content": "然后将问题也编码成向量",
+      "music": 0.0
+    },
+    {
+      "from": 268.079,
+      "to": 272.289,
+      "sid": 95,
+      "location": 2,
+      "content": "同时用这些向量去向量数据库当中",
+      "music": 0.0
+    },
+    {
+      "from": 272.289,
+      "to": 275.049,
+      "sid": 96,
+      "location": 2,
+      "content": "找出与问题最相关的内容",
+      "music": 0.0
+    },
+    {
+      "from": 275.049,
+      "to": 277.53,
+      "sid": 97,
+      "location": 2,
+      "content": "第三个部分以及生成",
+      "music": 0.0
+    },
+    {
+      "from": 277.53,
+      "to": 278.97,
+      "sid": 98,
+      "location": 2,
+      "content": "在这个部分当中",
+      "music": 0.0
+    },
+    {
+      "from": 278.97,
+      "to": 282.64,
+      "sid": 99,
+      "location": 2,
+      "content": "我们将检索到的内容和原始问题一起作为提示",
+      "music": 0.0
+    },
+    {
+      "from": 282.64,
+      "to": 284.17,
+      "sid": 100,
+      "location": 2,
+      "content": "输入到大模型中",
+      "music": 0.0
+    },
+    {
+      "from": 284.17,
+      "to": 285.67,
+      "sid": 101,
+      "location": 2,
+      "content": "生成最终的答案",
+      "music": 0.0
+    },
+    {
+      "from": 285.67,
+      "to": 289.69,
+      "sid": 102,
+      "location": 2,
+      "content": "然后返回给用户索引",
+      "music": 0.0
+    },
+    {
+      "from": 289.69,
+      "to": 294.71,
+      "sid": 103,
+      "location": 2,
+      "content": "检索生成是ROG技术当中三个最基本的部分",
+      "music": 0.0
+    },
+    {
+      "from": 294.71,
+      "to": 296.24,
+      "sid": 104,
+      "location": 2,
+      "content": "也是最重要的部分",
+      "music": 0.0
+    },
+    {
+      "from": 296.24,
+      "to": 297.56,
+      "sid": 105,
+      "location": 2,
+      "content": "除了这三个部分",
+      "music": 0.0
+    },
+    {
+      "from": 297.56,
+      "to": 299.54,
+      "sid": 106,
+      "location": 2,
+      "content": "实现RNG的过程中",
+      "music": 0.0
+    },
+    {
+      "from": 299.54,
+      "to": 302.09,
+      "sid": 107,
+      "location": 2,
+      "content": "其实我们大家还要了解一个重要的概念",
+      "music": 0.0
+    },
+    {
+      "from": 302.09,
+      "to": 304.47,
+      "sid": 108,
+      "location": 2,
+      "content": "那就是vector database",
+      "music": 0.0
+    },
+    {
+      "from": 304.47,
+      "to": 306.66,
+      "sid": 109,
+      "location": 2,
+      "content": "向量数据库",
+      "music": 0.0
+    },
+    {
+      "from": 308.36,
+      "to": 310.78,
+      "sid": 110,
+      "location": 2,
+      "content": "向量数据库是ROG技术当中",
+      "music": 0.0
+    },
+    {
+      "from": 310.78,
+      "to": 313.53,
+      "sid": 111,
+      "location": 2,
+      "content": "专门储存外部数据的地方",
+      "music": 0.0
+    },
+    {
+      "from": 313.53,
+      "to": 316.89,
+      "sid": 112,
+      "location": 2,
+      "content": "主要是实现了将文本及相关的数据",
+      "music": 0.0
+    },
+    {
+      "from": 316.89,
+      "to": 320.865,
+      "sid": 113,
+      "location": 2,
+      "content": "通过预训练的模型转换为固定长度的向量",
+      "music": 0.0
+    },
+    {
+      "from": 321.53,
+      "to": 326.67,
+      "sid": 114,
+      "location": 2,
+      "content": "这些项链要能够很好地捕捉到我们文本和知识",
+      "music": 0.0
+    },
+    {
+      "from": 326.67,
+      "to": 328.65,
+      "sid": 115,
+      "location": 2,
+      "content": "的语义信息及内部联系",
+      "music": 0.0
+    },
+    {
+      "from": 328.65,
+      "to": 332.6,
+      "sid": 116,
+      "location": 2,
+      "content": "向量数据库是实现快速准确回答的基础",
+      "music": 0.0
+    },
+    {
+      "from": 332.6,
+      "to": 335.33,
+      "sid": 117,
+      "location": 2,
+      "content": "要能够高效地实现相似性检索",
+      "music": 0.0
+    },
+    {
+      "from": 335.33,
+      "to": 337.95,
+      "sid": 118,
+      "location": 2,
+      "content": "根据用户的查询",
+      "music": 0.0
+    },
+    {
+      "from": 338.53,
+      "to": 340.92,
+      "sid": 119,
+      "location": 2,
+      "content": "快速找出最相关的向量",
+      "music": 0.0
+    },
+    {
+      "from": 340.92,
+      "to": 342.289,
+      "sid": 120,
+      "location": 2,
+      "content": "通常情况下",
+      "music": 0.0
+    },
+    {
+      "from": 342.289,
+      "to": 345.049,
+      "sid": 121,
+      "location": 2,
+      "content": "我们会通过计算余弦相似度",
+      "music": 0.0
+    },
+    {
+      "from": 345.049,
+      "to": 349.92,
+      "sid": 122,
+      "location": 2,
+      "content": "或者是点乘的方式来判断相似度",
+      "music": 0.0
+    },
+    {
+      "from": 350.5,
+      "to": 354.84,
+      "sid": 123,
+      "location": 2,
+      "content": "然后检索的结果要根据相似度的得分进行排序",
+      "music": 0.0
+    },
+    {
+      "from": 354.84,
+      "to": 358.45,
+      "sid": 124,
+      "location": 2,
+      "content": "向量数据库是实现快速准确回答的基础",
+      "music": 0.0
+    },
+    {
+      "from": 358.45,
+      "to": 361.15,
+      "sid": 125,
+      "location": 2,
+      "content": "要能够高效地实现相似性检索",
+      "music": 0.0
+    },
+    {
+      "from": 361.15,
+      "to": 363.13,
+      "sid": 126,
+      "location": 2,
+      "content": "根据用户的查询向量",
+      "music": 0.0
+    },
+    {
+      "from": 363.13,
+      "to": 364.99,
+      "sid": 127,
+      "location": 2,
+      "content": "快速找出相关的向量",
+      "music": 0.0
+    },
+    {
+      "from": 364.99,
+      "to": 366.159,
+      "sid": 128,
+      "location": 2,
+      "content": "通常情况下",
+      "music": 0.0
+    },
+    {
+      "from": 366.159,
+      "to": 370.359,
+      "sid": 129,
+      "location": 2,
+      "content": "我们会用余弦相似度或者是点乘的方式",
+      "music": 0.0
+    },
+    {
+      "from": 370.359,
+      "to": 372.789,
+      "sid": 130,
+      "location": 2,
+      "content": "来判断向量之间的相似度",
+      "music": 0.0
+    },
+    {
+      "from": 372.789,
+      "to": 376.689,
+      "sid": 131,
+      "location": 2,
+      "content": "然后检索的结果要根据相似度的得分进行排序",
+      "music": 0.0
+    },
+    {
+      "from": 376.689,
+      "to": 382.289,
+      "sid": 132,
+      "location": 2,
+      "content": "把其中最相关的内容用于我们后续的回答生成",
+      "music": 0.0
+    },
+    {
+      "from": 382.289,
+      "to": 384.82,
+      "sid": 133,
+      "location": 2,
+      "content": "在面向大规模数据的时候",
+      "music": 0.0
+    },
+    {
+      "from": 384.82,
+      "to": 387.85,
+      "sid": 134,
+      "location": 2,
+      "content": "以及需要高速响应的需求的时候",
+      "music": 0.0
+    },
+    {
+      "from": 387.85,
+      "to": 390.34,
+      "sid": 135,
+      "location": 2,
+      "content": "向量数据库也是需要进行优化的",
+      "music": 0.0
+    },
+    {
+      "from": 390.34,
+      "to": 393.94,
+      "sid": 136,
+      "location": 2,
+      "content": "其中很重要的就是对向量表示的优化",
+      "music": 0.0
+    },
+    {
+      "from": 394.4,
+      "to": 397.12,
+      "sid": 137,
+      "location": 2,
+      "content": "例如使用更高级的文本编码技术",
+      "music": 0.0
+    },
+    {
+      "from": 397.12,
+      "to": 399.039,
+      "sid": 138,
+      "location": 2,
+      "content": "使用更好的预训练模型等",
+      "music": 0.0
+    },
+    {
+      "from": 399.039,
+      "to": 401.619,
+      "sid": 139,
+      "location": 2,
+      "content": "也包括去尝试不同的句子嵌入或",
+      "music": 0.0
+    },
+    {
+      "from": 401.619,
+      "to": 403.179,
+      "sid": 140,
+      "location": 2,
+      "content": "段落嵌入方法等等",
+      "music": 0.0
+    },
+    {
+      "from": 403.179,
+      "to": 406.41,
+      "sid": 141,
+      "location": 2,
+      "content": "可以说针对向量表示的优化",
+      "music": 0.0
+    },
+    {
+      "from": 406.41,
+      "to": 410.97,
+      "sid": 142,
+      "location": 2,
+      "content": "将直接影响RNG的结果的好坏",
+      "music": 0.0
+    },
+    {
+      "from": 412.049,
+      "to": 414.889,
+      "sid": 143,
+      "location": 2,
+      "content": "现在让我们快速通过事例来理解一下",
+      "music": 0.0
+    },
+    {
+      "from": 414.889,
+      "to": 417.19,
+      "sid": 144,
+      "location": 2,
+      "content": "ROG的工作流程",
+      "music": 0.0
+    },
+    {
+      "from": 417.71,
+      "to": 419.2,
+      "sid": 145,
+      "location": 2,
+      "content": "在这个事例当中",
+      "music": 0.0
+    },
+    {
+      "from": 419.2,
+      "to": 422.54,
+      "sid": 146,
+      "location": 2,
+      "content": "我们作为用户提出的问题是",
+      "music": 0.0
+    },
+    {
+      "from": 422.88,
+      "to": 426.95,
+      "sid": 147,
+      "location": 2,
+      "content": "如何评价OpenAI的CEOSAM奥特曼突然被离职",
+      "music": 0.0
+    },
+    {
+      "from": 426.95,
+      "to": 429.98,
+      "sid": 148,
+      "location": 2,
+      "content": "又火速回归的事件",
+      "music": 0.0
+    },
+    {
+      "from": 429.98,
+      "to": 434.63,
+      "sid": 149,
+      "location": 2,
+      "content": "我们先来看一下在传统的问答体系当中",
+      "music": 0.0
+    },
+    {
+      "from": 434.63,
+      "to": 436.98,
+      "sid": 150,
+      "location": 2,
+      "content": "大模型会怎样处理这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 436.98,
+      "to": 439.8,
+      "sid": 151,
+      "location": 2,
+      "content": "如果这个大模型和我们第一个示例",
+      "music": 0.0
+    },
+    {
+      "from": 439.8,
+      "to": 442.48,
+      "sid": 152,
+      "location": 2,
+      "content": "英特尔LM一样",
+      "music": 0.0
+    },
+    {
+      "from": 442.48,
+      "to": 446.38,
+      "sid": 153,
+      "location": 2,
+      "content": "是一个在这个事件出现之前就训练好的模型",
+      "music": 0.0
+    },
+    {
+      "from": 446.38,
+      "to": 450.25,
+      "sid": 154,
+      "location": 2,
+      "content": "那么他的回答就会像这里的事例一样",
+      "music": 0.0
+    },
+    {
+      "from": 450.25,
+      "to": 451.99,
+      "sid": 155,
+      "location": 2,
+      "content": "表示我不知道",
+      "music": 0.0
+    },
+    {
+      "from": 452.33,
+      "to": 454.81,
+      "sid": 156,
+      "location": 2,
+      "content": "那其实这个已经是一个比较好的答案",
+      "music": 0.0
+    },
+    {
+      "from": 454.81,
+      "to": 455.59,
+      "sid": 157,
+      "location": 2,
+      "content": "因为它是事实",
+      "music": 0.0
+    },
+    {
+      "from": 455.59,
+      "to": 456.67,
+      "sid": 158,
+      "location": 2,
+      "content": "他确实不知道",
+      "music": 0.0
+    },
+    {
+      "from": 456.67,
+      "to": 457.93,
+      "sid": 159,
+      "location": 2,
+      "content": "但更多情况下",
+      "music": 0.0
+    },
+    {
+      "from": 457.93,
+      "to": 461.419,
+      "sid": 160,
+      "location": 2,
+      "content": "大模型很可能会生成一些哦无关的数据",
+      "music": 0.0
+    },
+    {
+      "from": 461.419,
+      "to": 462.799,
+      "sid": 161,
+      "location": 2,
+      "content": "出现幻觉问题",
+      "music": 0.0
+    },
+    {
+      "from": 462.799,
+      "to": 464.779,
+      "sid": 162,
+      "location": 2,
+      "content": "那现在让我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 464.779,
+      "to": 468.67,
+      "sid": 163,
+      "location": 2,
+      "content": "RIG是怎么处理这个相同的问题的",
+      "music": 0.0
+    },
+    {
+      "from": 468.67,
+      "to": 470.59,
+      "sid": 164,
+      "location": 2,
+      "content": "首先和传统大模型一样",
+      "music": 0.0
+    },
+    {
+      "from": 470.59,
+      "to": 473.56,
+      "sid": 165,
+      "location": 2,
+      "content": "用户的提问会被输入进检索模块",
+      "music": 0.0
+    },
+    {
+      "from": 473.56,
+      "to": 477.96,
+      "sid": 166,
+      "location": 2,
+      "content": "检索模块会把这个问题向量化做一个embedding",
+      "music": 0.0
+    },
+    {
+      "from": 477.96,
+      "to": 483.38,
+      "sid": 167,
+      "location": 2,
+      "content": "然后在已经存在的向量数据库当中去进行搜索",
+      "music": 0.0
+    },
+    {
+      "from": 483.38,
+      "to": 487.72,
+      "sid": 168,
+      "location": 2,
+      "content": "从中检索出相似性最高的一些片段",
+      "music": 0.0
+    },
+    {
+      "from": 487.72,
+      "to": 488.74,
+      "sid": 169,
+      "location": 2,
+      "content": "在这个事例当中",
+      "music": 0.0
+    },
+    {
+      "from": 488.74,
+      "to": 491.5,
+      "sid": 170,
+      "location": 2,
+      "content": "我们剪出了三个和SAM离职",
+      "music": 0.0
+    },
+    {
+      "from": 491.5,
+      "to": 493.78,
+      "sid": 171,
+      "location": 2,
+      "content": "并返回OpenAI相关内容的文本",
+      "music": 0.0
+    },
+    {
+      "from": 493.78,
+      "to": 498.31,
+      "sid": 172,
+      "location": 2,
+      "content": "然后将用户的问题和这三个文本共同输给",
+      "music": 0.0
+    },
+    {
+      "from": 498.31,
+      "to": 499.54,
+      "sid": 173,
+      "location": 2,
+      "content": "生成模块",
+      "music": 0.0
+    },
+    {
+      "from": 499.54,
+      "to": 500.65,
+      "sid": 174,
+      "location": 2,
+      "content": "生成模块",
+      "music": 0.0
+    },
+    {
+      "from": 500.65,
+      "to": 504.819,
+      "sid": 175,
+      "location": 2,
+      "content": "将这些呃问题和文本作为提示词",
+      "music": 0.0
+    },
+    {
+      "from": 504.819,
+      "to": 506.979,
+      "sid": 176,
+      "location": 2,
+      "content": "然后开始生成我们的回答内容",
+      "music": 0.0
+    },
+    {
+      "from": 506.979,
+      "to": 508.569,
+      "sid": 177,
+      "location": 2,
+      "content": "那可以看到我们这个回答",
+      "music": 0.0
+    },
+    {
+      "from": 508.569,
+      "to": 511.8,
+      "sid": 178,
+      "location": 2,
+      "content": "其实就出一个合适的问答",
+      "music": 0.0
+    },
+    {
+      "from": 512.08,
+      "to": 515.94,
+      "sid": 179,
+      "location": 2,
+      "content": "在这里我们模型给出的所有答案的信息来源",
+      "music": 0.0
+    },
+    {
+      "from": 515.94,
+      "to": 519.419,
+      "sid": 180,
+      "location": 2,
+      "content": "都依赖于我们的调用的这个相关的数据库",
+      "music": 0.0
+    },
+    {
+      "from": 519.419,
+      "to": 521.339,
+      "sid": 181,
+      "location": 2,
+      "content": "而针对一些专业性的知识",
+      "music": 0.0
+    },
+    {
+      "from": 521.339,
+      "to": 523.809,
+      "sid": 182,
+      "location": 2,
+      "content": "或者是像新闻这种高时效的信息",
+      "music": 0.0
+    },
+    {
+      "from": 523.809,
+      "to": 526.719,
+      "sid": 183,
+      "location": 2,
+      "content": "我们只需要不断的更新这个向量数据库",
+      "music": 0.0
+    },
+    {
+      "from": 526.719,
+      "to": 529.029,
+      "sid": 184,
+      "location": 2,
+      "content": "就可以将大模型的生成能力",
+      "music": 0.0
+    },
+    {
+      "from": 529.029,
+      "to": 531.129,
+      "sid": 185,
+      "location": 2,
+      "content": "和我们向量数据库当中的知识内容",
+      "music": 0.0
+    },
+    {
+      "from": 531.129,
+      "to": 533.18,
+      "sid": 186,
+      "location": 2,
+      "content": "很好地结合在一起呃",
+      "music": 0.0
+    },
+    {
+      "from": 533.18,
+      "to": 534.08,
+      "sid": 187,
+      "location": 2,
+      "content": "无需任何训练",
+      "music": 0.0
+    },
+    {
+      "from": 534.08,
+      "to": 538.1,
+      "sid": 188,
+      "location": 2,
+      "content": "就能让大模型拥有并处理这些新的知识",
+      "music": 0.0
+    },
+    {
+      "from": 541.04,
+      "to": 544.49,
+      "sid": 189,
+      "location": 2,
+      "content": "那RNG是一个新兴技术",
+      "music": 0.0
+    },
+    {
+      "from": 544.49,
+      "to": 548.27,
+      "sid": 190,
+      "location": 2,
+      "content": "这个概念最早是由在meta工作的路易斯等人",
+      "music": 0.0
+    },
+    {
+      "from": 548.27,
+      "to": 550.21,
+      "sid": 191,
+      "location": 2,
+      "content": "在2020年发表的论文",
+      "music": 0.0
+    },
+    {
+      "from": 550.21,
+      "to": 552.31,
+      "sid": 192,
+      "location": 2,
+      "content": "Retro augmented generation",
+      "music": 0.0
+    },
+    {
+      "from": 552.31,
+      "to": 552.91,
+      "sid": 193,
+      "location": 2,
+      "content": "For knowledge",
+      "music": 0.0
+    },
+    {
+      "from": 552.91,
+      "to": 555.97,
+      "sid": 194,
+      "location": 2,
+      "content": "intensive NLP task当中提出的",
+      "music": 0.0
+    },
+    {
+      "from": 555.97,
+      "to": 558.22,
+      "sid": 195,
+      "location": 2,
+      "content": "RG发展的时间很短",
+      "music": 0.0
+    },
+    {
+      "from": 558.22,
+      "to": 559.81,
+      "sid": 196,
+      "location": 2,
+      "content": "但发展迅猛",
+      "music": 0.0
+    },
+    {
+      "from": 559.81,
+      "to": 563.29,
+      "sid": 197,
+      "location": 2,
+      "content": "从提出到现在不到4年的时间",
+      "music": 0.0
+    },
+    {
+      "from": 563.29,
+      "to": 565.839,
+      "sid": 198,
+      "location": 2,
+      "content": "已经出现了三种RH的范式",
+      "music": 0.0
+    },
+    {
+      "from": 565.839,
+      "to": 570.06,
+      "sid": 199,
+      "location": 2,
+      "content": "我们可以参考右边的图来回顾一下",
+      "music": 0.0
+    },
+    {
+      "from": 572.98,
+      "to": 576.66,
+      "sid": 200,
+      "location": 2,
+      "content": "首先nee a r g以及我们之前介绍的",
+      "music": 0.0
+    },
+    {
+      "from": 576.66,
+      "to": 578.16,
+      "sid": 201,
+      "location": 2,
+      "content": "只有索引检索",
+      "music": 0.0
+    },
+    {
+      "from": 578.16,
+      "to": 580.97,
+      "sid": 202,
+      "location": 2,
+      "content": "生成三个部分构成的最基础的方式",
+      "music": 0.0
+    },
+    {
+      "from": 580.97,
+      "to": 583.07,
+      "sid": 203,
+      "location": 2,
+      "content": "这种范式通常会被应用在",
+      "music": 0.0
+    },
+    {
+      "from": 583.07,
+      "to": 587.03,
+      "sid": 204,
+      "location": 2,
+      "content": "简单的问答系统和信息检索场景",
+      "music": 0.0
+    },
+    {
+      "from": 589.58,
+      "to": 593.35,
+      "sid": 205,
+      "location": 2,
+      "content": "advanced rg范式是在三个基础部分之外",
+      "music": 0.0
+    },
+    {
+      "from": 593.35,
+      "to": 595.83,
+      "sid": 206,
+      "location": 2,
+      "content": "对检索前后都进行了增强",
+      "music": 0.0
+    },
+    {
+      "from": 595.83,
+      "to": 599.73,
+      "sid": 207,
+      "location": 2,
+      "content": "在检索之前对用户的问题进行路由扩展",
+      "music": 0.0
+    },
+    {
+      "from": 599.73,
+      "to": 600.91,
+      "sid": 208,
+      "location": 2,
+      "content": "重写等处理力",
+      "music": 0.0
+    },
+    {
+      "from": 600.91,
+      "to": 603.97,
+      "sid": 209,
+      "location": 2,
+      "content": "对于检索到的信息进行重排序",
+      "music": 0.0
+    },
+    {
+      "from": 603.97,
+      "to": 606.14,
+      "sid": 210,
+      "location": 2,
+      "content": "总结融合等处理",
+      "music": 0.0
+    },
+    {
+      "from": 606.14,
+      "to": 608.81,
+      "sid": 211,
+      "location": 2,
+      "content": "使信息收集和处理效率更高",
+      "music": 0.0
+    },
+    {
+      "from": 608.81,
+      "to": 611.18,
+      "sid": 212,
+      "location": 2,
+      "content": "使得RNG可以应用在摘要生成",
+      "music": 0.0
+    },
+    {
+      "from": 611.18,
+      "to": 614.48,
+      "sid": 213,
+      "location": 2,
+      "content": "内容推荐等等这些领域",
+      "music": 0.0
+    },
+    {
+      "from": 615.01,
+      "to": 617.25,
+      "sid": 214,
+      "location": 2,
+      "content": "那modular IG范式则是",
+      "music": 0.0
+    },
+    {
+      "from": 617.25,
+      "to": 621.54,
+      "sid": 215,
+      "location": 2,
+      "content": "将RG的基础部分和后续各种优化技术和功能",
+      "music": 0.0
+    },
+    {
+      "from": 621.54,
+      "to": 622.53,
+      "sid": 216,
+      "location": 2,
+      "content": "模块化",
+      "music": 0.0
+    },
+    {
+      "from": 622.53,
+      "to": 624.84,
+      "sid": 217,
+      "location": 2,
+      "content": "可以根据实际业务需求定制",
+      "music": 0.0
+    },
+    {
+      "from": 624.84,
+      "to": 629.76,
+      "sid": 218,
+      "location": 2,
+      "content": "完成如多模态任务对话系统等更高级的应用",
+      "music": 0.0
+    },
+    {
+      "from": 631.0,
+      "to": 634.83,
+      "sid": 219,
+      "location": 2,
+      "content": "下面我们介绍几种IG常见的优化方法",
+      "music": 0.0
+    },
+    {
+      "from": 634.83,
+      "to": 639.57,
+      "sid": 220,
+      "location": 2,
+      "content": "首先我们要介绍的是嵌入式优化嗯",
+      "music": 0.0
+    },
+    {
+      "from": 639.57,
+      "to": 642.33,
+      "sid": 221,
+      "location": 2,
+      "content": "我们可以考虑通过结合稀疏编码器",
+      "music": 0.0
+    },
+    {
+      "from": 642.33,
+      "to": 645.12,
+      "sid": 222,
+      "location": 2,
+      "content": "密集检索器以及多任务的方式",
+      "music": 0.0
+    },
+    {
+      "from": 645.12,
+      "to": 647.44,
+      "sid": 223,
+      "location": 2,
+      "content": "来增强嵌入的性能",
+      "music": 0.0
+    },
+    {
+      "from": 647.9,
+      "to": 650.29,
+      "sid": 224,
+      "location": 2,
+      "content": "第二种常用方法是索引优化",
+      "music": 0.0
+    },
+    {
+      "from": 650.29,
+      "to": 652.33,
+      "sid": 225,
+      "location": 2,
+      "content": "可以通过增强数据力度",
+      "music": 0.0
+    },
+    {
+      "from": 652.33,
+      "to": 654.319,
+      "sid": 226,
+      "location": 2,
+      "content": "优化索引结构",
+      "music": 0.0
+    },
+    {
+      "from": 654.319,
+      "to": 656.029,
+      "sid": 227,
+      "location": 2,
+      "content": "添加原数据",
+      "music": 0.0
+    },
+    {
+      "from": 656.029,
+      "to": 660.73,
+      "sid": 228,
+      "location": 2,
+      "content": "对其优化和混合检索等策略来提升索引的质量",
+      "music": 0.0
+    },
+    {
+      "from": 660.73,
+      "to": 664.94,
+      "sid": 229,
+      "location": 2,
+      "content": "这两种方法都是提高向量数据库的质量",
+      "music": 0.0
+    },
+    {
+      "from": 664.94,
+      "to": 669.44,
+      "sid": 230,
+      "location": 2,
+      "content": "来对RNG进行性能的提升的",
+      "music": 0.0
+    },
+    {
+      "from": 669.44,
+      "to": 672.74,
+      "sid": 231,
+      "location": 2,
+      "content": "那第三个方法是针对查询过程进行了优化",
+      "music": 0.0
+    },
+    {
+      "from": 673.94,
+      "to": 676.47,
+      "sid": 232,
+      "location": 2,
+      "content": "我们可以通过查询扩展和转换",
+      "music": 0.0
+    },
+    {
+      "from": 676.47,
+      "to": 678.9,
+      "sid": 233,
+      "location": 2,
+      "content": "来使用户的原始问题更清晰",
+      "music": 0.0
+    },
+    {
+      "from": 678.9,
+      "to": 680.37,
+      "sid": 234,
+      "location": 2,
+      "content": "更适合检索任务",
+      "music": 0.0
+    },
+    {
+      "from": 680.37,
+      "to": 682.589,
+      "sid": 235,
+      "location": 2,
+      "content": "例如我们采用多查询方法",
+      "music": 0.0
+    },
+    {
+      "from": 682.589,
+      "to": 686.99,
+      "sid": 236,
+      "location": 2,
+      "content": "通过大模型生成的提示工程来扩展查询",
+      "music": 0.0
+    },
+    {
+      "from": 687.81,
+      "to": 690.08,
+      "sid": 237,
+      "location": 2,
+      "content": "第四个方法是上下文的管理",
+      "music": 0.0
+    },
+    {
+      "from": 690.08,
+      "to": 693.38,
+      "sid": 238,
+      "location": 2,
+      "content": "通过重排和上下文选择压缩",
+      "music": 0.0
+    },
+    {
+      "from": 693.38,
+      "to": 695.36,
+      "sid": 239,
+      "location": 2,
+      "content": "来减少检索的冗余信息",
+      "music": 0.0
+    },
+    {
+      "from": 695.36,
+      "to": 697.32,
+      "sid": 240,
+      "location": 2,
+      "content": "并提高大模型的处理效率",
+      "music": 0.0
+    },
+    {
+      "from": 697.32,
+      "to": 699.96,
+      "sid": 241,
+      "location": 2,
+      "content": "例如我们可以使用小一点的语言模型",
+      "music": 0.0
+    },
+    {
+      "from": 699.96,
+      "to": 701.88,
+      "sid": 242,
+      "location": 2,
+      "content": "来检测和溢出不重要的标记",
+      "music": 0.0
+    },
+    {
+      "from": 701.88,
+      "to": 705.99,
+      "sid": 243,
+      "location": 2,
+      "content": "或者训练信息提取器和信息压缩器呃",
+      "music": 0.0
+    },
+    {
+      "from": 705.99,
+      "to": 709.71,
+      "sid": 244,
+      "location": 2,
+      "content": "第三四种方法就是我们刚刚提到的advice",
+      "music": 0.0
+    },
+    {
+      "from": 709.71,
+      "to": 713.97,
+      "sid": 245,
+      "location": 2,
+      "content": "RG范式中的前检索和后检索部分",
+      "music": 0.0
+    },
+    {
+      "from": 713.97,
+      "to": 715.59,
+      "sid": 246,
+      "location": 2,
+      "content": "那既然叫RIG",
+      "music": 0.0
+    },
+    {
+      "from": 715.59,
+      "to": 718.92,
+      "sid": 247,
+      "location": 2,
+      "content": "那retrieval检索部分一定是优化的重中之重",
+      "music": 0.0
+    },
+    {
+      "from": 718.92,
+      "to": 720.21,
+      "sid": 248,
+      "location": 2,
+      "content": "常见的三种方式",
+      "music": 0.0
+    },
+    {
+      "from": 720.21,
+      "to": 726.22,
+      "sid": 249,
+      "location": 2,
+      "content": "分别为迭代递归以及自适应检索",
+      "music": 0.0
+    },
+    {
+      "from": 726.22,
+      "to": 728.8,
+      "sid": 250,
+      "location": 2,
+      "content": "迭代检索是在RNG过程中",
+      "music": 0.0
+    },
+    {
+      "from": 728.8,
+      "to": 732.08,
+      "sid": 251,
+      "location": 2,
+      "content": "根据检索结果多次迭代检索知识",
+      "music": 0.0
+    },
+    {
+      "from": 732.08,
+      "to": 735.6,
+      "sid": 252,
+      "location": 2,
+      "content": "为大模型生成提供全面的知识基础",
+      "music": 0.0
+    },
+    {
+      "from": 735.6,
+      "to": 738.51,
+      "sid": 253,
+      "location": 2,
+      "content": "递归检索则是通过迭代细化查询",
+      "music": 0.0
+    },
+    {
+      "from": 738.51,
+      "to": 741.85,
+      "sid": 254,
+      "location": 2,
+      "content": "来改进搜索结果的深度和相关性",
+      "music": 0.0
+    },
+    {
+      "from": 741.85,
+      "to": 744.49,
+      "sid": 255,
+      "location": 2,
+      "content": "使用了链式推理指导检索过程",
+      "music": 0.0
+    },
+    {
+      "from": 744.49,
+      "to": 748.04,
+      "sid": 256,
+      "location": 2,
+      "content": "并根据检索结果细化推理过程",
+      "music": 0.0
+    },
+    {
+      "from": 748.04,
+      "to": 751.79,
+      "sid": 257,
+      "location": 2,
+      "content": "自适应检索只是用flair self i g等等",
+      "music": 0.0
+    },
+    {
+      "from": 751.79,
+      "to": 756.82,
+      "sid": 258,
+      "location": 2,
+      "content": "让大模型能够自主的决定他所要检索的内容",
+      "music": 0.0
+    },
+    {
+      "from": 756.82,
+      "to": 760.3,
+      "sid": 259,
+      "location": 2,
+      "content": "最佳时机等这些因素",
+      "music": 0.0
+    },
+    {
+      "from": 760.38,
+      "to": 763.44,
+      "sid": 260,
+      "location": 2,
+      "content": "那上面提到的这些优化方法",
+      "music": 0.0
+    },
+    {
+      "from": 763.44,
+      "to": 769.46,
+      "sid": 261,
+      "location": 2,
+      "content": "都是针对我们RG模块来和流程来进行的优化",
+      "music": 0.0
+    },
+    {
+      "from": 769.46,
+      "to": 771.38,
+      "sid": 262,
+      "location": 2,
+      "content": "那大家也不能忘记",
+      "music": 0.0
+    },
+    {
+      "from": 771.38,
+      "to": 774.57,
+      "sid": 263,
+      "location": 2,
+      "content": "大模型是RG技术的重要组成部分",
+      "music": 0.0
+    },
+    {
+      "from": 774.57,
+      "to": 776.73,
+      "sid": 264,
+      "location": 2,
+      "content": "因此对大模型的微调",
+      "music": 0.0
+    },
+    {
+      "from": 776.73,
+      "to": 781.71,
+      "sid": 265,
+      "location": 2,
+      "content": "也是优化RG方式中一种常见的思路",
+      "music": 0.0
+    },
+    {
+      "from": 783.0,
+      "to": 785.36,
+      "sid": 266,
+      "location": 2,
+      "content": "可以根据场景和数据特征",
+      "music": 0.0
+    },
+    {
+      "from": 785.36,
+      "to": 787.67,
+      "sid": 267,
+      "location": 2,
+      "content": "对大模型进行定向微调",
+      "music": 0.0
+    },
+    {
+      "from": 787.67,
+      "to": 791.349,
+      "sid": 268,
+      "location": 2,
+      "content": "也可以根据大模型对于检索或生成的参与",
+      "music": 0.0
+    },
+    {
+      "from": 791.349,
+      "to": 794.409,
+      "sid": 269,
+      "location": 2,
+      "content": "进行有针对性的微调",
+      "music": 0.0
+    },
+    {
+      "from": 797.18,
+      "to": 799.45,
+      "sid": 270,
+      "location": 2,
+      "content": "那刚刚我们提到了微调",
+      "music": 0.0
+    },
+    {
+      "from": 799.45,
+      "to": 802.36,
+      "sid": 271,
+      "location": 2,
+      "content": "在对RG技术有了一定的了解之后",
+      "music": 0.0
+    },
+    {
+      "from": 802.36,
+      "to": 803.65,
+      "sid": 272,
+      "location": 2,
+      "content": "现在让我们对比一下",
+      "music": 0.0
+    },
+    {
+      "from": 803.65,
+      "to": 808.2,
+      "sid": 273,
+      "location": 2,
+      "content": "RAG和大模型常见微调的优势和局限",
+      "music": 0.0
+    },
+    {
+      "from": 808.6,
+      "to": 810.72,
+      "sid": 274,
+      "location": 2,
+      "content": "首先我们先看RG",
+      "music": 0.0
+    },
+    {
+      "from": 810.72,
+      "to": 813.06,
+      "sid": 275,
+      "location": 2,
+      "content": "RG是非参数记忆",
+      "music": 0.0
+    },
+    {
+      "from": 813.06,
+      "to": 814.99,
+      "sid": 276,
+      "location": 2,
+      "content": "利用的是外部的知识库",
+      "music": 0.0
+    },
+    {
+      "from": 814.99,
+      "to": 817.84,
+      "sid": 277,
+      "location": 2,
+      "content": "能够提供及时和准确的专业信息",
+      "music": 0.0
+    },
+    {
+      "from": 817.84,
+      "to": 819.55,
+      "sid": 278,
+      "location": 2,
+      "content": "能够处理密集的信息",
+      "music": 0.0
+    },
+    {
+      "from": 819.55,
+      "to": 823.85,
+      "sid": 279,
+      "location": 2,
+      "content": "也能够检索增强生存更多样式的内容",
+      "music": 0.0
+    },
+    {
+      "from": 823.85,
+      "to": 829.52,
+      "sid": 280,
+      "location": 2,
+      "content": "它的主要应用条件是针对那些小数据样本的",
+      "music": 0.0
+    },
+    {
+      "from": 829.52,
+      "to": 830.06,
+      "sid": 281,
+      "location": 2,
+      "content": "知识库",
+      "music": 0.0
+    },
+    {
+      "from": 830.06,
+      "to": 831.89,
+      "sid": 282,
+      "location": 2,
+      "content": "或者是开放领域的问答",
+      "music": 0.0
+    },
+    {
+      "from": 831.89,
+      "to": 834.8,
+      "sid": 283,
+      "location": 2,
+      "content": "或者是如实时新闻摘要等等",
+      "music": 0.0
+    },
+    {
+      "from": 834.8,
+      "to": 838.01,
+      "sid": 284,
+      "location": 2,
+      "content": "这些具有很高时效性的呃",
+      "music": 0.0
+    },
+    {
+      "from": 838.01,
+      "to": 841.829,
+      "sid": 285,
+      "location": 2,
+      "content": "知识的问答搜索",
+      "music": 0.0
+    },
+    {
+      "from": 842.409,
+      "to": 845.309,
+      "sid": 286,
+      "location": 2,
+      "content": "RG的优势是有动态的知识库更新",
+      "music": 0.0
+    },
+    {
+      "from": 845.309,
+      "to": 848.48,
+      "sid": 287,
+      "location": 2,
+      "content": "能够处理长尾的知识问题嗯",
+      "music": 0.0
+    },
+    {
+      "from": 848.48,
+      "to": 850.94,
+      "sid": 288,
+      "location": 2,
+      "content": "但是RG也有着严重的局限性",
+      "music": 0.0
+    },
+    {
+      "from": 850.94,
+      "to": 852.68,
+      "sid": 289,
+      "location": 2,
+      "content": "那就是它所检索的知识",
+      "music": 0.0
+    },
+    {
+      "from": 852.68,
+      "to": 855.54,
+      "sid": 290,
+      "location": 2,
+      "content": "依赖于外部知识库的质量和覆盖范围",
+      "music": 0.0
+    },
+    {
+      "from": 855.54,
+      "to": 857.31,
+      "sid": 291,
+      "location": 2,
+      "content": "同时IG的性能",
+      "music": 0.0
+    },
+    {
+      "from": 857.31,
+      "to": 860.46,
+      "sid": 292,
+      "location": 2,
+      "content": "也高度依赖于它所调用的基础大模型",
+      "music": 0.0
+    },
+    {
+      "from": 860.46,
+      "to": 862.5,
+      "sid": 293,
+      "location": 2,
+      "content": "如果我们的基础大模型能力不行",
+      "music": 0.0
+    },
+    {
+      "from": 862.5,
+      "to": 867.46,
+      "sid": 294,
+      "location": 2,
+      "content": "比如说我们的基础模型就连啊连续对话",
+      "music": 0.0
+    },
+    {
+      "from": 867.46,
+      "to": 870.52,
+      "sid": 295,
+      "location": 2,
+      "content": "或者是经常所答非所问",
+      "music": 0.0
+    },
+    {
+      "from": 870.52,
+      "to": 872.83,
+      "sid": 296,
+      "location": 2,
+      "content": "那我们的ING技术即使是应用上了",
+      "music": 0.0
+    },
+    {
+      "from": 872.83,
+      "to": 874.93,
+      "sid": 297,
+      "location": 2,
+      "content": "也不能弥补他的能力缺陷",
+      "music": 0.0
+    },
+    {
+      "from": 874.93,
+      "to": 878.71,
+      "sid": 298,
+      "location": 2,
+      "content": "现在让我们来看一下微调",
+      "music": 0.0
+    },
+    {
+      "from": 884.3,
+      "to": 886.42,
+      "sid": 299,
+      "location": 2,
+      "content": "微调是特别典型的参数",
+      "music": 0.0
+    },
+    {
+      "from": 886.42,
+      "to": 889.3,
+      "sid": 300,
+      "location": 2,
+      "content": "及以及通过在特定任务数据上训练模型",
+      "music": 0.0
+    },
+    {
+      "from": 889.3,
+      "to": 891.05,
+      "sid": 301,
+      "location": 2,
+      "content": "可以更好地实现该任务",
+      "music": 0.0
+    },
+    {
+      "from": 891.05,
+      "to": 893.39,
+      "sid": 302,
+      "location": 2,
+      "content": "就像我们上一节课的作业一样",
+      "music": 0.0
+    },
+    {
+      "from": 893.39,
+      "to": 896.48,
+      "sid": 303,
+      "location": 2,
+      "content": "我们可以去让我们的模型",
+      "music": 0.0
+    },
+    {
+      "from": 896.48,
+      "to": 900.17,
+      "sid": 304,
+      "location": 2,
+      "content": "学会用嬛嬛的语气跟我们对话",
+      "music": 0.0
+    },
+    {
+      "from": 900.17,
+      "to": 902.98,
+      "sid": 305,
+      "location": 2,
+      "content": "学会用猪八戒的语气跟我们对话一样",
+      "music": 0.0
+    },
+    {
+      "from": 902.98,
+      "to": 906.73,
+      "sid": 306,
+      "location": 2,
+      "content": "通常这种训练需要大量的标注数据",
+      "music": 0.0
+    },
+    {
+      "from": 906.73,
+      "to": 909.33,
+      "sid": 307,
+      "location": 2,
+      "content": "才能进行有效的微调",
+      "music": 0.0
+    },
+    {
+      "from": 909.73,
+      "to": 911.01,
+      "sid": 308,
+      "location": 2,
+      "content": "那这样也会导致",
+      "music": 0.0
+    },
+    {
+      "from": 911.01,
+      "to": 913.11,
+      "sid": 309,
+      "location": 2,
+      "content": "在一些数据量较小的应用场景下",
+      "music": 0.0
+    },
+    {
+      "from": 913.11,
+      "to": 915.81,
+      "sid": 310,
+      "location": 2,
+      "content": "微调可能会导致模型过拟合",
+      "music": 0.0
+    },
+    {
+      "from": 915.81,
+      "to": 917.839,
+      "sid": 311,
+      "location": 2,
+      "content": "进而导致泛化能力的下降",
+      "music": 0.0
+    },
+    {
+      "from": 917.839,
+      "to": 920.7,
+      "sid": 312,
+      "location": 2,
+      "content": "微调的适用场景是数据可用",
+      "music": 0.0
+    },
+    {
+      "from": 920.7,
+      "to": 923.22,
+      "sid": 313,
+      "location": 2,
+      "content": "且需要模型高度专业化的任务",
+      "music": 0.0
+    },
+    {
+      "from": 923.22,
+      "to": 926.16,
+      "sid": 314,
+      "location": 2,
+      "content": "如在特定领域的文本分析分类",
+      "music": 0.0
+    },
+    {
+      "from": 926.16,
+      "to": 926.88,
+      "sid": 315,
+      "location": 2,
+      "content": "情感分析",
+      "music": 0.0
+    },
+    {
+      "from": 926.88,
+      "to": 928.71,
+      "sid": 316,
+      "location": 2,
+      "content": "文本生成等等",
+      "music": 0.0
+    },
+    {
+      "from": 928.99,
+      "to": 930.51,
+      "sid": 317,
+      "location": 2,
+      "content": "微调的优势是",
+      "music": 0.0
+    },
+    {
+      "from": 930.51,
+      "to": 933.9,
+      "sid": 318,
+      "location": 2,
+      "content": "模型能够针对特定任务进行很好的优化",
+      "music": 0.0
+    },
+    {
+      "from": 933.9,
+      "to": 938.39,
+      "sid": 319,
+      "location": 2,
+      "content": "那它的局限性也其实它需要特别多的数据量",
+      "music": 0.0
+    },
+    {
+      "from": 938.39,
+      "to": 941.06,
+      "sid": 320,
+      "location": 2,
+      "content": "且他对新任务的适应性很差",
+      "music": 0.0
+    },
+    {
+      "from": 941.06,
+      "to": 947.52,
+      "sid": 321,
+      "location": 2,
+      "content": "每次信息更新都需要有新的微调的过程",
+      "music": 0.0
+    },
+    {
+      "from": 949.8,
+      "to": 952.28,
+      "sid": 322,
+      "location": 2,
+      "content": "现在让我们跟着这张图来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 952.28,
+      "to": 954.65,
+      "sid": 323,
+      "location": 2,
+      "content": "大模型常用优化方法的比较",
+      "music": 0.0
+    },
+    {
+      "from": 954.65,
+      "to": 956.66,
+      "sid": 324,
+      "location": 2,
+      "content": "首先大模型的常用方法",
+      "music": 0.0
+    },
+    {
+      "from": 956.66,
+      "to": 958.88,
+      "sid": 325,
+      "location": 2,
+      "content": "包括我们刚刚提到的微调",
+      "music": 0.0
+    },
+    {
+      "from": 959.12,
+      "to": 961.13,
+      "sid": 326,
+      "location": 2,
+      "content": "我们经常遇到的提示工程",
+      "music": 0.0
+    },
+    {
+      "from": 961.13,
+      "to": 964.3,
+      "sid": 327,
+      "location": 2,
+      "content": "以及我们今天所讲的RG技术",
+      "music": 0.0
+    },
+    {
+      "from": 964.76,
+      "to": 968.23,
+      "sid": 328,
+      "location": 2,
+      "content": "我们从两个方面来对比这几种优化方法",
+      "music": 0.0
+    },
+    {
+      "from": 968.23,
+      "to": 971.329,
+      "sid": 329,
+      "location": 2,
+      "content": "第一个是任务对外部知识的需求",
+      "music": 0.0
+    },
+    {
+      "from": 971.329,
+      "to": 974.539,
+      "sid": 330,
+      "location": 2,
+      "content": "第二个是任务对模型适配度的需求",
+      "music": 0.0
+    },
+    {
+      "from": 974.539,
+      "to": 976.669,
+      "sid": 331,
+      "location": 2,
+      "content": "首先我们来看提示工程",
+      "music": 0.0
+    },
+    {
+      "from": 976.669,
+      "to": 979.96,
+      "sid": 332,
+      "location": 2,
+      "content": "提示工程在面对外部知识需求",
+      "music": 0.0
+    },
+    {
+      "from": 979.96,
+      "to": 983.11,
+      "sid": 333,
+      "location": 2,
+      "content": "和模型适配需求上的表现都是比较差的",
+      "music": 0.0
+    },
+    {
+      "from": 983.11,
+      "to": 984.88,
+      "sid": 334,
+      "location": 2,
+      "content": "它不能适应新的知识",
+      "music": 0.0
+    },
+    {
+      "from": 984.88,
+      "to": 988.069,
+      "sid": 335,
+      "location": 2,
+      "content": "同时对于特定任务也难以有很专业的表现",
+      "music": 0.0
+    },
+    {
+      "from": 988.069,
+      "to": 990.259,
+      "sid": 336,
+      "location": 2,
+      "content": "那像刚刚说的微调",
+      "music": 0.0
+    },
+    {
+      "from": 990.259,
+      "to": 993.859,
+      "sid": 337,
+      "location": 2,
+      "content": "则是一种对于外部数据需求要求不高",
+      "music": 0.0
+    },
+    {
+      "from": 993.859,
+      "to": 996.649,
+      "sid": 338,
+      "location": 2,
+      "content": "但是对于模型任务适配要求很高的场景",
+      "music": 0.0
+    },
+    {
+      "from": 996.649,
+      "to": 998.829,
+      "sid": 339,
+      "location": 2,
+      "content": "的优化手段",
+      "music": 0.0
+    },
+    {
+      "from": 999.049,
+      "to": 1002.009,
+      "sid": 340,
+      "location": 2,
+      "content": "lg技术则正好与微调相反",
+      "music": 0.0
+    },
+    {
+      "from": 1002.009,
+      "to": 1004.139,
+      "sid": 341,
+      "location": 2,
+      "content": "它适用于高外部知识需求",
+      "music": 0.0
+    },
+    {
+      "from": 1004.139,
+      "to": 1009.18,
+      "sid": 342,
+      "location": 2,
+      "content": "但是对于模型适配度要求不高的场景",
+      "music": 0.0
+    },
+    {
+      "from": 1009.18,
+      "to": 1012.48,
+      "sid": 343,
+      "location": 2,
+      "content": "当然也有既能满足外部知识的高需求",
+      "music": 0.0
+    },
+    {
+      "from": 1012.48,
+      "to": 1015.66,
+      "sid": 344,
+      "location": 2,
+      "content": "又能满足对于任务适配度高的需求的方法",
+      "music": 0.0
+    },
+    {
+      "from": 1015.66,
+      "to": 1018.48,
+      "sid": 345,
+      "location": 2,
+      "content": "那就是把三种方法结合到一起",
+      "music": 0.0
+    },
+    {
+      "from": 1021.22,
+      "to": 1024.06,
+      "sid": 346,
+      "location": 2,
+      "content": "那本小节的最后让我们来了解一下",
+      "music": 0.0
+    },
+    {
+      "from": 1024.06,
+      "to": 1026.22,
+      "sid": 347,
+      "location": 2,
+      "content": "如何去评价一个RG技术",
+      "music": 0.0
+    },
+    {
+      "from": 1026.22,
+      "to": 1030.359,
+      "sid": 348,
+      "location": 2,
+      "content": "通常我们将RG技术当中的检索阶段",
+      "music": 0.0
+    },
+    {
+      "from": 1030.359,
+      "to": 1033.4,
+      "sid": 349,
+      "location": 2,
+      "content": "和生成阶段进行单独的分别评价",
+      "music": 0.0
+    },
+    {
+      "from": 1033.4,
+      "to": 1035.62,
+      "sid": 350,
+      "location": 2,
+      "content": "首先我们在NLP领域",
+      "music": 0.0
+    },
+    {
+      "from": 1035.62,
+      "to": 1037.9,
+      "sid": 351,
+      "location": 2,
+      "content": "经常会用到的经典评估指标",
+      "music": 0.0
+    },
+    {
+      "from": 1037.9,
+      "to": 1038.83,
+      "sid": 352,
+      "location": 2,
+      "content": "如准确率",
+      "music": 0.0
+    },
+    {
+      "from": 1038.83,
+      "to": 1039.64,
+      "sid": 353,
+      "location": 2,
+      "content": "召回率",
+      "music": 0.0
+    },
+    {
+      "from": 1039.64,
+      "to": 1040.66,
+      "sid": 354,
+      "location": 2,
+      "content": "F 1score",
+      "music": 0.0
+    },
+    {
+      "from": 1040.66,
+      "to": 1043.21,
+      "sid": 355,
+      "location": 2,
+      "content": "blue scor以及rock score等等",
+      "music": 0.0
+    },
+    {
+      "from": 1043.21,
+      "to": 1044.95,
+      "sid": 356,
+      "location": 2,
+      "content": "这些都是可以用于RNG的",
+      "music": 0.0
+    },
+    {
+      "from": 1044.95,
+      "to": 1047.41,
+      "sid": 357,
+      "location": 2,
+      "content": "检索过程和生成过程的评价的",
+      "music": 0.0
+    },
+    {
+      "from": 1047.41,
+      "to": 1052.3,
+      "sid": 358,
+      "location": 2,
+      "content": "除了这些特别经典的嗯评估指标外",
+      "music": 0.0
+    },
+    {
+      "from": 1052.3,
+      "to": 1054.16,
+      "sid": 359,
+      "location": 2,
+      "content": "最近也陆续出现了许多",
+      "music": 0.0
+    },
+    {
+      "from": 1054.16,
+      "to": 1056.53,
+      "sid": 360,
+      "location": 2,
+      "content": "专门针对RNG的评测框架",
+      "music": 0.0
+    },
+    {
+      "from": 1056.53,
+      "to": 1061.48,
+      "sid": 361,
+      "location": 2,
+      "content": "他们可以从多维度来评测lg的性能",
+      "music": 0.0
+    },
+    {
+      "from": 1061.48,
+      "to": 1063.31,
+      "sid": 362,
+      "location": 2,
+      "content": "如对抗噪音的鲁棒性",
+      "music": 0.0
+    },
+    {
+      "from": 1063.31,
+      "to": 1064.18,
+      "sid": 363,
+      "location": 2,
+      "content": "拒答能力",
+      "music": 0.0
+    },
+    {
+      "from": 1064.18,
+      "to": 1065.26,
+      "sid": 364,
+      "location": 2,
+      "content": "信息融合能力",
+      "music": 0.0
+    },
+    {
+      "from": 1065.26,
+      "to": 1066.19,
+      "sid": 365,
+      "location": 2,
+      "content": "真实性",
+      "music": 0.0
+    },
+    {
+      "from": 1066.19,
+      "to": 1068.41,
+      "sid": 366,
+      "location": 2,
+      "content": "回答问题的相关度",
+      "music": 0.0
+    },
+    {
+      "from": 1068.41,
+      "to": 1069.19,
+      "sid": 367,
+      "location": 2,
+      "content": "总结能力",
+      "music": 0.0
+    },
+    {
+      "from": 1069.19,
+      "to": 1070.99,
+      "sid": 368,
+      "location": 2,
+      "content": "纠错能力等等",
+      "music": 0.0
+    },
+    {
+      "from": 1070.99,
+      "to": 1072.43,
+      "sid": 369,
+      "location": 2,
+      "content": "那在其中",
+      "music": 0.0
+    },
+    {
+      "from": 1072.43,
+      "to": 1077.53,
+      "sid": 370,
+      "location": 2,
+      "content": "rgb record crude是针对RGRG的基准测试",
+      "music": 0.0
+    },
+    {
+      "from": 1077.53,
+      "to": 1079.85,
+      "sid": 371,
+      "location": 2,
+      "content": "Regus",
+      "music": 0.0
+    },
+    {
+      "from": 1081.33,
+      "to": 1084.67,
+      "sid": 372,
+      "location": 2,
+      "content": "以及出lance都是评测工具",
+      "music": 0.0
+    },
+    {
+      "from": 1085.63,
+      "to": 1088.93,
+      "sid": 373,
+      "location": 2,
+      "content": "有学术需求的小伙伴可以更深入的了解一些",
+      "music": 0.0
+    },
+    {
+      "from": 1088.93,
+      "to": 1091.86,
+      "sid": 374,
+      "location": 2,
+      "content": "这些评测框架和基准测试",
+      "music": 0.0
+    },
+    {
+      "from": 1092.38,
+      "to": 1094.0,
+      "sid": 375,
+      "location": 2,
+      "content": "那到此为止",
+      "music": 0.0
+    },
+    {
+      "from": 1094.0,
+      "to": 1097.48,
+      "sid": 376,
+      "location": 2,
+      "content": "我们第一部分关于RG的介绍就结束了",
+      "music": 0.0
+    },
+    {
+      "from": 1097.48,
+      "to": 1098.56,
+      "sid": 377,
+      "location": 2,
+      "content": "在这一部分当中",
+      "music": 0.0
+    },
+    {
+      "from": 1098.56,
+      "to": 1100.72,
+      "sid": 378,
+      "location": 2,
+      "content": "我们介绍了RG的基本概念原理",
+      "music": 0.0
+    },
+    {
+      "from": 1100.72,
+      "to": 1103.24,
+      "sid": 379,
+      "location": 2,
+      "content": "流程应用和发展出的三种方式",
+      "music": 0.0
+    },
+    {
+      "from": 1103.24,
+      "to": 1108.0,
+      "sid": 380,
+      "location": 2,
+      "content": "以及RNG的一些常用优化方法和语微调的比较",
+      "music": 0.0
+    },
+    {
+      "from": 1108.0,
+      "to": 1109.5,
+      "sid": 381,
+      "location": 2,
+      "content": "通过这些介绍",
+      "music": 0.0
+    },
+    {
+      "from": 1109.5,
+      "to": 1112.699,
+      "sid": 382,
+      "location": 2,
+      "content": "我们对RNG应该已经有了一个初步的印象",
+      "music": 0.0
+    },
+    {
+      "from": 1112.699,
+      "to": 1117.48,
+      "sid": 383,
+      "location": 2,
+      "content": "那下一章节我们就将介绍一个RG的应用",
+      "music": 0.0
+    },
+    {
+      "from": 1117.48,
+      "to": 1120.36,
+      "sid": 384,
+      "location": 2,
+      "content": "可以帮助大家方便地建立自己的知识领域",
+      "music": 0.0
+    },
+    {
+      "from": 1120.36,
+      "to": 1121.94,
+      "sid": 385,
+      "location": 2,
+      "content": "助手茴香豆",
+      "music": 0.0
+    },
+    {
+      "from": 1121.94,
+      "to": 1122.96,
+      "sid": 386,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 1122.96,
+      "to": 1125.27,
+      "sid": 387,
+      "location": 2,
+      "content": "我们现在开始进入第二部分",
+      "music": 0.0
+    },
+    {
+      "from": 1125.27,
+      "to": 1128.78,
+      "sid": 388,
+      "location": 2,
+      "content": "开源应用工具回香豆的介绍",
+      "music": 0.0
+    },
+    {
+      "from": 1130.44,
+      "to": 1133.73,
+      "sid": 389,
+      "location": 2,
+      "content": "茴香豆是一个基于大模型的领域知识助手",
+      "music": 0.0
+    },
+    {
+      "from": 1133.73,
+      "to": 1135.74,
+      "sid": 390,
+      "location": 2,
+      "content": "由说声普与团队开发",
+      "music": 0.0
+    },
+    {
+      "from": 1135.74,
+      "to": 1137.639,
+      "sid": 391,
+      "location": 2,
+      "content": "我们一般管它叫豆哥",
+      "music": 0.0
+    },
+    {
+      "from": 1137.639,
+      "to": 1141.209,
+      "sid": 392,
+      "location": 2,
+      "content": "那豆哥是一款开源免费的工具",
+      "music": 0.0
+    },
+    {
+      "from": 1141.209,
+      "to": 1144.419,
+      "sid": 393,
+      "location": 2,
+      "content": "它针对我们常见的通讯软件中的群聊场景",
+      "music": 0.0
+    },
+    {
+      "from": 1144.419,
+      "to": 1146.929,
+      "sid": 394,
+      "location": 2,
+      "content": "进行了很好的工作流的优化",
+      "music": 0.0
+    },
+    {
+      "from": 1147.379,
+      "to": 1151.069,
+      "sid": 395,
+      "location": 2,
+      "content": "可以为群里边用户提供及时准确的技术支持",
+      "music": 0.0
+    },
+    {
+      "from": 1151.069,
+      "to": 1154.56,
+      "sid": 396,
+      "location": 2,
+      "content": "和自动化的问答服务啊",
+      "music": 0.0
+    },
+    {
+      "from": 1154.56,
+      "to": 1158.52,
+      "sid": 397,
+      "location": 2,
+      "content": "豆哥应用了我们在第一章节中介绍的RG技术",
+      "music": 0.0
+    },
+    {
+      "from": 1159.96,
+      "to": 1161.64,
+      "sid": 398,
+      "location": 2,
+      "content": "就能够高效准确的回应",
+      "music": 0.0
+    },
+    {
+      "from": 1161.64,
+      "to": 1166.139,
+      "sid": 399,
+      "location": 2,
+      "content": "与特定知识领域相关的呃复杂查询",
+      "music": 0.0
+    },
+    {
+      "from": 1166.9,
+      "to": 1170.4,
+      "sid": 400,
+      "location": 2,
+      "content": "茴香豆最主要的使用场景就是智能客服",
+      "music": 0.0
+    },
+    {
+      "from": 1170.4,
+      "to": 1174.36,
+      "sid": 401,
+      "location": 2,
+      "content": "特别是即时通讯工具中的技术用户群",
+      "music": 0.0
+    },
+    {
+      "from": 1174.36,
+      "to": 1177.0,
+      "sid": 402,
+      "location": 2,
+      "content": "在现实场景当中我们会遇到",
+      "music": 0.0
+    },
+    {
+      "from": 1177.0,
+      "to": 1179.01,
+      "sid": 403,
+      "location": 2,
+      "content": "随着我们的用户群数量的增加",
+      "music": 0.0
+    },
+    {
+      "from": 1179.01,
+      "to": 1181.82,
+      "sid": 404,
+      "location": 2,
+      "content": "群内会充斥着大量无意义聊天",
+      "music": 0.0
+    },
+    {
+      "from": 1181.82,
+      "to": 1184.59,
+      "sid": 405,
+      "location": 2,
+      "content": "或者是一些纯纯的灌水的闲聊",
+      "music": 0.0
+    },
+    {
+      "from": 1184.59,
+      "to": 1188.31,
+      "sid": 406,
+      "location": 2,
+      "content": "那传统的LP解决方案是没有办法去理解",
+      "music": 0.0
+    },
+    {
+      "from": 1188.31,
+      "to": 1190.05,
+      "sid": 407,
+      "location": 2,
+      "content": "分辨用户的真实意图的",
+      "music": 0.0
+    },
+    {
+      "from": 1190.05,
+      "to": 1195.08,
+      "sid": 408,
+      "location": 2,
+      "content": "他没有办法在这些呃大量的闲聊当中",
+      "music": 0.0
+    },
+    {
+      "from": 1195.08,
+      "to": 1199.42,
+      "sid": 409,
+      "location": 2,
+      "content": "去找到那些有真实需求的用户的问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 1199.42,
+      "to": 1202.04,
+      "sid": 410,
+      "location": 2,
+      "content": "豆哥结合了大模型和lg的技术",
+      "music": 0.0
+    },
+    {
+      "from": 1202.04,
+      "to": 1204.26,
+      "sid": 411,
+      "location": 2,
+      "content": "就可以很好地处理这种场景",
+      "music": 0.0
+    },
+    {
+      "from": 1204.26,
+      "to": 1207.08,
+      "sid": 412,
+      "location": 2,
+      "content": "能够高效地解答用户的真实问题",
+      "music": 0.0
+    },
+    {
+      "from": 1207.08,
+      "to": 1210.86,
+      "sid": 413,
+      "location": 2,
+      "content": "同时也能够避免造成消息过载",
+      "music": 0.0
+    },
+    {
+      "from": 1212.82,
+      "to": 1215.33,
+      "sid": 414,
+      "location": 2,
+      "content": "那这张截图啊",
+      "music": 0.0
+    },
+    {
+      "from": 1215.33,
+      "to": 1219.39,
+      "sid": 415,
+      "location": 2,
+      "content": "就是选取的我们的一个技术问答群呃",
+      "music": 0.0
+    },
+    {
+      "from": 1219.39,
+      "to": 1220.74,
+      "sid": 416,
+      "location": 2,
+      "content": "其中我们的茴香豆",
+      "music": 0.0
+    },
+    {
+      "from": 1220.74,
+      "to": 1225.54,
+      "sid": 417,
+      "location": 2,
+      "content": "就是我们的这个群里的自动技问答助手",
+      "music": 0.0
+    },
+    {
+      "from": 1226.18,
+      "to": 1228.24,
+      "sid": 418,
+      "location": 2,
+      "content": "那从这个截图大家可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 1228.24,
+      "to": 1232.08,
+      "sid": 419,
+      "location": 2,
+      "content": "这个群里其实有很多并非对于技术的问题",
+      "music": 0.0
+    },
+    {
+      "from": 1232.08,
+      "to": 1233.52,
+      "sid": 420,
+      "location": 2,
+      "content": "也有很多灌水啊",
+      "music": 0.0
+    },
+    {
+      "from": 1233.52,
+      "to": 1234.12,
+      "sid": 421,
+      "location": 2,
+      "content": "点赞啊",
+      "music": 0.0
+    },
+    {
+      "from": 1234.12,
+      "to": 1238.12,
+      "sid": 422,
+      "location": 2,
+      "content": "这样的一些哦非技术聊天行为",
+      "music": 0.0
+    },
+    {
+      "from": 1238.12,
+      "to": 1242.41,
+      "sid": 423,
+      "location": 2,
+      "content": "那当我们真正的用户提出了bug的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1242.41,
+      "to": 1244.18,
+      "sid": 424,
+      "location": 2,
+      "content": "我们的茴香豆助手",
+      "music": 0.0
+    },
+    {
+      "from": 1244.18,
+      "to": 1248.55,
+      "sid": 425,
+      "location": 2,
+      "content": "就很好的在他的知识库里面去找了相应的文件",
+      "music": 0.0
+    },
+    {
+      "from": 1248.55,
+      "to": 1251.07,
+      "sid": 426,
+      "location": 2,
+      "content": "然后生成了他的回答",
+      "music": 0.0
+    },
+    {
+      "from": 1253.86,
+      "to": 1257.72,
+      "sid": 427,
+      "location": 2,
+      "content": "那茴香豆拥有开源免费",
+      "music": 0.0
+    },
+    {
+      "from": 1257.72,
+      "to": 1259.7,
+      "sid": 428,
+      "location": 2,
+      "content": "能够提供高效准确答复",
+      "music": 0.0
+    },
+    {
+      "from": 1259.7,
+      "to": 1261.38,
+      "sid": 429,
+      "location": 2,
+      "content": "能够兼容各领域知识",
+      "music": 0.0
+    },
+    {
+      "from": 1261.38,
+      "to": 1262.46,
+      "sid": 430,
+      "location": 2,
+      "content": "部署成本低",
+      "music": 0.0
+    },
+    {
+      "from": 1262.46,
+      "to": 1267.83,
+      "sid": 431,
+      "location": 2,
+      "content": "安全和扩展性嗯强等等这些核心的特点",
+      "music": 0.0
+    },
+    {
+      "from": 1267.83,
+      "to": 1273.079,
+      "sid": 432,
+      "location": 2,
+      "content": "豆哥遵循的是b s d three clouds的开源协议",
+      "music": 0.0
+    },
+    {
+      "from": 1273.079,
+      "to": 1274.579,
+      "sid": 433,
+      "location": 2,
+      "content": "不仅是开源的",
+      "music": 0.0
+    },
+    {
+      "from": 1274.579,
+      "to": 1277.17,
+      "sid": 434,
+      "location": 2,
+      "content": "而且可以免费商用啊",
+      "music": 0.0
+    },
+    {
+      "from": 1277.17,
+      "to": 1278.85,
+      "sid": 435,
+      "location": 2,
+      "content": "豆哥应用了RG技术",
+      "music": 0.0
+    },
+    {
+      "from": 1278.85,
+      "to": 1280.68,
+      "sid": 436,
+      "location": 2,
+      "content": "所以如上一节讲到的",
+      "music": 0.0
+    },
+    {
+      "from": 1280.68,
+      "to": 1284.25,
+      "sid": 437,
+      "location": 2,
+      "content": "它可以对各种专业领域的或者垂直领域的知识",
+      "music": 0.0
+    },
+    {
+      "from": 1284.25,
+      "to": 1285.83,
+      "sid": 438,
+      "location": 2,
+      "content": "进行快速的获取",
+      "music": 0.0
+    },
+    {
+      "from": 1285.83,
+      "to": 1288.29,
+      "sid": 439,
+      "location": 2,
+      "content": "豆哥也可以进行完全的本地部署",
+      "music": 0.0
+    },
+    {
+      "from": 1288.29,
+      "to": 1291.35,
+      "sid": 440,
+      "location": 2,
+      "content": "确保我们使用到的信息不会上传到网络啊",
+      "music": 0.0
+    },
+    {
+      "from": 1291.35,
+      "to": 1294.779,
+      "sid": 441,
+      "location": 2,
+      "content": "极大的保证了那些有隐私需求的呃",
+      "music": 0.0
+    },
+    {
+      "from": 1294.779,
+      "to": 1296.069,
+      "sid": 442,
+      "location": 2,
+      "content": "业务的安全性",
+      "music": 0.0
+    },
+    {
+      "from": 1296.069,
+      "to": 1298.199,
+      "sid": 443,
+      "location": 2,
+      "content": "它也可以调用远端大模型",
+      "music": 0.0
+    },
+    {
+      "from": 1298.199,
+      "to": 1299.879,
+      "sid": 444,
+      "location": 2,
+      "content": "也不需要额外的训练",
+      "music": 0.0
+    },
+    {
+      "from": 1299.879,
+      "to": 1304.11,
+      "sid": 445,
+      "location": 2,
+      "content": "所以对于成本要求高的项目和组织",
+      "music": 0.0
+    },
+    {
+      "from": 1304.11,
+      "to": 1306.39,
+      "sid": 446,
+      "location": 2,
+      "content": "斗哥也是一个很好的选项",
+      "music": 0.0
+    },
+    {
+      "from": 1306.39,
+      "to": 1308.91,
+      "sid": 447,
+      "location": 2,
+      "content": "那豆哥也拥有混合大模型模式",
+      "music": 0.0
+    },
+    {
+      "from": 1308.91,
+      "to": 1311.35,
+      "sid": 448,
+      "location": 2,
+      "content": "它也可以更精确地回答问题",
+      "music": 0.0
+    },
+    {
+      "from": 1311.35,
+      "to": 1313.84,
+      "sid": 449,
+      "location": 2,
+      "content": "得到更好的用户体验效果",
+      "music": 0.0
+    },
+    {
+      "from": 1313.84,
+      "to": 1316.0,
+      "sid": 450,
+      "location": 2,
+      "content": "同时豆哥的拓展性也很强",
+      "music": 0.0
+    },
+    {
+      "from": 1316.0,
+      "to": 1320.79,
+      "sid": 451,
+      "location": 2,
+      "content": "可以兼容多种即时通讯软件或是交流社群呃",
+      "music": 0.0
+    },
+    {
+      "from": 1320.79,
+      "to": 1324.84,
+      "sid": 452,
+      "location": 2,
+      "content": "也能够支持很多开源的大模型和他们的云端API",
+      "music": 0.0
+    },
+    {
+      "from": 1324.84,
+      "to": 1326.88,
+      "sid": 453,
+      "location": 2,
+      "content": "选择更灵活",
+      "music": 0.0
+    },
+    {
+      "from": 1330.18,
+      "to": 1332.6,
+      "sid": 454,
+      "location": 2,
+      "content": "那一个茴香豆个人知识助手",
+      "music": 0.0
+    },
+    {
+      "from": 1332.6,
+      "to": 1334.16,
+      "sid": 455,
+      "location": 2,
+      "content": "有以下四个组成部分",
+      "music": 0.0
+    },
+    {
+      "from": 1334.16,
+      "to": 1337.759,
+      "sid": 456,
+      "location": 2,
+      "content": "首先是我们的知识库呃",
+      "music": 0.0
+    },
+    {
+      "from": 1337.759,
+      "to": 1339.979,
+      "sid": 457,
+      "location": 2,
+      "content": "通常是我们企业内部",
+      "music": 0.0
+    },
+    {
+      "from": 1339.979,
+      "to": 1342.439,
+      "sid": 458,
+      "location": 2,
+      "content": "或者是个人所在领域的专业技术文档",
+      "music": 0.0
+    },
+    {
+      "from": 1342.439,
+      "to": 1343.579,
+      "sid": 459,
+      "location": 2,
+      "content": "或者像价目表啊",
+      "music": 0.0
+    },
+    {
+      "from": 1343.579,
+      "to": 1346.429,
+      "sid": 460,
+      "location": 2,
+      "content": "产品规格等等这类会实时更新的数据",
+      "music": 0.0
+    },
+    {
+      "from": 1346.429,
+      "to": 1348.769,
+      "sid": 461,
+      "location": 2,
+      "content": "那目前茴香豆支持了markdown",
+      "music": 0.0
+    },
+    {
+      "from": 1348.769,
+      "to": 1349.429,
+      "sid": 462,
+      "location": 2,
+      "content": "Pdf",
+      "music": 0.0
+    },
+    {
+      "from": 1349.429,
+      "to": 1350.539,
+      "sid": 463,
+      "location": 2,
+      "content": "Word txt",
+      "music": 0.0
+    },
+    {
+      "from": 1350.539,
+      "to": 1354.199,
+      "sid": 464,
+      "location": 2,
+      "content": "pp等常用的一些文件的格式",
+      "music": 0.0
+    },
+    {
+      "from": 1354.199,
+      "to": 1355.759,
+      "sid": 465,
+      "location": 2,
+      "content": "为了应对真实场景",
+      "music": 0.0
+    },
+    {
+      "from": 1355.759,
+      "to": 1360.12,
+      "sid": 466,
+      "location": 2,
+      "content": "茴香豆也可以很容易的去通过呃设置呃",
+      "music": 0.0
+    },
+    {
+      "from": 1360.12,
+      "to": 1363.27,
+      "sid": 467,
+      "location": 2,
+      "content": "接受问题和巨大问题的事例",
+      "music": 0.0
+    },
+    {
+      "from": 1363.27,
+      "to": 1366.04,
+      "sid": 468,
+      "location": 2,
+      "content": "来控制助手的回答范围",
+      "music": 0.0
+    },
+    {
+      "from": 1366.04,
+      "to": 1369.25,
+      "sid": 469,
+      "location": 2,
+      "content": "那第二个部分则是前端嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1369.25,
+      "to": 1370.87,
+      "sid": 470,
+      "location": 2,
+      "content": "也就是我们问答助手",
+      "music": 0.0
+    },
+    {
+      "from": 1370.87,
+      "to": 1373.21,
+      "sid": 471,
+      "location": 2,
+      "content": "读取用户提问和回答的平台",
+      "music": 0.0
+    },
+    {
+      "from": 1373.21,
+      "to": 1375.96,
+      "sid": 472,
+      "location": 2,
+      "content": "国内一般是微信群或者是飞书群",
+      "music": 0.0
+    },
+    {
+      "from": 1375.96,
+      "to": 1377.34,
+      "sid": 473,
+      "location": 2,
+      "content": "国外这是discord",
+      "music": 0.0
+    },
+    {
+      "from": 1377.34,
+      "to": 1381.09,
+      "sid": 474,
+      "location": 2,
+      "content": "slack等等这些呃技术交流应用软件",
+      "music": 0.0
+    },
+    {
+      "from": 1381.09,
+      "to": 1383.4,
+      "sid": 475,
+      "location": 2,
+      "content": "那第三部分则是我们的大模型",
+      "music": 0.0
+    },
+    {
+      "from": 1383.4,
+      "to": 1386.07,
+      "sid": 476,
+      "location": 2,
+      "content": "目前茴香豆支持本地调用大模型",
+      "music": 0.0
+    },
+    {
+      "from": 1386.07,
+      "to": 1388.42,
+      "sid": 477,
+      "location": 2,
+      "content": "或者是调用远端大模型的API",
+      "music": 0.0
+    },
+    {
+      "from": 1388.42,
+      "to": 1389.68,
+      "sid": 478,
+      "location": 2,
+      "content": "本地大模型",
+      "music": 0.0
+    },
+    {
+      "from": 1389.68,
+      "to": 1392.57,
+      "sid": 479,
+      "location": 2,
+      "content": "茴香豆目前支持的是呃",
+      "music": 0.0
+    },
+    {
+      "from": 1392.57,
+      "to": 1395.12,
+      "sid": 480,
+      "location": 2,
+      "content": "书生普语和通义千问的模型格式",
+      "music": 0.0
+    },
+    {
+      "from": 1395.12,
+      "to": 1398.45,
+      "sid": 481,
+      "location": 2,
+      "content": "远端模型则是打通了kimi chat gtp",
+      "music": 0.0
+    },
+    {
+      "from": 1398.45,
+      "to": 1401.25,
+      "sid": 482,
+      "location": 2,
+      "content": "deep sick chat gm的API",
+      "music": 0.0
+    },
+    {
+      "from": 1401.25,
+      "to": 1403.83,
+      "sid": 483,
+      "location": 2,
+      "content": "同时也支持像洗API这类大模型",
+      "music": 0.0
+    },
+    {
+      "from": 1403.83,
+      "to": 1405.62,
+      "sid": 484,
+      "location": 2,
+      "content": "API集成工具的调用",
+      "music": 0.0
+    },
+    {
+      "from": 1405.62,
+      "to": 1407.96,
+      "sid": 485,
+      "location": 2,
+      "content": "那最后的核心就是我们的豆哥了",
+      "music": 0.0
+    },
+    {
+      "from": 1407.96,
+      "to": 1410.06,
+      "sid": 486,
+      "location": 2,
+      "content": "豆哥将这三个部分整合起来",
+      "music": 0.0
+    },
+    {
+      "from": 1410.06,
+      "to": 1411.37,
+      "sid": 487,
+      "location": 2,
+      "content": "打通了工作流",
+      "music": 0.0
+    },
+    {
+      "from": 1411.37,
+      "to": 1415.219,
+      "sid": 488,
+      "location": 2,
+      "content": "形成了一个智能领域的知识问答助手",
+      "music": 0.0
+    },
+    {
+      "from": 1415.219,
+      "to": 1419.479,
+      "sid": 489,
+      "location": 2,
+      "content": "那茴香豆并不是一款单独的RG应用",
+      "music": 0.0
+    },
+    {
+      "from": 1419.479,
+      "to": 1421.039,
+      "sid": 490,
+      "location": 2,
+      "content": "它有着完整的应对",
+      "music": 0.0
+    },
+    {
+      "from": 1421.039,
+      "to": 1423.47,
+      "sid": 491,
+      "location": 2,
+      "content": "真实使用场景的工作流设置",
+      "music": 0.0
+    },
+    {
+      "from": 1423.86,
+      "to": 1426.95,
+      "sid": 492,
+      "location": 2,
+      "content": "该工作流也经过了我们长达半年的实际验证",
+      "music": 0.0
+    },
+    {
+      "from": 1426.95,
+      "to": 1428.69,
+      "sid": 493,
+      "location": 2,
+      "content": "整个工作流分成三个部分",
+      "music": 0.0
+    },
+    {
+      "from": 1428.69,
+      "to": 1430.52,
+      "sid": 494,
+      "location": 2,
+      "content": "分别是预处理",
+      "music": 0.0
+    },
+    {
+      "from": 1430.52,
+      "to": 1431.57,
+      "sid": 495,
+      "location": 2,
+      "content": "拒答工作流",
+      "music": 0.0
+    },
+    {
+      "from": 1431.57,
+      "to": 1432.99,
+      "sid": 496,
+      "location": 2,
+      "content": "应答工作流",
+      "music": 0.0
+    },
+    {
+      "from": 1432.99,
+      "to": 1436.29,
+      "sid": 497,
+      "location": 2,
+      "content": "在预处理的部分会将用户的输入筛选",
+      "music": 0.0
+    },
+    {
+      "from": 1436.29,
+      "to": 1437.91,
+      "sid": 498,
+      "location": 2,
+      "content": "然后转换为合适的问询",
+      "music": 0.0
+    },
+    {
+      "from": 1437.91,
+      "to": 1440.799,
+      "sid": 499,
+      "location": 2,
+      "content": "合适的问询进入据答工作流后",
+      "music": 0.0
+    },
+    {
+      "from": 1440.799,
+      "to": 1443.619,
+      "sid": 500,
+      "location": 2,
+      "content": "茴香豆会通过对该问询本身的分析",
+      "music": 0.0
+    },
+    {
+      "from": 1443.619,
+      "to": 1447.31,
+      "sid": 501,
+      "location": 2,
+      "content": "以及该问询与数据库当中示例问题的比较",
+      "music": 0.0
+    },
+    {
+      "from": 1447.31,
+      "to": 1449.19,
+      "sid": 502,
+      "location": 2,
+      "content": "来给出问题相关性的得分",
+      "music": 0.0
+    },
+    {
+      "from": 1449.19,
+      "to": 1453.33,
+      "sid": 503,
+      "location": 2,
+      "content": "根据得分来判断该问题是否要进入回答环节",
+      "music": 0.0
+    },
+    {
+      "from": 1453.33,
+      "to": 1456.21,
+      "sid": 504,
+      "location": 2,
+      "content": "如果确认了这是一个必要回答的问题",
+      "music": 0.0
+    },
+    {
+      "from": 1456.21,
+      "to": 1457.9,
+      "sid": 505,
+      "location": 2,
+      "content": "那么就进入应答流程",
+      "music": 0.0
+    },
+    {
+      "from": 1457.9,
+      "to": 1461.26,
+      "sid": 506,
+      "location": 2,
+      "content": "由大模型根据问询和检索到的知识内容",
+      "music": 0.0
+    },
+    {
+      "from": 1461.26,
+      "to": 1462.1,
+      "sid": 507,
+      "location": 2,
+      "content": "进行答案的生成",
+      "music": 0.0
+    },
+    {
+      "from": 1462.1,
+      "to": 1463.63,
+      "sid": 508,
+      "location": 2,
+      "content": "然后返回给用户",
+      "music": 0.0
+    },
+    {
+      "from": 1463.63,
+      "to": 1466.21,
+      "sid": 509,
+      "location": 2,
+      "content": "那使用巨大工作流的目的",
+      "music": 0.0
+    },
+    {
+      "from": 1466.21,
+      "to": 1467.47,
+      "sid": 510,
+      "location": 2,
+      "content": "就是能够更加灵活",
+      "music": 0.0
+    },
+    {
+      "from": 1467.47,
+      "to": 1470.33,
+      "sid": 511,
+      "location": 2,
+      "content": "广泛的适用于各种不同的场景和知识领域",
+      "music": 0.0
+    },
+    {
+      "from": 1470.33,
+      "to": 1472.37,
+      "sid": 512,
+      "location": 2,
+      "content": "根据实际使用场景的不同",
+      "music": 0.0
+    },
+    {
+      "from": 1472.37,
+      "to": 1473.51,
+      "sid": 513,
+      "location": 2,
+      "content": "可以自行的去决定",
+      "music": 0.0
+    },
+    {
+      "from": 1473.51,
+      "to": 1476.36,
+      "sid": 514,
+      "location": 2,
+      "content": "他所创建的知识助手的应答频率",
+      "music": 0.0
+    },
+    {
+      "from": 1476.36,
+      "to": 1477.699,
+      "sid": 515,
+      "location": 2,
+      "content": "应答范围",
+      "music": 0.0
+    },
+    {
+      "from": 1477.699,
+      "to": 1480.189,
+      "sid": 516,
+      "location": 2,
+      "content": "我们可以通过操控呃",
+      "music": 0.0
+    },
+    {
+      "from": 1480.189,
+      "to": 1484.139,
+      "sid": 517,
+      "location": 2,
+      "content": "针对判断这个lm score得分的阈值",
+      "music": 0.0
+    },
+    {
+      "from": 1484.139,
+      "to": 1487.559,
+      "sid": 518,
+      "location": 2,
+      "content": "来去判断我们的这个应答助手是一个话痨啊",
+      "music": 0.0
+    },
+    {
+      "from": 1487.559,
+      "to": 1491.279,
+      "sid": 519,
+      "location": 2,
+      "content": "还是一个很严谨的技术专家这样的一个形象",
+      "music": 0.0
+    },
+    {
+      "from": 1493.2,
+      "to": 1496.54,
+      "sid": 520,
+      "location": 2,
+      "content": "那为了能够生成更加准确有效的回答",
+      "music": 0.0
+    },
+    {
+      "from": 1496.54,
+      "to": 1499.93,
+      "sid": 521,
+      "location": 2,
+      "content": "茴香豆的应答模块采用了多来源检索",
+      "music": 0.0
+    },
+    {
+      "from": 1499.93,
+      "to": 1502.48,
+      "sid": 522,
+      "location": 2,
+      "content": "混合模型以及安全评估等方式",
+      "music": 0.0
+    },
+    {
+      "from": 1502.48,
+      "to": 1505.65,
+      "sid": 523,
+      "location": 2,
+      "content": "来保证自己回答内容的准确性",
+      "music": 0.0
+    },
+    {
+      "from": 1506.88,
+      "to": 1511.58,
+      "sid": 524,
+      "location": 2,
+      "content": "那茴香豆不仅可以应用本地文件生成的向量",
+      "music": 0.0
+    },
+    {
+      "from": 1511.58,
+      "to": 1513.32,
+      "sid": 525,
+      "location": 2,
+      "content": "数据库来进行内容的检索",
+      "music": 0.0
+    },
+    {
+      "from": 1513.32,
+      "to": 1516.06,
+      "sid": 526,
+      "location": 2,
+      "content": "也可以通过网络检索嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1516.06,
+      "to": 1519.0,
+      "sid": 527,
+      "location": 2,
+      "content": "同时也支持知识图谱的形式",
+      "music": 0.0
+    },
+    {
+      "from": 1519.0,
+      "to": 1522.84,
+      "sid": 528,
+      "location": 2,
+      "content": "驼香豆可以综合多来源检索到的信息",
+      "music": 0.0
+    },
+    {
+      "from": 1522.84,
+      "to": 1525.0,
+      "sid": 529,
+      "location": 2,
+      "content": "通过评分来控制内容筛选",
+      "music": 0.0
+    },
+    {
+      "from": 1525.0,
+      "to": 1527.15,
+      "sid": 530,
+      "location": 2,
+      "content": "方便地调整输出内容的严谨性",
+      "music": 0.0
+    },
+    {
+      "from": 1527.15,
+      "to": 1529.32,
+      "sid": 531,
+      "location": 2,
+      "content": "在生成部分",
+      "music": 0.0
+    },
+    {
+      "from": 1529.66,
+      "to": 1532.38,
+      "sid": 532,
+      "location": 2,
+      "content": "茴香豆既可以使用本地模型",
+      "music": 0.0
+    },
+    {
+      "from": 1532.38,
+      "to": 1535.36,
+      "sid": 533,
+      "location": 2,
+      "content": "也可以使用远端的模型",
+      "music": 0.0
+    },
+    {
+      "from": 1535.36,
+      "to": 1538.75,
+      "sid": 534,
+      "location": 2,
+      "content": "使用混合的模式来共同处理生成任务",
+      "music": 0.0
+    },
+    {
+      "from": 1538.75,
+      "to": 1541.21,
+      "sid": 535,
+      "location": 2,
+      "content": "那在直接输出给最终用户前",
+      "music": 0.0
+    },
+    {
+      "from": 1541.21,
+      "to": 1543.43,
+      "sid": 536,
+      "location": 2,
+      "content": "茴香豆还有专门的安全检测模块",
+      "music": 0.0
+    },
+    {
+      "from": 1543.43,
+      "to": 1544.57,
+      "sid": 537,
+      "location": 2,
+      "content": "通过大模型检验",
+      "music": 0.0
+    },
+    {
+      "from": 1544.57,
+      "to": 1546.06,
+      "sid": 538,
+      "location": 2,
+      "content": "传统LP的检验",
+      "music": 0.0
+    },
+    {
+      "from": 1546.06,
+      "to": 1548.73,
+      "sid": 539,
+      "location": 2,
+      "content": "包括时间的筛选和消息都撤回",
+      "music": 0.0
+    },
+    {
+      "from": 1548.73,
+      "to": 1551.6,
+      "sid": 540,
+      "location": 2,
+      "content": "来保证我们回答内容的安全性",
+      "music": 0.0
+    },
+    {
+      "from": 1551.6,
+      "to": 1554.18,
+      "sid": 541,
+      "location": 2,
+      "content": "那茴香豆的介绍就到此为止了",
+      "music": 0.0
+    },
+    {
+      "from": 1554.18,
+      "to": 1556.85,
+      "sid": 542,
+      "location": 2,
+      "content": "在下一章我们将开始进行实战",
+      "music": 0.0
+    },
+    {
+      "from": 1556.85,
+      "to": 1559.989,
+      "sid": 543,
+      "location": 2,
+      "content": "使用茴香豆搭建一个自己的知识领域助手",
+      "music": 0.0
+    },
+    {
+      "from": 1559.989,
+      "to": 1562.329,
+      "sid": 544,
+      "location": 2,
+      "content": "欢迎对茴香豆感兴趣的小伙伴",
+      "music": 0.0
+    },
+    {
+      "from": 1562.329,
+      "to": 1563.469,
+      "sid": 545,
+      "location": 2,
+      "content": "扫描一下我们的二维码",
+      "music": 0.0
+    },
+    {
+      "from": 1563.469,
+      "to": 1564.669,
+      "sid": 546,
+      "location": 2,
+      "content": "加入茴香豆讨论群",
+      "music": 0.0
+    },
+    {
+      "from": 1564.669,
+      "to": 1568.42,
+      "sid": 547,
+      "location": 2,
+      "content": "也欢迎大家去关注茴香豆的仓库",
+      "music": 0.0
+    },
+    {
+      "from": 1570.7,
+      "to": 1571.38,
+      "sid": 548,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 1571.38,
+      "to": 1573.8,
+      "sid": 549,
+      "location": 2,
+      "content": "我们现在进入实战的部分",
+      "music": 0.0
+    },
+    {
+      "from": 1574.08,
+      "to": 1576.5,
+      "sid": 550,
+      "location": 2,
+      "content": "茴香豆支持多种部署方式",
+      "music": 0.0
+    },
+    {
+      "from": 1576.5,
+      "to": 1579.44,
+      "sid": 551,
+      "location": 2,
+      "content": "我们即将演示的是茴香豆的web版",
+      "music": 0.0
+    },
+    {
+      "from": 1579.44,
+      "to": 1583.05,
+      "sid": 552,
+      "location": 2,
+      "content": "一次性部署茴香豆在服务器上并搭建web界面",
+      "music": 0.0
+    },
+    {
+      "from": 1583.05,
+      "to": 1585.87,
+      "sid": 553,
+      "location": 2,
+      "content": "那想要搭建自己知识助手的开发者",
+      "music": 0.0
+    },
+    {
+      "from": 1585.87,
+      "to": 1587.72,
+      "sid": 554,
+      "location": 2,
+      "content": "只需要登录这个界面",
+      "music": 0.0
+    },
+    {
+      "from": 1587.72,
+      "to": 1590.24,
+      "sid": 555,
+      "location": 2,
+      "content": "上传自己领域的知识文档到服务器上",
+      "music": 0.0
+    },
+    {
+      "from": 1590.24,
+      "to": 1592.51,
+      "sid": 556,
+      "location": 2,
+      "content": "然后进行在线知识助手对话",
+      "music": 0.0
+    },
+    {
+      "from": 1592.51,
+      "to": 1596.77,
+      "sid": 557,
+      "location": 2,
+      "content": "或者调用端口部署到自己的客户群当中即可",
+      "music": 0.0
+    },
+    {
+      "from": 1596.77,
+      "to": 1598.639,
+      "sid": 558,
+      "location": 2,
+      "content": "那现在让我们来看一下",
+      "music": 0.0
+    },
+    {
+      "from": 1598.639,
+      "to": 1602.299,
+      "sid": 559,
+      "location": 2,
+      "content": "来自茴香豆作者的亲自演示",
+      "music": 0.0
+    },
+    {
+      "from": 1604.0,
+      "to": 1607.08,
+      "sid": 560,
+      "location": 2,
+      "content": "茴香豆是一个给予LLM的领域知识助手",
+      "music": 0.0
+    },
+    {
+      "from": 1607.08,
+      "to": 1608.91,
+      "sid": 561,
+      "location": 2,
+      "content": "用于解答群聊里的问题",
+      "music": 0.0
+    },
+    {
+      "from": 1608.91,
+      "to": 1610.73,
+      "sid": 562,
+      "location": 2,
+      "content": "例如微信和飞书",
+      "music": 0.0
+    },
+    {
+      "from": 1610.73,
+      "to": 1612.11,
+      "sid": 563,
+      "location": 2,
+      "content": "这是他的web端",
+      "music": 0.0
+    },
+    {
+      "from": 1612.11,
+      "to": 1613.4,
+      "sid": 564,
+      "location": 2,
+      "content": "用来创建知识库",
+      "music": 0.0
+    },
+    {
+      "from": 1613.4,
+      "to": 1614.83,
+      "sid": 565,
+      "location": 2,
+      "content": "获取服务端地址",
+      "music": 0.0
+    },
+    {
+      "from": 1614.83,
+      "to": 1616.75,
+      "sid": 566,
+      "location": 2,
+      "content": "右上角可以切换中英文",
+      "music": 0.0
+    },
+    {
+      "from": 1616.75,
+      "to": 1618.52,
+      "sid": 567,
+      "location": 2,
+      "content": "首先创建自己的知识库",
+      "music": 0.0
+    },
+    {
+      "from": 1618.52,
+      "to": 1620.83,
+      "sid": 568,
+      "location": 2,
+      "content": "输入账号密码",
+      "music": 0.0
+    },
+    {
+      "from": 1623.7,
+      "to": 1625.52,
+      "sid": 569,
+      "location": 2,
+      "content": "这里可以上传自己的文档",
+      "music": 0.0
+    },
+    {
+      "from": 1625.52,
+      "to": 1628.22,
+      "sid": 570,
+      "location": 2,
+      "content": "例如电信办卡优惠",
+      "music": 0.0
+    },
+    {
+      "from": 1629.54,
+      "to": 1631.18,
+      "sid": 571,
+      "location": 2,
+      "content": "点击上传成功后",
+      "music": 0.0
+    },
+    {
+      "from": 1631.18,
+      "to": 1632.53,
+      "sid": 572,
+      "location": 2,
+      "content": "可以带着知识库聊天",
+      "music": 0.0
+    },
+    {
+      "from": 1632.53,
+      "to": 1635.68,
+      "sid": 573,
+      "location": 2,
+      "content": "例如问电信办卡优惠",
+      "music": 0.0
+    },
+    {
+      "from": 1636.86,
+      "to": 1638.74,
+      "sid": 574,
+      "location": 2,
+      "content": "还行我们再试试闲聊",
+      "music": 0.0
+    },
+    {
+      "from": 1640.42,
+      "to": 1641.14,
+      "sid": 575,
+      "location": 2,
+      "content": "最常问的",
+      "music": 0.0
+    },
+    {
+      "from": 1641.14,
+      "to": 1642.7,
+      "sid": 576,
+      "location": 2,
+      "content": "你好",
+      "music": 0.0
+    },
+    {
+      "from": 1643.49,
+      "to": 1645.97,
+      "sid": 577,
+      "location": 2,
+      "content": "按我们设计的巨大流程会识别出来",
+      "music": 0.0
+    },
+    {
+      "from": 1645.97,
+      "to": 1647.08,
+      "sid": 578,
+      "location": 2,
+      "content": "这不是个问题",
+      "music": 0.0
+    },
+    {
+      "from": 1647.08,
+      "to": 1649.99,
+      "sid": 579,
+      "location": 2,
+      "content": "所以在群里可以不回答",
+      "music": 0.0
+    },
+    {
+      "from": 1650.54,
+      "to": 1652.87,
+      "sid": 580,
+      "location": 2,
+      "content": "如果你需要定制自己的去打主题",
+      "music": 0.0
+    },
+    {
+      "from": 1652.87,
+      "to": 1655.38,
+      "sid": 581,
+      "location": 2,
+      "content": "可以在这里更新正反例",
+      "music": 0.0
+    },
+    {
+      "from": 1655.54,
+      "to": 1660.18,
+      "sid": 582,
+      "location": 2,
+      "content": "郑丽写几句反例也是点保存",
+      "music": 0.0
+    },
+    {
+      "from": 1661.02,
+      "to": 1663.62,
+      "sid": 583,
+      "location": 2,
+      "content": "为了无缝集成到通讯软件贡献者",
+      "music": 0.0
+    },
+    {
+      "from": 1663.62,
+      "to": 1665.48,
+      "sid": 584,
+      "location": 2,
+      "content": "提供了零开发安卓app",
+      "music": 0.0
+    },
+    {
+      "from": 1665.48,
+      "to": 1668.62,
+      "sid": 585,
+      "location": 2,
+      "content": "打开app设置web端给的地址",
+      "music": 0.0
+    },
+    {
+      "from": 1669.02,
+      "to": 1669.91,
+      "sid": 586,
+      "location": 2,
+      "content": "给权限",
+      "music": 0.0
+    },
+    {
+      "from": 1669.91,
+      "to": 1671.48,
+      "sid": 587,
+      "location": 2,
+      "content": "切到微信",
+      "music": 0.0
+    },
+    {
+      "from": 1671.76,
+      "to": 1673.1,
+      "sid": 588,
+      "location": 2,
+      "content": "他会扫描屏幕",
+      "music": 0.0
+    },
+    {
+      "from": 1673.1,
+      "to": 1674.78,
+      "sid": 589,
+      "location": 2,
+      "content": "自己决定要不要回答问题",
+      "music": 0.0
+    },
+    {
+      "from": 1675.86,
+      "to": 1678.74,
+      "sid": 590,
+      "location": 2,
+      "content": "例如问怎么申请宿舍",
+      "music": 0.0
+    },
+    {
+      "from": 1679.66,
+      "to": 1681.96,
+      "sid": 591,
+      "location": 2,
+      "content": "他看情况给web端发个请求",
+      "music": 0.0
+    },
+    {
+      "from": 1681.96,
+      "to": 1683.25,
+      "sid": 592,
+      "location": 2,
+      "content": "把答案填进去",
+      "music": 0.0
+    },
+    {
+      "from": 1683.25,
+      "to": 1685.05,
+      "sid": 593,
+      "location": 2,
+      "content": "点发送",
+      "music": 0.0
+    },
+    {
+      "from": 1685.15,
+      "to": 1688.2,
+      "sid": 594,
+      "location": 2,
+      "content": "这个软件已经在多个群运行超过半年",
+      "music": 0.0
+    },
+    {
+      "from": 1688.2,
+      "to": 1690.36,
+      "sid": 595,
+      "location": 2,
+      "content": "帮过很多open lab用户",
+      "music": 0.0
+    },
+    {
+      "from": 1690.36,
+      "to": 1691.59,
+      "sid": 596,
+      "location": 2,
+      "content": "如果对你有用",
+      "music": 0.0
+    },
+    {
+      "from": 1691.59,
+      "to": 1693.659,
+      "sid": 597,
+      "location": 2,
+      "content": "麻烦点个star",
+      "music": 0.0
+    },
+    {
+      "from": 1694.239,
+      "to": 1694.889,
+      "sid": 598,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 1694.889,
+      "to": 1696.419,
+      "sid": 599,
+      "location": 2,
+      "content": "现在让我们开始",
+      "music": 0.0
+    },
+    {
+      "from": 1696.419,
+      "to": 1700.23,
+      "sid": 600,
+      "location": 2,
+      "content": "尝试着把茴香豆部署到服务器上",
+      "music": 0.0
+    },
+    {
+      "from": 1700.63,
+      "to": 1703.53,
+      "sid": 601,
+      "location": 2,
+      "content": "我们这里以我们的ter studio为例",
+      "music": 0.0
+    },
+    {
+      "from": 1703.53,
+      "to": 1706.89,
+      "sid": 602,
+      "location": 2,
+      "content": "首先打开我们的文档",
+      "music": 0.0
+    },
+    {
+      "from": 1707.93,
+      "to": 1710.11,
+      "sid": 603,
+      "location": 2,
+      "content": "我们跟着文档一步步向下",
+      "music": 0.0
+    },
+    {
+      "from": 1711.49,
+      "to": 1713.08,
+      "sid": 604,
+      "location": 2,
+      "content": "第一部分是我们的概述",
+      "music": 0.0
+    },
+    {
+      "from": 1713.08,
+      "to": 1716.345,
+      "sid": 605,
+      "location": 2,
+      "content": "简述了RNG的工作原理",
+      "music": 0.0
+    },
+    {
+      "from": 1717.229,
+      "to": 1719.439,
+      "sid": 606,
+      "location": 2,
+      "content": "让我们先从环境配置开始",
+      "music": 0.0
+    },
+    {
+      "from": 1719.439,
+      "to": 1723.08,
+      "sid": 607,
+      "location": 2,
+      "content": "首先打开studio",
+      "music": 0.0
+    },
+    {
+      "from": 1724.32,
+      "to": 1726.86,
+      "sid": 608,
+      "location": 2,
+      "content": "输入网址",
+      "music": 0.0
+    },
+    {
+      "from": 1728.08,
+      "to": 1731.31,
+      "sid": 609,
+      "location": 2,
+      "content": "在登录后我们就进入了这个界面首页",
+      "music": 0.0
+    },
+    {
+      "from": 1731.31,
+      "to": 1734.08,
+      "sid": 610,
+      "location": 2,
+      "content": "然后点击开发机",
+      "music": 0.0
+    },
+    {
+      "from": 1734.84,
+      "to": 1738.46,
+      "sid": 611,
+      "location": 2,
+      "content": "根据教程创建开发机",
+      "music": 0.0
+    },
+    {
+      "from": 1740.14,
+      "to": 1745.12,
+      "sid": 612,
+      "location": 2,
+      "content": "在这里我们要选择30%的A100GPU",
+      "music": 0.0
+    },
+    {
+      "from": 1750.78,
+      "to": 1753.5,
+      "sid": 613,
+      "location": 2,
+      "content": "我们全屏来更清晰一点",
+      "music": 0.0
+    },
+    {
+      "from": 1753.5,
+      "to": 1756.42,
+      "sid": 614,
+      "location": 2,
+      "content": "输入开发机的名称",
+      "music": 0.0
+    },
+    {
+      "from": 1759.44,
+      "to": 1760.96,
+      "sid": 615,
+      "location": 2,
+      "content": "然后选择镜像",
+      "music": 0.0
+    },
+    {
+      "from": 1760.96,
+      "to": 1764.68,
+      "sid": 616,
+      "location": 2,
+      "content": "一定选择这个扩大11.7的镜像",
+      "music": 0.0
+    },
+    {
+      "from": 1766.12,
+      "to": 1768.22,
+      "sid": 617,
+      "location": 2,
+      "content": "点击操作下面的使用",
+      "music": 0.0
+    },
+    {
+      "from": 1771.08,
+      "to": 1776.91,
+      "sid": 618,
+      "location": 2,
+      "content": "点击30%a124G的显存",
+      "music": 0.0
+    },
+    {
+      "from": 1777.25,
+      "to": 1782.46,
+      "sid": 619,
+      "location": 2,
+      "content": "然后开通开通会有会有一个短暂的排队过程",
+      "music": 0.0
+    },
+    {
+      "from": 1782.46,
+      "to": 1786.93,
+      "sid": 620,
+      "location": 2,
+      "content": "这个是根据我们在线人数需要等待一段时间",
+      "music": 0.0
+    },
+    {
+      "from": 1788.66,
+      "to": 1789.34,
+      "sid": 621,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 1789.34,
+      "to": 1790.87,
+      "sid": 622,
+      "location": 2,
+      "content": "现在机器已经启动了",
+      "music": 0.0
+    },
+    {
+      "from": 1790.87,
+      "to": 1793.54,
+      "sid": 623,
+      "location": 2,
+      "content": "我们点击进入开发机",
+      "music": 0.0
+    },
+    {
+      "from": 1796.12,
+      "to": 1801.36,
+      "sid": 624,
+      "location": 2,
+      "content": "好这是开发机中内置的三个开发环境",
+      "music": 0.0
+    },
+    {
+      "from": 1803.08,
+      "to": 1804.39,
+      "sid": 625,
+      "location": 2,
+      "content": "这个是一个terminal",
+      "music": 0.0
+    },
+    {
+      "from": 1804.39,
+      "to": 1807.83,
+      "sid": 626,
+      "location": 2,
+      "content": "然后这个也支持vs code",
+      "music": 0.0
+    },
+    {
+      "from": 1808.41,
+      "to": 1813.96,
+      "sid": 627,
+      "location": 2,
+      "content": "我们这节课主要用到的是jupitlab lab terminal",
+      "music": 0.0
+    },
+    {
+      "from": 1820.56,
+      "to": 1824.36,
+      "sid": 628,
+      "location": 2,
+      "content": "好的我们回到教程一步一步操作",
+      "music": 0.0
+    },
+    {
+      "from": 1832.42,
+      "to": 1835.83,
+      "sid": 629,
+      "location": 2,
+      "content": "好我们现在进入开发机后配置",
+      "music": 0.0
+    },
+    {
+      "from": 1835.83,
+      "to": 1839.88,
+      "sid": 630,
+      "location": 2,
+      "content": "看大环境复制这个命令",
+      "music": 0.0
+    },
+    {
+      "from": 1841.2,
+      "to": 1843.38,
+      "sid": 631,
+      "location": 2,
+      "content": "进行安装",
+      "music": 0.0
+    },
+    {
+      "from": 1846.18,
+      "to": 1850.4,
+      "sid": 632,
+      "location": 2,
+      "content": "这个环境的安装时长比较长",
+      "music": 0.0
+    },
+    {
+      "from": 1865.88,
+      "to": 1867.58,
+      "sid": 633,
+      "location": 2,
+      "content": "在等待安装的时间",
+      "music": 0.0
+    },
+    {
+      "from": 1867.58,
+      "to": 1870.46,
+      "sid": 634,
+      "location": 2,
+      "content": "大家可以从头仔细看一下我们的教学文档",
+      "music": 0.0
+    },
+    {
+      "from": 1870.46,
+      "to": 1872.9,
+      "sid": 635,
+      "location": 2,
+      "content": "或者是我们的教学视频",
+      "music": 0.0
+    },
+    {
+      "from": 1887.22,
+      "to": 1892.58,
+      "sid": 636,
+      "location": 2,
+      "content": "好的我们可以看到环境已经配置完成了",
+      "music": 0.0
+    },
+    {
+      "from": 1898.48,
+      "to": 1900.06,
+      "sid": 637,
+      "location": 2,
+      "content": "现在让我们来检查一下",
+      "music": 0.0
+    },
+    {
+      "from": 1900.06,
+      "to": 1901.98,
+      "sid": 638,
+      "location": 2,
+      "content": "看到环境是否正常的配置",
+      "music": 0.0
+    },
+    {
+      "from": 1903.24,
+      "to": 1904.14,
+      "sid": 639,
+      "location": 2,
+      "content": "很好哦",
+      "music": 0.0
+    },
+    {
+      "from": 1904.14,
+      "to": 1906.929,
+      "sid": 640,
+      "location": 2,
+      "content": "这里看到了我们刚刚安装的环境",
+      "music": 0.0
+    },
+    {
+      "from": 1911.06,
+      "to": 1915.7,
+      "sid": 641,
+      "location": 2,
+      "content": "然后下一步激活我们刚刚安装的环境",
+      "music": 0.0
+    },
+    {
+      "from": 1920.44,
+      "to": 1922.8,
+      "sid": 642,
+      "location": 2,
+      "content": "可以看到命令行最开头的地方",
+      "music": 0.0
+    },
+    {
+      "from": 1922.8,
+      "to": 1927.18,
+      "sid": 643,
+      "location": 2,
+      "content": "已经切换成我们的环境名称了",
+      "music": 0.0
+    },
+    {
+      "from": 1929.34,
+      "to": 1932.66,
+      "sid": 644,
+      "location": 2,
+      "content": "这个环境名称在重新启动terminal",
+      "music": 0.0
+    },
+    {
+      "from": 1932.66,
+      "to": 1935.0,
+      "sid": 645,
+      "location": 2,
+      "content": "和重启开发机的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1935.0,
+      "to": 1940.49,
+      "sid": 646,
+      "location": 2,
+      "content": "都需要重新的去or启动我们安装好的环境",
+      "music": 0.0
+    },
+    {
+      "from": 1942.34,
+      "to": 1945.24,
+      "sid": 647,
+      "location": 2,
+      "content": "接下来我们要下载一些基础文件",
+      "music": 0.0
+    },
+    {
+      "from": 1945.64,
+      "to": 1947.4,
+      "sid": 648,
+      "location": 2,
+      "content": "为了方便大家的操作",
+      "music": 0.0
+    },
+    {
+      "from": 1947.4,
+      "to": 1951.12,
+      "sid": 649,
+      "location": 2,
+      "content": "我们把这节课当中所需要的模型",
+      "music": 0.0
+    },
+    {
+      "from": 1951.12,
+      "to": 1954.4,
+      "sid": 650,
+      "location": 2,
+      "content": "都预先存放在了共享文件夹中",
+      "music": 0.0
+    },
+    {
+      "from": 1954.4,
+      "to": 1956.68,
+      "sid": 651,
+      "location": 2,
+      "content": "在这里",
+      "music": 0.0
+    },
+    {
+      "from": 1958.68,
+      "to": 1961.4,
+      "sid": 652,
+      "location": 2,
+      "content": "在share文件夹下",
+      "music": 0.0
+    },
+    {
+      "from": 1982.56,
+      "to": 1985.27,
+      "sid": 653,
+      "location": 2,
+      "content": "我们需要运行下面的操作",
+      "music": 0.0
+    },
+    {
+      "from": 1985.61,
+      "to": 1988.3,
+      "sid": 654,
+      "location": 2,
+      "content": "建立我们自己模型文件夹",
+      "music": 0.0
+    },
+    {
+      "from": 1988.3,
+      "to": 1993.13,
+      "sid": 655,
+      "location": 2,
+      "content": "和我们共享文件夹中的模型参数的软链接",
+      "music": 0.0
+    },
+    {
+      "from": 1994.22,
+      "to": 1998.32,
+      "sid": 656,
+      "location": 2,
+      "content": "复制命令在命令行中运行",
+      "music": 0.0
+    },
+    {
+      "from": 2000.42,
+      "to": 2005.78,
+      "sid": 657,
+      "location": 2,
+      "content": "可以看到我们已经创建了一个叫DOS的文件夹",
+      "music": 0.0
+    },
+    {
+      "from": 2007.44,
+      "to": 2010.88,
+      "sid": 658,
+      "location": 2,
+      "content": "在命令行中查看一下",
+      "music": 0.0
+    },
+    {
+      "from": 2015.42,
+      "to": 2015.98,
+      "sid": 659,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 2015.98,
+      "to": 2017.66,
+      "sid": 660,
+      "location": 2,
+      "content": "我们models目录下已经有了",
+      "music": 0.0
+    },
+    {
+      "from": 2017.66,
+      "to": 2022.1,
+      "sid": 661,
+      "location": 2,
+      "content": "我们三需要的三个模型文件名",
+      "music": 0.0
+    },
+    {
+      "from": 2024.16,
+      "to": 2027.63,
+      "sid": 662,
+      "location": 2,
+      "content": "这里也显示了他们是以软链接的方式",
+      "music": 0.0
+    },
+    {
+      "from": 2027.63,
+      "to": 2031.62,
+      "sid": 663,
+      "location": 2,
+      "content": "接到models文件夹下的",
+      "music": 0.0
+    },
+    {
+      "from": 2032.61,
+      "to": 2035.23,
+      "sid": 664,
+      "location": 2,
+      "content": "下面我们要进行茴香豆的下载",
+      "music": 0.0
+    },
+    {
+      "from": 2035.23,
+      "to": 2036.67,
+      "sid": 665,
+      "location": 2,
+      "content": "首先安装茴香豆的",
+      "music": 0.0
+    },
+    {
+      "from": 2036.67,
+      "to": 2039.55,
+      "sid": 666,
+      "location": 2,
+      "content": "开发环境和开发环境有一些复杂",
+      "music": 0.0
+    },
+    {
+      "from": 2039.55,
+      "to": 2043.03,
+      "sid": 667,
+      "location": 2,
+      "content": "大家尽量用直接复制的方式",
+      "music": 0.0
+    },
+    {
+      "from": 2050.72,
+      "to": 2055.54,
+      "sid": 668,
+      "location": 2,
+      "content": "好的我们已经配置完了茴香豆的环境",
+      "music": 0.0
+    },
+    {
+      "from": 2060.14,
+      "to": 2064.48,
+      "sid": 669,
+      "location": 2,
+      "content": "下面我们下载茴香豆官方仓库",
+      "music": 0.0
+    },
+    {
+      "from": 2076.06,
+      "to": 2078.18,
+      "sid": 670,
+      "location": 2,
+      "content": "嗯我们已经下载了官方仓库",
+      "music": 0.0
+    },
+    {
+      "from": 2078.18,
+      "to": 2082.32,
+      "sid": 671,
+      "location": 2,
+      "content": "并切换到了和我们的指定版本",
+      "music": 0.0
+    },
+    {
+      "from": 2084.74,
+      "to": 2087.04,
+      "sid": 672,
+      "location": 2,
+      "content": "我们也可以在文件夹目录当中看到",
+      "music": 0.0
+    },
+    {
+      "from": 2087.04,
+      "to": 2089.72,
+      "sid": 673,
+      "location": 2,
+      "content": "回乡都被顺利地下载了",
+      "music": 0.0
+    },
+    {
+      "from": 2090.24,
+      "to": 2092.36,
+      "sid": 674,
+      "location": 2,
+      "content": "下面我们就开始要正式的搭建",
+      "music": 0.0
+    },
+    {
+      "from": 2092.36,
+      "to": 2095.48,
+      "sid": 675,
+      "location": 2,
+      "content": "我们的RG助手了",
+      "music": 0.0
+    },
+    {
+      "from": 2096.84,
+      "to": 2101.18,
+      "sid": 676,
+      "location": 2,
+      "content": "首先我们要修改配置茴香豆的配置文件",
+      "music": 0.0
+    },
+    {
+      "from": 2102.94,
+      "to": 2105.06,
+      "sid": 677,
+      "location": 2,
+      "content": "复制命令",
+      "music": 0.0
+    },
+    {
+      "from": 2107.4,
+      "to": 2114.239,
+      "sid": 678,
+      "location": 2,
+      "content": "将我们刚刚下载的三个模型的地址替换掉",
+      "music": 0.0
+    },
+    {
+      "from": 2114.239,
+      "to": 2119.249,
+      "sid": 679,
+      "location": 2,
+      "content": "配置文件中原有的模型地址",
+      "music": 0.0
+    },
+    {
+      "from": 2143.02,
+      "to": 2148.5,
+      "sid": 680,
+      "location": 2,
+      "content": "好让我们查看一下我们更改后的配置文件",
+      "music": 0.0
+    },
+    {
+      "from": 2155.66,
+      "to": 2163.46,
+      "sid": 681,
+      "location": 2,
+      "content": "现在配置文件的模型地址配置是正确的",
+      "music": 0.0
+    },
+    {
+      "from": 2175.72,
+      "to": 2178.97,
+      "sid": 682,
+      "location": 2,
+      "content": "然后我们来创建自己的知识库",
+      "music": 0.0
+    },
+    {
+      "from": 2179.49,
+      "to": 2181.07,
+      "sid": 683,
+      "location": 2,
+      "content": "在这节课当中",
+      "music": 0.0
+    },
+    {
+      "from": 2181.07,
+      "to": 2183.89,
+      "sid": 684,
+      "location": 2,
+      "content": "我们会针对茴香豆这个工具",
+      "music": 0.0
+    },
+    {
+      "from": 2183.89,
+      "to": 2185.97,
+      "sid": 685,
+      "location": 2,
+      "content": "来专门创建一个知识库",
+      "music": 0.0
+    },
+    {
+      "from": 2185.97,
+      "to": 2192.51,
+      "sid": 686,
+      "location": 2,
+      "content": "首先我们先把茴香豆的相关语料下载到开发机",
+      "music": 0.0
+    },
+    {
+      "from": 2202.4,
+      "to": 2205.25,
+      "sid": 687,
+      "location": 2,
+      "content": "好的已经下载完成",
+      "music": 0.0
+    },
+    {
+      "from": 2206.01,
+      "to": 2211.519,
+      "sid": 688,
+      "location": 2,
+      "content": "然后我们将针对茴香豆的一些呃视力问题",
+      "music": 0.0
+    },
+    {
+      "from": 2211.519,
+      "to": 2214.639,
+      "sid": 689,
+      "location": 2,
+      "content": "加入到视力问题列表中",
+      "music": 0.0
+    },
+    {
+      "from": 2214.639,
+      "to": 2217.189,
+      "sid": 690,
+      "location": 2,
+      "content": "运行这个命令",
+      "music": 0.0
+    },
+    {
+      "from": 2221.74,
+      "to": 2224.58,
+      "sid": 691,
+      "location": 2,
+      "content": "我们来查看一下",
+      "music": 0.0
+    },
+    {
+      "from": 2240.86,
+      "to": 2245.279,
+      "sid": 692,
+      "location": 2,
+      "content": "好的视力问题列表当中",
+      "music": 0.0
+    },
+    {
+      "from": 2245.619,
+      "to": 2250.799,
+      "sid": 693,
+      "location": 2,
+      "content": "已经加入了茴香豆相关的提问",
+      "music": 0.0
+    },
+    {
+      "from": 2251.78,
+      "to": 2255.04,
+      "sid": 694,
+      "location": 2,
+      "content": "然后我们要再创建一个问题列表",
+      "music": 0.0
+    },
+    {
+      "from": 2255.04,
+      "to": 2262.49,
+      "sid": 695,
+      "location": 2,
+      "content": "用来测试我们的拒答流程是否正常",
+      "music": 0.0
+    },
+    {
+      "from": 2266.16,
+      "to": 2269.0,
+      "sid": 696,
+      "location": 2,
+      "content": "测试列表也创建好了",
+      "music": 0.0
+    },
+    {
+      "from": 2273.12,
+      "to": 2276.5,
+      "sid": 697,
+      "location": 2,
+      "content": "接下来我们就要对已经准备好的语料库",
+      "music": 0.0
+    },
+    {
+      "from": 2276.5,
+      "to": 2278.92,
+      "sid": 698,
+      "location": 2,
+      "content": "包括茴香豆的知识库",
+      "music": 0.0
+    },
+    {
+      "from": 2278.92,
+      "to": 2280.27,
+      "sid": 699,
+      "location": 2,
+      "content": "视力问题",
+      "music": 0.0
+    },
+    {
+      "from": 2280.27,
+      "to": 2282.85,
+      "sid": 700,
+      "location": 2,
+      "content": "法律问题进行向量化",
+      "music": 0.0
+    },
+    {
+      "from": 2282.85,
+      "to": 2286.34,
+      "sid": 701,
+      "location": 2,
+      "content": "创建我们自己的向量数据库",
+      "music": 0.0
+    },
+    {
+      "from": 2294.78,
+      "to": 2297.29,
+      "sid": 702,
+      "location": 2,
+      "content": "语料的特征提取需要一些时间",
+      "music": 0.0
+    },
+    {
+      "from": 2297.29,
+      "to": 2299.33,
+      "sid": 703,
+      "location": 2,
+      "content": "大家可以详细看一下文档",
+      "music": 0.0
+    },
+    {
+      "from": 2299.33,
+      "to": 2303.29,
+      "sid": 704,
+      "location": 2,
+      "content": "了解一下我们在向量数据库嵌入的过程当中",
+      "music": 0.0
+    },
+    {
+      "from": 2303.29,
+      "to": 2306.35,
+      "sid": 705,
+      "location": 2,
+      "content": "实力问题和法律问题的作用",
+      "music": 0.0
+    },
+    {
+      "from": 2317.28,
+      "to": 2319.43,
+      "sid": 706,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 2320.19,
+      "to": 2323.33,
+      "sid": 707,
+      "location": 2,
+      "content": "好现在我们的特征提取工作已经结束了",
+      "music": 0.0
+    },
+    {
+      "from": 2323.33,
+      "to": 2326.8,
+      "sid": 708,
+      "location": 2,
+      "content": "让我看我们看一下结果啊",
+      "music": 0.0
+    },
+    {
+      "from": 2326.8,
+      "to": 2329.41,
+      "sid": 709,
+      "location": 2,
+      "content": "这里显示我们一共尝试提取了多少文件",
+      "music": 0.0
+    },
+    {
+      "from": 2329.41,
+      "to": 2331.06,
+      "sid": 710,
+      "location": 2,
+      "content": "成功了多少啊",
+      "music": 0.0
+    },
+    {
+      "from": 2331.06,
+      "to": 2333.25,
+      "sid": 711,
+      "location": 2,
+      "content": "失败了多少",
+      "music": 0.0
+    },
+    {
+      "from": 2336.8,
+      "to": 2340.84,
+      "sid": 712,
+      "location": 2,
+      "content": "然后在问题的巨大流程测试当中",
+      "music": 0.0
+    },
+    {
+      "from": 2340.84,
+      "to": 2342.94,
+      "sid": 713,
+      "location": 2,
+      "content": "我们的第一个问题回香豆是什么",
+      "music": 0.0
+    },
+    {
+      "from": 2342.94,
+      "to": 2344.66,
+      "sid": 714,
+      "location": 2,
+      "content": "顺利的通过了测试",
+      "music": 0.0
+    },
+    {
+      "from": 2344.66,
+      "to": 2345.98,
+      "sid": 715,
+      "location": 2,
+      "content": "检索模块",
+      "music": 0.0
+    },
+    {
+      "from": 2345.98,
+      "to": 2350.0,
+      "sid": 716,
+      "location": 2,
+      "content": "也搜寻到了相关的语料",
+      "music": 0.0
+    },
+    {
+      "from": 2361.52,
+      "to": 2362.98,
+      "sid": 717,
+      "location": 2,
+      "content": "我们第二个问题",
+      "music": 0.0
+    },
+    {
+      "from": 2362.98,
+      "to": 2365.27,
+      "sid": 718,
+      "location": 2,
+      "content": "今天天气怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 2365.85,
+      "to": 2369.29,
+      "sid": 719,
+      "location": 2,
+      "content": "被我们的巨大模块拒绝了",
+      "music": 0.0
+    },
+    {
+      "from": 2370.85,
+      "to": 2374.51,
+      "sid": 720,
+      "location": 2,
+      "content": "这不是一个合适的问题",
+      "music": 0.0
+    },
+    {
+      "from": 2375.64,
+      "to": 2377.85,
+      "sid": 721,
+      "location": 2,
+      "content": "我们的巨大模块工作正常",
+      "music": 0.0
+    },
+    {
+      "from": 2377.85,
+      "to": 2381.42,
+      "sid": 722,
+      "location": 2,
+      "content": "现在我们开始准备进行下一步",
+      "music": 0.0
+    },
+    {
+      "from": 2382.66,
+      "to": 2383.28,
+      "sid": 723,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 2383.28,
+      "to": 2385.44,
+      "sid": 724,
+      "location": 2,
+      "content": "我们现在就可以去测试一下",
+      "music": 0.0
+    },
+    {
+      "from": 2385.44,
+      "to": 2389.22,
+      "sid": 725,
+      "location": 2,
+      "content": "我们的回乡都知识助手了",
+      "music": 0.0
+    },
+    {
+      "from": 2399.6,
+      "to": 2402.5,
+      "sid": 726,
+      "location": 2,
+      "content": "首先我们要先填入我们想要测试的问题",
+      "music": 0.0
+    },
+    {
+      "from": 2402.5,
+      "to": 2405.2,
+      "sid": 727,
+      "location": 2,
+      "content": "这里准备了三个问题",
+      "music": 0.0
+    },
+    {
+      "from": 2410.26,
+      "to": 2412.86,
+      "sid": 728,
+      "location": 2,
+      "content": "复制命令运行",
+      "music": 0.0
+    },
+    {
+      "from": 2431.08,
+      "to": 2436.11,
+      "sid": 729,
+      "location": 2,
+      "content": "现在让我们看一下我们茴香豆技术助手的输出",
+      "music": 0.0
+    },
+    {
+      "from": 2436.11,
+      "to": 2438.96,
+      "sid": 730,
+      "location": 2,
+      "content": "针对茴香豆是什么这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 2438.96,
+      "to": 2442.68,
+      "sid": 731,
+      "location": 2,
+      "content": "我们的助手给出了一个看似非常合理的答案",
+      "music": 0.0
+    },
+    {
+      "from": 2442.68,
+      "to": 2444.57,
+      "sid": 732,
+      "location": 2,
+      "content": "还给了附加了一个链接",
+      "music": 0.0
+    },
+    {
+      "from": 2444.57,
+      "to": 2448.38,
+      "sid": 733,
+      "location": 2,
+      "content": "让我们看一下这个链接是否是真实可用的",
+      "music": 0.0
+    },
+    {
+      "from": 2456.2,
+      "to": 2456.88,
+      "sid": 734,
+      "location": 2,
+      "content": "很好",
+      "music": 0.0
+    },
+    {
+      "from": 2456.88,
+      "to": 2461.76,
+      "sid": 735,
+      "location": 2,
+      "content": "这个链接直接将我们引向了茴香豆的技术报告",
+      "music": 0.0
+    },
+    {
+      "from": 2462.34,
+      "to": 2465.3,
+      "sid": 736,
+      "location": 2,
+      "content": "可见我们RG技术的茴香豆技术助手",
+      "music": 0.0
+    },
+    {
+      "from": 2465.3,
+      "to": 2472.45,
+      "sid": 737,
+      "location": 2,
+      "content": "是可以提供这种可追溯的资料来源",
+      "music": 0.0
+    },
+    {
+      "from": 2474.0,
+      "to": 2476.03,
+      "sid": 738,
+      "location": 2,
+      "content": "那针对我们第二个问题",
+      "music": 0.0
+    },
+    {
+      "from": 2476.03,
+      "to": 2478.58,
+      "sid": 739,
+      "location": 2,
+      "content": "会想到如何在微信群中部署",
+      "music": 0.0
+    },
+    {
+      "from": 2478.58,
+      "to": 2483.08,
+      "sid": 740,
+      "location": 2,
+      "content": "我们的技术助手也给出了一个有效的回答",
+      "music": 0.0
+    },
+    {
+      "from": 2489.64,
+      "to": 2491.85,
+      "sid": 741,
+      "location": 2,
+      "content": "针对我们第三个问题",
+      "music": 0.0
+    },
+    {
+      "from": 2491.85,
+      "to": 2495.12,
+      "sid": 742,
+      "location": 2,
+      "content": "我们的技术助手虽然准确的判断出了",
+      "music": 0.0
+    },
+    {
+      "from": 2495.12,
+      "to": 2497.06,
+      "sid": 743,
+      "location": 2,
+      "content": "他确实是一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 2497.06,
+      "to": 2499.37,
+      "sid": 744,
+      "location": 2,
+      "content": "但是在随后的流程中",
+      "music": 0.0
+    },
+    {
+      "from": 2499.37,
+      "to": 2505.79,
+      "sid": 745,
+      "location": 2,
+      "content": "因为判断该问题与所检索到的资料和检索主题",
+      "music": 0.0
+    },
+    {
+      "from": 2505.79,
+      "to": 2507.65,
+      "sid": 746,
+      "location": 2,
+      "content": "相关性较低",
+      "music": 0.0
+    },
+    {
+      "from": 2507.65,
+      "to": 2511.25,
+      "sid": 747,
+      "location": 2,
+      "content": "所以我们的技术助手作出判断",
+      "music": 0.0
+    },
+    {
+      "from": 2511.25,
+      "to": 2515.49,
+      "sid": 748,
+      "location": 2,
+      "content": "拒绝针对该问题进行生成",
+      "music": 0.0
+    },
+    {
+      "from": 2516.31,
+      "to": 2518.55,
+      "sid": 749,
+      "location": 2,
+      "content": "所以没有任何的回答",
+      "music": 0.0
+    },
+    {
+      "from": 2518.55,
+      "to": 2523.479,
+      "sid": 750,
+      "location": 2,
+      "content": "至此我们就完成了茴香豆服务器上的部署体验",
+      "music": 0.0
+    },
+    {
+      "from": 2523.479,
+      "to": 2526.359,
+      "sid": 751,
+      "location": 2,
+      "content": "在后续的学习中",
+      "music": 0.0
+    },
+    {
+      "from": 2526.359,
+      "to": 2529.029,
+      "sid": 752,
+      "location": 2,
+      "content": "同学们可以自行阅读进阶文档",
+      "music": 0.0
+    },
+    {
+      "from": 2529.029,
+      "to": 2531.429,
+      "sid": 753,
+      "location": 2,
+      "content": "或者是阅读茴香豆的开发文档",
+      "music": 0.0
+    },
+    {
+      "from": 2531.429,
+      "to": 2531.789,
+      "sid": 754,
+      "location": 2,
+      "content": "学习",
+      "music": 0.0
+    },
+    {
+      "from": 2531.789,
+      "to": 2535.52,
+      "sid": 755,
+      "location": 2,
+      "content": "如何将茴香豆链接到自己的飞书群和微信群",
+      "music": 0.0
+    },
+    {
+      "from": 2535.52,
+      "to": 2540.39,
+      "sid": 756,
+      "location": 2,
+      "content": "也可以尝试在自己的服务器上部署茴香豆web端",
+      "music": 0.0
+    },
+    {
+      "from": 2540.39,
+      "to": 2541.86,
+      "sid": 757,
+      "location": 2,
+      "content": "感谢大家参与",
+      "music": 0.0
+    },
+    {
+      "from": 2541.86,
+      "to": 2544.82,
+      "sid": 758,
+      "location": 2,
+      "content": "祝同学们都能顺利地完成本节作业",
+      "music": 0.0
+    }
+  ]
+}
