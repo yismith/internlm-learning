@@ -12,7 +12,7 @@
 - 任务03-实战进阶 运行Lagent智能体Demo
 - 任务04-实战进阶 灵笔 InternLM-XComposer2
 
-![02-task-list](../../../assets/image/02-task-list.png)
+![02-task-list](../../../assets/image/02/02-task-list.png)
 
 #### 环境配置
 执行以下命令开始基础环境的配置，耗时会比较久，大约需要35分钟
@@ -23,7 +23,7 @@ studio-conda -o internlm-base -t demo
 # conda activate demo
 # conda install pytorch==2.0.1 torchvision==0.15.2 torchaudio==2.0.2 pytorch-cuda=11.7 -c pytorch -c nvidia
 ```
-![02-demo-conda](../../../assets/image/02-demo-conda.png)
+![02-demo-conda](../../../assets/image/02/02-demo-conda.png)
 
 切换到demo环境后继续安装依赖包
 ```shell
@@ -38,7 +38,7 @@ pip install matplotlib==3.8.3
 pip install modelscope==1.9.5
 pip install sentencepiece==0.1.99
 ```
-![02-demo-dependencies](../../../assets/image/02-demo-dependencies.png)
+![02-demo-dependencies](../../../assets/image/02/02-demo-dependencies.png)
 
 #### 任务01-实战部署 InternLM2-Chat-1.8B
 创建demo路径与生成下载模型与运行模型的文件
@@ -70,7 +70,7 @@ snapshot_download("Shanghai_AI_Laboratory/internlm2-chat-1_8b",
 ```shell
 python /root/demo/download_mini.py
 ```
-![02-task01-download-model](../../../assets/image/02-task01-download-model.png)
+![02-task01-download-model](../../../assets/image/02/02-task01-download-model.png)
 
 cli_demo.py的内容
 ```python
@@ -112,13 +112,13 @@ while True:
 conda activate demo
 python /root/demo/cli_demo.py
 ```
-![02-task01-run-model](../../../assets/image/02-task01-run-model.png)
+![02-task01-run-model](../../../assets/image/02/02-task01-run-model.png)
 
 与模型交互
 ```text
 请创作一个 300 字的小故事
 ```
-![02-task01-talk-with-model](../../../assets/image/02-task01-talk-with-model.png)
+![02-task01-talk-with-model](../../../assets/image/02/02-task01-talk-with-model.png)
 
 对于该实战任务历史操作回顾
 ```shell
@@ -140,7 +140,7 @@ python /root/demo/cli_demo.py
 16 conda activate demo
 17 python /root/demo/cli_demo.py
 ```
-![02-task01-history-operation](../../../assets/image/02-task01-history-operation.png)
+![02-task01-history-operation](../../../assets/image/02/02-task01-history-operation.png)
 
 #### 本地访问InternStudio端口
 ```shell
@@ -151,10 +151,10 @@ ssh -CNg -L 6006:127.0.0.1:6006 root@ssh.intern-ai.org.cn -p 38374
 
 #### 任务02-实战部署 优秀作品 八戒-Chat-1.8B
 运行模型
-![02-task02-run-model](../../../assets/image/02-task02-run-model.png)
+![02-task02-run-model](../../../assets/image/02/02-task02-run-model.png)
 
 与模型交互
-![02-task02-talk-with-model](../../../assets/image/02-task02-talk-with-model.png)
+![02-task02-talk-with-model](../../../assets/image/02/02-task02-talk-with-model.png)
 
 对于该实战任务历史操作回顾
 ```shell
@@ -166,12 +166,12 @@ ssh -CNg -L 6006:127.0.0.1:6006 root@ssh.intern-ai.org.cn -p 38374
 6 python /root/Tutorial/helloworld/bajie_download.py
 7 streamlit run /root/Tutorial/helloworld/bajie_chat.py --server.address 127.0.0.1 --server.port 6006
 ```
-![02-task02-history-operation](../../../assets/image/02-task02-history-operation.png)
+![02-task02-history-operation](../../../assets/image/02/02-task02-history-operation.png)
 
 
 #### 任务03-实战进阶 运行Lagent智能体Demo
 与智能体交互
-![02-task03-talk-with-lagent](../../../assets/image/02-task03-talk-with-lagent.png)
+![02-task03-talk-with-lagent](../../../assets/image/02/02-task03-talk-with-lagent.png)
 
 对于该实战任务历史操作回顾
 ```shell
@@ -187,7 +187,7 @@ ssh -CNg -L 6006:127.0.0.1:6006 root@ssh.intern-ai.org.cn -p 38374
 10 history
 11 streamlit run /root/demo/lagent/examples/internlm2_agent_web_demo_hf.py --server.address 127.0.0.1 --server.port 6006
 ```
-![02-task03-history-operation](../../../assets/image/02-task03-history-operation.png)
+![02-task03-history-operation](../../../assets/image/02/02-task03-history-operation.png)
  
 
 #### 任务04-实战进阶 灵笔 InternLM-XComposer2

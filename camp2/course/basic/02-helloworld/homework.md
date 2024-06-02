@@ -203,8 +203,8 @@ cat config.json
 ```
 
 历史操作命令回顾
-![02-homework21-history-operation-part1](../../../assets/image/02-homework21-history-operation-part1.png)
-![02-homework21-history-operation-part2](../../../assets/image/02-homework21-history-operation-part2.png)
+![02-homework21-history-operation-part1](../../../assets/image/02/02-homework21-history-operation-part1.png)
+![02-homework21-history-operation-part2](../../../assets/image/02/02-homework21-history-operation-part2.png)
 
 
 ### 2.2

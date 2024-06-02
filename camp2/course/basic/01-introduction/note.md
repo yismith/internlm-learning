@@ -65,7 +65,7 @@ AutoGPT
 书生·浦语大模型全链路开源开放体系包括以下几个环节
 
 `数据 -> 预训练 -> 微调 -> 部署 -> 评测 -> 应用`
-![01-open-flow](../../../assets/image/01-open-flow.png)
+![01-open-flow](../../../assets/image/01/01-open-flow.png)
 
 
 大模型是实现AGI(通用人工智能Artificial General Intelligence)的一种途径，和传统的NLP使用多个专用模型通过pipeline来解决不同的任务不同，大模型作为一种通用模型，可以解决多种任务和处理多种模态的数据，为实现AGI提供一种可能性，不过还是需要大模型有较强的推理能力。
@@ -88,7 +88,7 @@ AutoGPT
 从模型到应用的大概流程如下
 
 `模型选型评估 -> 场景复杂度评估 -> 算力评估 -> 是否需要与环境交互 -> 模型评测 -> 部署`
-![01-model2app](../../../assets/image/01-model2app.png)
+![01-model2app](../../../assets/image/01/01-model2app.png)
 - 场景复杂度的评估主要是判断当前业务场景是否复杂，是否需要引入微调或者智能体
 - 算力评估主要是根据当前的算力情况判断是用续训/全参微调还是部分参数微调
 - 环境交互主要是判断是否需要引入智能体，让模型与外界交互
@@ -96,8 +96,8 @@ AutoGPT
 在智能体方面，书生·浦语有Lagent和AgentLego
 Lagent作为一种智能体的框架，可以支持ReAct、ReWoo、AutoGPT等类型的智能体能力，
 AgentLego主要是作为智能体工具箱。
-![01-lagent](../../../assets/image/01-lagent.png)
-![01-agentlego](../../../assets/image/01-agentlego.png)
+![01-lagent](../../../assets/image/01/01-lagent.png)
+![01-agentlego](../../../assets/image/01/01-agentlego.png)
 
 整体了解下来，书生·浦语的开源开放体系还是很完整的，覆盖了从数据到应用的过程，后续自己主要是关注应用落地这块，所以会重点关注微调、智能体这两方面，主要会关注模型使用工具的能力，因为只有模型懂得使用并能正确使用工具了，才有可能与外界产生更多的可能性。另外也会关注模型处理长文本的能力，是可以把长文本直接放到模型上下文中还是要借助RAG等技术来进行辅助。
 
