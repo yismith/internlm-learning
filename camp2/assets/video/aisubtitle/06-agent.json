@@ -1,0 +1,3732 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.6.0.4",
+  "body": [
+    {
+      "from": 0.9,
+      "to": 1.56,
+      "sid": 1,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 1.56,
+      "to": 3.96,
+      "sid": 2,
+      "location": 2,
+      "content": "欢迎来到上海人工智能实验室举办的",
+      "music": 0.0
+    },
+    {
+      "from": 3.96,
+      "to": 6.36,
+      "sid": 3,
+      "location": 2,
+      "content": "书生普与大模型实战营第六讲",
+      "music": 0.0
+    },
+    {
+      "from": 6.36,
+      "to": 8.629,
+      "sid": 4,
+      "location": 2,
+      "content": "我是今天的讲师樊琪",
+      "music": 0.0
+    },
+    {
+      "from": 8.629,
+      "to": 12.769,
+      "sid": 5,
+      "location": 2,
+      "content": "今天主讲的内容是基于legend和agent level",
+      "music": 0.0
+    },
+    {
+      "from": 12.769,
+      "to": 16.189,
+      "sid": 6,
+      "location": 2,
+      "content": "实现智能体应用的搭建",
+      "music": 0.0
+    },
+    {
+      "from": 19.14,
+      "to": 21.08,
+      "sid": 7,
+      "location": 2,
+      "content": "随着大语言模型的快速发展",
+      "music": 0.0
+    },
+    {
+      "from": 21.08,
+      "to": 22.01,
+      "sid": 8,
+      "location": 2,
+      "content": "我们逐渐发现",
+      "music": 0.0
+    },
+    {
+      "from": 22.01,
+      "to": 24.44,
+      "sid": 9,
+      "location": 2,
+      "content": "即使是JPG4这样的大语言模型",
+      "music": 0.0
+    },
+    {
+      "from": 24.44,
+      "to": 27.5,
+      "sid": 10,
+      "location": 2,
+      "content": "在某些场景下也仍旧不能满足实际需求",
+      "music": 0.0
+    },
+    {
+      "from": 27.5,
+      "to": 29.03,
+      "sid": 11,
+      "location": 2,
+      "content": "有着诸多的局限性",
+      "music": 0.0
+    },
+    {
+      "from": 29.03,
+      "to": 30.89,
+      "sid": 12,
+      "location": 2,
+      "content": "比如幻觉",
+      "music": 0.0
+    },
+    {
+      "from": 30.89,
+      "to": 33.95,
+      "sid": 13,
+      "location": 2,
+      "content": "也就是模型可能会生成出虚假的信息",
+      "music": 0.0
+    },
+    {
+      "from": 33.95,
+      "to": 36.8,
+      "sid": 14,
+      "location": 2,
+      "content": "其内容与现实严重不符或脱节",
+      "music": 0.0
+    },
+    {
+      "from": 36.8,
+      "to": 38.67,
+      "sid": 15,
+      "location": 2,
+      "content": "比如我问模型",
+      "music": 0.0
+    },
+    {
+      "from": 38.67,
+      "to": 40.77,
+      "sid": 16,
+      "location": 2,
+      "content": "鲁迅和周树人是否是同一个人",
+      "music": 0.0
+    },
+    {
+      "from": 40.77,
+      "to": 43.9,
+      "sid": 17,
+      "location": 2,
+      "content": "而模型直接回复他们并不是同一个人",
+      "music": 0.0
+    },
+    {
+      "from": 43.9,
+      "to": 45.94,
+      "sid": 18,
+      "location": 2,
+      "content": "再比如时效性",
+      "music": 0.0
+    },
+    {
+      "from": 45.94,
+      "to": 47.08,
+      "sid": 19,
+      "location": 2,
+      "content": "由于大模型",
+      "music": 0.0
+    },
+    {
+      "from": 47.08,
+      "to": 48.46,
+      "sid": 20,
+      "location": 2,
+      "content": "由于大模型的训练数据",
+      "music": 0.0
+    },
+    {
+      "from": 48.46,
+      "to": 50.2,
+      "sid": 21,
+      "location": 2,
+      "content": "往往截止到过去的某个时间",
+      "music": 0.0
+    },
+    {
+      "from": 50.2,
+      "to": 51.91,
+      "sid": 22,
+      "location": 2,
+      "content": "其训练数据是过时的",
+      "music": 0.0
+    },
+    {
+      "from": 51.91,
+      "to": 53.53,
+      "sid": 23,
+      "location": 2,
+      "content": "它的输出自然也就无法",
+      "music": 0.0
+    },
+    {
+      "from": 53.53,
+      "to": 55.64,
+      "sid": 24,
+      "location": 2,
+      "content": "反映出最新的趋势和信息",
+      "music": 0.0
+    },
+    {
+      "from": 55.64,
+      "to": 57.92,
+      "sid": 25,
+      "location": 2,
+      "content": "比如我问模型今年是哪一年",
+      "music": 0.0
+    },
+    {
+      "from": 57.92,
+      "to": 60.35,
+      "sid": 26,
+      "location": 2,
+      "content": "他却回复今年是2023年",
+      "music": 0.0
+    },
+    {
+      "from": 60.35,
+      "to": 62.36,
+      "sid": 27,
+      "location": 2,
+      "content": "再比如可靠性",
+      "music": 0.0
+    },
+    {
+      "from": 62.36,
+      "to": 64.49,
+      "sid": 28,
+      "location": 2,
+      "content": "大模型在面对复杂任务时",
+      "music": 0.0
+    },
+    {
+      "from": 64.49,
+      "to": 66.92,
+      "sid": 29,
+      "location": 2,
+      "content": "错误输出的现象可能会频繁发生",
+      "music": 0.0
+    },
+    {
+      "from": 66.92,
+      "to": 69.43,
+      "sid": 30,
+      "location": 2,
+      "content": "从而影响用户体验和信任度",
+      "music": 0.0
+    },
+    {
+      "from": 69.43,
+      "to": 73.75,
+      "sid": 31,
+      "location": 2,
+      "content": "因此基于大圆模型的智能体应运而生",
+      "music": 0.0
+    },
+    {
+      "from": 73.75,
+      "to": 76.55,
+      "sid": 32,
+      "location": 2,
+      "content": "那么什么是智能体呢",
+      "music": 0.0
+    },
+    {
+      "from": 76.77,
+      "to": 79.979,
+      "sid": 33,
+      "location": 2,
+      "content": "海耶斯rose在1995年的论文中提出",
+      "music": 0.0
+    },
+    {
+      "from": 79.979,
+      "to": 83.189,
+      "sid": 34,
+      "location": 2,
+      "content": "一个智能体应当满足以下三种条件",
+      "music": 0.0
+    },
+    {
+      "from": 83.189,
+      "to": 86.42,
+      "sid": 35,
+      "location": 2,
+      "content": "一智能体可以感知环境中的动态条件",
+      "music": 0.0
+    },
+    {
+      "from": 86.42,
+      "to": 89.7,
+      "sid": 36,
+      "location": 2,
+      "content": "二智能体能够采取动作影响环境",
+      "music": 0.0
+    },
+    {
+      "from": 89.7,
+      "to": 92.1,
+      "sid": 37,
+      "location": 2,
+      "content": "三智能体能够运用推理能力",
+      "music": 0.0
+    },
+    {
+      "from": 92.1,
+      "to": 93.12,
+      "sid": 38,
+      "location": 2,
+      "content": "理解信息",
+      "music": 0.0
+    },
+    {
+      "from": 93.12,
+      "to": 94.02,
+      "sid": 39,
+      "location": 2,
+      "content": "解决问题",
+      "music": 0.0
+    },
+    {
+      "from": 94.02,
+      "to": 96.56,
+      "sid": 40,
+      "location": 2,
+      "content": "产生推断并决定动作",
+      "music": 0.0
+    },
+    {
+      "from": 96.56,
+      "to": 100.03,
+      "sid": 41,
+      "location": 2,
+      "content": "那么一个智能体主要包括哪些部分呢",
+      "music": 0.0
+    },
+    {
+      "from": 100.03,
+      "to": 102.19,
+      "sid": 42,
+      "location": 2,
+      "content": "智能题主要包括三个部分",
+      "music": 0.0
+    },
+    {
+      "from": 102.19,
+      "to": 105.37,
+      "sid": 43,
+      "location": 2,
+      "content": "一大脑作为控制器承担记忆",
+      "music": 0.0
+    },
+    {
+      "from": 105.37,
+      "to": 106.89,
+      "sid": 44,
+      "location": 2,
+      "content": "思考和决策任务",
+      "music": 0.0
+    },
+    {
+      "from": 106.89,
+      "to": 109.29,
+      "sid": 45,
+      "location": 2,
+      "content": "他接受来自感知模块的信息",
+      "music": 0.0
+    },
+    {
+      "from": 109.29,
+      "to": 110.97,
+      "sid": 46,
+      "location": 2,
+      "content": "并采取相应动作",
+      "music": 0.0
+    },
+    {
+      "from": 110.97,
+      "to": 112.68,
+      "sid": 47,
+      "location": 2,
+      "content": "二感知",
+      "music": 0.0
+    },
+    {
+      "from": 112.68,
+      "to": 116.67,
+      "sid": 48,
+      "location": 2,
+      "content": "它对于外部环境的多模态信息进行感知和处理",
+      "music": 0.0
+    },
+    {
+      "from": 116.67,
+      "to": 118.71,
+      "sid": 49,
+      "location": 2,
+      "content": "包括但不限于图像",
+      "music": 0.0
+    },
+    {
+      "from": 118.71,
+      "to": 119.34,
+      "sid": 50,
+      "location": 2,
+      "content": "音频",
+      "music": 0.0
+    },
+    {
+      "from": 119.34,
+      "to": 121.35,
+      "sid": 51,
+      "location": 2,
+      "content": "视频传感器等信息",
+      "music": 0.0
+    },
+    {
+      "from": 121.35,
+      "to": 123.15,
+      "sid": 52,
+      "location": 2,
+      "content": "三动作",
+      "music": 0.0
+    },
+    {
+      "from": 123.15,
+      "to": 125.19,
+      "sid": 53,
+      "location": 2,
+      "content": "其利用并执行工具",
+      "music": 0.0
+    },
+    {
+      "from": 125.19,
+      "to": 126.93,
+      "sid": 54,
+      "location": 2,
+      "content": "以影响环境工作",
+      "music": 0.0
+    },
+    {
+      "from": 126.93,
+      "to": 128.49,
+      "sid": 55,
+      "location": 2,
+      "content": "可能包括文本的检索",
+      "music": 0.0
+    },
+    {
+      "from": 128.49,
+      "to": 131.24,
+      "sid": 56,
+      "location": 2,
+      "content": "调用相关API操控机械臂等",
+      "music": 0.0
+    },
+    {
+      "from": 131.24,
+      "to": 132.26,
+      "sid": 57,
+      "location": 2,
+      "content": "这样一来",
+      "music": 0.0
+    },
+    {
+      "from": 133.28,
+      "to": 136.94,
+      "sid": 58,
+      "location": 2,
+      "content": "这样的智能体也就满足了海耶斯所提出的",
+      "music": 0.0
+    },
+    {
+      "from": 136.94,
+      "to": 139.829,
+      "sid": 59,
+      "location": 2,
+      "content": "智能体所要满足的三个条件",
+      "music": 0.0
+    },
+    {
+      "from": 140.469,
+      "to": 143.609,
+      "sid": 60,
+      "location": 2,
+      "content": "接下来我们来讲一些经典的智能体饭吃",
+      "music": 0.0
+    },
+    {
+      "from": 143.609,
+      "to": 144.749,
+      "sid": 61,
+      "location": 2,
+      "content": "比如auto gp",
+      "music": 0.0
+    },
+    {
+      "from": 144.749,
+      "to": 146.579,
+      "sid": 62,
+      "location": 2,
+      "content": "t review和react",
+      "music": 0.0
+    },
+    {
+      "from": 146.579,
+      "to": 149.09,
+      "sid": 63,
+      "location": 2,
+      "content": "我们先来讲auto gp",
+      "music": 0.0
+    },
+    {
+      "from": 149.09,
+      "to": 150.53,
+      "sid": 64,
+      "location": 2,
+      "content": "如图所示",
+      "music": 0.0
+    },
+    {
+      "from": 150.53,
+      "to": 152.69,
+      "sid": 65,
+      "location": 2,
+      "content": "使out to GPT的一个基本流程",
+      "music": 0.0
+    },
+    {
+      "from": 152.69,
+      "to": 156.96,
+      "sid": 66,
+      "location": 2,
+      "content": "用户再将目标和任务输入给整个系统后",
+      "music": 0.0
+    },
+    {
+      "from": 157.3,
+      "to": 161.52,
+      "sid": 67,
+      "location": 2,
+      "content": "任务的列表将会将任务发送给相对应的智能体",
+      "music": 0.0
+    },
+    {
+      "from": 161.52,
+      "to": 163.08,
+      "sid": 68,
+      "location": 2,
+      "content": "智能体在执行后",
+      "music": 0.0
+    },
+    {
+      "from": 163.08,
+      "to": 169.19,
+      "sid": 69,
+      "location": 2,
+      "content": "会将相关的结果以及任务存入到存记忆当中",
+      "music": 0.0
+    },
+    {
+      "from": 169.19,
+      "to": 173.75,
+      "sid": 70,
+      "location": 2,
+      "content": "并且把相关的结果发送给另外一个智能体",
+      "music": 0.0
+    },
+    {
+      "from": 173.75,
+      "to": 177.35,
+      "sid": 71,
+      "location": 2,
+      "content": "由这个智能体在创建出新的任务",
+      "music": 0.0
+    },
+    {
+      "from": 178.43,
+      "to": 182.13,
+      "sid": 72,
+      "location": 2,
+      "content": "由此循环直到最终的完成任务",
+      "music": 0.0
+    },
+    {
+      "from": 182.59,
+      "to": 185.07,
+      "sid": 73,
+      "location": 2,
+      "content": "接下来是review review",
+      "music": 0.0
+    },
+    {
+      "from": 185.07,
+      "to": 188.7,
+      "sid": 74,
+      "location": 2,
+      "content": "将模型将用户的输入做拆分",
+      "music": 0.0
+    },
+    {
+      "from": 188.7,
+      "to": 192.69,
+      "sid": 75,
+      "location": 2,
+      "content": "将各种工具之间的依赖形成一个有向无环图",
+      "music": 0.0
+    },
+    {
+      "from": 192.69,
+      "to": 195.559,
+      "sid": 76,
+      "location": 2,
+      "content": "并且在图中进行计划执行",
+      "music": 0.0
+    },
+    {
+      "from": 195.559,
+      "to": 197.539,
+      "sid": 77,
+      "location": 2,
+      "content": "直到达到最终的结果",
+      "music": 0.0
+    },
+    {
+      "from": 197.539,
+      "to": 200.419,
+      "sid": 78,
+      "location": 2,
+      "content": "右图是来自review论文中的一张图",
+      "music": 0.0
+    },
+    {
+      "from": 200.419,
+      "to": 204.82,
+      "sid": 79,
+      "location": 2,
+      "content": "可以看到ta作为一个决策",
+      "music": 0.0
+    },
+    {
+      "from": 204.82,
+      "to": 208.899,
+      "sid": 80,
+      "location": 2,
+      "content": "它将我们的输入拆分成了多部",
+      "music": 0.0
+    },
+    {
+      "from": 208.899,
+      "to": 212.409,
+      "sid": 81,
+      "location": 2,
+      "content": "其中每一步都对应着相对应的一些任务",
+      "music": 0.0
+    },
+    {
+      "from": 212.409,
+      "to": 216.63,
+      "sid": 82,
+      "location": 2,
+      "content": "然后将其中需要执行的部分发送给worker",
+      "music": 0.0
+    },
+    {
+      "from": 216.63,
+      "to": 218.22,
+      "sid": 83,
+      "location": 2,
+      "content": "worker来进行执行",
+      "music": 0.0
+    },
+    {
+      "from": 218.22,
+      "to": 222.45,
+      "sid": 84,
+      "location": 2,
+      "content": "最终两部分的结果一并发送给server宾语",
+      "music": 0.0
+    },
+    {
+      "from": 222.45,
+      "to": 224.97,
+      "sid": 85,
+      "location": 2,
+      "content": "得到最终的结果",
+      "music": 0.0
+    },
+    {
+      "from": 225.31,
+      "to": 229.89,
+      "sid": 86,
+      "location": 2,
+      "content": "其三为react react在接收用户的输入后",
+      "music": 0.0
+    },
+    {
+      "from": 229.89,
+      "to": 232.93,
+      "sid": 87,
+      "location": 2,
+      "content": "会选择相对应的工具进行执行",
+      "music": 0.0
+    },
+    {
+      "from": 232.93,
+      "to": 235.33,
+      "sid": 88,
+      "location": 2,
+      "content": "在拿到工具的结束条件后",
+      "music": 0.0
+    },
+    {
+      "from": 235.33,
+      "to": 236.86,
+      "sid": 89,
+      "location": 2,
+      "content": "模型会进一步思考",
+      "music": 0.0
+    },
+    {
+      "from": 236.86,
+      "to": 239.9,
+      "sid": 90,
+      "location": 2,
+      "content": "他是否应该选择下一个工具并执行",
+      "music": 0.0
+    },
+    {
+      "from": 239.9,
+      "to": 244.03,
+      "sid": 91,
+      "location": 2,
+      "content": "直到达到结束条件及完成用户的输入为止",
+      "music": 0.0
+    },
+    {
+      "from": 244.03,
+      "to": 247.42,
+      "sid": 92,
+      "location": 2,
+      "content": "右图来自react论文中的一张原图",
+      "music": 0.0
+    },
+    {
+      "from": 247.42,
+      "to": 253.22,
+      "sid": 93,
+      "location": 2,
+      "content": "可以看到react也就是结合了推理与行为两部分",
+      "music": 0.0
+    },
+    {
+      "from": 253.22,
+      "to": 258.19,
+      "sid": 94,
+      "location": 2,
+      "content": "更好地实现了智能体他的一个思维模式",
+      "music": 0.0
+    },
+    {
+      "from": 258.65,
+      "to": 260.71,
+      "sid": 95,
+      "location": 2,
+      "content": "接下来我们来讲今天的重点",
+      "music": 0.0
+    },
+    {
+      "from": 260.71,
+      "to": 262.72,
+      "sid": 96,
+      "location": 2,
+      "content": "legend和agent level",
+      "music": 0.0
+    },
+    {
+      "from": 262.72,
+      "to": 265.78,
+      "sid": 97,
+      "location": 2,
+      "content": "首先我们来讲legend",
+      "music": 0.0
+    },
+    {
+      "from": 266.18,
+      "to": 269.56,
+      "sid": 98,
+      "location": 2,
+      "content": "legend作为一个轻量级的开源智能体框架",
+      "music": 0.0
+    },
+    {
+      "from": 269.56,
+      "to": 272.08,
+      "sid": 99,
+      "location": 2,
+      "content": "旨在让用户可以高效的构建",
+      "music": 0.0
+    },
+    {
+      "from": 272.08,
+      "to": 273.87,
+      "sid": 100,
+      "location": 2,
+      "content": "基于大元模型的智能体",
+      "music": 0.0
+    },
+    {
+      "from": 273.87,
+      "to": 276.06,
+      "sid": 101,
+      "location": 2,
+      "content": "其支持多种智能体范式",
+      "music": 0.0
+    },
+    {
+      "from": 276.06,
+      "to": 278.78,
+      "sid": 102,
+      "location": 2,
+      "content": "如auto GPT reward react的",
+      "music": 0.0
+    },
+    {
+      "from": 278.78,
+      "to": 280.4,
+      "sid": 103,
+      "location": 2,
+      "content": "其支持多种工具",
+      "music": 0.0
+    },
+    {
+      "from": 280.4,
+      "to": 282.8,
+      "sid": 104,
+      "location": 2,
+      "content": "比如谷歌搜索Python解释器的",
+      "music": 0.0
+    },
+    {
+      "from": 282.8,
+      "to": 286.07,
+      "sid": 105,
+      "location": 2,
+      "content": "右图是legend的一个基本流程",
+      "music": 0.0
+    },
+    {
+      "from": 286.07,
+      "to": 292.04,
+      "sid": 106,
+      "location": 2,
+      "content": "可以看到它可以它其中的大圆模型模块",
+      "music": 0.0
+    },
+    {
+      "from": 292.04,
+      "to": 293.78,
+      "sid": 107,
+      "location": 2,
+      "content": "可以接受来自人类的反馈",
+      "music": 0.0
+    },
+    {
+      "from": 293.78,
+      "to": 296.54,
+      "sid": 108,
+      "location": 2,
+      "content": "人类指令以及外部观察等",
+      "music": 0.0
+    },
+    {
+      "from": 296.54,
+      "to": 303.71,
+      "sid": 109,
+      "location": 2,
+      "content": "会在相对应的做出规划和行动后交付到action",
+      "music": 0.0
+    },
+    {
+      "from": 303.71,
+      "to": 306.11,
+      "sid": 110,
+      "location": 2,
+      "content": "也就是动作执行器当中",
+      "music": 0.0
+    },
+    {
+      "from": 306.11,
+      "to": 308.69,
+      "sid": 111,
+      "location": 2,
+      "content": "而动作执行器包括各种动作",
+      "music": 0.0
+    },
+    {
+      "from": 308.69,
+      "to": 311.73,
+      "sid": 112,
+      "location": 2,
+      "content": "比方说Python的一个解释器",
+      "music": 0.0
+    },
+    {
+      "from": 311.73,
+      "to": 314.01,
+      "sid": 113,
+      "location": 2,
+      "content": "搜索等等",
+      "music": 0.0
+    },
+    {
+      "from": 315.36,
+      "to": 318.32,
+      "sid": 114,
+      "location": 2,
+      "content": "接下来我们介绍agent lego",
+      "music": 0.0
+    },
+    {
+      "from": 318.32,
+      "to": 320.6,
+      "sid": 115,
+      "location": 2,
+      "content": "LEGO是一个多模态工具包",
+      "music": 0.0
+    },
+    {
+      "from": 320.6,
+      "to": 322.67,
+      "sid": 116,
+      "location": 2,
+      "content": "指的像乐高积木那样",
+      "music": 0.0
+    },
+    {
+      "from": 322.67,
+      "to": 325.25,
+      "sid": 117,
+      "location": 2,
+      "content": "可以快速简便的拓展自定义工具",
+      "music": 0.0
+    },
+    {
+      "from": 325.25,
+      "to": 327.52,
+      "sid": 118,
+      "location": 2,
+      "content": "从而组装出自己的智能体",
+      "music": 0.0
+    },
+    {
+      "from": 327.52,
+      "to": 329.41,
+      "sid": 119,
+      "location": 2,
+      "content": "且支持多个智能体框架",
+      "music": 0.0
+    },
+    {
+      "from": 329.41,
+      "to": 331.24,
+      "sid": 120,
+      "location": 2,
+      "content": "如legend on train",
+      "music": 0.0
+    },
+    {
+      "from": 331.24,
+      "to": 332.83,
+      "sid": 121,
+      "location": 2,
+      "content": "transformers agents早",
+      "music": 0.0
+    },
+    {
+      "from": 332.83,
+      "to": 336.52,
+      "sid": 122,
+      "location": 2,
+      "content": "它提供了大量视觉多模态领域的前沿算法",
+      "music": 0.0
+    },
+    {
+      "from": 336.52,
+      "to": 339.649,
+      "sid": 123,
+      "location": 2,
+      "content": "下图是agent lego的一张宣传图",
+      "music": 0.0
+    },
+    {
+      "from": 339.649,
+      "to": 342.079,
+      "sid": 124,
+      "location": 2,
+      "content": "可以看到其集成了来自hugging",
+      "music": 0.0
+    },
+    {
+      "from": 342.079,
+      "to": 342.379,
+      "sid": 125,
+      "location": 2,
+      "content": "Face",
+      "music": 0.0
+    },
+    {
+      "from": 342.379,
+      "to": 346.69,
+      "sid": 126,
+      "location": 2,
+      "content": "open im lab sam等多种多样的比方目标检测",
+      "music": 0.0
+    },
+    {
+      "from": 346.69,
+      "to": 348.71,
+      "sid": 127,
+      "location": 2,
+      "content": "图像分割等多种工具",
+      "music": 0.0
+    },
+    {
+      "from": 348.71,
+      "to": 351.38,
+      "sid": 128,
+      "location": 2,
+      "content": "其提供了可拓展的工具接口",
+      "music": 0.0
+    },
+    {
+      "from": 351.38,
+      "to": 353.6,
+      "sid": 129,
+      "location": 2,
+      "content": "灵活的适配方法",
+      "music": 0.0
+    },
+    {
+      "from": 353.6,
+      "to": 355.01,
+      "sid": 130,
+      "location": 2,
+      "content": "工具检索以及部署",
+      "music": 0.0
+    },
+    {
+      "from": 355.01,
+      "to": 357.28,
+      "sid": 131,
+      "location": 2,
+      "content": "以及各种各样的智能体案例",
+      "music": 0.0
+    },
+    {
+      "from": 357.28,
+      "to": 359.74,
+      "sid": 132,
+      "location": 2,
+      "content": "同时其可以方便地接入到launching",
+      "music": 0.0
+    },
+    {
+      "from": 359.74,
+      "to": 362.26,
+      "sid": 133,
+      "location": 2,
+      "content": "legend和transformers agents",
+      "music": 0.0
+    },
+    {
+      "from": 362.26,
+      "to": 366.64,
+      "sid": 134,
+      "location": 2,
+      "content": "接下来我们介绍legend和agent level之间的关系",
+      "music": 0.0
+    },
+    {
+      "from": 366.64,
+      "to": 370.33,
+      "sid": 135,
+      "location": 2,
+      "content": "用户在将输入输入给大元模型时",
+      "music": 0.0
+    },
+    {
+      "from": 370.33,
+      "to": 373.24,
+      "sid": 136,
+      "location": 2,
+      "content": "大圆模型会根据自身进行判断",
+      "music": 0.0
+    },
+    {
+      "from": 373.24,
+      "to": 374.98,
+      "sid": 137,
+      "location": 2,
+      "content": "其是否需要调动工具",
+      "music": 0.0
+    },
+    {
+      "from": 374.98,
+      "to": 376.6,
+      "sid": 138,
+      "location": 2,
+      "content": "如果不需要调用工具",
+      "music": 0.0
+    },
+    {
+      "from": 376.6,
+      "to": 378.61,
+      "sid": 139,
+      "location": 2,
+      "content": "则直接进行输出",
+      "music": 0.0
+    },
+    {
+      "from": 378.61,
+      "to": 380.08,
+      "sid": 140,
+      "location": 2,
+      "content": "如果需要调用工具",
+      "music": 0.0
+    },
+    {
+      "from": 380.08,
+      "to": 383.159,
+      "sid": 141,
+      "location": 2,
+      "content": "那么就会进入legend的相应逻辑当中",
+      "music": 0.0
+    },
+    {
+      "from": 383.159,
+      "to": 385.439,
+      "sid": 142,
+      "location": 2,
+      "content": "它首先会调用到工具",
+      "music": 0.0
+    },
+    {
+      "from": 385.439,
+      "to": 390.149,
+      "sid": 143,
+      "location": 2,
+      "content": "而工具会选择去找到工具的那些功能支持",
+      "music": 0.0
+    },
+    {
+      "from": 390.149,
+      "to": 395.05,
+      "sid": 144,
+      "location": 2,
+      "content": "而一部分的多模态的相关工具的功能支持",
+      "music": 0.0
+    },
+    {
+      "from": 395.05,
+      "to": 400.19,
+      "sid": 145,
+      "location": 2,
+      "content": "就在agent lab算法库中有相应的实现",
+      "music": 0.0
+    },
+    {
+      "from": 400.19,
+      "to": 402.44,
+      "sid": 146,
+      "location": 2,
+      "content": "在得到工具的输出后",
+      "music": 0.0
+    },
+    {
+      "from": 402.44,
+      "to": 407.15,
+      "sid": 147,
+      "location": 2,
+      "content": "模型在经过后处理就变成了智能体的输出",
+      "music": 0.0
+    },
+    {
+      "from": 408.08,
+      "to": 410.9,
+      "sid": 148,
+      "location": 2,
+      "content": "接下来我们进入第一部分实战",
+      "music": 0.0
+    },
+    {
+      "from": 410.9,
+      "to": 413.33,
+      "sid": 149,
+      "location": 2,
+      "content": "legend轻量级智能体框架",
+      "music": 0.0
+    },
+    {
+      "from": 413.33,
+      "to": 416.12,
+      "sid": 150,
+      "location": 2,
+      "content": "下图是两张legend web demo",
+      "music": 0.0
+    },
+    {
+      "from": 416.12,
+      "to": 421.33,
+      "sid": 151,
+      "location": 2,
+      "content": "也就是我们即将在实战中将可以看到的效果",
+      "music": 0.0
+    },
+    {
+      "from": 422.09,
+      "to": 425.62,
+      "sid": 152,
+      "location": 2,
+      "content": "首先我们在GITHUB上打开interim tutorial",
+      "music": 0.0
+    },
+    {
+      "from": 425.62,
+      "to": 428.23,
+      "sid": 153,
+      "location": 2,
+      "content": "并且切换到capital分支",
+      "music": 0.0
+    },
+    {
+      "from": 428.23,
+      "to": 431.17,
+      "sid": 154,
+      "location": 2,
+      "content": "然后进入agent文件夹",
+      "music": 0.0
+    },
+    {
+      "from": 431.17,
+      "to": 434.68,
+      "sid": 155,
+      "location": 2,
+      "content": "开始按照1.4G环境配置部分进行",
+      "music": 0.0
+    },
+    {
+      "from": 434.68,
+      "to": 436.21,
+      "sid": 156,
+      "location": 2,
+      "content": "环境配置过程",
+      "music": 0.0
+    },
+    {
+      "from": 436.21,
+      "to": 438.9,
+      "sid": 157,
+      "location": 2,
+      "content": "我们首先创建开发机",
+      "music": 0.0
+    },
+    {
+      "from": 439.42,
+      "to": 442.08,
+      "sid": 158,
+      "location": 2,
+      "content": "输入一个开发机的名称",
+      "music": 0.0
+    },
+    {
+      "from": 442.08,
+      "to": 445.44,
+      "sid": 159,
+      "location": 2,
+      "content": "选择镜像为coda12.2KA",
+      "music": 0.0
+    },
+    {
+      "from": 445.44,
+      "to": 448.65,
+      "sid": 160,
+      "location": 2,
+      "content": "并且选择GPU为30%",
+      "music": 0.0
+    },
+    {
+      "from": 449.689,
+      "to": 452.56,
+      "sid": 161,
+      "location": 2,
+      "content": "进行创建开发机",
+      "music": 0.0
+    },
+    {
+      "from": 461.34,
+      "to": 463.7,
+      "sid": 162,
+      "location": 2,
+      "content": "在等待开发机创建完成后",
+      "music": 0.0
+    },
+    {
+      "from": 463.7,
+      "to": 468.56,
+      "sid": 163,
+      "location": 2,
+      "content": "我们进入开发机并切换到terminal界面",
+      "music": 0.0
+    },
+    {
+      "from": 472.2,
+      "to": 473.18,
+      "sid": 164,
+      "location": 2,
+      "content": "为了方便使用",
+      "music": 0.0
+    },
+    {
+      "from": 473.18,
+      "to": 474.62,
+      "sid": 165,
+      "location": 2,
+      "content": "我们需要配置一个环境",
+      "music": 0.0
+    },
+    {
+      "from": 474.62,
+      "to": 478.0,
+      "sid": 166,
+      "location": 2,
+      "content": "同时满足legend和agent level的运行时所需依赖",
+      "music": 0.0
+    },
+    {
+      "from": 478.0,
+      "to": 479.26,
+      "sid": 167,
+      "location": 2,
+      "content": "在配置环境前",
+      "music": 0.0
+    },
+    {
+      "from": 479.26,
+      "to": 482.5,
+      "sid": 168,
+      "location": 2,
+      "content": "我们首先创建一个存放agent相关文件的目录",
+      "music": 0.0
+    },
+    {
+      "from": 482.5,
+      "to": 484.57,
+      "sid": 169,
+      "location": 2,
+      "content": "可以执行这样的一条命令",
+      "music": 0.0
+    },
+    {
+      "from": 484.57,
+      "to": 487.09,
+      "sid": 170,
+      "location": 2,
+      "content": "接下来我们开始配置康达环境",
+      "music": 0.0
+    },
+    {
+      "from": 487.09,
+      "to": 489.159,
+      "sid": 171,
+      "location": 2,
+      "content": "可以输入如下指令",
+      "music": 0.0
+    },
+    {
+      "from": 489.159,
+      "to": 494.769,
+      "sid": 172,
+      "location": 2,
+      "content": "由于创建agent环境的时间较长",
+      "music": 0.0
+    },
+    {
+      "from": 494.769,
+      "to": 497.94,
+      "sid": 173,
+      "location": 2,
+      "content": "所以我们这里加速跳过",
+      "music": 0.0
+    },
+    {
+      "from": 498.76,
+      "to": 500.76,
+      "sid": 174,
+      "location": 2,
+      "content": "经过一段时间的等待以后",
+      "music": 0.0
+    },
+    {
+      "from": 500.76,
+      "to": 501.99,
+      "sid": 175,
+      "location": 2,
+      "content": "我们会发现",
+      "music": 0.0
+    },
+    {
+      "from": 501.99,
+      "to": 505.38,
+      "sid": 176,
+      "location": 2,
+      "content": "terminal中已经提示康纳环境A着它安装成功",
+      "music": 0.0
+    },
+    {
+      "from": 505.38,
+      "to": 507.25,
+      "sid": 177,
+      "location": 2,
+      "content": "以及出现了all in的字样",
+      "music": 0.0
+    },
+    {
+      "from": 507.25,
+      "to": 511.06,
+      "sid": 178,
+      "location": 2,
+      "content": "这样就表示我们的初始化环境已经安装成功了",
+      "music": 0.0
+    },
+    {
+      "from": 511.06,
+      "to": 514.88,
+      "sid": 179,
+      "location": 2,
+      "content": "接下来我们安装legend和agent lego",
+      "music": 0.0
+    },
+    {
+      "from": 514.88,
+      "to": 517.82,
+      "sid": 180,
+      "location": 2,
+      "content": "这两个算法库都提供了两种安装方式",
+      "music": 0.0
+    },
+    {
+      "from": 517.82,
+      "to": 519.8,
+      "sid": 181,
+      "location": 2,
+      "content": "一是通过pip直接进行安装",
+      "music": 0.0
+    },
+    {
+      "from": 519.8,
+      "to": 521.96,
+      "sid": 182,
+      "location": 2,
+      "content": "另一种则是从源码进行安装",
+      "music": 0.0
+    },
+    {
+      "from": 521.96,
+      "to": 524.12,
+      "sid": 183,
+      "location": 2,
+      "content": "为了方便使用他们的web demo",
+      "music": 0.0
+    },
+    {
+      "from": 524.12,
+      "to": 526.4,
+      "sid": 184,
+      "location": 2,
+      "content": "我们选择从源码进行安装",
+      "music": 0.0
+    },
+    {
+      "from": 526.4,
+      "to": 529.94,
+      "sid": 185,
+      "location": 2,
+      "content": "我们可以执行如下命令",
+      "music": 0.0
+    },
+    {
+      "from": 644.3,
+      "to": 647.56,
+      "sid": 186,
+      "location": 2,
+      "content": "在安装好legend和agent lego后",
+      "music": 0.0
+    },
+    {
+      "from": 647.56,
+      "to": 649.42,
+      "sid": 187,
+      "location": 2,
+      "content": "我们开始安装其他依赖",
+      "music": 0.0
+    },
+    {
+      "from": 649.42,
+      "to": 654.58,
+      "sid": 188,
+      "location": 2,
+      "content": "比如我们即将会用到的im deploy",
+      "music": 0.0
+    },
+    {
+      "from": 710.36,
+      "to": 714.04,
+      "sid": 189,
+      "location": 2,
+      "content": "此外由于后续的demo还需要用到tutorial",
+      "music": 0.0
+    },
+    {
+      "from": 714.04,
+      "to": 715.3,
+      "sid": 190,
+      "location": 2,
+      "content": "已经写好脚本",
+      "music": 0.0
+    },
+    {
+      "from": 715.3,
+      "to": 718.48,
+      "sid": 191,
+      "location": 2,
+      "content": "因此我们需要将tutorial通过get方法",
+      "music": 0.0
+    },
+    {
+      "from": 718.48,
+      "to": 719.98,
+      "sid": 192,
+      "location": 2,
+      "content": "准备到开发机上",
+      "music": 0.0
+    },
+    {
+      "from": 719.98,
+      "to": 722.56,
+      "sid": 193,
+      "location": 2,
+      "content": "以备后续使用",
+      "music": 0.0
+    },
+    {
+      "from": 732.08,
+      "to": 735.28,
+      "sid": 194,
+      "location": 2,
+      "content": "接下来我们进入第一部分",
+      "music": 0.0
+    },
+    {
+      "from": 735.28,
+      "to": 740.43,
+      "sid": 195,
+      "location": 2,
+      "content": "legend轻量级智能体框架的实战部分",
+      "music": 0.0
+    },
+    {
+      "from": 744.48,
+      "to": 747.56,
+      "sid": 196,
+      "location": 2,
+      "content": "接下来我们进入legend web demo的部分",
+      "music": 0.0
+    },
+    {
+      "from": 747.56,
+      "to": 751.95,
+      "sid": 197,
+      "location": 2,
+      "content": "由于legend web demo需要用到所启动的API server",
+      "music": 0.0
+    },
+    {
+      "from": 751.95,
+      "to": 754.11,
+      "sid": 198,
+      "location": 2,
+      "content": "因此我们首先按照下图指示",
+      "music": 0.0
+    },
+    {
+      "from": 754.11,
+      "to": 756.96,
+      "sid": 199,
+      "location": 2,
+      "content": "在vs code terminal中执行如下代码",
+      "music": 0.0
+    },
+    {
+      "from": 756.96,
+      "to": 759.72,
+      "sid": 200,
+      "location": 2,
+      "content": "使用m deploy启动一个API server",
+      "music": 0.0
+    },
+    {
+      "from": 759.72,
+      "to": 761.34,
+      "sid": 201,
+      "location": 2,
+      "content": "我们复制这段代码",
+      "music": 0.0
+    },
+    {
+      "from": 761.34,
+      "to": 764.06,
+      "sid": 202,
+      "location": 2,
+      "content": "然后切换到code server",
+      "music": 0.0
+    },
+    {
+      "from": 764.4,
+      "to": 767.6,
+      "sid": 203,
+      "location": 2,
+      "content": "打开一个terminal界面",
+      "music": 0.0
+    },
+    {
+      "from": 768.77,
+      "to": 772.25,
+      "sid": 204,
+      "location": 2,
+      "content": "然后粘贴并执行这段代码",
+      "music": 0.0
+    },
+    {
+      "from": 772.65,
+      "to": 774.71,
+      "sid": 205,
+      "location": 2,
+      "content": "接下来我们按照下图指示",
+      "music": 0.0
+    },
+    {
+      "from": 774.71,
+      "to": 775.79,
+      "sid": 206,
+      "location": 2,
+      "content": "新建一个terminal",
+      "music": 0.0
+    },
+    {
+      "from": 775.79,
+      "to": 777.8,
+      "sid": 207,
+      "location": 2,
+      "content": "已启动legend web demo",
+      "music": 0.0
+    },
+    {
+      "from": 777.8,
+      "to": 780.2,
+      "sid": 208,
+      "location": 2,
+      "content": "我们首先点击这个加号",
+      "music": 0.0
+    },
+    {
+      "from": 780.2,
+      "to": 781.52,
+      "sid": 209,
+      "location": 2,
+      "content": "新建一个terminal",
+      "music": 0.0
+    },
+    {
+      "from": 781.52,
+      "to": 785.48,
+      "sid": 210,
+      "location": 2,
+      "content": "在新建的terminal中执行如下指令",
+      "music": 0.0
+    },
+    {
+      "from": 791.84,
+      "to": 797.03,
+      "sid": 211,
+      "location": 2,
+      "content": "在等待lpapi server与legend web demo完全启动后",
+      "music": 0.0
+    },
+    {
+      "from": 797.03,
+      "to": 799.1,
+      "sid": 212,
+      "location": 2,
+      "content": "在本地进行端口映射",
+      "music": 0.0
+    },
+    {
+      "from": 799.1,
+      "to": 802.67,
+      "sid": 213,
+      "location": 2,
+      "content": "将l pla API series的23333端口",
+      "music": 0.0
+    },
+    {
+      "from": 802.67,
+      "to": 807.42,
+      "sid": 214,
+      "location": 2,
+      "content": "以及legend web demo的7860端口映射到本地",
+      "music": 0.0
+    },
+    {
+      "from": 807.42,
+      "to": 809.78,
+      "sid": 215,
+      "location": 2,
+      "content": "可以执行这样的也行",
+      "music": 0.0
+    },
+    {
+      "from": 809.78,
+      "to": 811.34,
+      "sid": 216,
+      "location": 2,
+      "content": "首先我们先来看",
+      "music": 0.0
+    },
+    {
+      "from": 811.34,
+      "to": 814.45,
+      "sid": 217,
+      "location": 2,
+      "content": "legend web demo已经是完全启动好了",
+      "music": 0.0
+    },
+    {
+      "from": 814.45,
+      "to": 817.51,
+      "sid": 218,
+      "location": 2,
+      "content": "而m deploy API server还差一点点",
+      "music": 0.0
+    },
+    {
+      "from": 817.51,
+      "to": 819.85,
+      "sid": 219,
+      "location": 2,
+      "content": "所以我们稍等一下",
+      "music": 0.0
+    },
+    {
+      "from": 822.84,
+      "to": 827.27,
+      "sid": 220,
+      "location": 2,
+      "content": "可以看到lm deploy API server也已经完全启动好了",
+      "music": 0.0
+    },
+    {
+      "from": 827.27,
+      "to": 831.15,
+      "sid": 221,
+      "location": 2,
+      "content": "接下来我们按下win r调出power shell",
+      "music": 0.0
+    },
+    {
+      "from": 831.15,
+      "to": 834.57,
+      "sid": 222,
+      "location": 2,
+      "content": "将端口映射的代码粘贴到POWERSHELL中",
+      "music": 0.0
+    },
+    {
+      "from": 834.57,
+      "to": 836.82,
+      "sid": 223,
+      "location": 2,
+      "content": "我们回到创建开发机界面",
+      "music": 0.0
+    },
+    {
+      "from": 836.82,
+      "to": 839.17,
+      "sid": 224,
+      "location": 2,
+      "content": "点击SSH连接",
+      "music": 0.0
+    },
+    {
+      "from": 839.17,
+      "to": 842.23,
+      "sid": 225,
+      "location": 2,
+      "content": "可以看到我这台开发机的SSH",
+      "music": 0.0
+    },
+    {
+      "from": 842.23,
+      "to": 843.91,
+      "sid": 226,
+      "location": 2,
+      "content": "端口号是43352",
+      "music": 0.0
+    },
+    {
+      "from": 843.91,
+      "to": 849.79,
+      "sid": 227,
+      "location": 2,
+      "content": "因此我们将这里的端口号设置为43352",
+      "music": 0.0
+    },
+    {
+      "from": 850.8,
+      "to": 854.18,
+      "sid": 228,
+      "location": 2,
+      "content": "并且复制好密码",
+      "music": 0.0
+    },
+    {
+      "from": 854.65,
+      "to": 856.05,
+      "sid": 229,
+      "location": 2,
+      "content": "在按下执行后",
+      "music": 0.0
+    },
+    {
+      "from": 856.05,
+      "to": 858.15,
+      "sid": 230,
+      "location": 2,
+      "content": "可以看到这里要求我们输入密码",
+      "music": 0.0
+    },
+    {
+      "from": 858.15,
+      "to": 858.75,
+      "sid": 231,
+      "location": 2,
+      "content": "我们粘贴",
+      "music": 0.0
+    },
+    {
+      "from": 858.75,
+      "to": 860.4,
+      "sid": 232,
+      "location": 2,
+      "content": "刚才已经复制好密码",
+      "music": 0.0
+    },
+    {
+      "from": 860.4,
+      "to": 864.99,
+      "sid": 233,
+      "location": 2,
+      "content": "此时就已经完成了端口映射",
+      "music": 0.0
+    },
+    {
+      "from": 866.12,
+      "to": 872.03,
+      "sid": 234,
+      "location": 2,
+      "content": "接下来我们在本地的浏览器页面中打开HTTP local host",
+      "music": 0.0
+    },
+    {
+      "from": 872.49,
+      "to": 873.47,
+      "sid": 235,
+      "location": 2,
+      "content": "7860",
+      "music": 0.0
+    },
+    {
+      "from": 876.53,
+      "to": 878.65,
+      "sid": 236,
+      "location": 2,
+      "content": "已使用legend web demo",
+      "music": 0.0
+    },
+    {
+      "from": 878.65,
+      "to": 880.69,
+      "sid": 237,
+      "location": 2,
+      "content": "由于我的窗口较小",
+      "music": 0.0
+    },
+    {
+      "from": 880.69,
+      "to": 886.25,
+      "sid": 238,
+      "location": 2,
+      "content": "所以我所以模型的设置界面在左上角的三角里",
+      "music": 0.0
+    },
+    {
+      "from": 886.25,
+      "to": 890.93,
+      "sid": 239,
+      "location": 2,
+      "content": "我们首先输入模型IP为127.0.1",
+      "music": 0.0
+    },
+    {
+      "from": 890.93,
+      "to": 893.51,
+      "sid": 240,
+      "location": 2,
+      "content": "冒号23333",
+      "music": 0.0
+    },
+    {
+      "from": 894.3,
+      "to": 896.42,
+      "sid": 241,
+      "location": 2,
+      "content": "并按下回车键确认",
+      "music": 0.0
+    },
+    {
+      "from": 896.42,
+      "to": 900.23,
+      "sid": 242,
+      "location": 2,
+      "content": "并且选择插件为archive search",
+      "music": 0.0
+    },
+    {
+      "from": 900.23,
+      "to": 901.37,
+      "sid": 243,
+      "location": 2,
+      "content": "我们输入",
+      "music": 0.0
+    },
+    {
+      "from": 901.37,
+      "to": 905.16,
+      "sid": 244,
+      "location": 2,
+      "content": "请帮我搜索tel m2technical report",
+      "music": 0.0
+    },
+    {
+      "from": 905.16,
+      "to": 908.37,
+      "sid": 245,
+      "location": 2,
+      "content": "以让模型搜索书生不二的技术报告",
+      "music": 0.0
+    },
+    {
+      "from": 908.37,
+      "to": 911.28,
+      "sid": 246,
+      "location": 2,
+      "content": "效果如下图所示",
+      "music": 0.0
+    },
+    {
+      "from": 915.02,
+      "to": 918.04,
+      "sid": 247,
+      "location": 2,
+      "content": "可以看到模型正确的输出了英特L2",
+      "music": 0.0
+    },
+    {
+      "from": 918.04,
+      "to": 919.6,
+      "sid": 248,
+      "location": 2,
+      "content": "技术报告的相关信息",
+      "music": 0.0
+    },
+    {
+      "from": 919.6,
+      "to": 923.02,
+      "sid": 249,
+      "location": 2,
+      "content": "并且把摘要翻译成中文",
+      "music": 0.0
+    },
+    {
+      "from": 923.81,
+      "to": 926.47,
+      "sid": 250,
+      "location": 2,
+      "content": "尽管还输出了其他论文",
+      "music": 0.0
+    },
+    {
+      "from": 926.47,
+      "to": 927.73,
+      "sid": 251,
+      "location": 2,
+      "content": "如这里",
+      "music": 0.0
+    },
+    {
+      "from": 927.73,
+      "to": 932.319,
+      "sid": 252,
+      "location": 2,
+      "content": "但这是由IPAD搜索API的相关行为导致的",
+      "music": 0.0
+    },
+    {
+      "from": 932.319,
+      "to": 936.03,
+      "sid": 253,
+      "location": 2,
+      "content": "接下来我们使用legend自定义一个工具",
+      "music": 0.0
+    },
+    {
+      "from": 936.31,
+      "to": 939.27,
+      "sid": 254,
+      "location": 2,
+      "content": "使用legend的自定义工具主要分为以下几步",
+      "music": 0.0
+    },
+    {
+      "from": 939.27,
+      "to": 941.9,
+      "sid": 255,
+      "location": 2,
+      "content": "首先继承自备section类",
+      "music": 0.0
+    },
+    {
+      "from": 941.9,
+      "to": 944.42,
+      "sid": 256,
+      "location": 2,
+      "content": "二实现简单工具的run方法",
+      "music": 0.0
+    },
+    {
+      "from": 944.42,
+      "to": 947.23,
+      "sid": 257,
+      "location": 2,
+      "content": "或者实现工具包内每个子工具的功能",
+      "music": 0.0
+    },
+    {
+      "from": 947.23,
+      "to": 950.98,
+      "sid": 258,
+      "location": 2,
+      "content": "三简单工具的run方法可选被to API装饰",
+      "music": 0.0
+    },
+    {
+      "from": 950.98,
+      "to": 953.23,
+      "sid": 259,
+      "location": 2,
+      "content": "工具包内的每个子功能的功能",
+      "music": 0.0
+    },
+    {
+      "from": 953.23,
+      "to": 955.29,
+      "sid": 260,
+      "location": 2,
+      "content": "都需要被to API装饰",
+      "music": 0.0
+    },
+    {
+      "from": 955.29,
+      "to": 958.89,
+      "sid": 261,
+      "location": 2,
+      "content": "下面我们将实现一个调用和风天气API的工具",
+      "music": 0.0
+    },
+    {
+      "from": 958.89,
+      "to": 961.31,
+      "sid": 262,
+      "location": 2,
+      "content": "已完成实时天气查询的功能",
+      "music": 0.0
+    },
+    {
+      "from": 961.31,
+      "to": 963.95,
+      "sid": 263,
+      "location": 2,
+      "content": "我们回到开发机的terminal界面",
+      "music": 0.0
+    },
+    {
+      "from": 965.63,
+      "to": 969.72,
+      "sid": 264,
+      "location": 2,
+      "content": "首先通过touch这样的一行指令",
+      "music": 0.0
+    },
+    {
+      "from": 969.72,
+      "to": 972.47,
+      "sid": 265,
+      "location": 2,
+      "content": "来创建这样的一个文件",
+      "music": 0.0
+    },
+    {
+      "from": 973.23,
+      "to": 975.23,
+      "sid": 266,
+      "location": 2,
+      "content": "我们回到vs code界面",
+      "music": 0.0
+    },
+    {
+      "from": 976.31,
+      "to": 980.64,
+      "sid": 267,
+      "location": 2,
+      "content": "先把这两个刚才已经启动好的server关闭掉",
+      "music": 0.0
+    },
+    {
+      "from": 980.98,
+      "to": 984.72,
+      "sid": 268,
+      "location": 2,
+      "content": "然后我们找到我们刚才新建的文件",
+      "music": 0.0
+    },
+    {
+      "from": 986.98,
+      "to": 991.26,
+      "sid": 269,
+      "location": 2,
+      "content": "将这里的内容复制并粘贴进去",
+      "music": 0.0
+    },
+    {
+      "from": 994.1,
+      "to": 996.46,
+      "sid": 270,
+      "location": 2,
+      "content": "为了获得稳定的天气查询服务",
+      "music": 0.0
+    },
+    {
+      "from": 996.46,
+      "to": 998.08,
+      "sid": 271,
+      "location": 2,
+      "content": "我们首先要获取APK",
+      "music": 0.0
+    },
+    {
+      "from": 998.08,
+      "to": 1001.21,
+      "sid": 272,
+      "location": 2,
+      "content": "我们复制并粘贴",
+      "music": 0.0
+    },
+    {
+      "from": 1001.21,
+      "to": 1005.32,
+      "sid": 273,
+      "location": 2,
+      "content": "进入和风天气API的相关页面",
+      "music": 0.0
+    },
+    {
+      "from": 1005.32,
+      "to": 1008.29,
+      "sid": 274,
+      "location": 2,
+      "content": "我们点击右上角的控制台",
+      "music": 0.0
+    },
+    {
+      "from": 1011.48,
+      "to": 1014.92,
+      "sid": 275,
+      "location": 2,
+      "content": "由于我这里已经创建好了一个项目",
+      "music": 0.0
+    },
+    {
+      "from": 1014.92,
+      "to": 1017.44,
+      "sid": 276,
+      "location": 2,
+      "content": "所以我先把它删除掉",
+      "music": 0.0
+    },
+    {
+      "from": 1021.74,
+      "to": 1026.23,
+      "sid": 277,
+      "location": 2,
+      "content": "我们接下来创建一个新的项目",
+      "music": 0.0
+    },
+    {
+      "from": 1026.23,
+      "to": 1028.87,
+      "sid": 278,
+      "location": 2,
+      "content": "项目名称我们随意输入就好",
+      "music": 0.0
+    },
+    {
+      "from": 1028.87,
+      "to": 1030.76,
+      "sid": 279,
+      "location": 2,
+      "content": "然后我们选择免费订阅",
+      "music": 0.0
+    },
+    {
+      "from": 1030.76,
+      "to": 1032.26,
+      "sid": 280,
+      "location": 2,
+      "content": "选择web API",
+      "music": 0.0
+    },
+    {
+      "from": 1032.26,
+      "to": 1035.23,
+      "sid": 281,
+      "location": 2,
+      "content": "而K的名称我们也随意输入就好",
+      "music": 0.0
+    },
+    {
+      "from": 1035.23,
+      "to": 1037.54,
+      "sid": 282,
+      "location": 2,
+      "content": "点击创建",
+      "music": 0.0
+    },
+    {
+      "from": 1038.479,
+      "to": 1041.559,
+      "sid": 283,
+      "location": 2,
+      "content": "然后我们返回到项目管理页面",
+      "music": 0.0
+    },
+    {
+      "from": 1041.559,
+      "to": 1043.179,
+      "sid": 284,
+      "location": 2,
+      "content": "点击查看",
+      "music": 0.0
+    },
+    {
+      "from": 1043.179,
+      "to": 1045.53,
+      "sid": 285,
+      "location": 2,
+      "content": "就可以看到我们的key了",
+      "music": 0.0
+    },
+    {
+      "from": 1045.87,
+      "to": 1049.85,
+      "sid": 286,
+      "location": 2,
+      "content": "接下来我们回到开发机来体验我们自己实现的",
+      "music": 0.0
+    },
+    {
+      "from": 1049.85,
+      "to": 1052.58,
+      "sid": 287,
+      "location": 2,
+      "content": "天气查询API的效果",
+      "music": 0.0
+    },
+    {
+      "from": 1052.58,
+      "to": 1053.96,
+      "sid": 288,
+      "location": 2,
+      "content": "注意我们",
+      "music": 0.0
+    },
+    {
+      "from": 1053.96,
+      "to": 1057.54,
+      "sid": 289,
+      "location": 2,
+      "content": "首先这里要确保一点一节中的i n d play服务",
+      "music": 0.0
+    },
+    {
+      "from": 1057.54,
+      "to": 1060.18,
+      "sid": 290,
+      "location": 2,
+      "content": "以及1.2节中的web demo服务已经停止",
+      "music": 0.0
+    },
+    {
+      "from": 1060.18,
+      "to": 1064.48,
+      "sid": 291,
+      "location": 2,
+      "content": "否则会出现扩大memory或者端口已占用的情况",
+      "music": 0.0
+    },
+    {
+      "from": 1064.94,
+      "to": 1066.58,
+      "sid": 292,
+      "location": 2,
+      "content": "我们首先在第一",
+      "music": 0.0
+    },
+    {
+      "from": 1066.58,
+      "to": 1070.82,
+      "sid": 293,
+      "location": 2,
+      "content": "我们首先在第一个terminal中",
+      "music": 0.0
+    },
+    {
+      "from": 1071.74,
+      "to": 1078.25,
+      "sid": 294,
+      "location": 2,
+      "content": "粘贴并复制并粘贴m depp server的相关指令",
+      "music": 0.0
+    },
+    {
+      "from": 1078.59,
+      "to": 1082.86,
+      "sid": 295,
+      "location": 2,
+      "content": "然后新建一个terminal",
+      "music": 0.0
+    },
+    {
+      "from": 1084.36,
+      "to": 1092.239,
+      "sid": 296,
+      "location": 2,
+      "content": "输入export weather apk等于",
+      "music": 0.0
+    },
+    {
+      "from": 1092.239,
+      "to": 1095.239,
+      "sid": 297,
+      "location": 2,
+      "content": "然后我们回到API控制台",
+      "music": 0.0
+    },
+    {
+      "from": 1095.239,
+      "to": 1100.53,
+      "sid": 298,
+      "location": 2,
+      "content": "复制这一段K并进行粘贴",
+      "music": 0.0
+    },
+    {
+      "from": 1100.53,
+      "to": 1102.48,
+      "sid": 299,
+      "location": 2,
+      "content": "按下回车键确认",
+      "music": 0.0
+    },
+    {
+      "from": 1102.48,
+      "to": 1105.9,
+      "sid": 300,
+      "location": 2,
+      "content": "接下来我们将这三行代码复制",
+      "music": 0.0
+    },
+    {
+      "from": 1105.9,
+      "to": 1109.615,
+      "sid": 301,
+      "location": 2,
+      "content": "并在同一个terminal中进行执行",
+      "music": 0.0
+    },
+    {
+      "from": 1114.4,
+      "to": 1117.18,
+      "sid": 302,
+      "location": 2,
+      "content": "并且在本地进行如下操作",
+      "music": 0.0
+    },
+    {
+      "from": 1117.18,
+      "to": 1118.63,
+      "sid": 303,
+      "location": 2,
+      "content": "已进行端口映射",
+      "music": 0.0
+    },
+    {
+      "from": 1118.63,
+      "to": 1121.15,
+      "sid": 304,
+      "location": 2,
+      "content": "由于我们刚才已经进行了端口映射",
+      "music": 0.0
+    },
+    {
+      "from": 1121.15,
+      "to": 1125.2,
+      "sid": 305,
+      "location": 2,
+      "content": "所以此处就不再重复进行了",
+      "music": 0.0
+    },
+    {
+      "from": 1125.5,
+      "to": 1129.1,
+      "sid": 306,
+      "location": 2,
+      "content": "在等待",
+      "music": 0.0
+    },
+    {
+      "from": 1132.56,
+      "to": 1137.62,
+      "sid": 307,
+      "location": 2,
+      "content": "l deploy API server和legend web demo都完全启动后",
+      "music": 0.0
+    },
+    {
+      "from": 1137.62,
+      "to": 1140.81,
+      "sid": 308,
+      "location": 2,
+      "content": "我们重新进入",
+      "music": 0.0
+    },
+    {
+      "from": 1142.54,
+      "to": 1145.44,
+      "sid": 309,
+      "location": 2,
+      "content": "Local host7860",
+      "music": 0.0
+    },
+    {
+      "from": 1153.94,
+      "to": 1156.78,
+      "sid": 310,
+      "location": 2,
+      "content": "同样的我们还是先输入模型",
+      "music": 0.0
+    },
+    {
+      "from": 1156.78,
+      "to": 1159.15,
+      "sid": 311,
+      "location": 2,
+      "content": "IP为127.0.1",
+      "music": 0.0
+    },
+    {
+      "from": 1159.15,
+      "to": 1161.84,
+      "sid": 312,
+      "location": 2,
+      "content": "冒号23333",
+      "music": 0.0
+    },
+    {
+      "from": 1161.84,
+      "to": 1164.72,
+      "sid": 313,
+      "location": 2,
+      "content": "并且按下回车键确认",
+      "music": 0.0
+    },
+    {
+      "from": 1179.26,
+      "to": 1182.64,
+      "sid": 314,
+      "location": 2,
+      "content": "并且选择插件为weather query",
+      "music": 0.0
+    },
+    {
+      "from": 1182.64,
+      "to": 1189.7,
+      "sid": 315,
+      "location": 2,
+      "content": "我们让他查询一下上海现在的天气",
+      "music": 0.0
+    },
+    {
+      "from": 1199.06,
+      "to": 1204.18,
+      "sid": 316,
+      "location": 2,
+      "content": "可以看到模型正确的输出了上海的天气嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1204.46,
+      "to": 1209.19,
+      "sid": 317,
+      "location": 2,
+      "content": "而legend实操部分就到这里结束了",
+      "music": 0.0
+    },
+    {
+      "from": 1209.89,
+      "to": 1212.07,
+      "sid": 318,
+      "location": 2,
+      "content": "接下来我们进入实战二",
+      "music": 0.0
+    },
+    {
+      "from": 1212.07,
+      "to": 1214.81,
+      "sid": 319,
+      "location": 2,
+      "content": "agent level组装智能体育乐高",
+      "music": 0.0
+    },
+    {
+      "from": 1214.81,
+      "to": 1220.6,
+      "sid": 320,
+      "location": 2,
+      "content": "下图是两个使用agent lego web ui时所得到的demo图片",
+      "music": 0.0
+    },
+    {
+      "from": 1220.6,
+      "to": 1225.76,
+      "sid": 321,
+      "location": 2,
+      "content": "也就是我们即将在实战中所达到的效果",
+      "music": 0.0
+    },
+    {
+      "from": 1227.1,
+      "to": 1229.28,
+      "sid": 322,
+      "location": 2,
+      "content": "在完成legend的实战后",
+      "music": 0.0
+    },
+    {
+      "from": 1229.28,
+      "to": 1232.8,
+      "sid": 323,
+      "location": 2,
+      "content": "我们进入agent lego的实战部分",
+      "music": 0.0
+    },
+    {
+      "from": 1232.8,
+      "to": 1236.63,
+      "sid": 324,
+      "location": 2,
+      "content": "点击这里来进入agent lego的说明文档",
+      "music": 0.0
+    },
+    {
+      "from": 1236.63,
+      "to": 1239.75,
+      "sid": 325,
+      "location": 2,
+      "content": "在介绍中我们提到过agent level算法库",
+      "music": 0.0
+    },
+    {
+      "from": 1239.75,
+      "to": 1240.77,
+      "sid": 326,
+      "location": 2,
+      "content": "既可以直接使用",
+      "music": 0.0
+    },
+    {
+      "from": 1240.77,
+      "to": 1242.86,
+      "sid": 327,
+      "location": 2,
+      "content": "也可以作为智能体工具使用",
+      "music": 0.0
+    },
+    {
+      "from": 1242.86,
+      "to": 1245.5,
+      "sid": 328,
+      "location": 2,
+      "content": "下面将分别介绍这两种使用方式",
+      "music": 0.0
+    },
+    {
+      "from": 1245.5,
+      "to": 1248.3,
+      "sid": 329,
+      "location": 2,
+      "content": "我们将以目标检测工具为例",
+      "music": 0.0
+    },
+    {
+      "from": 1248.3,
+      "to": 1252.5,
+      "sid": 330,
+      "location": 2,
+      "content": "首先我们下载demo文件",
+      "music": 0.0
+    },
+    {
+      "from": 1253.76,
+      "to": 1255.7,
+      "sid": 331,
+      "location": 2,
+      "content": "由于agent level在安装时",
+      "music": 0.0
+    },
+    {
+      "from": 1255.7,
+      "to": 1257.92,
+      "sid": 332,
+      "location": 2,
+      "content": "并不会安装某个特定工具的依赖",
+      "music": 0.0
+    },
+    {
+      "from": 1257.92,
+      "to": 1261.64,
+      "sid": 333,
+      "location": 2,
+      "content": "因此接下来我们准备安装目标检测工具时",
+      "music": 0.0
+    },
+    {
+      "from": 1261.64,
+      "to": 1263.9,
+      "sid": 334,
+      "location": 2,
+      "content": "所需依赖agent lego",
+      "music": 0.0
+    },
+    {
+      "from": 1263.9,
+      "to": 1265.28,
+      "sid": 335,
+      "location": 2,
+      "content": "所实现的目标检测工具",
+      "music": 0.0
+    },
+    {
+      "from": 1265.28,
+      "to": 1269.16,
+      "sid": 336,
+      "location": 2,
+      "content": "是基于mm dt算法库中的RT m d large模型",
+      "music": 0.0
+    },
+    {
+      "from": 1269.16,
+      "to": 1271.2,
+      "sid": 337,
+      "location": 2,
+      "content": "因此我们首先安装min",
+      "music": 0.0
+    },
+    {
+      "from": 1271.2,
+      "to": 1273.7,
+      "sid": 338,
+      "location": 2,
+      "content": "然后通过main工具来安装MD",
+      "music": 0.0
+    },
+    {
+      "from": 1273.7,
+      "to": 1276.01,
+      "sid": 339,
+      "location": 2,
+      "content": "这一步所需时间可能会较长",
+      "music": 0.0
+    },
+    {
+      "from": 1276.01,
+      "to": 1278.56,
+      "sid": 340,
+      "location": 2,
+      "content": "请耐心等待",
+      "music": 0.0
+    },
+    {
+      "from": 1332.72,
+      "to": 1334.12,
+      "sid": 341,
+      "location": 2,
+      "content": "在安装过程中",
+      "music": 0.0
+    },
+    {
+      "from": 1334.12,
+      "to": 1338.41,
+      "sid": 342,
+      "location": 2,
+      "content": "我们可能会观察到这样子的一部分error",
+      "music": 0.0
+    },
+    {
+      "from": 1338.41,
+      "to": 1339.25,
+      "sid": 343,
+      "location": 2,
+      "content": "但是请放心",
+      "music": 0.0
+    },
+    {
+      "from": 1339.25,
+      "to": 1340.36,
+      "sid": 344,
+      "location": 2,
+      "content": "这是正常现象",
+      "music": 0.0
+    },
+    {
+      "from": 1340.36,
+      "to": 1344.264,
+      "sid": 345,
+      "location": 2,
+      "content": "但这并不会影响到我们的正常使用",
+      "music": 0.0
+    },
+    {
+      "from": 1424.44,
+      "to": 1428.48,
+      "sid": 346,
+      "location": 2,
+      "content": "然后我们通过touch的方法来创建一个",
+      "music": 0.0
+    },
+    {
+      "from": 1428.48,
+      "to": 1429.98,
+      "sid": 347,
+      "location": 2,
+      "content": "直接使用的脚本",
+      "music": 0.0
+    },
+    {
+      "from": 1431.18,
+      "to": 1433.389,
+      "sid": 348,
+      "location": 2,
+      "content": "我们回到vs code server",
+      "music": 0.0
+    },
+    {
+      "from": 1433.999,
+      "to": 1435.879,
+      "sid": 349,
+      "location": 2,
+      "content": "我们找到这个文件",
+      "music": 0.0
+    },
+    {
+      "from": 1437.619,
+      "to": 1439.79,
+      "sid": 350,
+      "location": 2,
+      "content": "将内容填入",
+      "music": 0.0
+    },
+    {
+      "from": 1439.79,
+      "to": 1442.07,
+      "sid": 351,
+      "location": 2,
+      "content": "此时我们可以注意到",
+      "music": 0.0
+    },
+    {
+      "from": 1442.07,
+      "to": 1445.61,
+      "sid": 352,
+      "location": 2,
+      "content": "我们的文件数结构是完全一致的",
+      "music": 0.0
+    },
+    {
+      "from": 1445.61,
+      "to": 1447.95,
+      "sid": 353,
+      "location": 2,
+      "content": "接下来我们回到terminal界面",
+      "music": 0.0
+    },
+    {
+      "from": 1447.95,
+      "to": 1450.28,
+      "sid": 354,
+      "location": 2,
+      "content": "执行这个文件",
+      "music": 0.0
+    },
+    {
+      "from": 1450.28,
+      "to": 1452.56,
+      "sid": 355,
+      "location": 2,
+      "content": "已进行推理",
+      "music": 0.0
+    },
+    {
+      "from": 1501.5,
+      "to": 1506.44,
+      "sid": 356,
+      "location": 2,
+      "content": "我们在等待rtm that large权重下载并推理完成后",
+      "music": 0.0
+    },
+    {
+      "from": 1506.44,
+      "to": 1507.76,
+      "sid": 357,
+      "location": 2,
+      "content": "我们就可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 1507.76,
+      "to": 1512.81,
+      "sid": 358,
+      "location": 2,
+      "content": "如右侧的输出可以看到是完全一致的",
+      "music": 0.0
+    },
+    {
+      "from": 1512.81,
+      "to": 1517.2,
+      "sid": 359,
+      "location": 2,
+      "content": "并且我们还可以发现一张位于root data下",
+      "music": 0.0
+    },
+    {
+      "from": 1517.2,
+      "to": 1519.54,
+      "sid": 360,
+      "location": 2,
+      "content": "名为root detection direct的图片",
+      "music": 0.0
+    },
+    {
+      "from": 1519.54,
+      "to": 1523.61,
+      "sid": 361,
+      "location": 2,
+      "content": "可以看到图片当中的物体是被标出",
+      "music": 0.0
+    },
+    {
+      "from": 1523.61,
+      "to": 1526.95,
+      "sid": 362,
+      "location": 2,
+      "content": "以高亮的框去被标出了的",
+      "music": 0.0
+    },
+    {
+      "from": 1527.29,
+      "to": 1529.59,
+      "sid": 363,
+      "location": 2,
+      "content": "接下来我们使用",
+      "music": 0.0
+    },
+    {
+      "from": 1529.59,
+      "to": 1533.12,
+      "sid": 364,
+      "location": 2,
+      "content": "我们将age lego作为智能体工具使用",
+      "music": 0.0
+    },
+    {
+      "from": 1533.12,
+      "to": 1536.9,
+      "sid": 365,
+      "location": 2,
+      "content": "由于agent lego算法库默认使用英特尔LM2",
+      "music": 0.0
+    },
+    {
+      "from": 1536.9,
+      "to": 1538.19,
+      "sid": 366,
+      "location": 2,
+      "content": "cheat20B模型",
+      "music": 0.0
+    },
+    {
+      "from": 1538.19,
+      "to": 1542.91,
+      "sid": 367,
+      "location": 2,
+      "content": "因此我们首先需要修改这个文件当中的",
+      "music": 0.0
+    },
+    {
+      "from": 1542.91,
+      "to": 1544.23,
+      "sid": 368,
+      "location": 2,
+      "content": "105行位置",
+      "music": 0.0
+    },
+    {
+      "from": 1544.23,
+      "to": 1548.37,
+      "sid": 369,
+      "location": 2,
+      "content": "将英特尔M2cheat20B修改为7B",
+      "music": 0.0
+    },
+    {
+      "from": 1561.18,
+      "to": 1563.96,
+      "sid": 370,
+      "location": 2,
+      "content": "也就是这个",
+      "music": 0.0
+    },
+    {
+      "from": 1566.04,
+      "to": 1569.48,
+      "sid": 371,
+      "location": 2,
+      "content": "接下来我们使用lm deploy",
+      "music": 0.0
+    },
+    {
+      "from": 1569.48,
+      "to": 1572.96,
+      "sid": 372,
+      "location": 2,
+      "content": "进行一个API server的部署",
+      "music": 0.0
+    },
+    {
+      "from": 1576.52,
+      "to": 1579.81,
+      "sid": 373,
+      "location": 2,
+      "content": "可以看到我们刚才启动的API server还没有关",
+      "music": 0.0
+    },
+    {
+      "from": 1579.81,
+      "to": 1582.48,
+      "sid": 374,
+      "location": 2,
+      "content": "所以我们先把它关掉",
+      "music": 0.0
+    },
+    {
+      "from": 1598.08,
+      "to": 1600.14,
+      "sid": 375,
+      "location": 2,
+      "content": "接下来我们新建一个terminal",
+      "music": 0.0
+    },
+    {
+      "from": 1600.14,
+      "to": 1602.36,
+      "sid": 376,
+      "location": 2,
+      "content": "以启动agent lego web ui",
+      "music": 0.0
+    },
+    {
+      "from": 1602.36,
+      "to": 1603.8,
+      "sid": 377,
+      "location": 2,
+      "content": "我们先点击加号",
+      "music": 0.0
+    },
+    {
+      "from": 1603.8,
+      "to": 1605.15,
+      "sid": 378,
+      "location": 2,
+      "content": "新建一个terminal",
+      "music": 0.0
+    },
+    {
+      "from": 1605.15,
+      "to": 1608.54,
+      "sid": 379,
+      "location": 2,
+      "content": "然后复制这样的代码",
+      "music": 0.0
+    },
+    {
+      "from": 1608.54,
+      "to": 1613.12,
+      "sid": 380,
+      "location": 2,
+      "content": "已启动agent lego的web ui",
+      "music": 0.0
+    },
+    {
+      "from": 1615.34,
+      "to": 1618.24,
+      "sid": 381,
+      "location": 2,
+      "content": "接下来便是等待lin deployed API",
+      "music": 0.0
+    },
+    {
+      "from": 1618.24,
+      "to": 1622.02,
+      "sid": 382,
+      "location": 2,
+      "content": "server与agent lego的web ui完全启动",
+      "music": 0.0
+    },
+    {
+      "from": 1707.1,
+      "to": 1710.66,
+      "sid": 383,
+      "location": 2,
+      "content": "接下来我们按win加码调出power share",
+      "music": 0.0
+    },
+    {
+      "from": 1710.66,
+      "to": 1715.43,
+      "sid": 384,
+      "location": 2,
+      "content": "按照刚才的方式进行端口映射",
+      "music": 0.0
+    },
+    {
+      "from": 1718.76,
+      "to": 1720.88,
+      "sid": 385,
+      "location": 2,
+      "content": "在输入密码并执行后",
+      "music": 0.0
+    },
+    {
+      "from": 1720.88,
+      "to": 1723.73,
+      "sid": 386,
+      "location": 2,
+      "content": "我们就完成了端口映射",
+      "music": 0.0
+    },
+    {
+      "from": 1723.73,
+      "to": 1727.71,
+      "sid": 387,
+      "location": 2,
+      "content": "我们接下来在本地的浏览器中打开",
+      "music": 0.0
+    },
+    {
+      "from": 1729.51,
+      "to": 1733.19,
+      "sid": 388,
+      "location": 2,
+      "content": "local host7860已使用agent lego web ui",
+      "music": 0.0
+    },
+    {
+      "from": 1733.19,
+      "to": 1735.38,
+      "sid": 389,
+      "location": 2,
+      "content": "首先我们先来配置agent",
+      "music": 0.0
+    },
+    {
+      "from": 1735.38,
+      "to": 1736.85,
+      "sid": 390,
+      "location": 2,
+      "content": "点击上方agent",
+      "music": 0.0
+    },
+    {
+      "from": 1736.85,
+      "to": 1738.515,
+      "sid": 391,
+      "location": 2,
+      "content": "进入agent配置页面",
+      "music": 0.0
+    },
+    {
+      "from": 1738.67,
+      "to": 1740.41,
+      "sid": 392,
+      "location": 2,
+      "content": "点击agent下方框",
+      "music": 0.0
+    },
+    {
+      "from": 1740.41,
+      "to": 1741.55,
+      "sid": 393,
+      "location": 2,
+      "content": "选择new agent",
+      "music": 0.0
+    },
+    {
+      "from": 1742.57,
+      "to": 1747.029,
+      "sid": 394,
+      "location": 2,
+      "content": "选择agent class为TL2agent",
+      "music": 0.0
+    },
+    {
+      "from": 1747.029,
+      "to": 1753.19,
+      "sid": 395,
+      "location": 2,
+      "content": "输入模型URL为127.0.123333",
+      "music": 0.0
+    },
+    {
+      "from": 1753.59,
+      "to": 1756.84,
+      "sid": 396,
+      "location": 2,
+      "content": "然后我们输入agent name",
+      "music": 0.0
+    },
+    {
+      "from": 1758.12,
+      "to": 1761.14,
+      "sid": 397,
+      "location": 2,
+      "content": "并点击save two以保存配置",
+      "music": 0.0
+    },
+    {
+      "from": 1761.14,
+      "to": 1761.62,
+      "sid": 398,
+      "location": 2,
+      "content": "这样的话",
+      "music": 0.0
+    },
+    {
+      "from": 1761.62,
+      "to": 1765.759,
+      "sid": 399,
+      "location": 2,
+      "content": "我们在下次使用时就不需要再配置这些内容了",
+      "music": 0.0
+    },
+    {
+      "from": 1765.759,
+      "to": 1769.419,
+      "sid": 400,
+      "location": 2,
+      "content": "然后我们点击load以加载配置",
+      "music": 0.0
+    },
+    {
+      "from": 1771.14,
+      "to": 1774.4,
+      "sid": 401,
+      "location": 2,
+      "content": "然后我们进行工具的配置",
+      "music": 0.0
+    },
+    {
+      "from": 1774.4,
+      "to": 1776.8,
+      "sid": 402,
+      "location": 2,
+      "content": "首先先点击上方TOS页面",
+      "music": 0.0
+    },
+    {
+      "from": 1776.8,
+      "to": 1778.53,
+      "sid": 403,
+      "location": 2,
+      "content": "进入工具配置页面",
+      "music": 0.0
+    },
+    {
+      "from": 1778.53,
+      "to": 1780.03,
+      "sid": 404,
+      "location": 2,
+      "content": "点击tools下方框",
+      "music": 0.0
+    },
+    {
+      "from": 1780.03,
+      "to": 1780.93,
+      "sid": 405,
+      "location": 2,
+      "content": "选择new to",
+      "music": 0.0
+    },
+    {
+      "from": 1780.93,
+      "to": 1782.07,
+      "sid": 406,
+      "location": 2,
+      "content": "加载新工具",
+      "music": 0.0
+    },
+    {
+      "from": 1782.07,
+      "to": 1786.15,
+      "sid": 407,
+      "location": 2,
+      "content": "选择two class为object detection",
+      "music": 0.0
+    },
+    {
+      "from": 1786.73,
+      "to": 1789.2,
+      "sid": 408,
+      "location": 2,
+      "content": "点击save",
+      "music": 0.0
+    },
+    {
+      "from": 1790.48,
+      "to": 1794.16,
+      "sid": 409,
+      "location": 2,
+      "content": "此时模工具正在加载",
+      "music": 0.0
+    },
+    {
+      "from": 1811.0,
+      "to": 1813.54,
+      "sid": 410,
+      "location": 2,
+      "content": "在等待工具加载完成完成后",
+      "music": 0.0
+    },
+    {
+      "from": 1813.54,
+      "to": 1816.09,
+      "sid": 411,
+      "location": 2,
+      "content": "我们点击上方chat已进入对话页面",
+      "music": 0.0
+    },
+    {
+      "from": 1816.09,
+      "to": 1818.19,
+      "sid": 412,
+      "location": 2,
+      "content": "在页面下方选择工具部分",
+      "music": 0.0
+    },
+    {
+      "from": 1818.19,
+      "to": 1821.87,
+      "sid": 413,
+      "location": 2,
+      "content": "只选择object detection工具如下图所示",
+      "music": 0.0
+    },
+    {
+      "from": 1821.87,
+      "to": 1824.03,
+      "sid": 414,
+      "location": 2,
+      "content": "为了确保工具的成功率",
+      "music": 0.0
+    },
+    {
+      "from": 1824.03,
+      "to": 1824.87,
+      "sid": 415,
+      "location": 2,
+      "content": "仅在使用时",
+      "music": 0.0
+    },
+    {
+      "from": 1824.87,
+      "to": 1826.92,
+      "sid": 416,
+      "location": 2,
+      "content": "确保仅有这一个工具使用",
+      "music": 0.0
+    },
+    {
+      "from": 1826.92,
+      "to": 1829.14,
+      "sid": 417,
+      "location": 2,
+      "content": "接下来我们就可以愉快的使用agent",
+      "music": 0.0
+    },
+    {
+      "from": 1829.14,
+      "to": 1833.04,
+      "sid": 418,
+      "location": 2,
+      "content": "点击右下角文件夹已上传图片",
+      "music": 0.0
+    },
+    {
+      "from": 1836.42,
+      "to": 1839.5,
+      "sid": 419,
+      "location": 2,
+      "content": "然后我们输入指令",
+      "music": 0.0
+    },
+    {
+      "from": 1856.24,
+      "to": 1859.05,
+      "sid": 420,
+      "location": 2,
+      "content": "可以看到模型正确地调用了工具",
+      "music": 0.0
+    },
+    {
+      "from": 1859.05,
+      "to": 1863.22,
+      "sid": 421,
+      "location": 2,
+      "content": "并且详细的告诉了我们图中的内容",
+      "music": 0.0
+    },
+    {
+      "from": 1866.06,
+      "to": 1870.22,
+      "sid": 422,
+      "location": 2,
+      "content": "接下来我们使用isn't real进行自定义工具",
+      "music": 0.0
+    },
+    {
+      "from": 1870.22,
+      "to": 1874.96,
+      "sid": 423,
+      "location": 2,
+      "content": "首先先将刚才的server进行关闭",
+      "music": 0.0
+    },
+    {
+      "from": 1876.32,
+      "to": 1879.7,
+      "sid": 424,
+      "location": 2,
+      "content": "使用agent level进行自定义工具主要分为以下几步",
+      "music": 0.0
+    },
+    {
+      "from": 1879.7,
+      "to": 1881.56,
+      "sid": 425,
+      "location": 2,
+      "content": "首先继承base202",
+      "music": 0.0
+    },
+    {
+      "from": 1881.56,
+      "to": 1884.32,
+      "sid": 426,
+      "location": 2,
+      "content": "修改default description属性",
+      "music": 0.0
+    },
+    {
+      "from": 1884.32,
+      "to": 1884.86,
+      "sid": 427,
+      "location": 2,
+      "content": "三",
+      "music": 0.0
+    },
+    {
+      "from": 1884.86,
+      "to": 1887.38,
+      "sid": 428,
+      "location": 2,
+      "content": "如有需要需要承载setup方法",
+      "music": 0.0
+    },
+    {
+      "from": 1887.38,
+      "to": 1890.42,
+      "sid": 429,
+      "location": 2,
+      "content": "主要是用来重型模块的延迟加载功能",
+      "music": 0.0
+    },
+    {
+      "from": 1890.42,
+      "to": 1892.19,
+      "sid": 430,
+      "location": 2,
+      "content": "四重载apply方法",
+      "music": 0.0
+    },
+    {
+      "from": 1892.19,
+      "to": 1894.14,
+      "sid": 431,
+      "location": 2,
+      "content": "也就是工具的功能实现",
+      "music": 0.0
+    },
+    {
+      "from": 1894.14,
+      "to": 1896.18,
+      "sid": 432,
+      "location": 2,
+      "content": "其中124部为必须的功能",
+      "music": 0.0
+    },
+    {
+      "from": 1896.18,
+      "to": 1899.91,
+      "sid": 433,
+      "location": 2,
+      "content": "下面我们将实现一个调用magic maker的API",
+      "music": 0.0
+    },
+    {
+      "from": 1899.91,
+      "to": 1901.83,
+      "sid": 434,
+      "location": 2,
+      "content": "已实现图像生成的工具",
+      "music": 0.0
+    },
+    {
+      "from": 1901.83,
+      "to": 1907.23,
+      "sid": 435,
+      "location": 2,
+      "content": "首先我们通过这样的方式来新建工具文件",
+      "music": 0.0
+    },
+    {
+      "from": 1908.14,
+      "to": 1910.32,
+      "sid": 436,
+      "location": 2,
+      "content": "接下来回到code server",
+      "music": 0.0
+    },
+    {
+      "from": 1911.4,
+      "to": 1916.31,
+      "sid": 437,
+      "location": 2,
+      "content": "将内容粘贴进去",
+      "music": 0.0
+    },
+    {
+      "from": 1920.4,
+      "to": 1922.94,
+      "sid": 438,
+      "location": 2,
+      "content": "接下来我们需要修改INIT文件",
+      "music": 0.0
+    },
+    {
+      "from": 1922.94,
+      "to": 1926.48,
+      "sid": 439,
+      "location": 2,
+      "content": "将我们的工具注册到中间",
+      "music": 0.0
+    },
+    {
+      "from": 1934.36,
+      "to": 1938.34,
+      "sid": 440,
+      "location": 2,
+      "content": "并且将其放在",
+      "music": 0.0
+    },
+    {
+      "from": 1940.46,
+      "to": 1944.54,
+      "sid": 441,
+      "location": 2,
+      "content": "下划线or这个列表当中",
+      "music": 0.0
+    },
+    {
+      "from": 1945.06,
+      "to": 1951.98,
+      "sid": 442,
+      "location": 2,
+      "content": "接下来我们就可以重新的启动相关server来体验",
+      "music": 0.0
+    },
+    {
+      "from": 1954.38,
+      "to": 1957.34,
+      "sid": 443,
+      "location": 2,
+      "content": "自定义工具的能力了",
+      "music": 0.0
+    },
+    {
+      "from": 1970.72,
+      "to": 1975.12,
+      "sid": 444,
+      "location": 2,
+      "content": "由于我们刚刚本地已经完成了端口映射",
+      "music": 0.0
+    },
+    {
+      "from": 1975.12,
+      "to": 1979.63,
+      "sid": 445,
+      "location": 2,
+      "content": "所以此处无需再再次进行端口映射",
+      "music": 0.0
+    },
+    {
+      "from": 1991.92,
+      "to": 1996.74,
+      "sid": 446,
+      "location": 2,
+      "content": "接下来只需等待两个server都均启动完成后",
+      "music": 0.0
+    },
+    {
+      "from": 1996.74,
+      "to": 1999.74,
+      "sid": 447,
+      "location": 2,
+      "content": "我们就可以开始使用了",
+      "music": 0.0
+    },
+    {
+      "from": 2059.999,
+      "to": 2062.839,
+      "sid": 448,
+      "location": 2,
+      "content": "可以看到server是已经启动完成了",
+      "music": 0.0
+    },
+    {
+      "from": 2062.839,
+      "to": 2067.51,
+      "sid": 449,
+      "location": 2,
+      "content": "接下来我们重新打开7860",
+      "music": 0.0
+    },
+    {
+      "from": 2067.79,
+      "to": 2069.37,
+      "sid": 450,
+      "location": 2,
+      "content": "回到H的页面",
+      "music": 0.0
+    },
+    {
+      "from": 2069.37,
+      "to": 2071.17,
+      "sid": 451,
+      "location": 2,
+      "content": "由于我们刚才已经保存了配置",
+      "music": 0.0
+    },
+    {
+      "from": 2071.17,
+      "to": 2073.87,
+      "sid": 452,
+      "location": 2,
+      "content": "所以我们此时只需要选中刚才保存好的",
+      "music": 0.0
+    },
+    {
+      "from": 2073.87,
+      "to": 2076.239,
+      "sid": 453,
+      "location": 2,
+      "content": "并点击load即可即可",
+      "music": 0.0
+    },
+    {
+      "from": 2076.239,
+      "to": 2077.979,
+      "sid": 454,
+      "location": 2,
+      "content": "然后我们进入tooth页面",
+      "music": 0.0
+    },
+    {
+      "from": 2077.979,
+      "to": 2080.249,
+      "sid": 455,
+      "location": 2,
+      "content": "选择new to two class",
+      "music": 0.0
+    },
+    {
+      "from": 2080.249,
+      "to": 2082.349,
+      "sid": 456,
+      "location": 2,
+      "content": "选择为magic maker",
+      "music": 0.0
+    },
+    {
+      "from": 2082.349,
+      "to": 2083.819,
+      "sid": 457,
+      "location": 2,
+      "content": "Image generation",
+      "music": 0.0
+    },
+    {
+      "from": 2083.819,
+      "to": 2085.409,
+      "sid": 458,
+      "location": 2,
+      "content": "点击save后",
+      "music": 0.0
+    },
+    {
+      "from": 2085.409,
+      "to": 2086.94,
+      "sid": 459,
+      "location": 2,
+      "content": "回到chat页面",
+      "music": 0.0
+    },
+    {
+      "from": 2086.94,
+      "to": 2089.58,
+      "sid": 460,
+      "location": 2,
+      "content": "为了保证调用工具的成功率",
+      "music": 0.0
+    },
+    {
+      "from": 2089.58,
+      "to": 2093.97,
+      "sid": 461,
+      "location": 2,
+      "content": "请在使用时只确保只有这一个工具使用",
+      "music": 0.0
+    },
+    {
+      "from": 2093.97,
+      "to": 2098.46,
+      "sid": 462,
+      "location": 2,
+      "content": "接下来我们就可以使用它了",
+      "music": 0.0
+    },
+    {
+      "from": 2128.5,
+      "to": 2130.98,
+      "sid": 463,
+      "location": 2,
+      "content": "可以看到模型成功地调用的工具",
+      "music": 0.0
+    },
+    {
+      "from": 2130.98,
+      "to": 2134.2,
+      "sid": 464,
+      "location": 2,
+      "content": "并输出了一幅山水画",
+      "music": 0.0
+    },
+    {
+      "from": 2134.54,
+      "to": 2138.46,
+      "sid": 465,
+      "location": 2,
+      "content": "至此agent lego实战部分就到此结束了",
+      "music": 0.0
+    }
+  ]
+}
