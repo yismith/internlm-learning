@@ -9,7 +9,8 @@ if __name__ == '__main__':
     # course_name = '03-huixiangdou'
     # course_name = '04-xtuner'
     # course_name = '05-lmdeploy'
-    course_name = '06-agent'
+    # course_name = '06-agent'
+    course_name = '07-opencompass'
 
     # 定义文件路径
     json_file_path = os.path.join(os.path.dirname(__file__), '..', 'camp2', 'assets', 'video', 'aisubtitle',

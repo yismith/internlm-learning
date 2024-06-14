@@ -1,0 +1,9108 @@
+{
+  "font_size": 0.4,
+  "font_color": "#FFFFFF",
+  "background_alpha": 0.5,
+  "background_color": "#9C27B0",
+  "Stroke": "none",
+  "type": "AIsubtitle",
+  "lang": "zh",
+  "version": "v1.6.0.4",
+  "body": [
+    {
+      "from": 0.86,
+      "to": 2.71,
+      "sid": 1,
+      "location": 2,
+      "content": "啊hello社区的小伙伴们",
+      "music": 0.0
+    },
+    {
+      "from": 2.71,
+      "to": 3.19,
+      "sid": 2,
+      "location": 2,
+      "content": "大家好",
+      "music": 0.0
+    },
+    {
+      "from": 3.19,
+      "to": 4.36,
+      "sid": 3,
+      "location": 2,
+      "content": "我叫曹茂松",
+      "music": 0.0
+    },
+    {
+      "from": 4.36,
+      "to": 8.05,
+      "sid": 4,
+      "location": 2,
+      "content": "然后今天的话由我来为大家进行葡语的二期",
+      "music": 0.0
+    },
+    {
+      "from": 8.05,
+      "to": 10.42,
+      "sid": 5,
+      "location": 2,
+      "content": "open class这样一个课程的讲解",
+      "music": 0.0
+    },
+    {
+      "from": 10.42,
+      "to": 12.58,
+      "sid": 6,
+      "location": 2,
+      "content": "那今天的讲解主要会分为两个部分",
+      "music": 0.0
+    },
+    {
+      "from": 12.58,
+      "to": 16.89,
+      "sid": 7,
+      "location": 2,
+      "content": "第一个部分呢是呃我们的open class整体的介绍",
+      "music": 0.0
+    },
+    {
+      "from": 16.89,
+      "to": 18.7,
+      "sid": 8,
+      "location": 2,
+      "content": "然后第二部分会对大",
+      "music": 0.0
+    },
+    {
+      "from": 18.7,
+      "to": 22.57,
+      "sid": 9,
+      "location": 2,
+      "content": "对大家进行这个动画代码的实战进行一个讲解",
+      "music": 0.0
+    },
+    {
+      "from": 22.57,
+      "to": 25.6,
+      "sid": 10,
+      "location": 2,
+      "content": "会对大家进行代码的实际操作的演练",
+      "music": 0.0
+    },
+    {
+      "from": 25.6,
+      "to": 28.52,
+      "sid": 11,
+      "location": 2,
+      "content": "然后那么我们就先从第一个部分开始",
+      "music": 0.0
+    },
+    {
+      "from": 28.52,
+      "to": 30.38,
+      "sid": 12,
+      "location": 2,
+      "content": "那首先大家都知道奥特曼",
+      "music": 0.0
+    },
+    {
+      "from": 30.38,
+      "to": 32.96,
+      "sid": 13,
+      "location": 2,
+      "content": "它是一个评测的这样一个平台",
+      "music": 0.0
+    },
+    {
+      "from": 32.96,
+      "to": 34.91,
+      "sid": 14,
+      "location": 2,
+      "content": "中文名字叫做司南",
+      "music": 0.0
+    },
+    {
+      "from": 34.91,
+      "to": 37.22,
+      "sid": 15,
+      "location": 2,
+      "content": "那就有一个问题我们需要回答",
+      "music": 0.0
+    },
+    {
+      "from": 37.22,
+      "to": 41.5,
+      "sid": 16,
+      "location": 2,
+      "content": "我们为什么要去做评测这样一件事情呃",
+      "music": 0.0
+    },
+    {
+      "from": 41.5,
+      "to": 44.5,
+      "sid": 17,
+      "location": 2,
+      "content": "那首先的话就其实比较一个浅显易懂的道理",
+      "music": 0.0
+    },
+    {
+      "from": 44.5,
+      "to": 47.92,
+      "sid": 18,
+      "location": 2,
+      "content": "就是我们可以通过评测去促进模型的发展",
+      "music": 0.0
+    },
+    {
+      "from": 47.92,
+      "to": 51.43,
+      "sid": 19,
+      "location": 2,
+      "content": "呃比如说就是现在模型的能力多种多样",
+      "music": 0.0
+    },
+    {
+      "from": 51.43,
+      "to": 54.7,
+      "sid": 20,
+      "location": 2,
+      "content": "那肯定是需要有各种各样的维度去测试",
+      "music": 0.0
+    },
+    {
+      "from": 54.7,
+      "to": 56.98,
+      "sid": 21,
+      "location": 2,
+      "content": "然后才能知道它模型哪哪些维度强",
+      "music": 0.0
+    },
+    {
+      "from": 56.98,
+      "to": 57.83,
+      "sid": 22,
+      "location": 2,
+      "content": "哪些维度弱",
+      "music": 0.0
+    },
+    {
+      "from": 57.83,
+      "to": 60.77,
+      "sid": 23,
+      "location": 2,
+      "content": "所以我们就是也需要不断地去拓展",
+      "music": 0.0
+    },
+    {
+      "from": 60.77,
+      "to": 62.63,
+      "sid": 24,
+      "location": 2,
+      "content": "我们需要评测的这个能力维度",
+      "music": 0.0
+    },
+    {
+      "from": 62.63,
+      "to": 64.31,
+      "sid": 25,
+      "location": 2,
+      "content": "比如说数学代码",
+      "music": 0.0
+    },
+    {
+      "from": 64.31,
+      "to": 65.5,
+      "sid": 26,
+      "location": 2,
+      "content": "智能体等等",
+      "music": 0.0
+    },
+    {
+      "from": 65.5,
+      "to": 66.76,
+      "sid": 27,
+      "location": 2,
+      "content": "然后第二个的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 66.76,
+      "to": 69.79,
+      "sid": 28,
+      "location": 2,
+      "content": "就是呃在某些这个垂直的领域",
+      "music": 0.0
+    },
+    {
+      "from": 69.79,
+      "to": 71.62,
+      "sid": 29,
+      "location": 2,
+      "content": "比如说医疗金融这些领域",
+      "music": 0.0
+    },
+    {
+      "from": 71.62,
+      "to": 73.51,
+      "sid": 30,
+      "location": 2,
+      "content": "那它是需要有专业的知识",
+      "music": 0.0
+    },
+    {
+      "from": 73.51,
+      "to": 75.19,
+      "sid": 31,
+      "location": 2,
+      "content": "才能够去应用这样的模型的",
+      "music": 0.0
+    },
+    {
+      "from": 75.19,
+      "to": 77.82,
+      "sid": 32,
+      "location": 2,
+      "content": "我们也是需要去聚焦这些垂直领域",
+      "music": 0.0
+    },
+    {
+      "from": 77.82,
+      "to": 79.89,
+      "sid": 33,
+      "location": 2,
+      "content": "去测试这些领域模型的能力",
+      "music": 0.0
+    },
+    {
+      "from": 79.89,
+      "to": 81.96,
+      "sid": 34,
+      "location": 2,
+      "content": "然后第三的话就是我们的",
+      "music": 0.0
+    },
+    {
+      "from": 81.96,
+      "to": 85.32,
+      "sid": 35,
+      "location": 2,
+      "content": "既然是一个中文的这样一个呃基准",
+      "music": 0.0
+    },
+    {
+      "from": 85.32,
+      "to": 86.97,
+      "sid": 36,
+      "location": 2,
+      "content": "那我们就是要呃",
+      "music": 0.0
+    },
+    {
+      "from": 86.97,
+      "to": 89.37,
+      "sid": 37,
+      "location": 2,
+      "content": "首先需要聚焦构造这样一个高质量的",
+      "music": 0.0
+    },
+    {
+      "from": 89.37,
+      "to": 90.57,
+      "sid": 38,
+      "location": 2,
+      "content": "中文的评测者",
+      "music": 0.0
+    },
+    {
+      "from": 90.57,
+      "to": 91.35,
+      "sid": 39,
+      "location": 2,
+      "content": "这个这个体系",
+      "music": 0.0
+    },
+    {
+      "from": 91.35,
+      "to": 93.91,
+      "sid": 40,
+      "location": 2,
+      "content": "来促进我们中文社区的大模型的发展",
+      "music": 0.0
+    },
+    {
+      "from": 93.91,
+      "to": 97.22,
+      "sid": 41,
+      "location": 2,
+      "content": "然后最后呢就是我们通过这些呃这些评测",
+      "music": 0.0
+    },
+    {
+      "from": 97.22,
+      "to": 98.84,
+      "sid": 42,
+      "location": 2,
+      "content": "那就知道模型的优点在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 98.84,
+      "to": 99.74,
+      "sid": 43,
+      "location": 2,
+      "content": "缺点在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 99.74,
+      "to": 102.61,
+      "sid": 44,
+      "location": 2,
+      "content": "从而我们就可以去反哺模型的能力迭代",
+      "music": 0.0
+    },
+    {
+      "from": 102.61,
+      "to": 105.97,
+      "sid": 45,
+      "location": 2,
+      "content": "这样子就能够使模型知道它的缺点在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 105.97,
+      "to": 108.19,
+      "sid": 46,
+      "location": 2,
+      "content": "这样点对点的去提升我们的模型",
+      "music": 0.0
+    },
+    {
+      "from": 108.19,
+      "to": 111.38,
+      "sid": 47,
+      "location": 2,
+      "content": "就能够越新越好啊",
+      "music": 0.0
+    },
+    {
+      "from": 111.38,
+      "to": 113.96,
+      "sid": 48,
+      "location": 2,
+      "content": "那现在在大模型的评测中",
+      "music": 0.0
+    },
+    {
+      "from": 113.96,
+      "to": 116.0,
+      "sid": 49,
+      "location": 2,
+      "content": "它会有哪些挑战呢",
+      "music": 0.0
+    },
+    {
+      "from": 116.0,
+      "to": 118.039,
+      "sid": 50,
+      "location": 2,
+      "content": "那首先第一个就是全面性",
+      "music": 0.0
+    },
+    {
+      "from": 118.039,
+      "to": 121.039,
+      "sid": 51,
+      "location": 2,
+      "content": "因为大模型它的应用场景是非常非常多的",
+      "music": 0.0
+    },
+    {
+      "from": 121.039,
+      "to": 123.64,
+      "sid": 52,
+      "location": 2,
+      "content": "而且模型的能力现在也是在呃",
+      "music": 0.0
+    },
+    {
+      "from": 123.64,
+      "to": 124.9,
+      "sid": 53,
+      "location": 2,
+      "content": "进展的越来越迅速",
+      "music": 0.0
+    },
+    {
+      "from": 124.9,
+      "to": 127.87,
+      "sid": 54,
+      "location": 2,
+      "content": "从最开始的这个对话到现在的智能体等等",
+      "music": 0.0
+    },
+    {
+      "from": 127.87,
+      "to": 131.35,
+      "sid": 55,
+      "location": 2,
+      "content": "那怎么样去构造一个呃又可以扩展",
+      "music": 0.0
+    },
+    {
+      "from": 131.35,
+      "to": 134.11,
+      "sid": 56,
+      "location": 2,
+      "content": "又能够覆盖面比较广的能力维度体系",
+      "music": 0.0
+    },
+    {
+      "from": 134.11,
+      "to": 135.98,
+      "sid": 57,
+      "location": 2,
+      "content": "就是一个比较大的问题",
+      "music": 0.0
+    },
+    {
+      "from": 135.98,
+      "to": 138.41,
+      "sid": 58,
+      "location": 2,
+      "content": "然后第二个呢就是评测的这个成本",
+      "music": 0.0
+    },
+    {
+      "from": 138.41,
+      "to": 142.31,
+      "sid": 59,
+      "location": 2,
+      "content": "因为像现在评测其实它的成本也是比较高的啊",
+      "music": 0.0
+    },
+    {
+      "from": 142.31,
+      "to": 144.64,
+      "sid": 60,
+      "location": 2,
+      "content": "比如说你在评测嗯",
+      "music": 0.0
+    },
+    {
+      "from": 144.64,
+      "to": 145.81,
+      "sid": 61,
+      "location": 2,
+      "content": "如果是客观答题",
+      "music": 0.0
+    },
+    {
+      "from": 145.81,
+      "to": 147.31,
+      "sid": 62,
+      "location": 2,
+      "content": "比如说选择题填空题这种",
+      "music": 0.0
+    },
+    {
+      "from": 147.31,
+      "to": 149.99,
+      "sid": 63,
+      "location": 2,
+      "content": "那你模型的推理他也是啊",
+      "music": 0.0
+    },
+    {
+      "from": 149.99,
+      "to": 152.81,
+      "sid": 64,
+      "location": 2,
+      "content": "这个推理成本也是也是需要很多的",
+      "music": 0.0
+    },
+    {
+      "from": 152.81,
+      "to": 154.65,
+      "sid": 65,
+      "location": 2,
+      "content": "这个GPU资源的",
+      "music": 0.0
+    },
+    {
+      "from": 154.65,
+      "to": 156.72,
+      "sid": 66,
+      "location": 2,
+      "content": "在这个主观评测上面",
+      "music": 0.0
+    },
+    {
+      "from": 156.72,
+      "to": 157.95,
+      "sid": 67,
+      "location": 2,
+      "content": "那你像啊",
+      "music": 0.0
+    },
+    {
+      "from": 157.95,
+      "to": 160.89,
+      "sid": 68,
+      "location": 2,
+      "content": "有的时候需需要调一些API的这个接口",
+      "music": 0.0
+    },
+    {
+      "from": 160.89,
+      "to": 161.79,
+      "sid": 69,
+      "location": 2,
+      "content": "来完成评测",
+      "music": 0.0
+    },
+    {
+      "from": 161.79,
+      "to": 162.81,
+      "sid": 70,
+      "location": 2,
+      "content": "比如说是B4",
+      "music": 0.0
+    },
+    {
+      "from": 162.81,
+      "to": 165.93,
+      "sid": 71,
+      "location": 2,
+      "content": "用利比利斯来做一个法官来评判哪个模型好",
+      "music": 0.0
+    },
+    {
+      "from": 165.93,
+      "to": 167.63,
+      "sid": 72,
+      "location": 2,
+      "content": "那这也是需要去付费的",
+      "music": 0.0
+    },
+    {
+      "from": 167.63,
+      "to": 168.95,
+      "sid": 73,
+      "location": 2,
+      "content": "那用人工打分",
+      "music": 0.0
+    },
+    {
+      "from": 168.95,
+      "to": 171.35,
+      "sid": 74,
+      "location": 2,
+      "content": "那成本成本就更加高昂了",
+      "music": 0.0
+    },
+    {
+      "from": 171.35,
+      "to": 172.61,
+      "sid": 75,
+      "location": 2,
+      "content": "然后第三个问题呢",
+      "music": 0.0
+    },
+    {
+      "from": 172.61,
+      "to": 175.85,
+      "sid": 76,
+      "location": 2,
+      "content": "就就是嗯就可能会存在一些数据污染",
+      "music": 0.0
+    },
+    {
+      "from": 175.85,
+      "to": 177.59,
+      "sid": 77,
+      "location": 2,
+      "content": "比如说有有的模型",
+      "music": 0.0
+    },
+    {
+      "from": 177.59,
+      "to": 181.4,
+      "sid": 78,
+      "location": 2,
+      "content": "它在这个你的这个评测集上去做训练",
+      "music": 0.0
+    },
+    {
+      "from": 181.4,
+      "to": 184.34,
+      "sid": 79,
+      "location": 2,
+      "content": "那你可能啊有的你一开始不知道",
+      "music": 0.0
+    },
+    {
+      "from": 184.34,
+      "to": 186.56,
+      "sid": 80,
+      "location": 2,
+      "content": "那可能这样刷出来的这个分数比较高",
+      "music": 0.0
+    },
+    {
+      "from": 186.56,
+      "to": 188.48,
+      "sid": 81,
+      "location": 2,
+      "content": "那这个分那它就不可信了",
+      "music": 0.0
+    },
+    {
+      "from": 188.48,
+      "to": 191.06,
+      "sid": 82,
+      "location": 2,
+      "content": "因为他在这个测试集上去做过训练嘛",
+      "music": 0.0
+    },
+    {
+      "from": 191.06,
+      "to": 196.31,
+      "sid": 83,
+      "location": 2,
+      "content": "那怎么样去呃有这样一种数据污染的检测技术",
+      "music": 0.0
+    },
+    {
+      "from": 196.31,
+      "to": 199.13,
+      "sid": 84,
+      "location": 2,
+      "content": "然后来发现这个模型在训练过程中",
+      "music": 0.0
+    },
+    {
+      "from": 199.13,
+      "to": 200.15,
+      "sid": 85,
+      "location": 2,
+      "content": "造成的数据污染",
+      "music": 0.0
+    },
+    {
+      "from": 200.15,
+      "to": 202.67,
+      "sid": 86,
+      "location": 2,
+      "content": "这也是一个需要解决的这样一个挑战",
+      "music": 0.0
+    },
+    {
+      "from": 202.67,
+      "to": 204.26,
+      "sid": 87,
+      "location": 2,
+      "content": "然后最后就是鲁棒性",
+      "music": 0.0
+    },
+    {
+      "from": 204.26,
+      "to": 207.799,
+      "sid": 88,
+      "location": 2,
+      "content": "那有的模型它可能对某些提示词比较敏感",
+      "music": 0.0
+    },
+    {
+      "from": 207.799,
+      "to": 209.089,
+      "sid": 89,
+      "location": 2,
+      "content": "然后你换了一套问法",
+      "music": 0.0
+    },
+    {
+      "from": 209.089,
+      "to": 210.259,
+      "sid": 90,
+      "location": 2,
+      "content": "他可能就做不对了",
+      "music": 0.0
+    },
+    {
+      "from": 210.259,
+      "to": 212.809,
+      "sid": 91,
+      "location": 2,
+      "content": "那这种也是需要去评测来解决的",
+      "music": 0.0
+    },
+    {
+      "from": 212.809,
+      "to": 215.07,
+      "sid": 92,
+      "location": 2,
+      "content": "这样一个问题啊",
+      "music": 0.0
+    },
+    {
+      "from": 215.07,
+      "to": 217.41,
+      "sid": 93,
+      "location": 2,
+      "content": "那我们欧拉的这个评测体系呢",
+      "music": 0.0
+    },
+    {
+      "from": 217.41,
+      "to": 220.26,
+      "sid": 94,
+      "location": 2,
+      "content": "也是经历了已经到2.0阶段了嘛",
+      "music": 0.0
+    },
+    {
+      "from": 220.26,
+      "to": 222.82,
+      "sid": 95,
+      "location": 2,
+      "content": "那他也是从去年的啊",
+      "music": 0.0
+    },
+    {
+      "from": 222.82,
+      "to": 225.88,
+      "sid": 96,
+      "location": 2,
+      "content": "去年的5月份开始就完成了初步的这个开发",
+      "music": 0.0
+    },
+    {
+      "from": 225.88,
+      "to": 227.44,
+      "sid": 97,
+      "location": 2,
+      "content": "然后一路迭代迭代",
+      "music": 0.0
+    },
+    {
+      "from": 227.44,
+      "to": 229.44,
+      "sid": 98,
+      "location": 2,
+      "content": "然后越来越多的这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 229.44,
+      "to": 232.71,
+      "sid": 99,
+      "location": 2,
+      "content": "包括科研机构或者说公司跟我们合作",
+      "music": 0.0
+    },
+    {
+      "from": 232.71,
+      "to": 234.84,
+      "sid": 100,
+      "location": 2,
+      "content": "我到今年的1月30号",
+      "music": 0.0
+    },
+    {
+      "from": 234.84,
+      "to": 237.19,
+      "sid": 101,
+      "location": 2,
+      "content": "我们正式发布了我们的2.0的评测体系",
+      "music": 0.0
+    },
+    {
+      "from": 237.19,
+      "to": 238.39,
+      "sid": 102,
+      "location": 2,
+      "content": "就越来越完善",
+      "music": 0.0
+    },
+    {
+      "from": 238.39,
+      "to": 239.86,
+      "sid": 103,
+      "location": 2,
+      "content": "也更新了非常多的功能",
+      "music": 0.0
+    },
+    {
+      "from": 239.86,
+      "to": 243.1,
+      "sid": 104,
+      "location": 2,
+      "content": "然后其中也有很多社区小伙伴的这个努力",
+      "music": 0.0
+    },
+    {
+      "from": 243.1,
+      "to": 245.98,
+      "sid": 105,
+      "location": 2,
+      "content": "我也非常感谢大家一起去啊",
+      "music": 0.0
+    },
+    {
+      "from": 245.98,
+      "to": 248.86,
+      "sid": 106,
+      "location": 2,
+      "content": "来维护我们的呃司南评测体系",
+      "music": 0.0
+    },
+    {
+      "from": 248.86,
+      "to": 250.6,
+      "sid": 107,
+      "location": 2,
+      "content": "然后建设的越来越好",
+      "music": 0.0
+    },
+    {
+      "from": 250.6,
+      "to": 252.4,
+      "sid": 108,
+      "location": 2,
+      "content": "然后呃像现在的话",
+      "music": 0.0
+    },
+    {
+      "from": 252.4,
+      "to": 256.18,
+      "sid": 109,
+      "location": 2,
+      "content": "我们就是已经广泛用于各个各个头部的这个",
+      "music": 0.0
+    },
+    {
+      "from": 256.18,
+      "to": 258.109,
+      "sid": 110,
+      "location": 2,
+      "content": "大模型的研究机构了",
+      "music": 0.0
+    },
+    {
+      "from": 258.109,
+      "to": 260.089,
+      "sid": 111,
+      "location": 2,
+      "content": "而且我们也是获得了官方推荐的",
+      "music": 0.0
+    },
+    {
+      "from": 260.089,
+      "to": 262.37,
+      "sid": 112,
+      "location": 2,
+      "content": "唯一的一个国产大模型的评测体系",
+      "music": 0.0
+    },
+    {
+      "from": 262.37,
+      "to": 266.15,
+      "sid": 113,
+      "location": 2,
+      "content": "也是目前社区支持的最完善的评测体系",
+      "music": 0.0
+    },
+    {
+      "from": 266.15,
+      "to": 268.95,
+      "sid": 114,
+      "location": 2,
+      "content": "开源评测体系已经有100多个评测集",
+      "music": 0.0
+    },
+    {
+      "from": 268.95,
+      "to": 270.27,
+      "sid": 115,
+      "location": 2,
+      "content": "然后50多万道题目",
+      "music": 0.0
+    },
+    {
+      "from": 271.29,
+      "to": 274.48,
+      "sid": 116,
+      "location": 2,
+      "content": "那呃回到我们画这个这个本身",
+      "music": 0.0
+    },
+    {
+      "from": 274.48,
+      "to": 276.85,
+      "sid": 117,
+      "location": 2,
+      "content": "我们是如何去评测大模型的呢",
+      "music": 0.0
+    },
+    {
+      "from": 276.85,
+      "to": 281.05,
+      "sid": 118,
+      "location": 2,
+      "content": "那首先我们会根据模型的这个类型的不同",
+      "music": 0.0
+    },
+    {
+      "from": 281.05,
+      "to": 285.37,
+      "sid": 119,
+      "location": 2,
+      "content": "然后来去给它划分成这个不同的这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 285.37,
+      "to": 287.71,
+      "sid": 120,
+      "location": 2,
+      "content": "评测的这个这个这个模型",
+      "music": 0.0
+    },
+    {
+      "from": 287.71,
+      "to": 289.3,
+      "sid": 121,
+      "location": 2,
+      "content": "比如说基座模型",
+      "music": 0.0
+    },
+    {
+      "from": 289.3,
+      "to": 290.29,
+      "sid": 122,
+      "location": 2,
+      "content": "那这种基座模型",
+      "music": 0.0
+    },
+    {
+      "from": 290.29,
+      "to": 292.93,
+      "sid": 123,
+      "location": 2,
+      "content": "它只只是在这个模型训练的第一阶段",
+      "music": 0.0
+    },
+    {
+      "from": 292.93,
+      "to": 295.94,
+      "sid": 124,
+      "location": 2,
+      "content": "去做这个next token prediction这样一个训练的",
+      "music": 0.0
+    },
+    {
+      "from": 295.94,
+      "to": 298.04,
+      "sid": 125,
+      "location": 2,
+      "content": "他就没有经过SFTV调之类的",
+      "music": 0.0
+    },
+    {
+      "from": 298.04,
+      "to": 302.02,
+      "sid": 126,
+      "location": 2,
+      "content": "那这这也是一个就是需要评测的一类模型",
+      "music": 0.0
+    },
+    {
+      "from": 302.02,
+      "to": 303.22,
+      "sid": 127,
+      "location": 2,
+      "content": "因为就很多模型",
+      "music": 0.0
+    },
+    {
+      "from": 303.22,
+      "to": 305.32,
+      "sid": 128,
+      "location": 2,
+      "content": "它都是从机构模型去训练过来的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 305.32,
+      "to": 307.18,
+      "sid": 129,
+      "location": 2,
+      "content": "那我们就也需要设计一些方法",
+      "music": 0.0
+    },
+    {
+      "from": 307.18,
+      "to": 309.55,
+      "sid": 130,
+      "location": 2,
+      "content": "去怎么样去评测它的这个机构模型",
+      "music": 0.0
+    },
+    {
+      "from": 309.55,
+      "to": 312.34,
+      "sid": 131,
+      "location": 2,
+      "content": "然后还有就是开源的一些sf的模型",
+      "music": 0.0
+    },
+    {
+      "from": 312.34,
+      "to": 313.63,
+      "sid": 132,
+      "location": 2,
+      "content": "比如说INTELM2",
+      "music": 0.0
+    },
+    {
+      "from": 313.63,
+      "to": 315.88,
+      "sid": 133,
+      "location": 2,
+      "content": "然后千万之类的这些开源模型",
+      "music": 0.0
+    },
+    {
+      "from": 315.88,
+      "to": 319.39,
+      "sid": 134,
+      "location": 2,
+      "content": "就是啊经过SFT和RHF之后的模型",
+      "music": 0.0
+    },
+    {
+      "from": 319.39,
+      "to": 320.32,
+      "sid": 135,
+      "location": 2,
+      "content": "怎么去评测",
+      "music": 0.0
+    },
+    {
+      "from": 320.32,
+      "to": 322.63,
+      "sid": 136,
+      "location": 2,
+      "content": "然后啊包括还有API模型",
+      "music": 0.0
+    },
+    {
+      "from": 322.63,
+      "to": 323.38,
+      "sid": 137,
+      "location": 2,
+      "content": "API模型的话",
+      "music": 0.0
+    },
+    {
+      "from": 323.38,
+      "to": 325.24,
+      "sid": 138,
+      "location": 2,
+      "content": "那就是你发送网络请求",
+      "music": 0.0
+    },
+    {
+      "from": 325.24,
+      "to": 326.29,
+      "sid": 139,
+      "location": 2,
+      "content": "然后得到回复",
+      "music": 0.0
+    },
+    {
+      "from": 326.29,
+      "to": 328.27,
+      "sid": 140,
+      "location": 2,
+      "content": "然后这个阵容怎么评测",
+      "music": 0.0
+    },
+    {
+      "from": 328.27,
+      "to": 330.31,
+      "sid": 141,
+      "location": 2,
+      "content": "然后这是根据模型的类别",
+      "music": 0.0
+    },
+    {
+      "from": 330.31,
+      "to": 331.51,
+      "sid": 142,
+      "location": 2,
+      "content": "我们去划分了一些类别",
+      "music": 0.0
+    },
+    {
+      "from": 331.51,
+      "to": 333.79,
+      "sid": 143,
+      "location": 2,
+      "content": "然后来设定不同的评测方法",
+      "music": 0.0
+    },
+    {
+      "from": 333.79,
+      "to": 336.43,
+      "sid": 144,
+      "location": 2,
+      "content": "然后还有就是根据评测本身的方式",
+      "music": 0.0
+    },
+    {
+      "from": 336.43,
+      "to": 339.7,
+      "sid": 145,
+      "location": 2,
+      "content": "我们也会去划分成客观评测和主观评测",
+      "music": 0.0
+    },
+    {
+      "from": 339.7,
+      "to": 341.679,
+      "sid": 146,
+      "location": 2,
+      "content": "然后来进行不同的评测",
+      "music": 0.0
+    },
+    {
+      "from": 341.679,
+      "to": 342.819,
+      "sid": 147,
+      "location": 2,
+      "content": "比如说客观的话",
+      "music": 0.0
+    },
+    {
+      "from": 342.819,
+      "to": 345.099,
+      "sid": 148,
+      "location": 2,
+      "content": "那可能就是一些呃问答题",
+      "music": 0.0
+    },
+    {
+      "from": 345.099,
+      "to": 346.299,
+      "sid": 149,
+      "location": 2,
+      "content": "选择题之类的",
+      "music": 0.0
+    },
+    {
+      "from": 346.299,
+      "to": 348.28,
+      "sid": 150,
+      "location": 2,
+      "content": "比如说中国的首都在哪里",
+      "music": 0.0
+    },
+    {
+      "from": 348.28,
+      "to": 350.8,
+      "sid": 151,
+      "location": 2,
+      "content": "然后ABCD分别四个选项",
+      "music": 0.0
+    },
+    {
+      "from": 350.8,
+      "to": 353.26,
+      "sid": 152,
+      "location": 2,
+      "content": "那模型只要去打出A或者B就行了",
+      "music": 0.0
+    },
+    {
+      "from": 353.26,
+      "to": 355.03,
+      "sid": 153,
+      "location": 2,
+      "content": "这种事就叫做客观评测",
+      "music": 0.0
+    },
+    {
+      "from": 355.03,
+      "to": 358.29,
+      "sid": 154,
+      "location": 2,
+      "content": "那这种客观评测就是基于这个正则表达式",
+      "music": 0.0
+    },
+    {
+      "from": 358.29,
+      "to": 360.69,
+      "sid": 155,
+      "location": 2,
+      "content": "然后你可以把模型的这个回答",
+      "music": 0.0
+    },
+    {
+      "from": 360.69,
+      "to": 361.89,
+      "sid": 156,
+      "location": 2,
+      "content": "提取出来一个选项",
+      "music": 0.0
+    },
+    {
+      "from": 361.89,
+      "to": 363.23,
+      "sid": 157,
+      "location": 2,
+      "content": "然后看看有没有答对",
+      "music": 0.0
+    },
+    {
+      "from": 363.23,
+      "to": 365.99,
+      "sid": 158,
+      "location": 2,
+      "content": "然后还有就是一些开放式的主观问答题",
+      "music": 0.0
+    },
+    {
+      "from": 365.99,
+      "to": 368.21,
+      "sid": 159,
+      "location": 2,
+      "content": "那这种的话可能就没有啊",
+      "music": 0.0
+    },
+    {
+      "from": 368.21,
+      "to": 371.43,
+      "sid": 160,
+      "location": 2,
+      "content": "就不像有一个固定答案那样子那么好评测",
+      "music": 0.0
+    },
+    {
+      "from": 371.43,
+      "to": 372.9,
+      "sid": 161,
+      "location": 2,
+      "content": "那比如说一个问题",
+      "music": 0.0
+    },
+    {
+      "from": 372.9,
+      "to": 373.98,
+      "sid": 162,
+      "location": 2,
+      "content": "让他写一首诗",
+      "music": 0.0
+    },
+    {
+      "from": 373.98,
+      "to": 377.04,
+      "sid": 163,
+      "location": 2,
+      "content": "然后你模型A和模型B哪首诗写得更好",
+      "music": 0.0
+    },
+    {
+      "from": 377.04,
+      "to": 379.86,
+      "sid": 164,
+      "location": 2,
+      "content": "那这个东西就不是靠一个简单的一些规则",
+      "music": 0.0
+    },
+    {
+      "from": 379.86,
+      "to": 381.21,
+      "sid": 165,
+      "location": 2,
+      "content": "就能够去决定的了",
+      "music": 0.0
+    },
+    {
+      "from": 381.21,
+      "to": 383.79,
+      "sid": 166,
+      "location": 2,
+      "content": "那这种一般的话就比如说有人工评价",
+      "music": 0.0
+    },
+    {
+      "from": 383.79,
+      "to": 385.05,
+      "sid": 167,
+      "location": 2,
+      "content": "那这种成本比较高",
+      "music": 0.0
+    },
+    {
+      "from": 385.05,
+      "to": 386.7,
+      "sid": 168,
+      "location": 2,
+      "content": "我们可能就不会考虑",
+      "music": 0.0
+    },
+    {
+      "from": 386.7,
+      "to": 390.23,
+      "sid": 169,
+      "location": 2,
+      "content": "那还有就是用模型来代替人工去进行评价",
+      "music": 0.0
+    },
+    {
+      "from": 390.23,
+      "to": 393.89,
+      "sid": 170,
+      "location": 2,
+      "content": "比如说我们找目前比较好的GPS4模型",
+      "music": 0.0
+    },
+    {
+      "from": 393.89,
+      "to": 398.04,
+      "sid": 171,
+      "location": 2,
+      "content": "然后来评价模型和模型B它哪种哪个模型",
+      "music": 0.0
+    },
+    {
+      "from": 398.04,
+      "to": 399.87,
+      "sid": 172,
+      "location": 2,
+      "content": "回答就是写的这首诗比较好",
+      "music": 0.0
+    },
+    {
+      "from": 399.87,
+      "to": 402.36,
+      "sid": 173,
+      "location": 2,
+      "content": "那也那你就也可以有很多方式",
+      "music": 0.0
+    },
+    {
+      "from": 402.36,
+      "to": 403.69,
+      "sid": 174,
+      "location": 2,
+      "content": "比如说打分啊",
+      "music": 0.0
+    },
+    {
+      "from": 403.69,
+      "to": 404.41,
+      "sid": 175,
+      "location": 2,
+      "content": "模型A的几分",
+      "music": 0.0
+    },
+    {
+      "from": 404.41,
+      "to": 405.43,
+      "sid": 176,
+      "location": 2,
+      "content": "模型B的积分",
+      "music": 0.0
+    },
+    {
+      "from": 405.43,
+      "to": 408.58,
+      "sid": 177,
+      "location": 2,
+      "content": "或者让GB4直接说模型A比模型B好之类的",
+      "music": 0.0
+    },
+    {
+      "from": 408.58,
+      "to": 410.97,
+      "sid": 178,
+      "location": 2,
+      "content": "就这种事叫做主观评测",
+      "music": 0.0
+    },
+    {
+      "from": 410.97,
+      "to": 414.27,
+      "sid": 179,
+      "location": 2,
+      "content": "那么呃还有就是我们还会做一些扩展",
+      "music": 0.0
+    },
+    {
+      "from": 414.27,
+      "to": 416.19,
+      "sid": 180,
+      "location": 2,
+      "content": "就是比如说提示词工程",
+      "music": 0.0
+    },
+    {
+      "from": 416.19,
+      "to": 418.9,
+      "sid": 181,
+      "location": 2,
+      "content": "然后啊就比如说有的题目",
+      "music": 0.0
+    },
+    {
+      "from": 418.9,
+      "to": 421.69,
+      "sid": 182,
+      "location": 2,
+      "content": "他的这个题目就写的不是很好",
+      "music": 0.0
+    },
+    {
+      "from": 421.69,
+      "to": 424.39,
+      "sid": 183,
+      "location": 2,
+      "content": "比如说请你写一篇关于人工智能全面介绍",
+      "music": 0.0
+    },
+    {
+      "from": 424.39,
+      "to": 428.47,
+      "sid": 184,
+      "location": 2,
+      "content": "那他这个就就首先它从题目上就比较宽泛",
+      "music": 0.0
+    },
+    {
+      "from": 428.47,
+      "to": 430.27,
+      "sid": 185,
+      "location": 2,
+      "content": "就缺乏一些要求和细节",
+      "music": 0.0
+    },
+    {
+      "from": 430.27,
+      "to": 432.46,
+      "sid": 186,
+      "location": 2,
+      "content": "那我们就会做一些提示词工程",
+      "music": 0.0
+    },
+    {
+      "from": 432.46,
+      "to": 435.289,
+      "sid": 187,
+      "location": 2,
+      "content": "首先把这个题目变得更加丰富一些",
+      "music": 0.0
+    },
+    {
+      "from": 435.289,
+      "to": 437.569,
+      "sid": 188,
+      "location": 2,
+      "content": "然后再去给模型做推理",
+      "music": 0.0
+    },
+    {
+      "from": 437.569,
+      "to": 438.319,
+      "sid": 189,
+      "location": 2,
+      "content": "再做评测",
+      "music": 0.0
+    },
+    {
+      "from": 438.319,
+      "to": 441.89,
+      "sid": 190,
+      "location": 2,
+      "content": "这样评测出来的这个结果就会更加真实的反应",
+      "music": 0.0
+    },
+    {
+      "from": 441.89,
+      "to": 444.77,
+      "sid": 191,
+      "location": 2,
+      "content": "模型的这个性能就不会那种泛泛而谈",
+      "music": 0.0
+    },
+    {
+      "from": 444.77,
+      "to": 449.12,
+      "sid": 192,
+      "location": 2,
+      "content": "导致整个分数就比较呃比较偏向于集中",
+      "music": 0.0
+    },
+    {
+      "from": 449.12,
+      "to": 451.4,
+      "sid": 193,
+      "location": 2,
+      "content": "然后比如说还有一些小样本学习",
+      "music": 0.0
+    },
+    {
+      "from": 451.4,
+      "to": 454.16,
+      "sid": 194,
+      "location": 2,
+      "content": "以及说champ的这个这个操作",
+      "music": 0.0
+    },
+    {
+      "from": 454.16,
+      "to": 457.179,
+      "sid": 195,
+      "location": 2,
+      "content": "也可以让我们的这个题目变得更好",
+      "music": 0.0
+    },
+    {
+      "from": 457.699,
+      "to": 460.119,
+      "sid": 196,
+      "location": 2,
+      "content": "然后还有就是根据这个评测的这个不同",
+      "music": 0.0
+    },
+    {
+      "from": 460.119,
+      "to": 462.129,
+      "sid": 197,
+      "location": 2,
+      "content": "我们还可以有这个长文本评测",
+      "music": 0.0
+    },
+    {
+      "from": 462.129,
+      "to": 464.37,
+      "sid": 198,
+      "location": 2,
+      "content": "比如说比较火的那种大海捞针",
+      "music": 0.0
+    },
+    {
+      "from": 464.37,
+      "to": 467.22,
+      "sid": 199,
+      "location": 2,
+      "content": "那就是在一个很长很长的这样一个文档里面",
+      "music": 0.0
+    },
+    {
+      "from": 467.22,
+      "to": 468.75,
+      "sid": 200,
+      "location": 2,
+      "content": "比如说一篇很长的小说",
+      "music": 0.0
+    },
+    {
+      "from": 468.75,
+      "to": 471.82,
+      "sid": 201,
+      "location": 2,
+      "content": "你可能在某一个位置突然插入一个",
+      "music": 0.0
+    },
+    {
+      "from": 471.82,
+      "to": 473.98,
+      "sid": 202,
+      "location": 2,
+      "content": "就是不相关的一句话",
+      "music": 0.0
+    },
+    {
+      "from": 473.98,
+      "to": 476.02,
+      "sid": 203,
+      "location": 2,
+      "content": "比如说小明在上海人工智能实验室学习",
+      "music": 0.0
+    },
+    {
+      "from": 476.02,
+      "to": 477.98,
+      "sid": 204,
+      "location": 2,
+      "content": "就给它插到红楼梦里面",
+      "music": 0.0
+    },
+    {
+      "from": 477.98,
+      "to": 480.8,
+      "sid": 205,
+      "location": 2,
+      "content": "然后你让模型读完了这本书之后",
+      "music": 0.0
+    },
+    {
+      "from": 480.8,
+      "to": 482.3,
+      "sid": 206,
+      "location": 2,
+      "content": "然后你再问啊",
+      "music": 0.0
+    },
+    {
+      "from": 482.3,
+      "to": 483.549,
+      "sid": 207,
+      "location": 2,
+      "content": "小明在哪里实习",
+      "music": 0.0
+    },
+    {
+      "from": 483.549,
+      "to": 485.589,
+      "sid": 208,
+      "location": 2,
+      "content": "那它模型如果能回答出来",
+      "music": 0.0
+    },
+    {
+      "from": 485.589,
+      "to": 488.409,
+      "sid": 209,
+      "location": 2,
+      "content": "那就证明他的这个长文本能力很好",
+      "music": 0.0
+    },
+    {
+      "from": 488.409,
+      "to": 489.369,
+      "sid": 210,
+      "location": 2,
+      "content": "他能够记得住",
+      "music": 0.0
+    },
+    {
+      "from": 489.369,
+      "to": 490.749,
+      "sid": 211,
+      "location": 2,
+      "content": "确实是能够记住",
+      "music": 0.0
+    },
+    {
+      "from": 490.749,
+      "to": 495.39,
+      "sid": 212,
+      "location": 2,
+      "content": "他在这个这个呃某个地方读到了这样一句话",
+      "music": 0.0
+    },
+    {
+      "from": 495.39,
+      "to": 497.1,
+      "sid": 213,
+      "location": 2,
+      "content": "他是能够理解的",
+      "music": 0.0
+    },
+    {
+      "from": 497.1,
+      "to": 499.68,
+      "sid": 214,
+      "location": 2,
+      "content": "那我们也会也是支持这样的长文本",
+      "music": 0.0
+    },
+    {
+      "from": 499.68,
+      "to": 501.53,
+      "sid": 215,
+      "location": 2,
+      "content": "大海捞针的这个评测的",
+      "music": 0.0
+    },
+    {
+      "from": 501.53,
+      "to": 504.83,
+      "sid": 216,
+      "location": 2,
+      "content": "然后所以就是说我们其实也是基于呃",
+      "music": 0.0
+    },
+    {
+      "from": 504.83,
+      "to": 506.03,
+      "sid": 217,
+      "location": 2,
+      "content": "汇集了社区的力量",
+      "music": 0.0
+    },
+    {
+      "from": 506.03,
+      "to": 508.909,
+      "sid": 218,
+      "location": 2,
+      "content": "只有工具基准和榜单三位一体",
+      "music": 0.0
+    },
+    {
+      "from": 508.909,
+      "to": 513.079,
+      "sid": 219,
+      "location": 2,
+      "content": "然后我们会及时啊收听社区的一些需求",
+      "music": 0.0
+    },
+    {
+      "from": 513.079,
+      "to": 516.509,
+      "sid": 220,
+      "location": 2,
+      "content": "然后我们也会呃每个月会定期更新榜单",
+      "music": 0.0
+    },
+    {
+      "from": 516.509,
+      "to": 518.969,
+      "sid": 221,
+      "location": 2,
+      "content": "然后实时的更新当前哪些模型的",
+      "music": 0.0
+    },
+    {
+      "from": 518.969,
+      "to": 520.19,
+      "sid": 222,
+      "location": 2,
+      "content": "这个性能比较好",
+      "music": 0.0
+    },
+    {
+      "from": 520.19,
+      "to": 522.95,
+      "sid": 223,
+      "location": 2,
+      "content": "然后最后去优化我们啊我们这个工具",
+      "music": 0.0
+    },
+    {
+      "from": 522.95,
+      "to": 525.79,
+      "sid": 224,
+      "location": 2,
+      "content": "然后再给到社区反馈这样子",
+      "music": 0.0
+    },
+    {
+      "from": 526.13,
+      "to": 529.27,
+      "sid": 225,
+      "location": 2,
+      "content": "所以我们啊我们现在也是有一个比较权力",
+      "music": 0.0
+    },
+    {
+      "from": 529.27,
+      "to": 531.22,
+      "sid": 226,
+      "location": 2,
+      "content": "全面中立的这样一个性能的榜单",
+      "music": 0.0
+    },
+    {
+      "from": 531.22,
+      "to": 533.65,
+      "sid": 227,
+      "location": 2,
+      "content": "然后已经有100多个大模型",
+      "music": 0.0
+    },
+    {
+      "from": 533.65,
+      "to": 536.05,
+      "sid": 228,
+      "location": 2,
+      "content": "就是已经定向加入我们的评测",
+      "music": 0.0
+    },
+    {
+      "from": 536.05,
+      "to": 538.63,
+      "sid": 229,
+      "location": 2,
+      "content": "包括也还有我们还有多模态的榜单",
+      "music": 0.0
+    },
+    {
+      "from": 538.63,
+      "to": 541.51,
+      "sid": 230,
+      "location": 2,
+      "content": "就除了刚刚的这个大语言模型的这个评测之外",
+      "music": 0.0
+    },
+    {
+      "from": 541.51,
+      "to": 547.11,
+      "sid": 231,
+      "location": 2,
+      "content": "多模态的也是在一直在更新中的啊",
+      "music": 0.0
+    },
+    {
+      "from": 547.11,
+      "to": 550.74,
+      "sid": 232,
+      "location": 2,
+      "content": "就除了刚刚讲的那些比较基础的功能之外",
+      "music": 0.0
+    },
+    {
+      "from": 550.74,
+      "to": 554.22,
+      "sid": 233,
+      "location": 2,
+      "content": "然后我们就是其实也是一个比较全栈的工具链",
+      "music": 0.0
+    },
+    {
+      "from": 554.22,
+      "to": 558.43,
+      "sid": 234,
+      "location": 2,
+      "content": "就是啊包括比如说啊评测的时候",
+      "music": 0.0
+    },
+    {
+      "from": 558.43,
+      "to": 560.05,
+      "sid": 235,
+      "location": 2,
+      "content": "用hug face这个模型",
+      "music": 0.0
+    },
+    {
+      "from": 560.05,
+      "to": 561.52,
+      "sid": 236,
+      "location": 2,
+      "content": "它可能评测的速度比较慢",
+      "music": 0.0
+    },
+    {
+      "from": 561.52,
+      "to": 566.38,
+      "sid": 237,
+      "location": 2,
+      "content": "那我们也是直接支持去更换推模型的推理",
+      "music": 0.0
+    },
+    {
+      "from": 566.38,
+      "to": 566.8,
+      "sid": 238,
+      "location": 2,
+      "content": "后端的",
+      "music": 0.0
+    },
+    {
+      "from": 566.8,
+      "to": 569.8,
+      "sid": 239,
+      "location": 2,
+      "content": "比如说更换mm i m deploy",
+      "music": 0.0
+    },
+    {
+      "from": 569.8,
+      "to": 571.3,
+      "sid": 240,
+      "location": 2,
+      "content": "更换VM之类的",
+      "music": 0.0
+    },
+    {
+      "from": 571.3,
+      "to": 572.2,
+      "sid": 241,
+      "location": 2,
+      "content": "就更换了这些",
+      "music": 0.0
+    },
+    {
+      "from": 572.2,
+      "to": 574.98,
+      "sid": 242,
+      "location": 2,
+      "content": "后完之后你的模型推理速度就会变得非常快",
+      "music": 0.0
+    },
+    {
+      "from": 574.98,
+      "to": 577.32,
+      "sid": 243,
+      "location": 2,
+      "content": "然后这也是我们啊支持的",
+      "music": 0.0
+    },
+    {
+      "from": 577.32,
+      "to": 580.069,
+      "sid": 244,
+      "location": 2,
+      "content": "包括刚刚提到的数据污染和长文本能力",
+      "music": 0.0
+    },
+    {
+      "from": 580.069,
+      "to": 582.709,
+      "sid": 245,
+      "location": 2,
+      "content": "以及啊中英文双语的这些评测之外",
+      "music": 0.0
+    },
+    {
+      "from": 582.709,
+      "to": 585.48,
+      "sid": 246,
+      "location": 2,
+      "content": "我们其实现在都是越来越支持这些功能的",
+      "music": 0.0
+    },
+    {
+      "from": 585.48,
+      "to": 588.94,
+      "sid": 247,
+      "location": 2,
+      "content": "这也是我们2.0的这样一个升级的所在之处",
+      "music": 0.0
+    },
+    {
+      "from": 588.94,
+      "to": 591.4,
+      "sid": 248,
+      "location": 2,
+      "content": "然后啊我们还有一个比较大的优势",
+      "music": 0.0
+    },
+    {
+      "from": 591.4,
+      "to": 593.26,
+      "sid": 249,
+      "location": 2,
+      "content": "就是说我们有评测的流水线",
+      "music": 0.0
+    },
+    {
+      "from": 593.26,
+      "to": 597.26,
+      "sid": 250,
+      "location": 2,
+      "content": "这也是我们与其他的这个啊评测的一些体系",
+      "music": 0.0
+    },
+    {
+      "from": 597.26,
+      "to": 598.29,
+      "sid": 251,
+      "location": 2,
+      "content": "不同的一个点",
+      "music": 0.0
+    },
+    {
+      "from": 598.29,
+      "to": 600.99,
+      "sid": 252,
+      "location": 2,
+      "content": "就是说除了我们可以自定义任意的模型",
+      "music": 0.0
+    },
+    {
+      "from": 600.99,
+      "to": 602.52,
+      "sid": 253,
+      "location": 2,
+      "content": "自定义任意的数据集之外",
+      "music": 0.0
+    },
+    {
+      "from": 602.52,
+      "to": 606.099,
+      "sid": 254,
+      "location": 2,
+      "content": "然后我们还会去对这个模型和数据集",
+      "music": 0.0
+    },
+    {
+      "from": 606.099,
+      "to": 607.479,
+      "sid": 255,
+      "location": 2,
+      "content": "进行一个切分",
+      "music": 0.0
+    },
+    {
+      "from": 607.479,
+      "to": 609.309,
+      "sid": 256,
+      "location": 2,
+      "content": "然后来做到并行化",
+      "music": 0.0
+    },
+    {
+      "from": 609.309,
+      "to": 611.52,
+      "sid": 257,
+      "location": 2,
+      "content": "就比如说一个任务啊",
+      "music": 0.0
+    },
+    {
+      "from": 611.52,
+      "to": 614.64,
+      "sid": 258,
+      "location": 2,
+      "content": "就就如果他正常来说它是串行的话",
+      "music": 0.0
+    },
+    {
+      "from": 614.64,
+      "to": 618.13,
+      "sid": 259,
+      "location": 2,
+      "content": "那可能他在比如说我们有很多GPU",
+      "music": 0.0
+    },
+    {
+      "from": 618.13,
+      "to": 621.19,
+      "sid": 260,
+      "location": 2,
+      "content": "但是但是他同时在就他一直在串行跑这个任务",
+      "music": 0.0
+    },
+    {
+      "from": 621.19,
+      "to": 623.329,
+      "sid": 261,
+      "location": 2,
+      "content": "他可能要评测很久才能评测出来",
+      "music": 0.0
+    },
+    {
+      "from": 623.329,
+      "to": 625.429,
+      "sid": 262,
+      "location": 2,
+      "content": "然后我们就是支持非常灵活的",
+      "music": 0.0
+    },
+    {
+      "from": 625.429,
+      "to": 627.709,
+      "sid": 263,
+      "location": 2,
+      "content": "可以去进行这样一个任务的切分",
+      "music": 0.0
+    },
+    {
+      "from": 627.709,
+      "to": 629.479,
+      "sid": 264,
+      "location": 2,
+      "content": "从而高效利用起我们的资源",
+      "music": 0.0
+    },
+    {
+      "from": 629.479,
+      "to": 631.849,
+      "sid": 265,
+      "location": 2,
+      "content": "去并行的去跑呃多个任务",
+      "music": 0.0
+    },
+    {
+      "from": 631.849,
+      "to": 633.559,
+      "sid": 266,
+      "location": 2,
+      "content": "然后最后就能够得到",
+      "music": 0.0
+    },
+    {
+      "from": 633.559,
+      "to": 636.199,
+      "sid": 267,
+      "location": 2,
+      "content": "就是最后啊所有的这个结果",
+      "music": 0.0
+    },
+    {
+      "from": 636.199,
+      "to": 639.07,
+      "sid": 268,
+      "location": 2,
+      "content": "然后面是支持呃多种的这个输出的",
+      "music": 0.0
+    },
+    {
+      "from": 639.07,
+      "to": 640.93,
+      "sid": 269,
+      "location": 2,
+      "content": "这个结果直接在terminal里输出",
+      "music": 0.0
+    },
+    {
+      "from": 640.93,
+      "to": 642.07,
+      "sid": 270,
+      "location": 2,
+      "content": "或者说在一个表格",
+      "music": 0.0
+    },
+    {
+      "from": 642.07,
+      "to": 643.68,
+      "sid": 271,
+      "location": 2,
+      "content": "在一个TXT输出",
+      "music": 0.0
+    },
+    {
+      "from": 643.68,
+      "to": 645.9,
+      "sid": 272,
+      "location": 2,
+      "content": "我们也是可以最大化的去利用",
+      "music": 0.0
+    },
+    {
+      "from": 645.9,
+      "to": 648.12,
+      "sid": 273,
+      "location": 2,
+      "content": "我们的计算资源啊",
+      "music": 0.0
+    },
+    {
+      "from": 648.12,
+      "to": 651.25,
+      "sid": 274,
+      "location": 2,
+      "content": "这就是我们刚刚说的这个全站的这个工具链",
+      "music": 0.0
+    },
+    {
+      "from": 651.25,
+      "to": 653.53,
+      "sid": 275,
+      "location": 2,
+      "content": "然后呃这这这些的话",
+      "music": 0.0
+    },
+    {
+      "from": 653.53,
+      "to": 656.56,
+      "sid": 276,
+      "location": 2,
+      "content": "就是包括说我们刚刚这个open pass",
+      "music": 0.0
+    },
+    {
+      "from": 656.56,
+      "to": 658.11,
+      "sid": 277,
+      "location": 2,
+      "content": "主要的这个仓库之外",
+      "music": 0.0
+    },
+    {
+      "from": 658.11,
+      "to": 661.32,
+      "sid": 278,
+      "location": 2,
+      "content": "然后还有多门派的这个评测的这个工具",
+      "music": 0.0
+    },
+    {
+      "from": 661.32,
+      "to": 663.21,
+      "sid": 279,
+      "location": 2,
+      "content": "叫做vm evo kit",
+      "music": 0.0
+    },
+    {
+      "from": 663.21,
+      "to": 667.03,
+      "sid": 280,
+      "location": 2,
+      "content": "它也是在这个我们这个仓库里面的",
+      "music": 0.0
+    },
+    {
+      "from": 667.03,
+      "to": 669.82,
+      "sid": 281,
+      "location": 2,
+      "content": "然后包括还有一些专门用于代码评测的工具",
+      "music": 0.0
+    },
+    {
+      "from": 669.82,
+      "to": 672.99,
+      "sid": 282,
+      "location": 2,
+      "content": "以及专门用于MOE模型的这样一个入门工具",
+      "music": 0.0
+    },
+    {
+      "from": 672.99,
+      "to": 677.38,
+      "sid": 283,
+      "location": 2,
+      "content": "这些这些也都是在我们的这个仓库里能找到的",
+      "music": 0.0
+    },
+    {
+      "from": 678.44,
+      "to": 682.829,
+      "sid": 284,
+      "location": 2,
+      "content": "然后这个的话就是啊我们也在建立一个",
+      "music": 0.0
+    },
+    {
+      "from": 682.829,
+      "to": 684.749,
+      "sid": 285,
+      "location": 2,
+      "content": "就比较比较更加",
+      "music": 0.0
+    },
+    {
+      "from": 684.749,
+      "to": 687.359,
+      "sid": 286,
+      "location": 2,
+      "content": "这个共建共享的这样一个基准社区",
+      "music": 0.0
+    },
+    {
+      "from": 687.359,
+      "to": 689.909,
+      "sid": 287,
+      "location": 2,
+      "content": "我们容纳了很多这样的这个数据集",
+      "music": 0.0
+    },
+    {
+      "from": 689.909,
+      "to": 691.68,
+      "sid": 288,
+      "location": 2,
+      "content": "像罗曼是TV之类的",
+      "music": 0.0
+    },
+    {
+      "from": 691.68,
+      "to": 694.26,
+      "sid": 289,
+      "location": 2,
+      "content": "然后他们都会就是在我们的这个网页上",
+      "music": 0.0
+    },
+    {
+      "from": 694.26,
+      "to": 695.34,
+      "sid": 290,
+      "location": 2,
+      "content": "都能够直接找到",
+      "music": 0.0
+    },
+    {
+      "from": 695.34,
+      "to": 697.14,
+      "sid": 291,
+      "location": 2,
+      "content": "然后可以点进去看一看",
+      "music": 0.0
+    },
+    {
+      "from": 697.14,
+      "to": 698.95,
+      "sid": 292,
+      "location": 2,
+      "content": "他这个数据集的这个介绍",
+      "music": 0.0
+    },
+    {
+      "from": 698.95,
+      "to": 701.77,
+      "sid": 293,
+      "location": 2,
+      "content": "包括这个数据集下面的各个模型的",
+      "music": 0.0
+    },
+    {
+      "from": 701.77,
+      "to": 704.05,
+      "sid": 294,
+      "location": 2,
+      "content": "这个评测结果",
+      "music": 0.0
+    },
+    {
+      "from": 707.6,
+      "to": 708.37,
+      "sid": 295,
+      "location": 2,
+      "content": "啊",
+      "music": 0.0
+    },
+    {
+      "from": 708.37,
+      "to": 709.9,
+      "sid": 296,
+      "location": 2,
+      "content": "然后我们2.0里面",
+      "music": 0.0
+    },
+    {
+      "from": 709.9,
+      "to": 713.5,
+      "sid": 297,
+      "location": 2,
+      "content": "还有就是一个比较全面升级的一个点",
+      "music": 0.0
+    },
+    {
+      "from": 713.5,
+      "to": 715.129,
+      "sid": 298,
+      "location": 2,
+      "content": "就是在基础能力上",
+      "music": 0.0
+    },
+    {
+      "from": 715.129,
+      "to": 717.469,
+      "sid": 299,
+      "location": 2,
+      "content": "我们除了之前的语言知识理解之外",
+      "music": 0.0
+    },
+    {
+      "from": 717.469,
+      "to": 720.89,
+      "sid": 300,
+      "location": 2,
+      "content": "现在还加入了数学代码和推理这些呃",
+      "music": 0.0
+    },
+    {
+      "from": 720.89,
+      "to": 722.81,
+      "sid": 301,
+      "location": 2,
+      "content": "就更加丰富了他的这个基础能力",
+      "music": 0.0
+    },
+    {
+      "from": 722.81,
+      "to": 723.77,
+      "sid": 302,
+      "location": 2,
+      "content": "然后在综合能力上",
+      "music": 0.0
+    },
+    {
+      "from": 723.77,
+      "to": 725.56,
+      "sid": 303,
+      "location": 2,
+      "content": "我们就是对上面的这些啊",
+      "music": 0.0
+    },
+    {
+      "from": 725.56,
+      "to": 727.3,
+      "sid": 304,
+      "location": 2,
+      "content": "技术能力进行了更多的组合",
+      "music": 0.0
+    },
+    {
+      "from": 727.3,
+      "to": 729.1,
+      "sid": 305,
+      "location": 2,
+      "content": "然后综合考察大模型",
+      "music": 0.0
+    },
+    {
+      "from": 729.1,
+      "to": 732.25,
+      "sid": 306,
+      "location": 2,
+      "content": "运用各种知识去进行理解分析",
+      "music": 0.0
+    },
+    {
+      "from": 732.25,
+      "to": 734.5,
+      "sid": 307,
+      "location": 2,
+      "content": "都不推理这样一个能力",
+      "music": 0.0
+    },
+    {
+      "from": 734.96,
+      "to": 736.06,
+      "sid": 308,
+      "location": 2,
+      "content": "然后除此之外",
+      "music": 0.0
+    },
+    {
+      "from": 736.06,
+      "to": 738.34,
+      "sid": 309,
+      "location": 2,
+      "content": "我们还自研了很多的这个数据集",
+      "music": 0.0
+    },
+    {
+      "from": 738.34,
+      "to": 741.81,
+      "sid": 310,
+      "location": 2,
+      "content": "就也就是说除了就是市面上公开了一些这个",
+      "music": 0.0
+    },
+    {
+      "from": 741.81,
+      "to": 742.71,
+      "sid": 311,
+      "location": 2,
+      "content": "评测机之外",
+      "music": 0.0
+    },
+    {
+      "from": 742.71,
+      "to": 744.81,
+      "sid": 312,
+      "location": 2,
+      "content": "我们自己也自研了特别多的这个数据",
+      "music": 0.0
+    },
+    {
+      "from": 744.81,
+      "to": 747.63,
+      "sid": 313,
+      "location": 2,
+      "content": "比如说呃专门用于评测数学的max bench",
+      "music": 0.0
+    },
+    {
+      "from": 747.63,
+      "to": 749.52,
+      "sid": 314,
+      "location": 2,
+      "content": "然后专门用于评测这个模型",
+      "music": 0.0
+    },
+    {
+      "from": 749.52,
+      "to": 751.17,
+      "sid": 315,
+      "location": 2,
+      "content": "反思能力的critical bench",
+      "music": 0.0
+    },
+    {
+      "from": 751.17,
+      "to": 755.16,
+      "sid": 316,
+      "location": 2,
+      "content": "然后嗯嗯评测模型使用工具能力的TV等等",
+      "music": 0.0
+    },
+    {
+      "from": 755.16,
+      "to": 757.62,
+      "sid": 317,
+      "location": 2,
+      "content": "就是这些这些自研的这个数据集",
+      "music": 0.0
+    },
+    {
+      "from": 757.62,
+      "to": 759.0,
+      "sid": 318,
+      "location": 2,
+      "content": "我们也是在不断的更新",
+      "music": 0.0
+    },
+    {
+      "from": 759.0,
+      "to": 762.66,
+      "sid": 319,
+      "location": 2,
+      "content": "也会有更多就是精英社区同学的这个需求",
+      "music": 0.0
+    },
+    {
+      "from": 762.66,
+      "to": 766.45,
+      "sid": 320,
+      "location": 2,
+      "content": "然后去啊自研更多的这个数据集来评测模型",
+      "music": 0.0
+    },
+    {
+      "from": 766.45,
+      "to": 767.77,
+      "sid": 321,
+      "location": 2,
+      "content": "各种各样的能力",
+      "music": 0.0
+    },
+    {
+      "from": 767.77,
+      "to": 768.73,
+      "sid": 322,
+      "location": 2,
+      "content": "对啊",
+      "music": 0.0
+    },
+    {
+      "from": 768.73,
+      "to": 769.75,
+      "sid": 323,
+      "location": 2,
+      "content": "比如说max bench的话",
+      "music": 0.0
+    },
+    {
+      "from": 769.75,
+      "to": 771.85,
+      "sid": 324,
+      "location": 2,
+      "content": "就是它区分了小学",
+      "music": 0.0
+    },
+    {
+      "from": 771.85,
+      "to": 776.74,
+      "sid": 325,
+      "location": 2,
+      "content": "初中高中大学这样四个啊不同层次的这个题目",
+      "music": 0.0
+    },
+    {
+      "from": 776.74,
+      "to": 779.28,
+      "sid": 326,
+      "location": 2,
+      "content": "然后然后这这也是我们自建的嘛",
+      "music": 0.0
+    },
+    {
+      "from": 779.28,
+      "to": 782.52,
+      "sid": 327,
+      "location": 2,
+      "content": "然后就注重了这个梯度的这个难度的考察",
+      "music": 0.0
+    },
+    {
+      "from": 782.52,
+      "to": 785.819,
+      "sid": 328,
+      "location": 2,
+      "content": "然后题目来源也是多种多样的",
+      "music": 0.0
+    },
+    {
+      "from": 786.099,
+      "to": 787.619,
+      "sid": 329,
+      "location": 2,
+      "content": "好像ci bench的话",
+      "music": 0.0
+    },
+    {
+      "from": 787.619,
+      "to": 790.079,
+      "sid": 330,
+      "location": 2,
+      "content": "它是一个啊也是用于评测代码的",
+      "music": 0.0
+    },
+    {
+      "from": 790.079,
+      "to": 794.01,
+      "sid": 331,
+      "location": 2,
+      "content": "这样专门用评测代码解释的这样一个呃评测机",
+      "music": 0.0
+    },
+    {
+      "from": 794.01,
+      "to": 795.45,
+      "sid": 332,
+      "location": 2,
+      "content": "然后他也是多种多样",
+      "music": 0.0
+    },
+    {
+      "from": 795.45,
+      "to": 797.149,
+      "sid": 333,
+      "location": 2,
+      "content": "比如说对于Python的话",
+      "music": 0.0
+    },
+    {
+      "from": 797.149,
+      "to": 799.189,
+      "sid": 334,
+      "location": 2,
+      "content": "它有PANAS库",
+      "music": 0.0
+    },
+    {
+      "from": 799.189,
+      "to": 801.589,
+      "sid": 335,
+      "location": 2,
+      "content": "然后MATTMATTPLEAF库等等",
+      "music": 0.0
+    },
+    {
+      "from": 801.589,
+      "to": 804.5,
+      "sid": 336,
+      "location": 2,
+      "content": "然后会要求这个模型",
+      "music": 0.0
+    },
+    {
+      "from": 804.5,
+      "to": 806.93,
+      "sid": 337,
+      "location": 2,
+      "content": "对这些代码去进行一个解释",
+      "music": 0.0
+    },
+    {
+      "from": 806.93,
+      "to": 810.06,
+      "sid": 338,
+      "location": 2,
+      "content": "然后也是有多个难度分级的",
+      "music": 0.0
+    },
+    {
+      "from": 810.06,
+      "to": 814.62,
+      "sid": 339,
+      "location": 2,
+      "content": "然后TV的话也是去啊让模型先去规划",
+      "music": 0.0
+    },
+    {
+      "from": 814.62,
+      "to": 817.45,
+      "sid": 340,
+      "location": 2,
+      "content": "然后怎么样去调用工具进行一个测评",
+      "music": 0.0
+    },
+    {
+      "from": 817.45,
+      "to": 821.98,
+      "sid": 341,
+      "location": 2,
+      "content": "那我们啊欧美plus呢也是携手各个的这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 821.98,
+      "to": 825.07,
+      "sid": 342,
+      "location": 2,
+      "content": "在行业行业各个行业垂直领域的话",
+      "music": 0.0
+    },
+    {
+      "from": 825.07,
+      "to": 828.0,
+      "sid": 343,
+      "location": 2,
+      "content": "也是去呃建立了一些相关的合作",
+      "music": 0.0
+    },
+    {
+      "from": 828.0,
+      "to": 830.389,
+      "sid": 344,
+      "location": 2,
+      "content": "比如说对于这个跟东方财富",
+      "music": 0.0
+    },
+    {
+      "from": 830.389,
+      "to": 831.919,
+      "sid": 345,
+      "location": 2,
+      "content": "进行了这样金融的合作",
+      "music": 0.0
+    },
+    {
+      "from": 831.919,
+      "to": 835.009,
+      "sid": 346,
+      "location": 2,
+      "content": "然后跟南京大学那边做了这个法律",
+      "music": 0.0
+    },
+    {
+      "from": 835.009,
+      "to": 837.569,
+      "sid": 347,
+      "location": 2,
+      "content": "专专门基于法律去做评测",
+      "music": 0.0
+    },
+    {
+      "from": 837.569,
+      "to": 839.069,
+      "sid": 348,
+      "location": 2,
+      "content": "这样一个包括MAD match",
+      "music": 0.0
+    },
+    {
+      "from": 839.069,
+      "to": 841.819,
+      "sid": 349,
+      "location": 2,
+      "content": "专门做中国医疗的评测等等",
+      "music": 0.0
+    },
+    {
+      "from": 841.819,
+      "to": 844.459,
+      "sid": 350,
+      "location": 2,
+      "content": "那么最后就是欢迎大家啊",
+      "music": 0.0
+    },
+    {
+      "from": 844.459,
+      "to": 846.559,
+      "sid": 351,
+      "location": 2,
+      "content": "就持续关注我们的这个评论体系",
+      "music": 0.0
+    },
+    {
+      "from": 846.559,
+      "to": 848.97,
+      "sid": 352,
+      "location": 2,
+      "content": "我们也会收听大家的这样啊",
+      "music": 0.0
+    },
+    {
+      "from": 848.97,
+      "to": 851.07,
+      "sid": 353,
+      "location": 2,
+      "content": "这样的一些声音和问题",
+      "music": 0.0
+    },
+    {
+      "from": 851.07,
+      "to": 852.75,
+      "sid": 354,
+      "location": 2,
+      "content": "然后会给大家反馈",
+      "music": 0.0
+    },
+    {
+      "from": 852.75,
+      "to": 853.59,
+      "sid": 355,
+      "location": 2,
+      "content": "去更加优化",
+      "music": 0.0
+    },
+    {
+      "from": 853.59,
+      "to": 856.47,
+      "sid": 356,
+      "location": 2,
+      "content": "我们的欧盟这样整个一个评测的体系",
+      "music": 0.0
+    },
+    {
+      "from": 856.47,
+      "to": 859.92,
+      "sid": 357,
+      "location": 2,
+      "content": "那么今天就是第一阶段的这个课程就到这里",
+      "music": 0.0
+    },
+    {
+      "from": 859.92,
+      "to": 864.07,
+      "sid": 358,
+      "location": 2,
+      "content": "然后稍后的话我们会讲解我们的这个代码部",
+      "music": 0.0
+    },
+    {
+      "from": 864.07,
+      "to": 865.51,
+      "sid": 359,
+      "location": 2,
+      "content": "分的这个实战讲解",
+      "music": 0.0
+    },
+    {
+      "from": 865.51,
+      "to": 867.73,
+      "sid": 360,
+      "location": 2,
+      "content": "会带大家进行一个实操的讲解",
+      "music": 0.0
+    },
+    {
+      "from": 867.73,
+      "to": 871.409,
+      "sid": 361,
+      "location": 2,
+      "content": "谢谢大家哈喽大家好",
+      "music": 0.0
+    },
+    {
+      "from": 871.409,
+      "to": 874.109,
+      "sid": 362,
+      "location": 2,
+      "content": "那现在就进入到我们的代码实战的环节",
+      "music": 0.0
+    },
+    {
+      "from": 874.109,
+      "to": 876.269,
+      "sid": 363,
+      "location": 2,
+      "content": "那这个环节呢我主要是先啊",
+      "music": 0.0
+    },
+    {
+      "from": 876.269,
+      "to": 878.87,
+      "sid": 364,
+      "location": 2,
+      "content": "今天为大家讲解一下以下四个部分",
+      "music": 0.0
+    },
+    {
+      "from": 878.87,
+      "to": 882.579,
+      "sid": 365,
+      "location": 2,
+      "content": "第一个部分呢是怎样去启动我们open plus的评测",
+      "music": 0.0
+    },
+    {
+      "from": 882.579,
+      "to": 884.619,
+      "sid": 366,
+      "location": 2,
+      "content": "然后第二个呢是稍微讲解一下",
+      "music": 0.0
+    },
+    {
+      "from": 884.619,
+      "to": 887.889,
+      "sid": 367,
+      "location": 2,
+      "content": "奥特曼评测的这个代码的运行逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 887.889,
+      "to": 889.2,
+      "sid": 368,
+      "location": 2,
+      "content": "整个流程逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 889.2,
+      "to": 892.76,
+      "sid": 369,
+      "location": 2,
+      "content": "然后第三呢是讲解一下如何去啊",
+      "music": 0.0
+    },
+    {
+      "from": 892.76,
+      "to": 894.68,
+      "sid": 370,
+      "location": 2,
+      "content": "实现一个自定义的这个数据集",
+      "music": 0.0
+    },
+    {
+      "from": 894.68,
+      "to": 897.51,
+      "sid": 371,
+      "location": 2,
+      "content": "就如何自己去支持一个自建数据集的评测",
+      "music": 0.0
+    },
+    {
+      "from": 897.51,
+      "to": 901.17,
+      "sid": 372,
+      "location": 2,
+      "content": "然后第四个呢是讲解一些呃OS的其他功能",
+      "music": 0.0
+    },
+    {
+      "from": 901.17,
+      "to": 903.75,
+      "sid": 373,
+      "location": 2,
+      "content": "这样的一个相关的介绍啊",
+      "music": 0.0
+    },
+    {
+      "from": 903.75,
+      "to": 907.53,
+      "sid": 374,
+      "location": 2,
+      "content": "那首先第一个部分就是我们去如何去启动",
+      "music": 0.0
+    },
+    {
+      "from": 907.53,
+      "to": 909.02,
+      "sid": 375,
+      "location": 2,
+      "content": "max的这样一个评测",
+      "music": 0.0
+    },
+    {
+      "from": 909.02,
+      "to": 912.74,
+      "sid": 376,
+      "location": 2,
+      "content": "那首先就是有些同学可能就是啊找不到啊",
+      "music": 0.0
+    },
+    {
+      "from": 912.74,
+      "to": 913.82,
+      "sid": 377,
+      "location": 2,
+      "content": "vs code在哪里啊",
+      "music": 0.0
+    },
+    {
+      "from": 913.82,
+      "to": 915.5,
+      "sid": 378,
+      "location": 2,
+      "content": "那我们就进入studio之后",
+      "music": 0.0
+    },
+    {
+      "from": 915.5,
+      "to": 919.21,
+      "sid": 379,
+      "location": 2,
+      "content": "就点击左上角这个这个vs code这个图标",
+      "music": 0.0
+    },
+    {
+      "from": 919.21,
+      "to": 921.19,
+      "sid": 380,
+      "location": 2,
+      "content": "其实就可以就是进入到这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 921.19,
+      "to": 923.31,
+      "sid": 381,
+      "location": 2,
+      "content": "然后自己新建一个terminal就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 923.31,
+      "to": 926.97,
+      "sid": 382,
+      "location": 2,
+      "content": "然后呃那至于我们如何去启动OPENUS的评测呢",
+      "music": 0.0
+    },
+    {
+      "from": 926.97,
+      "to": 929.79,
+      "sid": 383,
+      "location": 2,
+      "content": "那一般来说的话主要是有两种方式",
+      "music": 0.0
+    },
+    {
+      "from": 929.79,
+      "to": 932.19,
+      "sid": 384,
+      "location": 2,
+      "content": "第一种就是纯用命令行",
+      "music": 0.0
+    },
+    {
+      "from": 932.19,
+      "to": 935.43,
+      "sid": 385,
+      "location": 2,
+      "content": "然后第二种呢就是用命令行加上CONFIG",
+      "music": 0.0
+    },
+    {
+      "from": 935.43,
+      "to": 936.69,
+      "sid": 386,
+      "location": 2,
+      "content": "这样一个形式啊",
+      "music": 0.0
+    },
+    {
+      "from": 936.69,
+      "to": 939.13,
+      "sid": 387,
+      "location": 2,
+      "content": "就是Python running pyl加上CONFIG这样一个形式",
+      "music": 0.0
+    },
+    {
+      "from": 939.13,
+      "to": 941.47,
+      "sid": 388,
+      "location": 2,
+      "content": "那我们就来一个一个的讲解",
+      "music": 0.0
+    },
+    {
+      "from": 941.47,
+      "to": 944.35,
+      "sid": 389,
+      "location": 2,
+      "content": "那首先我是比较喜欢用BS脚本的",
+      "music": 0.0
+    },
+    {
+      "from": 944.35,
+      "to": 946.03,
+      "sid": 390,
+      "location": 2,
+      "content": "所以我就会把所有的这个命令",
+      "music": 0.0
+    },
+    {
+      "from": 946.03,
+      "to": 947.95,
+      "sid": 391,
+      "location": 2,
+      "content": "全部写在一个BH脚本里面啊",
+      "music": 0.0
+    },
+    {
+      "from": 947.95,
+      "to": 952.32,
+      "sid": 392,
+      "location": 2,
+      "content": "比如说啊就这里先进入到欧盟这样一个路径",
+      "music": 0.0
+    },
+    {
+      "from": 952.32,
+      "to": 955.2,
+      "sid": 393,
+      "location": 2,
+      "content": "然后激活M的虚拟环境",
+      "music": 0.0
+    },
+    {
+      "from": 955.66,
+      "to": 958.02,
+      "sid": 394,
+      "location": 2,
+      "content": "那么这个这个虚拟环境啊",
+      "music": 0.0
+    },
+    {
+      "from": 958.02,
+      "to": 960.39,
+      "sid": 395,
+      "location": 2,
+      "content": "以及这个GITHUB的这个clone",
+      "music": 0.0
+    },
+    {
+      "from": 960.39,
+      "to": 962.46,
+      "sid": 396,
+      "location": 2,
+      "content": "就假设大家已经前面已经完成过了",
+      "music": 0.0
+    },
+    {
+      "from": 962.46,
+      "to": 963.39,
+      "sid": 397,
+      "location": 2,
+      "content": "已经get ln",
+      "music": 0.0
+    },
+    {
+      "from": 963.39,
+      "to": 965.72,
+      "sid": 398,
+      "location": 2,
+      "content": "然后安装过相关的虚拟环境",
+      "music": 0.0
+    },
+    {
+      "from": 965.72,
+      "to": 969.38,
+      "sid": 399,
+      "location": 2,
+      "content": "我这里第三行呢这个是一个呃环境变量",
+      "music": 0.0
+    },
+    {
+      "from": 969.38,
+      "to": 971.6,
+      "sid": 400,
+      "location": 2,
+      "content": "因为如果就跑的时候",
+      "music": 0.0
+    },
+    {
+      "from": 971.6,
+      "to": 974.88,
+      "sid": 401,
+      "location": 2,
+      "content": "可能啊像我们这边的这个开发机上",
+      "music": 0.0
+    },
+    {
+      "from": 974.88,
+      "to": 978.48,
+      "sid": 402,
+      "location": 2,
+      "content": "它的这个这个环境的配置可能有些问题",
+      "music": 0.0
+    },
+    {
+      "from": 978.48,
+      "to": 981.41,
+      "sid": 403,
+      "location": 2,
+      "content": "所以有可能就有些同学可能会遇到报错",
+      "music": 0.0
+    },
+    {
+      "from": 981.41,
+      "to": 985.73,
+      "sid": 404,
+      "location": 2,
+      "content": "那可能需要就是加上这样111句这个命令",
+      "music": 0.0
+    },
+    {
+      "from": 985.73,
+      "to": 987.55,
+      "sid": 405,
+      "location": 2,
+      "content": "去呃设置它的环境变量",
+      "music": 0.0
+    },
+    {
+      "from": 987.55,
+      "to": 988.54,
+      "sid": 406,
+      "location": 2,
+      "content": "让它不报错",
+      "music": 0.0
+    },
+    {
+      "from": 988.54,
+      "to": 990.79,
+      "sid": 407,
+      "location": 2,
+      "content": "然后这就是我们的这个主命令了",
+      "music": 0.0
+    },
+    {
+      "from": 990.79,
+      "to": 992.35,
+      "sid": 408,
+      "location": 2,
+      "content": "而主命令的话就是嗯",
+      "music": 0.0
+    },
+    {
+      "from": 992.35,
+      "to": 995.299,
+      "sid": 409,
+      "location": 2,
+      "content": "讲解我们第一个启动max评测的方式",
+      "music": 0.0
+    },
+    {
+      "from": 995.299,
+      "to": 997.15,
+      "sid": 410,
+      "location": 2,
+      "content": "就是纯用命令行的方式",
+      "music": 0.0
+    },
+    {
+      "from": 997.15,
+      "to": 1000.63,
+      "sid": 411,
+      "location": 2,
+      "content": "那首先就是我们需要指定它运行的主函数",
+      "music": 0.0
+    },
+    {
+      "from": 1000.63,
+      "to": 1002.31,
+      "sid": 412,
+      "location": 2,
+      "content": "就是run py这个函数",
+      "music": 0.0
+    },
+    {
+      "from": 1002.31,
+      "to": 1004.64,
+      "sid": 413,
+      "location": 2,
+      "content": "那也可以看到是在on pass下面",
+      "music": 0.0
+    },
+    {
+      "from": 1004.64,
+      "to": 1009.2,
+      "sid": 414,
+      "location": 2,
+      "content": "然后在这个下面有个弱点PY这样一个函数嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1009.2,
+      "to": 1011.61,
+      "sid": 415,
+      "location": 2,
+      "content": "然后就是说我们既然要评测",
+      "music": 0.0
+    },
+    {
+      "from": 1011.61,
+      "to": 1014.73,
+      "sid": 416,
+      "location": 2,
+      "content": "那我们肯定需要去指定需要评测哪个数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1014.73,
+      "to": 1016.11,
+      "sid": 417,
+      "location": 2,
+      "content": "然后评测哪个模型",
+      "music": 0.0
+    },
+    {
+      "from": 1016.11,
+      "to": 1018.51,
+      "sid": 418,
+      "location": 2,
+      "content": "所以我们需要指定杠杠DATASETS",
+      "music": 0.0
+    },
+    {
+      "from": 1018.51,
+      "to": 1020.85,
+      "sid": 419,
+      "location": 2,
+      "content": "然后到底是哪个数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1020.85,
+      "to": 1023.22,
+      "sid": 420,
+      "location": 2,
+      "content": "然后以及模型的路径",
+      "music": 0.0
+    },
+    {
+      "from": 1023.22,
+      "to": 1025.45,
+      "sid": 421,
+      "location": 2,
+      "content": "然后以及token net路径",
+      "music": 0.0
+    },
+    {
+      "from": 1025.45,
+      "to": 1027.85,
+      "sid": 422,
+      "location": 2,
+      "content": "那那这个路径呢就chat1.8B的",
+      "music": 0.0
+    },
+    {
+      "from": 1027.85,
+      "to": 1030.88,
+      "sid": 423,
+      "location": 2,
+      "content": "这个模型是在share的这个路径上也是有的",
+      "music": 0.0
+    },
+    {
+      "from": 1030.88,
+      "to": 1034.079,
+      "sid": 424,
+      "location": 2,
+      "content": "就同同学也要注意把这个shell路径给copy过来",
+      "music": 0.0
+    },
+    {
+      "from": 1034.079,
+      "to": 1037.499,
+      "sid": 425,
+      "location": 2,
+      "content": "以及包括就是说这个data也需要去copy",
+      "music": 0.0
+    },
+    {
+      "from": 1037.499,
+      "to": 1038.999,
+      "sid": 426,
+      "location": 2,
+      "content": "我要不然你是跑不了的",
+      "music": 0.0
+    },
+    {
+      "from": 1038.999,
+      "to": 1041.84,
+      "sid": 427,
+      "location": 2,
+      "content": "你肯定是需要有这个数据集才能去跑的",
+      "music": 0.0
+    },
+    {
+      "from": 1041.84,
+      "to": 1045.68,
+      "sid": 428,
+      "location": 2,
+      "content": "然后呃就把模型的路径以及TOKNET路径啊",
+      "music": 0.0
+    },
+    {
+      "from": 1045.68,
+      "to": 1046.58,
+      "sid": 429,
+      "location": 2,
+      "content": "就是指定好",
+      "music": 0.0
+    },
+    {
+      "from": 1046.58,
+      "to": 1049.48,
+      "sid": 430,
+      "location": 2,
+      "content": "然后还有指定好一些这个啊相关的这个参数",
+      "music": 0.0
+    },
+    {
+      "from": 1049.48,
+      "to": 1050.26,
+      "sid": 431,
+      "location": 2,
+      "content": "token net参数",
+      "music": 0.0
+    },
+    {
+      "from": 1050.26,
+      "to": 1053.82,
+      "sid": 432,
+      "location": 2,
+      "content": "模型的参数以及说啊我们需要去指定",
+      "music": 0.0
+    },
+    {
+      "from": 1053.82,
+      "to": 1057.1,
+      "sid": 433,
+      "location": 2,
+      "content": "就后后面这些参数呢就也是可有可无的",
+      "music": 0.0
+    },
+    {
+      "from": 1057.1,
+      "to": 1059.68,
+      "sid": 434,
+      "location": 2,
+      "content": "就是说这比如说我们啊一来讲解一下",
+      "music": 0.0
+    },
+    {
+      "from": 1059.68,
+      "to": 1060.61,
+      "sid": 435,
+      "location": 2,
+      "content": "后面这几个参数",
+      "music": 0.0
+    },
+    {
+      "from": 1060.61,
+      "to": 1061.78,
+      "sid": 436,
+      "location": 2,
+      "content": "Next sequence length",
+      "music": 0.0
+    },
+    {
+      "from": 1061.78,
+      "to": 1066.079,
+      "sid": 437,
+      "location": 2,
+      "content": "这个参数呢就是说你模型它读入的啊",
+      "music": 0.0
+    },
+    {
+      "from": 1066.079,
+      "to": 1068.119,
+      "sid": 438,
+      "location": 2,
+      "content": "token的最大长度是多少",
+      "music": 0.0
+    },
+    {
+      "from": 1068.119,
+      "to": 1073.73,
+      "sid": 439,
+      "location": 2,
+      "content": "那比如说你就是做一些长上下文的这样一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 1073.73,
+      "to": 1075.41,
+      "sid": 440,
+      "location": 2,
+      "content": "这个这个评测的话",
+      "music": 0.0
+    },
+    {
+      "from": 1075.41,
+      "to": 1077.24,
+      "sid": 441,
+      "location": 2,
+      "content": "那可能这个地方需要开得大一点",
+      "music": 0.0
+    },
+    {
+      "from": 1077.24,
+      "to": 1079.55,
+      "sid": 442,
+      "location": 2,
+      "content": "但是一般情况下2048就是够的",
+      "music": 0.0
+    },
+    {
+      "from": 1079.55,
+      "to": 1081.53,
+      "sid": 443,
+      "location": 2,
+      "content": "然后这个max outline呢",
+      "music": 0.0
+    },
+    {
+      "from": 1081.53,
+      "to": 1084.11,
+      "sid": 444,
+      "location": 2,
+      "content": "就是说你模型回复它输出的这个token",
+      "music": 0.0
+    },
+    {
+      "from": 1084.11,
+      "to": 1085.61,
+      "sid": 445,
+      "location": 2,
+      "content": "长度是最大是多少",
+      "music": 0.0
+    },
+    {
+      "from": 1085.61,
+      "to": 1087.45,
+      "sid": 446,
+      "location": 2,
+      "content": "那你一般做客观评测",
+      "music": 0.0
+    },
+    {
+      "from": 1087.45,
+      "to": 1090.55,
+      "sid": 447,
+      "location": 2,
+      "content": "就尤其说是做像选择填空这种的话",
+      "music": 0.0
+    },
+    {
+      "from": 1090.55,
+      "to": 1092.83,
+      "sid": 448,
+      "location": 2,
+      "content": "那一般就让模型回答一个ABCD",
+      "music": 0.0
+    },
+    {
+      "from": 1092.83,
+      "to": 1093.79,
+      "sid": 449,
+      "location": 2,
+      "content": "那也不需要多长",
+      "music": 0.0
+    },
+    {
+      "from": 1093.79,
+      "to": 1095.53,
+      "sid": 450,
+      "location": 2,
+      "content": "所以一般就开的比较短一点就行了",
+      "music": 0.0
+    },
+    {
+      "from": 1095.53,
+      "to": 1097.67,
+      "sid": 451,
+      "location": 2,
+      "content": "这样也能加快模型的推理速度",
+      "music": 0.0
+    },
+    {
+      "from": 1097.67,
+      "to": 1099.53,
+      "sid": 452,
+      "location": 2,
+      "content": "然后如果是做主观评测",
+      "music": 0.0
+    },
+    {
+      "from": 1099.53,
+      "to": 1101.81,
+      "sid": 453,
+      "location": 2,
+      "content": "那或者说模型需要去一问一答",
+      "music": 0.0
+    },
+    {
+      "from": 1101.81,
+      "to": 1105.15,
+      "sid": 454,
+      "location": 2,
+      "content": "这样来回复他可能就需要的比较长",
+      "music": 0.0
+    },
+    {
+      "from": 1105.15,
+      "to": 1107.64,
+      "sid": 455,
+      "location": 2,
+      "content": "所以这种时候max可能需要开500",
+      "music": 0.0
+    },
+    {
+      "from": 1107.64,
+      "to": 1109.56,
+      "sid": 456,
+      "location": 2,
+      "content": "12或者1024之类的",
+      "music": 0.0
+    },
+    {
+      "from": 1109.56,
+      "to": 1110.679,
+      "sid": 457,
+      "location": 2,
+      "content": "就比较长一些",
+      "music": 0.0
+    },
+    {
+      "from": 1110.679,
+      "to": 1113.079,
+      "sid": 458,
+      "location": 2,
+      "content": "batch size就是你在推理的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1113.079,
+      "to": 1115.299,
+      "sid": 459,
+      "location": 2,
+      "content": "指定的这个backside大小",
+      "music": 0.0
+    },
+    {
+      "from": 1115.299,
+      "to": 1116.409,
+      "sid": 460,
+      "location": 2,
+      "content": "然后呃",
+      "music": 0.0
+    },
+    {
+      "from": 1116.409,
+      "to": 1120.11,
+      "sid": 461,
+      "location": 2,
+      "content": "这个就是你指定的这个可以用的GPU的个数",
+      "music": 0.0
+    },
+    {
+      "from": 1120.11,
+      "to": 1121.34,
+      "sid": 462,
+      "location": 2,
+      "content": "然后还有两个参数",
+      "music": 0.0
+    },
+    {
+      "from": 1121.34,
+      "to": 1125.24,
+      "sid": 463,
+      "location": 2,
+      "content": "杠杆reuse以及杠杠debug是什么意思",
+      "music": 0.0
+    },
+    {
+      "from": 1125.24,
+      "to": 1128.12,
+      "sid": 464,
+      "location": 2,
+      "content": "杠reuse的话就是说啊这里还需要介绍一个",
+      "music": 0.0
+    },
+    {
+      "from": 1128.12,
+      "to": 1130.31,
+      "sid": 465,
+      "location": 2,
+      "content": "就是刚刚work de",
+      "music": 0.0
+    },
+    {
+      "from": 1130.31,
+      "to": 1131.75,
+      "sid": 466,
+      "location": 2,
+      "content": "刚刚work deer的话呢",
+      "music": 0.0
+    },
+    {
+      "from": 1131.75,
+      "to": 1135.239,
+      "sid": 467,
+      "location": 2,
+      "content": "就比如说这里写写好你的这个某个路径",
+      "music": 0.0
+    },
+    {
+      "from": 1135.239,
+      "to": 1137.819,
+      "sid": 468,
+      "location": 2,
+      "content": "那它就会我们open plus",
+      "music": 0.0
+    },
+    {
+      "from": 1137.819,
+      "to": 1141.239,
+      "sid": 469,
+      "location": 2,
+      "content": "就会在这个路径下去执行相关的操作",
+      "music": 0.0
+    },
+    {
+      "from": 1141.239,
+      "to": 1144.89,
+      "sid": 470,
+      "location": 2,
+      "content": "就会呃就就是就是去",
+      "music": 0.0
+    },
+    {
+      "from": 1144.89,
+      "to": 1146.72,
+      "sid": 471,
+      "location": 2,
+      "content": "就相当于你的这个工作路径了",
+      "music": 0.0
+    },
+    {
+      "from": 1146.72,
+      "to": 1148.35,
+      "sid": 472,
+      "location": 2,
+      "content": "然后你所有的结果啊",
+      "music": 0.0
+    },
+    {
+      "from": 1148.35,
+      "to": 1151.35,
+      "sid": 473,
+      "location": 2,
+      "content": "一些中间的日志全部会保存在这样一个路径下",
+      "music": 0.0
+    },
+    {
+      "from": 1151.35,
+      "to": 1153.15,
+      "sid": 474,
+      "location": 2,
+      "content": "那如果你不指定的话",
+      "music": 0.0
+    },
+    {
+      "from": 1153.15,
+      "to": 1156.24,
+      "sid": 475,
+      "location": 2,
+      "content": "那它就是默认是在outputs",
+      "music": 0.0
+    },
+    {
+      "from": 1156.24,
+      "to": 1159.85,
+      "sid": 476,
+      "location": 2,
+      "content": "然后default下面就在这样一个路径下面",
+      "music": 0.0
+    },
+    {
+      "from": 1159.85,
+      "to": 1160.51,
+      "sid": 477,
+      "location": 2,
+      "content": "如果不指定的话",
+      "music": 0.0
+    },
+    {
+      "from": 1160.51,
+      "to": 1161.62,
+      "sid": 478,
+      "location": 2,
+      "content": "就在这样一个下面",
+      "music": 0.0
+    },
+    {
+      "from": 1161.62,
+      "to": 1165.61,
+      "sid": 479,
+      "location": 2,
+      "content": "那你那你比如说呃用了杠杆RETILATEST",
+      "music": 0.0
+    },
+    {
+      "from": 1165.61,
+      "to": 1166.75,
+      "sid": 480,
+      "location": 2,
+      "content": "那它是什么意思呢",
+      "music": 0.0
+    },
+    {
+      "from": 1166.75,
+      "to": 1169.49,
+      "sid": 481,
+      "location": 2,
+      "content": "就是说你在刚刚的这个工作路径下",
+      "music": 0.0
+    },
+    {
+      "from": 1169.49,
+      "to": 1171.11,
+      "sid": 482,
+      "location": 2,
+      "content": "比如说我们这里是默认的路径",
+      "music": 0.0
+    },
+    {
+      "from": 1171.11,
+      "to": 1173.3,
+      "sid": 483,
+      "location": 2,
+      "content": "那就是在output default的前面",
+      "music": 0.0
+    },
+    {
+      "from": 1173.3,
+      "to": 1178.47,
+      "sid": 484,
+      "location": 2,
+      "content": "然后每个这个这个路径下它都会有时间戳",
+      "music": 0.0
+    },
+    {
+      "from": 1178.47,
+      "to": 1180.69,
+      "sid": 485,
+      "location": 2,
+      "content": "因为如果你不用这个的话",
+      "music": 0.0
+    },
+    {
+      "from": 1180.69,
+      "to": 1182.46,
+      "sid": 486,
+      "location": 2,
+      "content": "那你每次去运行这个命令",
+      "music": 0.0
+    },
+    {
+      "from": 1182.46,
+      "to": 1184.5,
+      "sid": 487,
+      "location": 2,
+      "content": "它就会在不同的时间戳下去",
+      "music": 0.0
+    },
+    {
+      "from": 1184.5,
+      "to": 1187.06,
+      "sid": 488,
+      "location": 2,
+      "content": "跑不同次数就会跑很多次",
+      "music": 0.0
+    },
+    {
+      "from": 1187.06,
+      "to": 1188.86,
+      "sid": 489,
+      "location": 2,
+      "content": "那如果你指定了这个杠杠",
+      "music": 0.0
+    },
+    {
+      "from": 1188.86,
+      "to": 1190.06,
+      "sid": 490,
+      "location": 2,
+      "content": "Use latest",
+      "music": 0.0
+    },
+    {
+      "from": 1190.06,
+      "to": 1191.6,
+      "sid": 491,
+      "location": 2,
+      "content": "就是说最新的事件出",
+      "music": 0.0
+    },
+    {
+      "from": 1191.6,
+      "to": 1193.82,
+      "sid": 492,
+      "location": 2,
+      "content": "也就是说你这里已经有有哪个时间",
+      "music": 0.0
+    },
+    {
+      "from": 1193.82,
+      "to": 1194.9,
+      "sid": 493,
+      "location": 2,
+      "content": "说最新还是最新",
+      "music": 0.0
+    },
+    {
+      "from": 1194.9,
+      "to": 1196.37,
+      "sid": 494,
+      "location": 2,
+      "content": "或者你这里直接指定",
+      "music": 0.0
+    },
+    {
+      "from": 1196.37,
+      "to": 1198.83,
+      "sid": 495,
+      "location": 2,
+      "content": "比如说这个时间戳20240416",
+      "music": 0.0
+    },
+    {
+      "from": 1198.83,
+      "to": 1201.909,
+      "sid": 496,
+      "location": 2,
+      "content": "这个时间戳你直接指定这个时间戳",
+      "music": 0.0
+    },
+    {
+      "from": 1201.909,
+      "to": 1204.29,
+      "sid": 497,
+      "location": 2,
+      "content": "那你那你比如说呃",
+      "music": 0.0
+    },
+    {
+      "from": 1204.29,
+      "to": 1206.84,
+      "sid": 498,
+      "location": 2,
+      "content": "你可能要做一些断点续存啊之类的",
+      "music": 0.0
+    },
+    {
+      "from": 1206.84,
+      "to": 1208.61,
+      "sid": 499,
+      "location": 2,
+      "content": "那你指定了这样一个事情做之后",
+      "music": 0.0
+    },
+    {
+      "from": 1208.61,
+      "to": 1211.13,
+      "sid": 500,
+      "location": 2,
+      "content": "它就会复用已经存在的这些结果",
+      "music": 0.0
+    },
+    {
+      "from": 1211.13,
+      "to": 1212.27,
+      "sid": 501,
+      "location": 2,
+      "content": "然后继续去跑",
+      "music": 0.0
+    },
+    {
+      "from": 1212.27,
+      "to": 1213.23,
+      "sid": 502,
+      "location": 2,
+      "content": "比如说有的同学",
+      "music": 0.0
+    },
+    {
+      "from": 1213.23,
+      "to": 1215.75,
+      "sid": 503,
+      "location": 2,
+      "content": "他可能比如说他这一个数据集跑了一半",
+      "music": 0.0
+    },
+    {
+      "from": 1215.75,
+      "to": 1218.39,
+      "sid": 504,
+      "location": 2,
+      "content": "比如跑到前一半后一半他就没跑了",
+      "music": 0.0
+    },
+    {
+      "from": 1218.39,
+      "to": 1220.34,
+      "sid": 505,
+      "location": 2,
+      "content": "就可能就CTRLC断掉了",
+      "music": 0.0
+    },
+    {
+      "from": 1220.34,
+      "to": 1223.22,
+      "sid": 506,
+      "location": 2,
+      "content": "那你需要继续接着这个这个已有的结果继续跑",
+      "music": 0.0
+    },
+    {
+      "from": 1223.22,
+      "to": 1225.71,
+      "sid": 507,
+      "location": 2,
+      "content": "那你就可以指定这样一个参数方块views",
+      "music": 0.0
+    },
+    {
+      "from": 1225.71,
+      "to": 1228.06,
+      "sid": 508,
+      "location": 2,
+      "content": "然后指定相关的时间戳去跑就行了",
+      "music": 0.0
+    },
+    {
+      "from": 1228.06,
+      "to": 1230.94,
+      "sid": 509,
+      "location": 2,
+      "content": "那就是这个关于这个GLOSE的用法",
+      "music": 0.0
+    },
+    {
+      "from": 1230.94,
+      "to": 1233.41,
+      "sid": 510,
+      "location": 2,
+      "content": "你相当于指定了这个之后",
+      "music": 0.0
+    },
+    {
+      "from": 1233.41,
+      "to": 1236.93,
+      "sid": 511,
+      "location": 2,
+      "content": "会接着这个word下面的这些东西去继续跑",
+      "music": 0.0
+    },
+    {
+      "from": 1236.93,
+      "to": 1238.37,
+      "sid": 512,
+      "location": 2,
+      "content": "然后刚刚debug的意思",
+      "music": 0.0
+    },
+    {
+      "from": 1238.37,
+      "to": 1240.68,
+      "sid": 513,
+      "location": 2,
+      "content": "就是说你开了这个刚刚debug的话",
+      "music": 0.0
+    },
+    {
+      "from": 1240.68,
+      "to": 1242.15,
+      "sid": 514,
+      "location": 2,
+      "content": "它会进入第八个模式",
+      "music": 0.0
+    },
+    {
+      "from": 1242.15,
+      "to": 1243.35,
+      "sid": 515,
+      "location": 2,
+      "content": "那所有的bug信息",
+      "music": 0.0
+    },
+    {
+      "from": 1243.35,
+      "to": 1245.679,
+      "sid": 516,
+      "location": 2,
+      "content": "全部会在你的terminal这里来显示",
+      "music": 0.0
+    },
+    {
+      "from": 1245.679,
+      "to": 1247.239,
+      "sid": 517,
+      "location": 2,
+      "content": "那如果你没有开这个的",
+      "music": 0.0
+    },
+    {
+      "from": 1247.239,
+      "to": 1252.099,
+      "sid": 518,
+      "location": 2,
+      "content": "那它就默认是把你所有的这个信息全部存在呃",
+      "music": 0.0
+    },
+    {
+      "from": 1252.099,
+      "to": 1254.62,
+      "sid": 519,
+      "location": 2,
+      "content": "你的工作路径的logo下面",
+      "music": 0.0
+    },
+    {
+      "from": 1254.62,
+      "to": 1258.34,
+      "sid": 520,
+      "location": 2,
+      "content": "这logo就会比如说你info阶段的logo和evil阶段的logo",
+      "music": 0.0
+    },
+    {
+      "from": 1258.34,
+      "to": 1259.0,
+      "sid": 521,
+      "location": 2,
+      "content": "全部都存在",
+      "music": 0.0
+    },
+    {
+      "from": 1259.0,
+      "to": 1261.61,
+      "sid": 522,
+      "location": 2,
+      "content": "这个这个下面就会有很多的这个日志",
+      "music": 0.0
+    },
+    {
+      "from": 1261.61,
+      "to": 1262.39,
+      "sid": 523,
+      "location": 2,
+      "content": "就打开日志",
+      "music": 0.0
+    },
+    {
+      "from": 1262.39,
+      "to": 1265.21,
+      "sid": 524,
+      "location": 2,
+      "content": "就能看到一些这个输出的这个结果了",
+      "music": 0.0
+    },
+    {
+      "from": 1265.21,
+      "to": 1267.7,
+      "sid": 525,
+      "location": 2,
+      "content": "然后那么这个参数就全部讲完了",
+      "music": 0.0
+    },
+    {
+      "from": 1267.7,
+      "to": 1272.34,
+      "sid": 526,
+      "location": 2,
+      "content": "那相当于说你运行了这样一个代码之后",
+      "music": 0.0
+    },
+    {
+      "from": 1272.34,
+      "to": 1273.99,
+      "sid": 527,
+      "location": 2,
+      "content": "运行了这样一个命令之后",
+      "music": 0.0
+    },
+    {
+      "from": 1273.99,
+      "to": 1275.94,
+      "sid": 528,
+      "location": 2,
+      "content": "那open as就会开始工作",
+      "music": 0.0
+    },
+    {
+      "from": 1275.94,
+      "to": 1278.88,
+      "sid": 529,
+      "location": 2,
+      "content": "然后在你的这个工作路径下面去执行",
+      "music": 0.0
+    },
+    {
+      "from": 1278.88,
+      "to": 1280.389,
+      "sid": 530,
+      "location": 2,
+      "content": "然后得到相应的结果",
+      "music": 0.0
+    },
+    {
+      "from": 1280.389,
+      "to": 1283.269,
+      "sid": 531,
+      "location": 2,
+      "content": "然后会有每一个就是每执行一次",
+      "music": 0.0
+    },
+    {
+      "from": 1283.269,
+      "to": 1284.289,
+      "sid": 532,
+      "location": 2,
+      "content": "都会有一个时间戳",
+      "music": 0.0
+    },
+    {
+      "from": 1284.289,
+      "to": 1285.849,
+      "sid": 533,
+      "location": 2,
+      "content": "如果你指定的杠杆reuse的话",
+      "music": 0.0
+    },
+    {
+      "from": 1285.849,
+      "to": 1286.629,
+      "sid": 534,
+      "location": 2,
+      "content": "那就固定了",
+      "music": 0.0
+    },
+    {
+      "from": 1286.629,
+      "to": 1287.97,
+      "sid": 535,
+      "location": 2,
+      "content": "是这个时间戳",
+      "music": 0.0
+    },
+    {
+      "from": 1287.97,
+      "to": 1290.64,
+      "sid": 536,
+      "location": 2,
+      "content": "那每个视频戳下面会嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1290.64,
+      "to": 1292.44,
+      "sid": 537,
+      "location": 2,
+      "content": "基本上都会有五个文件夹",
+      "music": 0.0
+    },
+    {
+      "from": 1292.44,
+      "to": 1297.49,
+      "sid": 538,
+      "location": 2,
+      "content": "CONFIG文件夹呢就是说嗯你每次跑的一些东西",
+      "music": 0.0
+    },
+    {
+      "from": 1297.49,
+      "to": 1298.81,
+      "sid": 539,
+      "location": 2,
+      "content": "他都会汇总起来",
+      "music": 0.0
+    },
+    {
+      "from": 1298.81,
+      "to": 1300.82,
+      "sid": 540,
+      "location": 2,
+      "content": "我给你记录一个做一个总结",
+      "music": 0.0
+    },
+    {
+      "from": 1300.82,
+      "to": 1303.43,
+      "sid": 541,
+      "location": 2,
+      "content": "就就把所有的CONFIG都记录做一个总结",
+      "music": 0.0
+    },
+    {
+      "from": 1303.43,
+      "to": 1304.35,
+      "sid": 542,
+      "location": 2,
+      "content": "写在这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 1304.35,
+      "to": 1306.57,
+      "sid": 543,
+      "location": 2,
+      "content": "然后logo就是你每每次跑的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1306.57,
+      "to": 1308.16,
+      "sid": 544,
+      "location": 2,
+      "content": "他都会有相关的这个日志",
+      "music": 0.0
+    },
+    {
+      "from": 1308.16,
+      "to": 1309.57,
+      "sid": 545,
+      "location": 2,
+      "content": "然后保存在这下面",
+      "music": 0.0
+    },
+    {
+      "from": 1309.57,
+      "to": 1313.59,
+      "sid": 546,
+      "location": 2,
+      "content": "然后prediction呢就是你跑这个数据集的模型的",
+      "music": 0.0
+    },
+    {
+      "from": 1313.59,
+      "to": 1315.84,
+      "sid": 547,
+      "location": 2,
+      "content": "预测结果全部会存在prediction里面",
+      "music": 0.0
+    },
+    {
+      "from": 1315.84,
+      "to": 1319.059,
+      "sid": 548,
+      "location": 2,
+      "content": "然后results呢就是说你跑了啊",
+      "music": 0.0
+    },
+    {
+      "from": 1319.059,
+      "to": 1320.769,
+      "sid": 549,
+      "location": 2,
+      "content": "模型不是跑完了这些预测嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1320.769,
+      "to": 1324.459,
+      "sid": 550,
+      "location": 2,
+      "content": "然后评测的这个结果就会放放在这results",
+      "music": 0.0
+    },
+    {
+      "from": 1324.459,
+      "to": 1325.88,
+      "sid": 551,
+      "location": 2,
+      "content": "这个文件夹下面",
+      "music": 0.0
+    },
+    {
+      "from": 1325.88,
+      "to": 1329.26,
+      "sid": 552,
+      "location": 2,
+      "content": "然后summary呢就是对这些结果进行一个总结",
+      "music": 0.0
+    },
+    {
+      "from": 1329.26,
+      "to": 1331.84,
+      "sid": 553,
+      "location": 2,
+      "content": "然后看模型它具体得多少分",
+      "music": 0.0
+    },
+    {
+      "from": 1331.84,
+      "to": 1332.68,
+      "sid": 554,
+      "location": 2,
+      "content": "怎么得分之类的",
+      "music": 0.0
+    },
+    {
+      "from": 1332.68,
+      "to": 1337.08,
+      "sid": 555,
+      "location": 2,
+      "content": "就会以TXT和CSV的这个形式给总结在这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 1337.08,
+      "to": 1341.52,
+      "sid": 556,
+      "location": 2,
+      "content": "那这就是一个完整的这个这样一个流程下",
+      "music": 0.0
+    },
+    {
+      "from": 1341.52,
+      "to": 1345.96,
+      "sid": 557,
+      "location": 2,
+      "content": "它的这个啊这个结果它的结构是这样子的",
+      "music": 0.0
+    },
+    {
+      "from": 1345.96,
+      "to": 1347.58,
+      "sid": 558,
+      "location": 2,
+      "content": "那么这是第一种方式",
+      "music": 0.0
+    },
+    {
+      "from": 1347.58,
+      "to": 1349.2,
+      "sid": 559,
+      "location": 2,
+      "content": "就是纯用命令的方式",
+      "music": 0.0
+    },
+    {
+      "from": 1349.2,
+      "to": 1350.46,
+      "sid": 560,
+      "location": 2,
+      "content": "然后得到这样一个结果",
+      "music": 0.0
+    },
+    {
+      "from": 1350.46,
+      "to": 1352.47,
+      "sid": 561,
+      "location": 2,
+      "content": "然后还有就是我们讲的第二种方式",
+      "music": 0.0
+    },
+    {
+      "from": 1352.47,
+      "to": 1355.429,
+      "sid": 562,
+      "location": 2,
+      "content": "第二种方式呢就是说你Python running py",
+      "music": 0.0
+    },
+    {
+      "from": 1355.429,
+      "to": 1357.589,
+      "sid": 563,
+      "location": 2,
+      "content": "然后把你后面这些所有写的这些东西",
+      "music": 0.0
+    },
+    {
+      "from": 1357.589,
+      "to": 1360.679,
+      "sid": 564,
+      "location": 2,
+      "content": "全部都放在一个CONFIG里就行了",
+      "music": 0.0
+    },
+    {
+      "from": 1360.679,
+      "to": 1364.279,
+      "sid": 565,
+      "location": 2,
+      "content": "那比如说欧plus它在这外面呢",
+      "music": 0.0
+    },
+    {
+      "from": 1364.279,
+      "to": 1366.199,
+      "sid": 566,
+      "location": 2,
+      "content": "就欧姆帕斯的下面会有个CONFIX",
+      "music": 0.0
+    },
+    {
+      "from": 1366.199,
+      "to": 1367.33,
+      "sid": 567,
+      "location": 2,
+      "content": "这样一个文件夹",
+      "music": 0.0
+    },
+    {
+      "from": 1367.33,
+      "to": 1368.98,
+      "sid": 568,
+      "location": 2,
+      "content": "然后我们打开这个文件夹",
+      "music": 0.0
+    },
+    {
+      "from": 1368.98,
+      "to": 1371.92,
+      "sid": 569,
+      "location": 2,
+      "content": "可以看到这下面有很多这样的文件",
+      "music": 0.0
+    },
+    {
+      "from": 1371.92,
+      "to": 1374.75,
+      "sid": 570,
+      "location": 2,
+      "content": "比如说我们选中evil demo这个文件",
+      "music": 0.0
+    },
+    {
+      "from": 1374.75,
+      "to": 1376.25,
+      "sid": 571,
+      "location": 2,
+      "content": "那在这个文件下面呢",
+      "music": 0.0
+    },
+    {
+      "from": 1376.25,
+      "to": 1380.03,
+      "sid": 572,
+      "location": 2,
+      "content": "就是你把刚刚的这些DATASET和model的这些东",
+      "music": 0.0
+    },
+    {
+      "from": 1380.03,
+      "to": 1382.699,
+      "sid": 573,
+      "location": 2,
+      "content": "这些东西全部写在这个地方就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 1382.699,
+      "to": 1385.639,
+      "sid": 574,
+      "location": 2,
+      "content": "那那比如说还有同学可能会问诶",
+      "music": 0.0
+    },
+    {
+      "from": 1385.639,
+      "to": 1388.609,
+      "sid": 575,
+      "location": 2,
+      "content": "怎么又看到这个model的这个路径",
+      "music": 0.0
+    },
+    {
+      "from": 1388.609,
+      "to": 1390.589,
+      "sid": 576,
+      "location": 2,
+      "content": "以及这个token net路径呢",
+      "music": 0.0
+    },
+    {
+      "from": 1390.589,
+      "to": 1391.759,
+      "sid": 577,
+      "location": 2,
+      "content": "其实是有的",
+      "music": 0.0
+    },
+    {
+      "from": 1391.759,
+      "to": 1393.55,
+      "sid": 578,
+      "location": 2,
+      "content": "你只需要就是说把",
+      "music": 0.0
+    },
+    {
+      "from": 1393.55,
+      "to": 1396.37,
+      "sid": 579,
+      "location": 2,
+      "content": "因为你看它这里是用with rebase的方式",
+      "music": 0.0
+    },
+    {
+      "from": 1396.37,
+      "to": 1401.25,
+      "sid": 580,
+      "location": 2,
+      "content": "它进一步的去把你的这个DATASET的configure",
+      "music": 0.0
+    },
+    {
+      "from": 1401.25,
+      "to": 1402.69,
+      "sid": 581,
+      "location": 2,
+      "content": "给import进来了",
+      "music": 0.0
+    },
+    {
+      "from": 1402.69,
+      "to": 1406.08,
+      "sid": 582,
+      "location": 2,
+      "content": "把你的这个model的这个configure import进来了",
+      "music": 0.0
+    },
+    {
+      "from": 1406.08,
+      "to": 1409.5,
+      "sid": 583,
+      "location": 2,
+      "content": "所以就是说你你要进一步去看的话",
+      "music": 0.0
+    },
+    {
+      "from": 1409.5,
+      "to": 1410.61,
+      "sid": 584,
+      "location": 2,
+      "content": "要在这里面去找",
+      "music": 0.0
+    },
+    {
+      "from": 1410.61,
+      "to": 1414.18,
+      "sid": 585,
+      "location": 2,
+      "content": "也就是在configure点data set",
+      "music": 0.0
+    },
+    {
+      "from": 1414.18,
+      "to": 1415.929,
+      "sid": 586,
+      "location": 2,
+      "content": "然后点c will",
+      "music": 0.0
+    },
+    {
+      "from": 1415.929,
+      "to": 1416.889,
+      "sid": 587,
+      "location": 2,
+      "content": "点CV",
+      "music": 0.0
+    },
+    {
+      "from": 1416.889,
+      "to": 1420.82,
+      "sid": 588,
+      "location": 2,
+      "content": "然后点c while j点CVILJ这个下面",
+      "music": 0.0
+    },
+    {
+      "from": 1420.82,
+      "to": 1423.43,
+      "sid": 589,
+      "location": 2,
+      "content": "然后比如说他这里又又是啊",
+      "music": 0.0
+    },
+    {
+      "from": 1423.43,
+      "to": 1425.71,
+      "sid": 590,
+      "location": 2,
+      "content": "再一次import是这个版本",
+      "music": 0.0
+    },
+    {
+      "from": 1425.71,
+      "to": 1428.19,
+      "sid": 591,
+      "location": 2,
+      "content": "5F这个版本能在这里看",
+      "music": 0.0
+    },
+    {
+      "from": 1428.19,
+      "to": 1429.99,
+      "sid": 592,
+      "location": 2,
+      "content": "那这你就看得很清楚了",
+      "music": 0.0
+    },
+    {
+      "from": 1429.99,
+      "to": 1433.33,
+      "sid": 593,
+      "location": 2,
+      "content": "所有的这个这些东西全部都写在这里",
+      "music": 0.0
+    },
+    {
+      "from": 1433.33,
+      "to": 1436.27,
+      "sid": 594,
+      "location": 2,
+      "content": "那这就是呃用configure的方式",
+      "music": 0.0
+    },
+    {
+      "from": 1436.27,
+      "to": 1437.95,
+      "sid": 595,
+      "location": 2,
+      "content": "相当于全部都包装好了",
+      "music": 0.0
+    },
+    {
+      "from": 1437.95,
+      "to": 1439.33,
+      "sid": 596,
+      "location": 2,
+      "content": "你所有东西都包装好",
+      "music": 0.0
+    },
+    {
+      "from": 1439.33,
+      "to": 1440.17,
+      "sid": 597,
+      "location": 2,
+      "content": "都写在这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 1440.17,
+      "to": 1441.669,
+      "sid": 598,
+      "location": 2,
+      "content": "你直接去啊",
+      "music": 0.0
+    },
+    {
+      "from": 1441.669,
+      "to": 1442.419,
+      "sid": 599,
+      "location": 2,
+      "content": "一步到位",
+      "music": 0.0
+    },
+    {
+      "from": 1442.419,
+      "to": 1444.039,
+      "sid": 600,
+      "location": 2,
+      "content": "用这个就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 1444.039,
+      "to": 1446.56,
+      "sid": 601,
+      "location": 2,
+      "content": "就是这个很费的方式",
+      "music": 0.0
+    },
+    {
+      "from": 1446.56,
+      "to": 1449.84,
+      "sid": 602,
+      "location": 2,
+      "content": "那么两种方式就看同学自己的喜好啊",
+      "music": 0.0
+    },
+    {
+      "from": 1449.84,
+      "to": 1452.3,
+      "sid": 603,
+      "location": 2,
+      "content": "这两个风格都是可以启动我们的评测的",
+      "music": 0.0
+    },
+    {
+      "from": 1452.3,
+      "to": 1454.16,
+      "sid": 604,
+      "location": 2,
+      "content": "那这就是我们的这个第一部分",
+      "music": 0.0
+    },
+    {
+      "from": 1454.16,
+      "to": 1457.519,
+      "sid": 605,
+      "location": 2,
+      "content": "就是如何去启动all must这个评测",
+      "music": 0.0
+    },
+    {
+      "from": 1457.519,
+      "to": 1460.279,
+      "sid": 606,
+      "location": 2,
+      "content": "那就是呃我这边已经是运行完了",
+      "music": 0.0
+    },
+    {
+      "from": 1460.279,
+      "to": 1462.439,
+      "sid": 607,
+      "location": 2,
+      "content": "如果是同学就是第一次运行的话",
+      "music": 0.0
+    },
+    {
+      "from": 1462.439,
+      "to": 1464.73,
+      "sid": 608,
+      "location": 2,
+      "content": "那他就会运行完这行代码之后",
+      "music": 0.0
+    },
+    {
+      "from": 1464.73,
+      "to": 1466.62,
+      "sid": 609,
+      "location": 2,
+      "content": "会得到下面的这样一个结果",
+      "music": 0.0
+    },
+    {
+      "from": 1466.62,
+      "to": 1469.23,
+      "sid": 610,
+      "location": 2,
+      "content": "也是他在terminal里会打印出来",
+      "music": 0.0
+    },
+    {
+      "from": 1469.23,
+      "to": 1471.03,
+      "sid": 611,
+      "location": 2,
+      "content": "比如说CV这个数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1471.03,
+      "to": 1475.549,
+      "sid": 612,
+      "location": 2,
+      "content": "那它这个模型它得了多少分都会在这里显示",
+      "music": 0.0
+    },
+    {
+      "from": 1475.549,
+      "to": 1476.899,
+      "sid": 613,
+      "location": 2,
+      "content": "就除了terminal之外",
+      "music": 0.0
+    },
+    {
+      "from": 1476.899,
+      "to": 1480.55,
+      "sid": 614,
+      "location": 2,
+      "content": "它在这个你的工作路径下其实也是会显示的",
+      "music": 0.0
+    },
+    {
+      "from": 1480.55,
+      "to": 1481.93,
+      "sid": 615,
+      "location": 2,
+      "content": "留在这个summary里",
+      "music": 0.0
+    },
+    {
+      "from": 1481.93,
+      "to": 1484.09,
+      "sid": 616,
+      "location": 2,
+      "content": "这个CSV文件也是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 1484.09,
+      "to": 1487.159,
+      "sid": 617,
+      "location": 2,
+      "content": "就有显示这些有记载这些东西",
+      "music": 0.0
+    },
+    {
+      "from": 1487.159,
+      "to": 1487.759,
+      "sid": 618,
+      "location": 2,
+      "content": "好的",
+      "music": 0.0
+    },
+    {
+      "from": 1487.759,
+      "to": 1490.129,
+      "sid": 619,
+      "location": 2,
+      "content": "那就是我们现在就进入第二个部分",
+      "music": 0.0
+    },
+    {
+      "from": 1490.129,
+      "to": 1491.899,
+      "sid": 620,
+      "location": 2,
+      "content": "那它Python run py",
+      "music": 0.0
+    },
+    {
+      "from": 1491.899,
+      "to": 1494.299,
+      "sid": 621,
+      "location": 2,
+      "content": "他这样一个整体的这个流程的逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 1494.299,
+      "to": 1495.75,
+      "sid": 622,
+      "location": 2,
+      "content": "到底是什么呢",
+      "music": 0.0
+    },
+    {
+      "from": 1495.75,
+      "to": 1499.77,
+      "sid": 623,
+      "location": 2,
+      "content": "那我们首先就看到和欧盟pass",
+      "music": 0.0
+    },
+    {
+      "from": 1499.77,
+      "to": 1504.0,
+      "sid": 624,
+      "location": 2,
+      "content": "这里除了我们刚刚讲了这个CONFIG之外",
+      "music": 0.0
+    },
+    {
+      "from": 1504.0,
+      "to": 1507.78,
+      "sid": 625,
+      "location": 2,
+      "content": "我还需要比较关注的就是open compass",
+      "music": 0.0
+    },
+    {
+      "from": 1507.78,
+      "to": 1510.05,
+      "sid": 626,
+      "location": 2,
+      "content": "然后再open pass这样一个文件夹",
+      "music": 0.0
+    },
+    {
+      "from": 1510.05,
+      "to": 1511.97,
+      "sid": 627,
+      "location": 2,
+      "content": "那摩托马斯整体的流程逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 1511.97,
+      "to": 1514.4,
+      "sid": 628,
+      "location": 2,
+      "content": "就几乎就都在这个地方了",
+      "music": 0.0
+    },
+    {
+      "from": 1514.4,
+      "to": 1516.86,
+      "sid": 629,
+      "location": 2,
+      "content": "也就是说呃我们需要关注的几个点",
+      "music": 0.0
+    },
+    {
+      "from": 1516.86,
+      "to": 1518.45,
+      "sid": 630,
+      "location": 2,
+      "content": "一个是PARTITIONER",
+      "music": 0.0
+    },
+    {
+      "from": 1518.45,
+      "to": 1520.22,
+      "sid": 631,
+      "location": 2,
+      "content": "然后一个是open fl",
+      "music": 0.0
+    },
+    {
+      "from": 1520.22,
+      "to": 1520.88,
+      "sid": 632,
+      "location": 2,
+      "content": "一个是runner",
+      "music": 0.0
+    },
+    {
+      "from": 1520.88,
+      "to": 1522.06,
+      "sid": 633,
+      "location": 2,
+      "content": "一个是SUMMARIZER",
+      "music": 0.0
+    },
+    {
+      "from": 1522.06,
+      "to": 1523.68,
+      "sid": 634,
+      "location": 2,
+      "content": "这样几个东西啊",
+      "music": 0.0
+    },
+    {
+      "from": 1523.68,
+      "to": 1524.58,
+      "sid": 635,
+      "location": 2,
+      "content": "还有还有tasks",
+      "music": 0.0
+    },
+    {
+      "from": 1524.58,
+      "to": 1526.29,
+      "sid": 636,
+      "location": 2,
+      "content": "已经就这几个文件",
+      "music": 0.0
+    },
+    {
+      "from": 1526.29,
+      "to": 1530.05,
+      "sid": 637,
+      "location": 2,
+      "content": "那么就是说啊你指定完了这些之后",
+      "music": 0.0
+    },
+    {
+      "from": 1530.05,
+      "to": 1533.77,
+      "sid": 638,
+      "location": 2,
+      "content": "那比如说有的可能要同时跑多个数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1533.77,
+      "to": 1534.79,
+      "sid": 639,
+      "location": 2,
+      "content": "多个模型嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1534.79,
+      "to": 1537.19,
+      "sid": 640,
+      "location": 2,
+      "content": "那这就是open max的一个优势体现",
+      "music": 0.0
+    },
+    {
+      "from": 1537.19,
+      "to": 1538.62,
+      "sid": 641,
+      "location": 2,
+      "content": "也就是说它可以分片",
+      "music": 0.0
+    },
+    {
+      "from": 1538.62,
+      "to": 1540.78,
+      "sid": 642,
+      "location": 2,
+      "content": "所以你指定好了这些任务之后",
+      "music": 0.0
+    },
+    {
+      "from": 1540.78,
+      "to": 1545.37,
+      "sid": 643,
+      "location": 2,
+      "content": "比如说你这里刚刚DATASET还有DATASET1",
+      "music": 0.0
+    },
+    {
+      "from": 1545.37,
+      "to": 1548.67,
+      "sid": 644,
+      "location": 2,
+      "content": "然后DATASET2有很多个DATASET和模型",
+      "music": 0.0
+    },
+    {
+      "from": 1548.67,
+      "to": 1551.48,
+      "sid": 645,
+      "location": 2,
+      "content": "也是就是说model语音有很多的模型",
+      "music": 0.0
+    },
+    {
+      "from": 1551.48,
+      "to": 1553.16,
+      "sid": 646,
+      "location": 2,
+      "content": "model1model2之类的",
+      "music": 0.0
+    },
+    {
+      "from": 1553.16,
+      "to": 1555.02,
+      "sid": 647,
+      "location": 2,
+      "content": "那有这么多东西嗯",
+      "music": 0.0
+    },
+    {
+      "from": 1555.02,
+      "to": 1557.72,
+      "sid": 648,
+      "location": 2,
+      "content": "你怎么样去最大化高效的去利用我们的资源呢",
+      "music": 0.0
+    },
+    {
+      "from": 1557.72,
+      "to": 1559.7,
+      "sid": 649,
+      "location": 2,
+      "content": "这就是欧拉斯这样一个分片",
+      "music": 0.0
+    },
+    {
+      "from": 1559.7,
+      "to": 1561.11,
+      "sid": 650,
+      "location": 2,
+      "content": "它的技术所在",
+      "music": 0.0
+    },
+    {
+      "from": 1561.11,
+      "to": 1563.88,
+      "sid": 651,
+      "location": 2,
+      "content": "那他啊所以就是你执行完了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1563.88,
+      "to": 1565.92,
+      "sid": 652,
+      "location": 2,
+      "content": "他首先会进入到这样一个逻辑里面来",
+      "music": 0.0
+    },
+    {
+      "from": 1565.92,
+      "to": 1567.54,
+      "sid": 653,
+      "location": 2,
+      "content": "就是partitioner partition",
+      "music": 0.0
+    },
+    {
+      "from": 1567.54,
+      "to": 1568.8,
+      "sid": 654,
+      "location": 2,
+      "content": "那它就会有分片",
+      "music": 0.0
+    },
+    {
+      "from": 1568.8,
+      "to": 1569.58,
+      "sid": 655,
+      "location": 2,
+      "content": "分片的话",
+      "music": 0.0
+    },
+    {
+      "from": 1569.58,
+      "to": 1572.52,
+      "sid": 656,
+      "location": 2,
+      "content": "它这里会有啊各种各样的这个分片的这个逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 1572.52,
+      "to": 1573.53,
+      "sid": 657,
+      "location": 2,
+      "content": "分片的逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 1573.53,
+      "to": 1576.59,
+      "sid": 658,
+      "location": 2,
+      "content": "然后你分配完了之后呃",
+      "music": 0.0
+    },
+    {
+      "from": 1577.05,
+      "to": 1579.41,
+      "sid": 659,
+      "location": 2,
+      "content": "它就会呃比如说会有一片一片嘛",
+      "music": 0.0
+    },
+    {
+      "from": 1579.41,
+      "to": 1580.73,
+      "sid": 660,
+      "location": 2,
+      "content": "一片一片的这个任务",
+      "music": 0.0
+    },
+    {
+      "from": 1580.73,
+      "to": 1582.23,
+      "sid": 661,
+      "location": 2,
+      "content": "那一片一片的这个任务",
+      "music": 0.0
+    },
+    {
+      "from": 1582.23,
+      "to": 1585.91,
+      "sid": 662,
+      "location": 2,
+      "content": "我们就是相当于去啊分发到呃",
+      "music": 0.0
+    },
+    {
+      "from": 1585.91,
+      "to": 1587.56,
+      "sid": 663,
+      "location": 2,
+      "content": "一个一个的机器上面去",
+      "music": 0.0
+    },
+    {
+      "from": 1587.56,
+      "to": 1590.53,
+      "sid": 664,
+      "location": 2,
+      "content": "比如说我们可能有啊20多张显卡",
+      "music": 0.0
+    },
+    {
+      "from": 1590.53,
+      "to": 1594.17,
+      "sid": 665,
+      "location": 2,
+      "content": "那你这里切切分成了40多个任务",
+      "music": 0.0
+    },
+    {
+      "from": 1594.17,
+      "to": 1596.33,
+      "sid": 666,
+      "location": 2,
+      "content": "那可能就每张显卡领到两个任务",
+      "music": 0.0
+    },
+    {
+      "from": 1596.33,
+      "to": 1598.23,
+      "sid": 667,
+      "location": 2,
+      "content": "他就会分发分发",
+      "music": 0.0
+    },
+    {
+      "from": 1598.23,
+      "to": 1600.48,
+      "sid": 668,
+      "location": 2,
+      "content": "每个任务就会自动的去分发过去",
+      "music": 0.0
+    },
+    {
+      "from": 1600.99,
+      "to": 1602.56,
+      "sid": 669,
+      "location": 2,
+      "content": "嗯就切片完了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1602.56,
+      "to": 1604.3,
+      "sid": 670,
+      "location": 2,
+      "content": "具体到每个任务怎么执行呢",
+      "music": 0.0
+    },
+    {
+      "from": 1604.3,
+      "to": 1606.449,
+      "sid": 671,
+      "location": 2,
+      "content": "我们就进入到这个tasks里面",
+      "music": 0.0
+    },
+    {
+      "from": 1606.449,
+      "to": 1607.949,
+      "sid": 672,
+      "location": 2,
+      "content": "那么这个tasks里面",
+      "music": 0.0
+    },
+    {
+      "from": 1607.949,
+      "to": 1609.389,
+      "sid": 673,
+      "location": 2,
+      "content": "就比如说这个地方就有",
+      "music": 0.0
+    },
+    {
+      "from": 1609.389,
+      "to": 1611.369,
+      "sid": 674,
+      "location": 2,
+      "content": "也有很多这个task的这个形式",
+      "music": 0.0
+    },
+    {
+      "from": 1611.369,
+      "to": 1616.59,
+      "sid": 675,
+      "location": 2,
+      "content": "那这里是处理单个task是怎么去执行的",
+      "music": 0.0
+    },
+    {
+      "from": 1616.59,
+      "to": 1620.25,
+      "sid": 676,
+      "location": 2,
+      "content": "就怎么提交到对应的这个机器上面去的",
+      "music": 0.0
+    },
+    {
+      "from": 1620.25,
+      "to": 1623.19,
+      "sid": 677,
+      "location": 2,
+      "content": "所以说我们就会先走partition那去分片",
+      "music": 0.0
+    },
+    {
+      "from": 1623.19,
+      "to": 1624.57,
+      "sid": 678,
+      "location": 2,
+      "content": "分完片之后啊",
+      "music": 0.0
+    },
+    {
+      "from": 1624.57,
+      "to": 1626.47,
+      "sid": 679,
+      "location": 2,
+      "content": "每一片他怎么执行",
+      "music": 0.0
+    },
+    {
+      "from": 1626.47,
+      "to": 1627.73,
+      "sid": 680,
+      "location": 2,
+      "content": "就是在这个task里",
+      "music": 0.0
+    },
+    {
+      "from": 1627.73,
+      "to": 1628.96,
+      "sid": 681,
+      "location": 2,
+      "content": "那具体怎么执行呢",
+      "music": 0.0
+    },
+    {
+      "from": 1628.96,
+      "to": 1630.4,
+      "sid": 682,
+      "location": 2,
+      "content": "还要看这个runner",
+      "music": 0.0
+    },
+    {
+      "from": 1630.4,
+      "to": 1633.52,
+      "sid": 683,
+      "location": 2,
+      "content": "那就runner的话就是你执你执行的时候",
+      "music": 0.0
+    },
+    {
+      "from": 1633.52,
+      "to": 1636.4,
+      "sid": 684,
+      "location": 2,
+      "content": "是比如说是在local的这个GPU上去执行",
+      "music": 0.0
+    },
+    {
+      "from": 1636.4,
+      "to": 1637.96,
+      "sid": 685,
+      "location": 2,
+      "content": "或者是在集群上去执行",
+      "music": 0.0
+    },
+    {
+      "from": 1637.96,
+      "to": 1640.55,
+      "sid": 686,
+      "location": 2,
+      "content": "那这就是这个看这个runner是怎么执行",
+      "music": 0.0
+    },
+    {
+      "from": 1640.55,
+      "to": 1643.37,
+      "sid": 687,
+      "location": 2,
+      "content": "那那现在假如说已经分配完了",
+      "music": 0.0
+    },
+    {
+      "from": 1643.37,
+      "to": 1646.98,
+      "sid": 688,
+      "location": 2,
+      "content": "然后然后对每个任务他都去进行执行了",
+      "music": 0.0
+    },
+    {
+      "from": 1646.98,
+      "to": 1650.97,
+      "sid": 689,
+      "location": 2,
+      "content": "那执行的时候的逻辑就是看open sl里面",
+      "music": 0.0
+    },
+    {
+      "from": 1650.97,
+      "to": 1653.46,
+      "sid": 690,
+      "location": 2,
+      "content": "这个open sel里面也有这个推理",
+      "music": 0.0
+    },
+    {
+      "from": 1653.46,
+      "to": 1655.23,
+      "sid": 691,
+      "location": 2,
+      "content": "或者是这个email",
+      "music": 0.0
+    },
+    {
+      "from": 1655.23,
+      "to": 1659.28,
+      "sid": 692,
+      "location": 2,
+      "content": "它到底是这个啊怎么去啊",
+      "music": 0.0
+    },
+    {
+      "from": 1659.28,
+      "to": 1661.35,
+      "sid": 693,
+      "location": 2,
+      "content": "就具体是怎么去做的",
+      "music": 0.0
+    },
+    {
+      "from": 1661.35,
+      "to": 1664.31,
+      "sid": 694,
+      "location": 2,
+      "content": "然后那再比如说推理或者评测",
+      "music": 0.0
+    },
+    {
+      "from": 1664.31,
+      "to": 1665.54,
+      "sid": 695,
+      "location": 2,
+      "content": "他这个任务做完了",
+      "music": 0.0
+    },
+    {
+      "from": 1665.54,
+      "to": 1667.07,
+      "sid": 696,
+      "location": 2,
+      "content": "最后所有的任务都做完了",
+      "music": 0.0
+    },
+    {
+      "from": 1667.07,
+      "to": 1669.44,
+      "sid": 697,
+      "location": 2,
+      "content": "就会进入到SUMMARIZER这样一个逻辑里面",
+      "music": 0.0
+    },
+    {
+      "from": 1669.44,
+      "to": 1672.5,
+      "sid": 698,
+      "location": 2,
+      "content": "也就是你所有的这个啊该有的结果都有了",
+      "music": 0.0
+    },
+    {
+      "from": 1672.5,
+      "to": 1674.38,
+      "sid": 699,
+      "location": 2,
+      "content": "然后最后要进行一个总结",
+      "music": 0.0
+    },
+    {
+      "from": 1674.38,
+      "to": 1676.0,
+      "sid": 700,
+      "location": 2,
+      "content": "看这个模型道理的多少分",
+      "music": 0.0
+    },
+    {
+      "from": 1676.0,
+      "to": 1677.92,
+      "sid": 701,
+      "location": 2,
+      "content": "那就是进入到SUMMARIA这个逻辑",
+      "music": 0.0
+    },
+    {
+      "from": 1677.92,
+      "to": 1679.7,
+      "sid": 702,
+      "location": 2,
+      "content": "SUMMARIA也会有一些啊",
+      "music": 0.0
+    },
+    {
+      "from": 1679.7,
+      "to": 1681.2,
+      "sid": 703,
+      "location": 2,
+      "content": "对应的这个summarize的实现",
+      "music": 0.0
+    },
+    {
+      "from": 1681.2,
+      "to": 1682.34,
+      "sid": 704,
+      "location": 2,
+      "content": "那么这这一部分呢",
+      "music": 0.0
+    },
+    {
+      "from": 1682.34,
+      "to": 1684.8,
+      "sid": 705,
+      "location": 2,
+      "content": "就是就是比较一些高阶的用法",
+      "music": 0.0
+    },
+    {
+      "from": 1684.8,
+      "to": 1687.68,
+      "sid": 706,
+      "location": 2,
+      "content": "那那可能需要涉及到一些开发的一些知识",
+      "music": 0.0
+    },
+    {
+      "from": 1687.68,
+      "to": 1690.22,
+      "sid": 707,
+      "location": 2,
+      "content": "然后如果有同学就是比较感兴趣的",
+      "music": 0.0
+    },
+    {
+      "from": 1690.22,
+      "to": 1691.78,
+      "sid": 708,
+      "location": 2,
+      "content": "可以去深入了解一下这里",
+      "music": 0.0
+    },
+    {
+      "from": 1691.78,
+      "to": 1693.52,
+      "sid": 709,
+      "location": 2,
+      "content": "这里这一块的这个逻辑啊",
+      "music": 0.0
+    },
+    {
+      "from": 1693.52,
+      "to": 1695.07,
+      "sid": 710,
+      "location": 2,
+      "content": "就OC的逻辑呃",
+      "music": 0.0
+    },
+    {
+      "from": 1695.07,
+      "to": 1696.03,
+      "sid": 711,
+      "location": 2,
+      "content": "再再讲一遍",
+      "music": 0.0
+    },
+    {
+      "from": 1696.03,
+      "to": 1699.21,
+      "sid": 712,
+      "location": 2,
+      "content": "就是首先有很多的数据集和这个模型",
+      "music": 0.0
+    },
+    {
+      "from": 1699.21,
+      "to": 1702.57,
+      "sid": 713,
+      "location": 2,
+      "content": "那你需要分片分配完了之后就PARTITIONER",
+      "music": 0.0
+    },
+    {
+      "from": 1702.57,
+      "to": 1703.59,
+      "sid": 714,
+      "location": 2,
+      "content": "然后分配完了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1703.59,
+      "to": 1705.63,
+      "sid": 715,
+      "location": 2,
+      "content": "对于每片它就是一个单独的任务",
+      "music": 0.0
+    },
+    {
+      "from": 1705.63,
+      "to": 1706.639,
+      "sid": 716,
+      "location": 2,
+      "content": "他怎么去提交",
+      "music": 0.0
+    },
+    {
+      "from": 1706.639,
+      "to": 1709.219,
+      "sid": 717,
+      "location": 2,
+      "content": "就用对应不同的这个runner去提交",
+      "music": 0.0
+    },
+    {
+      "from": 1709.219,
+      "to": 1710.22,
+      "sid": 718,
+      "location": 2,
+      "content": "提交完了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1710.22,
+      "to": 1712.05,
+      "sid": 719,
+      "location": 2,
+      "content": "每个任务具体怎么去执行",
+      "music": 0.0
+    },
+    {
+      "from": 1712.05,
+      "to": 1714.06,
+      "sid": 720,
+      "location": 2,
+      "content": "就是在open sel里写明了",
+      "music": 0.0
+    },
+    {
+      "from": 1714.06,
+      "to": 1716.38,
+      "sid": 721,
+      "location": 2,
+      "content": "他执行应该怎么样去执行这样一个方式",
+      "music": 0.0
+    },
+    {
+      "from": 1716.38,
+      "to": 1718.0,
+      "sid": 722,
+      "location": 2,
+      "content": "然后最后全部执行完了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1718.0,
+      "to": 1720.4,
+      "sid": 723,
+      "location": 2,
+      "content": "怎么样去对他这个任务进行总结",
+      "music": 0.0
+    },
+    {
+      "from": 1720.4,
+      "to": 1722.01,
+      "sid": 724,
+      "location": 2,
+      "content": "那就是在这个SUMMARIZER里",
+      "music": 0.0
+    },
+    {
+      "from": 1722.01,
+      "to": 1724.23,
+      "sid": 725,
+      "location": 2,
+      "content": "那这就是整个这个open class",
+      "music": 0.0
+    },
+    {
+      "from": 1724.23,
+      "to": 1726.03,
+      "sid": 726,
+      "location": 2,
+      "content": "它执行这个命令",
+      "music": 0.0
+    },
+    {
+      "from": 1726.03,
+      "to": 1728.8,
+      "sid": 727,
+      "location": 2,
+      "content": "他的这个逻辑所在好",
+      "music": 0.0
+    },
+    {
+      "from": 1728.8,
+      "to": 1731.02,
+      "sid": 728,
+      "location": 2,
+      "content": "那相当于我们这个第二部分也讲完了",
+      "music": 0.0
+    },
+    {
+      "from": 1731.02,
+      "to": 1732.31,
+      "sid": 729,
+      "location": 2,
+      "content": "OT是怎么执行的",
+      "music": 0.0
+    },
+    {
+      "from": 1732.31,
+      "to": 1734.2,
+      "sid": 730,
+      "location": 2,
+      "content": "那我们就进入这个第三部分",
+      "music": 0.0
+    },
+    {
+      "from": 1735.4,
+      "to": 1737.79,
+      "sid": 731,
+      "location": 2,
+      "content": "第三部分的话就是啊",
+      "music": 0.0
+    },
+    {
+      "from": 1737.79,
+      "to": 1740.67,
+      "sid": 732,
+      "location": 2,
+      "content": "我们去怎么去实现一个这个自建的",
+      "music": 0.0
+    },
+    {
+      "from": 1740.67,
+      "to": 1741.87,
+      "sid": 733,
+      "location": 2,
+      "content": "这个数据集啊",
+      "music": 0.0
+    },
+    {
+      "from": 1741.87,
+      "to": 1746.0,
+      "sid": 734,
+      "location": 2,
+      "content": "那呃就我讲的比较通俗易懂一点的话",
+      "music": 0.0
+    },
+    {
+      "from": 1746.0,
+      "to": 1749.78,
+      "sid": 735,
+      "location": 2,
+      "content": "那我们可能就是你要实现一个资金数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1749.78,
+      "to": 1753.17,
+      "sid": 736,
+      "location": 2,
+      "content": "主要是需要啊打开这样几个文件",
+      "music": 0.0
+    },
+    {
+      "from": 1753.17,
+      "to": 1755.69,
+      "sid": 737,
+      "location": 2,
+      "content": "比如说就是首先在CONFIG里面",
+      "music": 0.0
+    },
+    {
+      "from": 1755.69,
+      "to": 1756.95,
+      "sid": 738,
+      "location": 2,
+      "content": "你是需要去改的",
+      "music": 0.0
+    },
+    {
+      "from": 1756.95,
+      "to": 1759.12,
+      "sid": 739,
+      "location": 2,
+      "content": "在CONFIG里面data sets里面",
+      "music": 0.0
+    },
+    {
+      "from": 1759.12,
+      "to": 1762.96,
+      "sid": 740,
+      "location": 2,
+      "content": "比如说你需要去啊构建一个新的这个数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1762.96,
+      "to": 1764.55,
+      "sid": 741,
+      "location": 2,
+      "content": "比如说我们搞CV",
+      "music": 0.0
+    },
+    {
+      "from": 1764.55,
+      "to": 1767.58,
+      "sid": 742,
+      "location": 2,
+      "content": "然后搞CV的某一个版本",
+      "music": 0.0
+    },
+    {
+      "from": 1767.58,
+      "to": 1769.17,
+      "sid": 743,
+      "location": 2,
+      "content": "就一个新的版本",
+      "music": 0.0
+    },
+    {
+      "from": 1769.17,
+      "to": 1771.9,
+      "sid": 744,
+      "location": 2,
+      "content": "那你需要在这个CV的下面去",
+      "music": 0.0
+    },
+    {
+      "from": 1771.9,
+      "to": 1774.749,
+      "sid": 745,
+      "location": 2,
+      "content": "新建一个新的这个PY文件",
+      "music": 0.0
+    },
+    {
+      "from": 1774.749,
+      "to": 1779.519,
+      "sid": 746,
+      "location": 2,
+      "content": "然后把这个相当于相当于比如说打开这个来吧",
+      "music": 0.0
+    },
+    {
+      "from": 1779.519,
+      "to": 1786.9,
+      "sid": 747,
+      "location": 2,
+      "content": "然后啊好比如说我们把这个删掉一下",
+      "music": 0.0
+    },
+    {
+      "from": 1786.9,
+      "to": 1788.22,
+      "sid": 748,
+      "location": 2,
+      "content": "比如说叫假设啊",
+      "music": 0.0
+    },
+    {
+      "from": 1788.22,
+      "to": 1790.38,
+      "sid": 749,
+      "location": 2,
+      "content": "假设有一个新的这个CEO加了一个新的类别",
+      "music": 0.0
+    },
+    {
+      "from": 1790.38,
+      "to": 1791.58,
+      "sid": 750,
+      "location": 2,
+      "content": "它长这个样子",
+      "music": 0.0
+    },
+    {
+      "from": 1791.58,
+      "to": 1796.42,
+      "sid": 751,
+      "location": 2,
+      "content": "那一个新的数据集它必不可少的是什么东西呢",
+      "music": 0.0
+    },
+    {
+      "from": 1796.42,
+      "to": 1799.88,
+      "sid": 752,
+      "location": 2,
+      "content": "就是说你最后必不可少的是",
+      "music": 0.0
+    },
+    {
+      "from": 1799.88,
+      "to": 1804.62,
+      "sid": 753,
+      "location": 2,
+      "content": "你最后需要返回这样一个list",
+      "music": 0.0
+    },
+    {
+      "from": 1804.62,
+      "to": 1808.61,
+      "sid": 754,
+      "location": 2,
+      "content": "这个list里面需要包含一个dict",
+      "music": 0.0
+    },
+    {
+      "from": 1809.19,
+      "to": 1810.29,
+      "sid": 755,
+      "location": 2,
+      "content": "一个dict",
+      "music": 0.0
+    },
+    {
+      "from": 1810.29,
+      "to": 1813.29,
+      "sid": 756,
+      "location": 2,
+      "content": "然后它里面需要有这个读的这个字段",
+      "music": 0.0
+    },
+    {
+      "from": 1813.29,
+      "to": 1816.07,
+      "sid": 757,
+      "location": 2,
+      "content": "input的字段和REVT这个字段",
+      "music": 0.0
+    },
+    {
+      "from": 1816.07,
+      "to": 1819.73,
+      "sid": 758,
+      "location": 2,
+      "content": "这几个东西是就这个东西是必不可少的",
+      "music": 0.0
+    },
+    {
+      "from": 1819.73,
+      "to": 1822.59,
+      "sid": 759,
+      "location": 2,
+      "content": "就是你只需要把这个东西给实现了就行",
+      "music": 0.0
+    },
+    {
+      "from": 1822.59,
+      "to": 1826.67,
+      "sid": 760,
+      "location": 2,
+      "content": "那比如说我们可以就是看一个啊别的数据集吧",
+      "music": 0.0
+    },
+    {
+      "from": 1826.67,
+      "to": 1831.68,
+      "sid": 761,
+      "location": 2,
+      "content": "比如说啊subjective面找一个别的数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1831.68,
+      "to": 1833.84,
+      "sid": 762,
+      "location": 2,
+      "content": "On lunch",
+      "music": 0.0
+    },
+    {
+      "from": 1834.56,
+      "to": 1837.28,
+      "sid": 763,
+      "location": 2,
+      "content": "那这个其实也是一样的",
+      "music": 0.0
+    },
+    {
+      "from": 1837.28,
+      "to": 1838.42,
+      "sid": 764,
+      "location": 2,
+      "content": "你不管怎么样",
+      "music": 0.0
+    },
+    {
+      "from": 1838.42,
+      "to": 1841.06,
+      "sid": 765,
+      "location": 2,
+      "content": "最后一定需要有一个这个就行了",
+      "music": 0.0
+    },
+    {
+      "from": 1841.06,
+      "to": 1845.38,
+      "sid": 766,
+      "location": 2,
+      "content": "这是你在CONFIG里面是需要做这样一个事情的",
+      "music": 0.0
+    },
+    {
+      "from": 1845.38,
+      "to": 1847.87,
+      "sid": 767,
+      "location": 2,
+      "content": "你需要实现一个新的新的数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1847.87,
+      "to": 1849.64,
+      "sid": 768,
+      "location": 2,
+      "content": "你需要一个新的configure",
+      "music": 0.0
+    },
+    {
+      "from": 1849.64,
+      "to": 1851.35,
+      "sid": 769,
+      "location": 2,
+      "content": "然后这个新的configure里面",
+      "music": 0.0
+    },
+    {
+      "from": 1851.35,
+      "to": 1854.19,
+      "sid": 770,
+      "location": 2,
+      "content": "你需要去包含最后的这样一个东西",
+      "music": 0.0
+    },
+    {
+      "from": 1854.19,
+      "to": 1856.35,
+      "sid": 771,
+      "location": 2,
+      "content": "那那这个东西它具体要怎么做",
+      "music": 0.0
+    },
+    {
+      "from": 1856.35,
+      "to": 1859.13,
+      "sid": 772,
+      "location": 2,
+      "content": "我们等会再来讲好",
+      "music": 0.0
+    },
+    {
+      "from": 1859.13,
+      "to": 1861.38,
+      "sid": 773,
+      "location": 2,
+      "content": "这是你CONFIX需要做的事情",
+      "music": 0.0
+    },
+    {
+      "from": 1861.38,
+      "to": 1863.41,
+      "sid": 774,
+      "location": 2,
+      "content": "就是你需要在confix data test",
+      "music": 0.0
+    },
+    {
+      "from": 1863.41,
+      "to": 1865.27,
+      "sid": 775,
+      "location": 2,
+      "content": "然后对应的数据集下面",
+      "music": 0.0
+    },
+    {
+      "from": 1865.27,
+      "to": 1867.43,
+      "sid": 776,
+      "location": 2,
+      "content": "去新建一个新的这个脚本文件",
+      "music": 0.0
+    },
+    {
+      "from": 1867.43,
+      "to": 1868.09,
+      "sid": 777,
+      "location": 2,
+      "content": "PY文件",
+      "music": 0.0
+    },
+    {
+      "from": 1868.09,
+      "to": 1869.62,
+      "sid": 778,
+      "location": 2,
+      "content": "然后去更改一些东西",
+      "music": 0.0
+    },
+    {
+      "from": 1869.62,
+      "to": 1872.649,
+      "sid": 779,
+      "location": 2,
+      "content": "然后呃还需要改的地方呢",
+      "music": 0.0
+    },
+    {
+      "from": 1872.649,
+      "to": 1875.889,
+      "sid": 780,
+      "location": 2,
+      "content": "就是在你这个open the pass data size下面",
+      "music": 0.0
+    },
+    {
+      "from": 1875.889,
+      "to": 1877.889,
+      "sid": 781,
+      "location": 2,
+      "content": "你也需要去做一些修改",
+      "music": 0.0
+    },
+    {
+      "from": 1877.889,
+      "to": 1880.589,
+      "sid": 782,
+      "location": 2,
+      "content": "在open class下detest下面",
+      "music": 0.0
+    },
+    {
+      "from": 1880.589,
+      "to": 1883.13,
+      "sid": 783,
+      "location": 2,
+      "content": "比如说刚刚的这个CV啊",
+      "music": 0.0
+    },
+    {
+      "from": 1883.13,
+      "to": 1884.87,
+      "sid": 784,
+      "location": 2,
+      "content": "我们找到CV这个问题",
+      "music": 0.0
+    },
+    {
+      "from": 1884.87,
+      "to": 1887.15,
+      "sid": 785,
+      "location": 2,
+      "content": "那你现在需要一个新的数据集了",
+      "music": 0.0
+    },
+    {
+      "from": 1887.15,
+      "to": 1890.08,
+      "sid": 786,
+      "location": 2,
+      "content": "你也需要去新建一个新的这个类",
+      "music": 0.0
+    },
+    {
+      "from": 1890.08,
+      "to": 1891.76,
+      "sid": 787,
+      "location": 2,
+      "content": "新的这个数据集的类",
+      "music": 0.0
+    },
+    {
+      "from": 1891.76,
+      "to": 1894.16,
+      "sid": 788,
+      "location": 2,
+      "content": "然后去修改一下它的这个参数",
+      "music": 0.0
+    },
+    {
+      "from": 1894.16,
+      "to": 1896.92,
+      "sid": 789,
+      "location": 2,
+      "content": "等会我们会来讲是怎么样修改",
+      "music": 0.0
+    },
+    {
+      "from": 1896.92,
+      "to": 1899.92,
+      "sid": 790,
+      "location": 2,
+      "content": "然后啊这里还有一个需要注意的点啊",
+      "music": 0.0
+    },
+    {
+      "from": 1899.92,
+      "to": 1902.43,
+      "sid": 791,
+      "location": 2,
+      "content": "就是说你在这个in it点PY里面",
+      "music": 0.0
+    },
+    {
+      "from": 1902.43,
+      "to": 1904.05,
+      "sid": 792,
+      "location": 2,
+      "content": "你要记得去import一下",
+      "music": 0.0
+    },
+    {
+      "from": 1904.05,
+      "to": 1905.13,
+      "sid": 793,
+      "location": 2,
+      "content": "如果你不import的话",
+      "music": 0.0
+    },
+    {
+      "from": 1905.13,
+      "to": 1907.2,
+      "sid": 794,
+      "location": 2,
+      "content": "也是也是就是没有用的",
+      "music": 0.0
+    },
+    {
+      "from": 1907.2,
+      "to": 1910.05,
+      "sid": 795,
+      "location": 2,
+      "content": "就比如说这里它是from点c will去",
+      "music": 0.0
+    },
+    {
+      "from": 1910.05,
+      "to": 1913.85,
+      "sid": 796,
+      "location": 2,
+      "content": "就相当于啊这个同学这里要注意一下",
+      "music": 0.0
+    },
+    {
+      "from": 1913.85,
+      "to": 1916.4,
+      "sid": 797,
+      "location": 2,
+      "content": "如果你要去实现一个新的数据集",
+      "music": 0.0
+    },
+    {
+      "from": 1916.4,
+      "to": 1920.389,
+      "sid": 798,
+      "location": 2,
+      "content": "你最起码需要改的就是这三个文件",
+      "music": 0.0
+    },
+    {
+      "from": 1920.789,
+      "to": 1923.449,
+      "sid": 799,
+      "location": 2,
+      "content": "比如说这里新建一个CV2",
+      "music": 0.0
+    },
+    {
+      "from": 1923.449,
+      "to": 1927.909,
+      "sid": 800,
+      "location": 2,
+      "content": "那就需要点CV2import",
+      "music": 0.0
+    },
+    {
+      "from": 1928.609,
+      "to": 1930.489,
+      "sid": 801,
+      "location": 2,
+      "content": "然后你在这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 1930.489,
+      "to": 1933.18,
+      "sid": 802,
+      "location": 2,
+      "content": "比如说呃",
+      "music": 0.0
+    },
+    {
+      "from": 1937.62,
+      "to": 1941.86,
+      "sid": 803,
+      "location": 2,
+      "content": "这里新建了一个CV2点PY",
+      "music": 0.0
+    },
+    {
+      "from": 1943.8,
+      "to": 1947.69,
+      "sid": 804,
+      "location": 2,
+      "content": "对把这个CV20折批完input的过来",
+      "music": 0.0
+    },
+    {
+      "from": 1947.69,
+      "to": 1950.67,
+      "sid": 805,
+      "location": 2,
+      "content": "然后我们去改造一个新的这个类",
+      "music": 0.0
+    },
+    {
+      "from": 1950.67,
+      "to": 1955.52,
+      "sid": 806,
+      "location": 2,
+      "content": "SEVL这个类去改造一个新的CV类数据集的类",
+      "music": 0.0
+    },
+    {
+      "from": 1955.52,
+      "to": 1958.37,
+      "sid": 807,
+      "location": 2,
+      "content": "那你在这个新的这个数据集类里",
+      "music": 0.0
+    },
+    {
+      "from": 1958.37,
+      "to": 1961.08,
+      "sid": 808,
+      "location": 2,
+      "content": "你需要去实现一个load的这个方法",
+      "music": 0.0
+    },
+    {
+      "from": 1961.08,
+      "to": 1963.72,
+      "sid": 809,
+      "location": 2,
+      "content": "这个logo的方法是你一定需要实现的",
+      "music": 0.0
+    },
+    {
+      "from": 1963.72,
+      "to": 1964.98,
+      "sid": 810,
+      "location": 2,
+      "content": "其他的就可以不用管",
+      "music": 0.0
+    },
+    {
+      "from": 1964.98,
+      "to": 1968.9,
+      "sid": 811,
+      "location": 2,
+      "content": "然后啊这个这个这个类",
+      "music": 0.0
+    },
+    {
+      "from": 1968.9,
+      "to": 1970.52,
+      "sid": 812,
+      "location": 2,
+      "content": "比如说你实现了这个类",
+      "music": 0.0
+    },
+    {
+      "from": 1970.52,
+      "to": 1972.26,
+      "sid": 813,
+      "location": 2,
+      "content": "然后你这里不是import了吗",
+      "music": 0.0
+    },
+    {
+      "from": 1972.26,
+      "to": 1973.77,
+      "sid": 814,
+      "location": 2,
+      "content": "你import了之后",
+      "music": 0.0
+    },
+    {
+      "from": 1973.77,
+      "to": 1977.34,
+      "sid": 815,
+      "location": 2,
+      "content": "然后在这个这个新的CONFIG里面",
+      "music": 0.0
+    },
+    {
+      "from": 1977.34,
+      "to": 1980.8,
+      "sid": 816,
+      "location": 2,
+      "content": "比如说我们这里新建一个新的configure",
+      "music": 0.0
+    },
+    {
+      "from": 1983.16,
+      "to": 1986.36,
+      "sid": 817,
+      "location": 2,
+      "content": "这就先随便命一个名字",
+      "music": 0.0
+    },
+    {
+      "from": 1986.36,
+      "to": 1988.7,
+      "sid": 818,
+      "location": 2,
+      "content": "叫这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 1989.1,
+      "to": 1990.5,
+      "sid": 819,
+      "location": 2,
+      "content": "它挪过来啊",
+      "music": 0.0
+    },
+    {
+      "from": 1992.54,
+      "to": 1995.51,
+      "sid": 820,
+      "location": 2,
+      "content": "你看这里就对应的是一个两个",
+      "music": 0.0
+    },
+    {
+      "from": 1995.51,
+      "to": 1997.46,
+      "sid": 821,
+      "location": 2,
+      "content": "然后三个需要更改的文件",
+      "music": 0.0
+    },
+    {
+      "from": 1997.46,
+      "to": 1999.44,
+      "sid": 822,
+      "location": 2,
+      "content": "这两个是你需要新加的",
+      "music": 0.0
+    },
+    {
+      "from": 1999.44,
+      "to": 2001.76,
+      "sid": 823,
+      "location": 2,
+      "content": "一个是新加一个configure",
+      "music": 0.0
+    },
+    {
+      "from": 2001.76,
+      "to": 2005.03,
+      "sid": 824,
+      "location": 2,
+      "content": "然后一个是新加一个DATASET的这个类",
+      "music": 0.0
+    },
+    {
+      "from": 2005.03,
+      "to": 2008.48,
+      "sid": 825,
+      "location": 2,
+      "content": "然后第三个是在你在int点PY里面",
+      "music": 0.0
+    },
+    {
+      "from": 2008.48,
+      "to": 2009.8,
+      "sid": 826,
+      "location": 2,
+      "content": "去把它input进来",
+      "music": 0.0
+    },
+    {
+      "from": 2009.8,
+      "to": 2012.03,
+      "sid": 827,
+      "location": 2,
+      "content": "这是你需要修改了三个地方",
+      "music": 0.0
+    },
+    {
+      "from": 2012.03,
+      "to": 2014.22,
+      "sid": 828,
+      "location": 2,
+      "content": "那么在这个类里面呢",
+      "music": 0.0
+    },
+    {
+      "from": 2014.22,
+      "to": 2015.72,
+      "sid": 829,
+      "location": 2,
+      "content": "就这个类的名字",
+      "music": 0.0
+    },
+    {
+      "from": 2015.72,
+      "to": 2018.57,
+      "sid": 830,
+      "location": 2,
+      "content": "你是需要对应到你的这个fire里面去的",
+      "music": 0.0
+    },
+    {
+      "from": 2018.57,
+      "to": 2023.37,
+      "sid": 831,
+      "location": 2,
+      "content": "比如说你这里CV2这个名字",
+      "music": 0.0
+    },
+    {
+      "from": 2023.37,
+      "to": 2026.13,
+      "sid": 832,
+      "location": 2,
+      "content": "那你就肯定是需要从这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 2026.13,
+      "to": 2029.6,
+      "sid": 833,
+      "location": 2,
+      "content": "import cv2这样一个这样一个类过来",
+      "music": 0.0
+    },
+    {
+      "from": 2029.6,
+      "to": 2031.4,
+      "sid": 834,
+      "location": 2,
+      "content": "然后这个类呢就写在",
+      "music": 0.0
+    },
+    {
+      "from": 2033.56,
+      "to": 2036.1,
+      "sid": 835,
+      "location": 2,
+      "content": "嗯应该是写到这里对",
+      "music": 0.0
+    },
+    {
+      "from": 2036.1,
+      "to": 2037.72,
+      "sid": 836,
+      "location": 2,
+      "content": "就这个东西是必须的啊",
+      "music": 0.0
+    },
+    {
+      "from": 2037.72,
+      "to": 2039.64,
+      "sid": 837,
+      "location": 2,
+      "content": "就这个从40行到54行",
+      "music": 0.0
+    },
+    {
+      "from": 2039.64,
+      "to": 2041.26,
+      "sid": 838,
+      "location": 2,
+      "content": "这里这个东西是必须的",
+      "music": 0.0
+    },
+    {
+      "from": 2041.26,
+      "to": 2044.19,
+      "sid": 839,
+      "location": 2,
+      "content": "然后去把这个东西给改成你的新的这个类",
+      "music": 0.0
+    },
+    {
+      "from": 2044.19,
+      "to": 2047.589,
+      "sid": 840,
+      "location": 2,
+      "content": "然后然后这个类它不是",
+      "music": 0.0
+    },
+    {
+      "from": 2047.589,
+      "to": 2049.029,
+      "sid": 841,
+      "location": 2,
+      "content": "我们要实现一个log函数吗",
+      "music": 0.0
+    },
+    {
+      "from": 2049.029,
+      "to": 2051.789,
+      "sid": 842,
+      "location": 2,
+      "content": "这里就是实现你的数据集是怎么去LOD进来的",
+      "music": 0.0
+    },
+    {
+      "from": 2051.789,
+      "to": 2052.929,
+      "sid": 843,
+      "location": 2,
+      "content": "那这个是SPT",
+      "music": 0.0
+    },
+    {
+      "from": 2052.929,
+      "to": 2055.059,
+      "sid": 844,
+      "location": 2,
+      "content": "有些数据集它可能会有啊",
+      "music": 0.0
+    },
+    {
+      "from": 2055.059,
+      "to": 2055.719,
+      "sid": 845,
+      "location": 2,
+      "content": "测试集",
+      "music": 0.0
+    },
+    {
+      "from": 2055.719,
+      "to": 2057.039,
+      "sid": 846,
+      "location": 2,
+      "content": "验证集之类的",
+      "music": 0.0
+    },
+    {
+      "from": 2057.039,
+      "to": 2058.239,
+      "sid": 847,
+      "location": 2,
+      "content": "那这个可以不用管",
+      "music": 0.0
+    },
+    {
+      "from": 2058.239,
+      "to": 2059.499,
+      "sid": 848,
+      "location": 2,
+      "content": "然后这个file name呢",
+      "music": 0.0
+    },
+    {
+      "from": 2059.499,
+      "to": 2063.97,
+      "sid": 849,
+      "location": 2,
+      "content": "你看这里会就一定会传入这个路径以及名次",
+      "music": 0.0
+    },
+    {
+      "from": 2063.97,
+      "to": 2065.41,
+      "sid": 850,
+      "location": 2,
+      "content": "那路径是什么意思啊",
+      "music": 0.0
+    },
+    {
+      "from": 2065.41,
+      "to": 2066.97,
+      "sid": 851,
+      "location": 2,
+      "content": "路径是比如说SEWELL",
+      "music": 0.0
+    },
+    {
+      "from": 2066.97,
+      "to": 2069.85,
+      "sid": 852,
+      "location": 2,
+      "content": "它它下面有很多很多个子集",
+      "music": 0.0
+    },
+    {
+      "from": 2069.85,
+      "to": 2071.41,
+      "sid": 853,
+      "location": 2,
+      "content": "但是它有一个根目录",
+      "music": 0.0
+    },
+    {
+      "from": 2071.41,
+      "to": 2074.71,
+      "sid": 854,
+      "location": 2,
+      "content": "所以这就是呃这个整个数据集的根目录",
+      "music": 0.0
+    },
+    {
+      "from": 2074.71,
+      "to": 2079.11,
+      "sid": 855,
+      "location": 2,
+      "content": "然后name的话就是你嗯那个子集的这个名字",
+      "music": 0.0
+    },
+    {
+      "from": 2079.11,
+      "to": 2085.109,
+      "sid": 856,
+      "location": 2,
+      "content": "那所以这里这个file name就是说把所有的这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 2085.109,
+      "to": 2088.31,
+      "sid": 857,
+      "location": 2,
+      "content": "把所有的这个这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 2088.31,
+      "to": 2091.07,
+      "sid": 858,
+      "location": 2,
+      "content": "就就是每每一次把一个根目录",
+      "music": 0.0
+    },
+    {
+      "from": 2091.07,
+      "to": 2093.029,
+      "sid": 859,
+      "location": 2,
+      "content": "和他这个子集的名字拼起来",
+      "music": 0.0
+    },
+    {
+      "from": 2093.029,
+      "to": 2094.949,
+      "sid": 860,
+      "location": 2,
+      "content": "然后组成一个CSV文件",
+      "music": 0.0
+    },
+    {
+      "from": 2094.949,
+      "to": 2096.569,
+      "sid": 861,
+      "location": 2,
+      "content": "那你自建一个数据集的话",
+      "music": 0.0
+    },
+    {
+      "from": 2096.569,
+      "to": 2098.36,
+      "sid": 862,
+      "location": 2,
+      "content": "那你也可以不用管这个格式了",
+      "music": 0.0
+    },
+    {
+      "from": 2098.36,
+      "to": 2100.04,
+      "sid": 863,
+      "location": 2,
+      "content": "你有的数据集可能是CSV",
+      "music": 0.0
+    },
+    {
+      "from": 2100.04,
+      "to": 2101.12,
+      "sid": 864,
+      "location": 2,
+      "content": "有的数据集可能是JASON",
+      "music": 0.0
+    },
+    {
+      "from": 2101.12,
+      "to": 2102.02,
+      "sid": 865,
+      "location": 2,
+      "content": "这都无所谓",
+      "music": 0.0
+    },
+    {
+      "from": 2102.02,
+      "to": 2105.18,
+      "sid": 866,
+      "location": 2,
+      "content": "你只需要去就比如说拼成了一个这个file name",
+      "music": 0.0
+    },
+    {
+      "from": 2105.18,
+      "to": 2106.92,
+      "sid": 867,
+      "location": 2,
+      "content": "然后你去读取这个file name",
+      "music": 0.0
+    },
+    {
+      "from": 2106.92,
+      "to": 2108.51,
+      "sid": 868,
+      "location": 2,
+      "content": "读取了这个file name之后",
+      "music": 0.0
+    },
+    {
+      "from": 2108.51,
+      "to": 2112.67,
+      "sid": 869,
+      "location": 2,
+      "content": "然后把它把他的这个相关的东西",
+      "music": 0.0
+    },
+    {
+      "from": 2112.67,
+      "to": 2113.78,
+      "sid": 870,
+      "location": 2,
+      "content": "比如说你是CSB",
+      "music": 0.0
+    },
+    {
+      "from": 2113.78,
+      "to": 2117.11,
+      "sid": 871,
+      "location": 2,
+      "content": "你就你就用像用C读CSV的方式读出来",
+      "music": 0.0
+    },
+    {
+      "from": 2117.11,
+      "to": 2118.07,
+      "sid": 872,
+      "location": 2,
+      "content": "然后你是JASON的话",
+      "music": 0.0
+    },
+    {
+      "from": 2118.07,
+      "to": 2119.6,
+      "sid": 873,
+      "location": 2,
+      "content": "你用读JASON的方式读出来",
+      "music": 0.0
+    },
+    {
+      "from": 2119.6,
+      "to": 2122.35,
+      "sid": 874,
+      "location": 2,
+      "content": "然后最后你返回的东西",
+      "music": 0.0
+    },
+    {
+      "from": 2122.35,
+      "to": 2124.15,
+      "sid": 875,
+      "location": 2,
+      "content": "一定是一定要是一个DATASET",
+      "music": 0.0
+    },
+    {
+      "from": 2124.15,
+      "to": 2127.72,
+      "sid": 876,
+      "location": 2,
+      "content": "dict的这样一个这样一个类型就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 2127.72,
+      "to": 2129.07,
+      "sid": 877,
+      "location": 2,
+      "content": "就不管不管你",
+      "music": 0.0
+    },
+    {
+      "from": 2129.07,
+      "to": 2130.03,
+      "sid": 878,
+      "location": 2,
+      "content": "你是怎么搞的",
+      "music": 0.0
+    },
+    {
+      "from": 2130.03,
+      "to": 2133.039,
+      "sid": 879,
+      "location": 2,
+      "content": "你最后最后一定要设一个dict",
+      "music": 0.0
+    },
+    {
+      "from": 2133.039,
+      "to": 2135.76,
+      "sid": 880,
+      "location": 2,
+      "content": "而这个dict里面有相关的这个字段",
+      "music": 0.0
+    },
+    {
+      "from": 2135.76,
+      "to": 2137.44,
+      "sid": 881,
+      "location": 2,
+      "content": "然后有相关的这个key",
+      "music": 0.0
+    },
+    {
+      "from": 2137.44,
+      "to": 2138.34,
+      "sid": 882,
+      "location": 2,
+      "content": "相关的value",
+      "music": 0.0
+    },
+    {
+      "from": 2138.34,
+      "to": 2142.38,
+      "sid": 883,
+      "location": 2,
+      "content": "然后最后最后用一个这个呃",
+      "music": 0.0
+    },
+    {
+      "from": 2142.38,
+      "to": 2145.32,
+      "sid": 884,
+      "location": 2,
+      "content": "list的这个形式都pad进来",
+      "music": 0.0
+    },
+    {
+      "from": 2145.32,
+      "to": 2148.66,
+      "sid": 885,
+      "location": 2,
+      "content": "也就是说你最后这个就我们不用管",
+      "music": 0.0
+    },
+    {
+      "from": 2148.66,
+      "to": 2150.64,
+      "sid": 886,
+      "location": 2,
+      "content": "中间是怎么怎么得来的",
+      "music": 0.0
+    },
+    {
+      "from": 2150.64,
+      "to": 2152.05,
+      "sid": 887,
+      "location": 2,
+      "content": "你新建一个数据集的话",
+      "music": 0.0
+    },
+    {
+      "from": 2152.05,
+      "to": 2155.52,
+      "sid": 888,
+      "location": 2,
+      "content": "你需要注意把它的这个路径和名字传进来",
+      "music": 0.0
+    },
+    {
+      "from": 2155.52,
+      "to": 2159.7,
+      "sid": 889,
+      "location": 2,
+      "content": "然后呃就读CSV或者读读JASON",
+      "music": 0.0
+    },
+    {
+      "from": 2159.7,
+      "to": 2160.36,
+      "sid": 890,
+      "location": 2,
+      "content": "这无所谓",
+      "music": 0.0
+    },
+    {
+      "from": 2160.36,
+      "to": 2162.1,
+      "sid": 891,
+      "location": 2,
+      "content": "然后你只要把它读出来了之后",
+      "music": 0.0
+    },
+    {
+      "from": 2162.1,
+      "to": 2166.01,
+      "sid": 892,
+      "location": 2,
+      "content": "最后你返回的只要是这样一个形式就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 2166.01,
+      "to": 2169.07,
+      "sid": 893,
+      "location": 2,
+      "content": "比如说有一个list这个数据集有多少条",
+      "music": 0.0
+    },
+    {
+      "from": 2169.07,
+      "to": 2170.24,
+      "sid": 894,
+      "location": 2,
+      "content": "那这里就有多少条",
+      "music": 0.0
+    },
+    {
+      "from": 2170.24,
+      "to": 2174.35,
+      "sid": 895,
+      "location": 2,
+      "content": "然后每一个里面它有什么样的key and value",
+      "music": 0.0
+    },
+    {
+      "from": 2174.35,
+      "to": 2176.42,
+      "sid": 896,
+      "location": 2,
+      "content": "把这个东西给定义好就行了",
+      "music": 0.0
+    },
+    {
+      "from": 2176.42,
+      "to": 2179.3,
+      "sid": 897,
+      "location": 2,
+      "content": "这个的话就是你最后需要返回这个数据的",
+      "music": 0.0
+    },
+    {
+      "from": 2179.3,
+      "to": 2180.19,
+      "sid": 898,
+      "location": 2,
+      "content": "这个格式了",
+      "music": 0.0
+    },
+    {
+      "from": 2180.19,
+      "to": 2182.26,
+      "sid": 899,
+      "location": 2,
+      "content": "那这个地方你返回了之后",
+      "music": 0.0
+    },
+    {
+      "from": 2182.26,
+      "to": 2185.319,
+      "sid": 900,
+      "location": 2,
+      "content": "那我们就可以进入到这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 2185.959,
+      "to": 2187.989,
+      "sid": 901,
+      "location": 2,
+      "content": "那比如说这个这个地方吗",
+      "music": 0.0
+    },
+    {
+      "from": 2187.989,
+      "to": 2190.21,
+      "sid": 902,
+      "location": 2,
+      "content": "那他为什么会有啊",
+      "music": 0.0
+    },
+    {
+      "from": 2190.21,
+      "to": 2191.65,
+      "sid": 903,
+      "location": 2,
+      "content": "那我们来一个一个讲解",
+      "music": 0.0
+    },
+    {
+      "from": 2191.65,
+      "to": 2193.87,
+      "sid": 904,
+      "location": 2,
+      "content": "他为什么就是比如说这个pass它",
+      "music": 0.0
+    },
+    {
+      "from": 2193.87,
+      "to": 2195.37,
+      "sid": 905,
+      "location": 2,
+      "content": "它这个是根目录CV的",
+      "music": 0.0
+    },
+    {
+      "from": 2195.37,
+      "to": 2198.109,
+      "sid": 906,
+      "location": 2,
+      "content": "根目录CV的所有子集全部在这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 2198.109,
+      "to": 2200.629,
+      "sid": 907,
+      "location": 2,
+      "content": "然后name对应的就是我们这些name",
+      "music": 0.0
+    },
+    {
+      "from": 2200.629,
+      "to": 2202.38,
+      "sid": 908,
+      "location": 2,
+      "content": "它是每个子集的名字",
+      "music": 0.0
+    },
+    {
+      "from": 2202.38,
+      "to": 2205.5,
+      "sid": 909,
+      "location": 2,
+      "content": "所以你看这个地方name它是等于下划线内的",
+      "music": 0.0
+    },
+    {
+      "from": 2205.5,
+      "to": 2206.94,
+      "sid": 910,
+      "location": 2,
+      "content": "下划线内是怎么来的呢",
+      "music": 0.0
+    },
+    {
+      "from": 2206.94,
+      "to": 2210.12,
+      "sid": 911,
+      "location": 2,
+      "content": "下划线内是在所有的CV的这个这个",
+      "music": 0.0
+    },
+    {
+      "from": 2210.12,
+      "to": 2211.97,
+      "sid": 912,
+      "location": 2,
+      "content": "子集里面过来的啊",
+      "music": 0.0
+    },
+    {
+      "from": 2211.97,
+      "to": 2214.91,
+      "sid": 913,
+      "location": 2,
+      "content": "那么所以就是说啊在比如说我们这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 2214.91,
+      "to": 2216.92,
+      "sid": 914,
+      "location": 2,
+      "content": "它有很多个性这个子集嘛",
+      "music": 0.0
+    },
+    {
+      "from": 2216.92,
+      "to": 2220.47,
+      "sid": 915,
+      "location": 2,
+      "content": "比如今年还可以继续加很多这个东西",
+      "music": 0.0
+    },
+    {
+      "from": 2221.85,
+      "to": 2223.95,
+      "sid": 916,
+      "location": 2,
+      "content": "这是computer network这样一个子集啊",
+      "music": 0.0
+    },
+    {
+      "from": 2223.95,
+      "to": 2225.33,
+      "sid": 917,
+      "location": 2,
+      "content": "比如说有human之类的",
+      "music": 0.0
+    },
+    {
+      "from": 2225.33,
+      "to": 2226.33,
+      "sid": 918,
+      "location": 2,
+      "content": "有很多子集",
+      "music": 0.0
+    },
+    {
+      "from": 2226.33,
+      "to": 2227.95,
+      "sid": 919,
+      "location": 2,
+      "content": "那他就会一个一个遍历嘛",
+      "music": 0.0
+    },
+    {
+      "from": 2227.95,
+      "to": 2229.57,
+      "sid": 920,
+      "location": 2,
+      "content": "然后把这个名字给读出来",
+      "music": 0.0
+    },
+    {
+      "from": 2229.57,
+      "to": 2231.77,
+      "sid": 921,
+      "location": 2,
+      "content": "然后去读相应的JSON文件",
+      "music": 0.0
+    },
+    {
+      "from": 2231.77,
+      "to": 2234.62,
+      "sid": 922,
+      "location": 2,
+      "content": "那其实在这里我们也是可以看到",
+      "music": 0.0
+    },
+    {
+      "from": 2234.62,
+      "to": 2237.67,
+      "sid": 923,
+      "location": 2,
+      "content": "比如说找到CV CV well",
+      "music": 0.0
+    },
+    {
+      "from": 2237.67,
+      "to": 2240.73,
+      "sid": 924,
+      "location": 2,
+      "content": "在这里看他的这个根路径",
+      "music": 0.0
+    },
+    {
+      "from": 2240.73,
+      "to": 2243.65,
+      "sid": 925,
+      "location": 2,
+      "content": "是不是这个formal sewell对吧",
+      "music": 0.0
+    },
+    {
+      "from": 2243.65,
+      "to": 2244.85,
+      "sid": 926,
+      "location": 2,
+      "content": "就这个data",
+      "music": 0.0
+    },
+    {
+      "from": 2244.85,
+      "to": 2246.86,
+      "sid": 927,
+      "location": 2,
+      "content": "然后c will for more see will",
+      "music": 0.0
+    },
+    {
+      "from": 2246.86,
+      "to": 2253.24,
+      "sid": 928,
+      "location": 2,
+      "content": "那这里也会有dave test和well这三个这三个呃",
+      "music": 0.0
+    },
+    {
+      "from": 2253.24,
+      "to": 2254.92,
+      "sid": 929,
+      "location": 2,
+      "content": "split这三个切片",
+      "music": 0.0
+    },
+    {
+      "from": 2254.92,
+      "to": 2257.89,
+      "sid": 930,
+      "location": 2,
+      "content": "然后每个切片下面又有很多个子集",
+      "music": 0.0
+    },
+    {
+      "from": 2257.89,
+      "to": 2259.24,
+      "sid": 931,
+      "location": 2,
+      "content": "子集的这个name",
+      "music": 0.0
+    },
+    {
+      "from": 2259.24,
+      "to": 2261.82,
+      "sid": 932,
+      "location": 2,
+      "content": "然后这里把这个name也拿过来",
+      "music": 0.0
+    },
+    {
+      "from": 2261.82,
+      "to": 2263.21,
+      "sid": 933,
+      "location": 2,
+      "content": "拿过来之后",
+      "music": 0.0
+    },
+    {
+      "from": 2263.21,
+      "to": 2264.819,
+      "sid": 934,
+      "location": 2,
+      "content": "你这里有个for循环",
+      "music": 0.0
+    },
+    {
+      "from": 2264.819,
+      "to": 2266.739,
+      "sid": 935,
+      "location": 2,
+      "content": "对于所有的这个内容我都拿过来",
+      "music": 0.0
+    },
+    {
+      "from": 2266.739,
+      "to": 2269.829,
+      "sid": 936,
+      "location": 2,
+      "content": "然后在这个地方去给它拼成相应的CSV",
+      "music": 0.0
+    },
+    {
+      "from": 2269.829,
+      "to": 2273.399,
+      "sid": 937,
+      "location": 2,
+      "content": "这就是拼这个数据集格式了",
+      "music": 0.0
+    },
+    {
+      "from": 2273.399,
+      "to": 2277.659,
+      "sid": 938,
+      "location": 2,
+      "content": "那这那首先这个是我们要实例化一个数据集",
+      "music": 0.0
+    },
+    {
+      "from": 2277.659,
+      "to": 2278.739,
+      "sid": 939,
+      "location": 2,
+      "content": "需要多少东西吗",
+      "music": 0.0
+    },
+    {
+      "from": 2278.739,
+      "to": 2280.119,
+      "sid": 940,
+      "location": 2,
+      "content": "那有这个type",
+      "music": 0.0
+    },
+    {
+      "from": 2280.119,
+      "to": 2281.65,
+      "sid": 941,
+      "location": 2,
+      "content": "有这个pass这个name",
+      "music": 0.0
+    },
+    {
+      "from": 2281.65,
+      "to": 2286.42,
+      "sid": 942,
+      "location": 2,
+      "content": "然后呃这个东西呢这个东西其实也不是必要的",
+      "music": 0.0
+    },
+    {
+      "from": 2286.42,
+      "to": 2288.43,
+      "sid": 943,
+      "location": 2,
+      "content": "这个东西可能是CV的一个",
+      "music": 0.0
+    },
+    {
+      "from": 2288.43,
+      "to": 2290.63,
+      "sid": 944,
+      "location": 2,
+      "content": "这个他自己特殊的地方",
+      "music": 0.0
+    },
+    {
+      "from": 2290.63,
+      "to": 2291.83,
+      "sid": 945,
+      "location": 2,
+      "content": "这个东西可以不用管",
+      "music": 0.0
+    },
+    {
+      "from": 2291.83,
+      "to": 2293.03,
+      "sid": 946,
+      "location": 2,
+      "content": "那你实现一个新书集集",
+      "music": 0.0
+    },
+    {
+      "from": 2293.03,
+      "to": 2294.37,
+      "sid": 947,
+      "location": 2,
+      "content": "除了这三个之外",
+      "music": 0.0
+    },
+    {
+      "from": 2294.37,
+      "to": 2296.65,
+      "sid": 948,
+      "location": 2,
+      "content": "这三个东西是一定是需要的",
+      "music": 0.0
+    },
+    {
+      "from": 2296.65,
+      "to": 2297.94,
+      "sid": 949,
+      "location": 2,
+      "content": "Reader configure",
+      "music": 0.0
+    },
+    {
+      "from": 2297.94,
+      "to": 2300.31,
+      "sid": 950,
+      "location": 2,
+      "content": "然后info configure和evil configure",
+      "music": 0.0
+    },
+    {
+      "from": 2300.31,
+      "to": 2301.27,
+      "sid": 951,
+      "location": 2,
+      "content": "这是需要的",
+      "music": 0.0
+    },
+    {
+      "from": 2301.27,
+      "to": 2304.66,
+      "sid": 952,
+      "location": 2,
+      "content": "然后呃info configure和email configure",
+      "music": 0.0
+    },
+    {
+      "from": 2304.66,
+      "to": 2308.08,
+      "sid": 953,
+      "location": 2,
+      "content": "基本上其实可以照抄这个已有的数据集就行",
+      "music": 0.0
+    },
+    {
+      "from": 2308.08,
+      "to": 2310.69,
+      "sid": 954,
+      "location": 2,
+      "content": "比如说info configure和email configure",
+      "music": 0.0
+    },
+    {
+      "from": 2310.69,
+      "to": 2311.77,
+      "sid": 955,
+      "location": 2,
+      "content": "在这个地方啊",
+      "music": 0.0
+    },
+    {
+      "from": 2311.77,
+      "to": 2313.21,
+      "sid": 956,
+      "location": 2,
+      "content": "info configure它是这个样子",
+      "music": 0.0
+    },
+    {
+      "from": 2313.21,
+      "to": 2314.29,
+      "sid": 957,
+      "location": 2,
+      "content": "它长这个样子",
+      "music": 0.0
+    },
+    {
+      "from": 2314.29,
+      "to": 2316.33,
+      "sid": 958,
+      "location": 2,
+      "content": "那你那你info configure呢",
+      "music": 0.0
+    },
+    {
+      "from": 2316.33,
+      "to": 2321.729,
+      "sid": 959,
+      "location": 2,
+      "content": "其实你只需要改这个prompt这个形式就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 2321.729,
+      "to": 2324.189,
+      "sid": 960,
+      "location": 2,
+      "content": "比如说你需要现在需要搞一个新的数据集",
+      "music": 0.0
+    },
+    {
+      "from": 2324.189,
+      "to": 2327.8,
+      "sid": 961,
+      "location": 2,
+      "content": "然后这个新的数据集它是做别的选择题的啊",
+      "music": 0.0
+    },
+    {
+      "from": 2327.8,
+      "to": 2329.9,
+      "sid": 962,
+      "location": 2,
+      "content": "那你就把这个problem就改一下嘛",
+      "music": 0.0
+    },
+    {
+      "from": 2329.9,
+      "to": 2332.06,
+      "sid": 963,
+      "location": 2,
+      "content": "就比如说改成",
+      "music": 0.0
+    },
+    {
+      "from": 2332.15,
+      "to": 2335.09,
+      "sid": 964,
+      "location": 2,
+      "content": "比如说你现在是跟做一个跟医学有关的数据集",
+      "music": 0.0
+    },
+    {
+      "from": 2335.09,
+      "to": 2337.449,
+      "sid": 965,
+      "location": 2,
+      "content": "那你就改成以下是呃",
+      "music": 0.0
+    },
+    {
+      "from": 2337.449,
+      "to": 2339.069,
+      "sid": 966,
+      "location": 2,
+      "content": "关于医学考试的这个选择题",
+      "music": 0.0
+    },
+    {
+      "from": 2339.069,
+      "to": 2341.58,
+      "sid": 967,
+      "location": 2,
+      "content": "然后请你选择正确答案ABCD",
+      "music": 0.0
+    },
+    {
+      "from": 2341.58,
+      "to": 2343.95,
+      "sid": 968,
+      "location": 2,
+      "content": "或者如果比如说你的题目里面只有三个选项",
+      "music": 0.0
+    },
+    {
+      "from": 2343.95,
+      "to": 2344.43,
+      "sid": 969,
+      "location": 2,
+      "content": "A b c",
+      "music": 0.0
+    },
+    {
+      "from": 2344.43,
+      "to": 2346.02,
+      "sid": 970,
+      "location": 2,
+      "content": "那就把这个D给去掉",
+      "music": 0.0
+    },
+    {
+      "from": 2346.02,
+      "to": 2347.22,
+      "sid": 971,
+      "location": 2,
+      "content": "这样也是可以的",
+      "music": 0.0
+    },
+    {
+      "from": 2347.22,
+      "to": 2348.57,
+      "sid": 972,
+      "location": 2,
+      "content": "老师是个prompt",
+      "music": 0.0
+    },
+    {
+      "from": 2348.57,
+      "to": 2350.94,
+      "sid": 973,
+      "location": 2,
+      "content": "然后再info这里面的这个改法",
+      "music": 0.0
+    },
+    {
+      "from": 2350.94,
+      "to": 2353.7,
+      "sid": 974,
+      "location": 2,
+      "content": "那这个地方呢就是让这个模型去输出嘛",
+      "music": 0.0
+    },
+    {
+      "from": 2353.7,
+      "to": 2354.98,
+      "sid": 975,
+      "location": 2,
+      "content": "输出它的推理结果",
+      "music": 0.0
+    },
+    {
+      "from": 2354.98,
+      "to": 2360.64,
+      "sid": 976,
+      "location": 2,
+      "content": "然后的话呢就是指定他这个评测的就这个方式",
+      "music": 0.0
+    },
+    {
+      "from": 2360.64,
+      "to": 2363.31,
+      "sid": 977,
+      "location": 2,
+      "content": "那这里比如说是ACCEVATOR",
+      "music": 0.0
+    },
+    {
+      "from": 2363.31,
+      "to": 2364.51,
+      "sid": 978,
+      "location": 2,
+      "content": "因为我们是做选择题",
+      "music": 0.0
+    },
+    {
+      "from": 2364.51,
+      "to": 2365.23,
+      "sid": 979,
+      "location": 2,
+      "content": "A b c d",
+      "music": 0.0
+    },
+    {
+      "from": 2365.23,
+      "to": 2367.3,
+      "sid": 980,
+      "location": 2,
+      "content": "那肯定会模型选对了或者没选对",
+      "music": 0.0
+    },
+    {
+      "from": 2367.3,
+      "to": 2369.67,
+      "sid": 981,
+      "location": 2,
+      "content": "所以我们就用这个a t c y letter就行",
+      "music": 0.0
+    },
+    {
+      "from": 2369.67,
+      "to": 2371.74,
+      "sid": 982,
+      "location": 2,
+      "content": "然后这个地方它是有一个后处理的",
+      "music": 0.0
+    },
+    {
+      "from": 2371.74,
+      "to": 2373.95,
+      "sid": 983,
+      "location": 2,
+      "content": "这个这个processor",
+      "music": 0.0
+    },
+    {
+      "from": 2373.95,
+      "to": 2376.38,
+      "sid": 984,
+      "location": 2,
+      "content": "然后因为我们是让模型选ABCD",
+      "music": 0.0
+    },
+    {
+      "from": 2376.38,
+      "to": 2377.31,
+      "sid": 985,
+      "location": 2,
+      "content": "然后直接选",
+      "music": 0.0
+    },
+    {
+      "from": 2377.31,
+      "to": 2378.51,
+      "sid": 986,
+      "location": 2,
+      "content": "而且选的话",
+      "music": 0.0
+    },
+    {
+      "from": 2378.51,
+      "to": 2380.79,
+      "sid": 987,
+      "location": 2,
+      "content": "那我们直接就提取首字母就行了",
+      "music": 0.0
+    },
+    {
+      "from": 2380.79,
+      "to": 2383.34,
+      "sid": 988,
+      "location": 2,
+      "content": "所以这个地方是用了首字母提取这样一个方式",
+      "music": 0.0
+    },
+    {
+      "from": 2383.34,
+      "to": 2386.66,
+      "sid": 989,
+      "location": 2,
+      "content": "那如果就同学实现新的数据集的时候",
+      "music": 0.0
+    },
+    {
+      "from": 2386.66,
+      "to": 2388.28,
+      "sid": 990,
+      "location": 2,
+      "content": "跟这个CV类似",
+      "music": 0.0
+    },
+    {
+      "from": 2388.28,
+      "to": 2391.43,
+      "sid": 991,
+      "location": 2,
+      "content": "那我们也就可以相当可以照抄这个啊",
+      "music": 0.0
+    },
+    {
+      "from": 2391.43,
+      "to": 2392.21,
+      "sid": 992,
+      "location": 2,
+      "content": "Info configure",
+      "music": 0.0
+    },
+    {
+      "from": 2392.21,
+      "to": 2393.5,
+      "sid": 993,
+      "location": 2,
+      "content": "可以不要configure",
+      "music": 0.0
+    },
+    {
+      "from": 2393.5,
+      "to": 2395.02,
+      "sid": 994,
+      "location": 2,
+      "content": "那就可以了",
+      "music": 0.0
+    },
+    {
+      "from": 2395.02,
+      "to": 2397.36,
+      "sid": 995,
+      "location": 2,
+      "content": "然后把problem改一下就行",
+      "music": 0.0
+    },
+    {
+      "from": 2397.36,
+      "to": 2399.4,
+      "sid": 996,
+      "location": 2,
+      "content": "然后呃reader config呢",
+      "music": 0.0
+    },
+    {
+      "from": 2399.4,
+      "to": 2401.77,
+      "sid": 997,
+      "location": 2,
+      "content": "就是就是说其实可以看到这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 2401.77,
+      "to": 2403.0,
+      "sid": 998,
+      "location": 2,
+      "content": "Input colums",
+      "music": 0.0
+    },
+    {
+      "from": 2403.0,
+      "to": 2404.35,
+      "sid": 999,
+      "location": 2,
+      "content": "input colums里面",
+      "music": 0.0
+    },
+    {
+      "from": 2404.35,
+      "to": 2407.26,
+      "sid": 1000,
+      "location": 2,
+      "content": "它有question和ABCD这四个东西",
+      "music": 0.0
+    },
+    {
+      "from": 2407.26,
+      "to": 2408.649,
+      "sid": 1001,
+      "location": 2,
+      "content": "那这是什么东西",
+      "music": 0.0
+    },
+    {
+      "from": 2408.649,
+      "to": 2411.499,
+      "sid": 1002,
+      "location": 2,
+      "content": "question其实对应的就是这个地方question",
+      "music": 0.0
+    },
+    {
+      "from": 2411.499,
+      "to": 2415.09,
+      "sid": 1003,
+      "location": 2,
+      "content": "然后ABCD也对应的是分别对应的是个呃",
+      "music": 0.0
+    },
+    {
+      "from": 2415.09,
+      "to": 2416.8,
+      "sid": 1004,
+      "location": 2,
+      "content": "括号里面的这个ABCD",
+      "music": 0.0
+    },
+    {
+      "from": 2416.8,
+      "to": 2417.91,
+      "sid": 1005,
+      "location": 2,
+      "content": "然后answer",
+      "music": 0.0
+    },
+    {
+      "from": 2417.91,
+      "to": 2419.59,
+      "sid": 1006,
+      "location": 2,
+      "content": "output column里面",
+      "music": 0.0
+    },
+    {
+      "from": 2419.59,
+      "to": 2421.75,
+      "sid": 1007,
+      "location": 2,
+      "content": "这个answer对应的是这里面的answer",
+      "music": 0.0
+    },
+    {
+      "from": 2421.75,
+      "to": 2426.29,
+      "sid": 1008,
+      "location": 2,
+      "content": "其实它是用了一个这个呃format的形式",
+      "music": 0.0
+    },
+    {
+      "from": 2426.29,
+      "to": 2428.54,
+      "sid": 1009,
+      "location": 2,
+      "content": "就是Python里面的这个format的这个形式",
+      "music": 0.0
+    },
+    {
+      "from": 2428.54,
+      "to": 2432.87,
+      "sid": 1010,
+      "location": 2,
+      "content": "去把这些字段给映射到这里面去的",
+      "music": 0.0
+    },
+    {
+      "from": 2432.87,
+      "to": 2435.87,
+      "sid": 1011,
+      "location": 2,
+      "content": "因为你这个problem它只是一个prominent template嘛",
+      "music": 0.0
+    },
+    {
+      "from": 2435.87,
+      "to": 2436.99,
+      "sid": 1012,
+      "location": 2,
+      "content": "它只是一个模板",
+      "music": 0.0
+    },
+    {
+      "from": 2436.99,
+      "to": 2439.45,
+      "sid": 1013,
+      "location": 2,
+      "content": "你在具体到每一道题目的时候",
+      "music": 0.0
+    },
+    {
+      "from": 2439.45,
+      "to": 2441.22,
+      "sid": 1014,
+      "location": 2,
+      "content": "这里面肯定不是一个question",
+      "music": 0.0
+    },
+    {
+      "from": 2441.22,
+      "to": 2442.54,
+      "sid": 1015,
+      "location": 2,
+      "content": "上一个指代词嘛",
+      "music": 0.0
+    },
+    {
+      "from": 2442.54,
+      "to": 2444.14,
+      "sid": 1016,
+      "location": 2,
+      "content": "肯定是一个呃",
+      "music": 0.0
+    },
+    {
+      "from": 2444.14,
+      "to": 2445.67,
+      "sid": 1017,
+      "location": 2,
+      "content": "是就具体的一个question",
+      "music": 0.0
+    },
+    {
+      "from": 2445.67,
+      "to": 2448.33,
+      "sid": 1018,
+      "location": 2,
+      "content": "然后ABCD选项肯定也是一个具体的",
+      "music": 0.0
+    },
+    {
+      "from": 2448.33,
+      "to": 2451.75,
+      "sid": 1019,
+      "location": 2,
+      "content": "比如说AA就选项A然后是什么巴拉巴拉",
+      "music": 0.0
+    },
+    {
+      "from": 2451.75,
+      "to": 2453.96,
+      "sid": 1020,
+      "location": 2,
+      "content": "B是什么巴拉巴拉这种东西",
+      "music": 0.0
+    },
+    {
+      "from": 2453.96,
+      "to": 2456.12,
+      "sid": 1021,
+      "location": 2,
+      "content": "那那怎么去识别这个",
+      "music": 0.0
+    },
+    {
+      "from": 2456.12,
+      "to": 2459.09,
+      "sid": 1022,
+      "location": 2,
+      "content": "那你就需要在input里面去把question",
+      "music": 0.0
+    },
+    {
+      "from": 2459.09,
+      "to": 2460.98,
+      "sid": 1023,
+      "location": 2,
+      "content": "ABCD这几个东西写好",
+      "music": 0.0
+    },
+    {
+      "from": 2460.98,
+      "to": 2464.82,
+      "sid": 1024,
+      "location": 2,
+      "content": "然后输出的时候肯定也不是就直接输出answer",
+      "music": 0.0
+    },
+    {
+      "from": 2464.82,
+      "to": 2468.09,
+      "sid": 1025,
+      "location": 2,
+      "content": "这样一个东西肯定是输出它模型真正的answer",
+      "music": 0.0
+    },
+    {
+      "from": 2468.09,
+      "to": 2472.51,
+      "sid": 1026,
+      "location": 2,
+      "content": "所以就也要把这个代词给给写好就行了",
+      "music": 0.0
+    },
+    {
+      "from": 2472.79,
+      "to": 2474.55,
+      "sid": 1027,
+      "location": 2,
+      "content": "那你把这些东西都实现了之后",
+      "music": 0.0
+    },
+    {
+      "from": 2474.55,
+      "to": 2476.53,
+      "sid": 1028,
+      "location": 2,
+      "content": "其实就可以去实现一个这个新的",
+      "music": 0.0
+    },
+    {
+      "from": 2476.53,
+      "to": 2478.09,
+      "sid": 1029,
+      "location": 2,
+      "content": "这个数据集了啊",
+      "music": 0.0
+    },
+    {
+      "from": 2478.09,
+      "to": 2480.639,
+      "sid": 1030,
+      "location": 2,
+      "content": "那我们就稍微总结一下呃",
+      "music": 0.0
+    },
+    {
+      "from": 2480.639,
+      "to": 2484.389,
+      "sid": 1031,
+      "location": 2,
+      "content": "你需要啊就需要实现数据一个新的数据集",
+      "music": 0.0
+    },
+    {
+      "from": 2484.389,
+      "to": 2485.979,
+      "sid": 1032,
+      "location": 2,
+      "content": "那主要是要改三个地方",
+      "music": 0.0
+    },
+    {
+      "from": 2485.979,
+      "to": 2490.91,
+      "sid": 1033,
+      "location": 2,
+      "content": "第一个地方呢是啊configure里面data tt",
+      "music": 0.0
+    },
+    {
+      "from": 2490.91,
+      "to": 2494.72,
+      "sid": 1034,
+      "location": 2,
+      "content": "下面你需要去就新建一个对应的一个新的脚本",
+      "music": 0.0
+    },
+    {
+      "from": 2494.72,
+      "to": 2498.23,
+      "sid": 1035,
+      "location": 2,
+      "content": "然后然后这样这样一个新的脚本",
+      "music": 0.0
+    },
+    {
+      "from": 2498.75,
+      "to": 2502.34,
+      "sid": 1036,
+      "location": 2,
+      "content": "那你跑的时候你就可以把这个地方换换掉",
+      "music": 0.0
+    },
+    {
+      "from": 2502.34,
+      "to": 2505.09,
+      "sid": 1037,
+      "location": 2,
+      "content": "换成因为这里跑的是CVJ",
+      "music": 0.0
+    },
+    {
+      "from": 2505.09,
+      "to": 2508.99,
+      "sid": 1038,
+      "location": 2,
+      "content": "那你把这个CVLJ这个地方就from这个这个这个",
+      "music": 0.0
+    },
+    {
+      "from": 2508.99,
+      "to": 2512.329,
+      "sid": 1039,
+      "location": 2,
+      "content": "然后比如说我们这些new把这些写成new",
+      "music": 0.0
+    },
+    {
+      "from": 2512.329,
+      "to": 2513.469,
+      "sid": 1040,
+      "location": 2,
+      "content": "你破了这个就行了",
+      "music": 0.0
+    },
+    {
+      "from": 2513.469,
+      "to": 2514.189,
+      "sid": 1041,
+      "location": 2,
+      "content": "这样你就可以跑",
+      "music": 0.0
+    },
+    {
+      "from": 2514.189,
+      "to": 2516.41,
+      "sid": 1042,
+      "location": 2,
+      "content": "你自己刚刚构建了一个新的数据集了",
+      "music": 0.0
+    },
+    {
+      "from": 2516.41,
+      "to": 2518.93,
+      "sid": 1043,
+      "location": 2,
+      "content": "然后除了除了就是改这个新的",
+      "music": 0.0
+    },
+    {
+      "from": 2518.93,
+      "to": 2520.76,
+      "sid": 1044,
+      "location": 2,
+      "content": "就写一个新的这个脚本之外",
+      "music": 0.0
+    },
+    {
+      "from": 2520.76,
+      "to": 2522.11,
+      "sid": 1045,
+      "location": 2,
+      "content": "configure的脚本之外",
+      "music": 0.0
+    },
+    {
+      "from": 2522.11,
+      "to": 2524.78,
+      "sid": 1046,
+      "location": 2,
+      "content": "然后你需要在dataset open class",
+      "music": 0.0
+    },
+    {
+      "from": 2524.78,
+      "to": 2528.53,
+      "sid": 1047,
+      "location": 2,
+      "content": "data sets这个里面去构建一个新的类",
+      "music": 0.0
+    },
+    {
+      "from": 2528.53,
+      "to": 2532.26,
+      "sid": 1048,
+      "location": 2,
+      "content": "比如说CV2这样一个新的这个class新的类",
+      "music": 0.0
+    },
+    {
+      "from": 2532.26,
+      "to": 2533.04,
+      "sid": 1049,
+      "location": 2,
+      "content": "然后编码",
+      "music": 0.0
+    },
+    {
+      "from": 2533.04,
+      "to": 2537.189,
+      "sid": 1050,
+      "location": 2,
+      "content": "并且把这个类在INIT里面去import就行了",
+      "music": 0.0
+    },
+    {
+      "from": 2537.189,
+      "to": 2538.629,
+      "sid": 1051,
+      "location": 2,
+      "content": "这个这个类是干什么的",
+      "music": 0.0
+    },
+    {
+      "from": 2538.629,
+      "to": 2539.769,
+      "sid": 1052,
+      "location": 2,
+      "content": "刚刚也已经讲过了",
+      "music": 0.0
+    },
+    {
+      "from": 2539.769,
+      "to": 2543.189,
+      "sid": 1053,
+      "location": 2,
+      "content": "这个类它是需要去实现一个load这个函数",
+      "music": 0.0
+    },
+    {
+      "from": 2543.189,
+      "to": 2548.259,
+      "sid": 1054,
+      "location": 2,
+      "content": "这个load呢就负责把你的数据集给CSV或者JASON",
+      "music": 0.0
+    },
+    {
+      "from": 2548.259,
+      "to": 2548.859,
+      "sid": 1055,
+      "location": 2,
+      "content": "或者whatever",
+      "music": 0.0
+    },
+    {
+      "from": 2548.859,
+      "to": 2550.569,
+      "sid": 1056,
+      "location": 2,
+      "content": "什么形式给漏了进来",
+      "music": 0.0
+    },
+    {
+      "from": 2553.819,
+      "to": 2554.839,
+      "sid": 1057,
+      "location": 2,
+      "content": "传输了之后",
+      "music": 0.0
+    },
+    {
+      "from": 2554.839,
+      "to": 2557.66,
+      "sid": 1058,
+      "location": 2,
+      "content": "他就会在CONFIG里面去拼拼起来",
+      "music": 0.0
+    },
+    {
+      "from": 2557.66,
+      "to": 2559.22,
+      "sid": 1059,
+      "location": 2,
+      "content": "比如说这里就有一个for循环",
+      "music": 0.0
+    },
+    {
+      "from": 2559.22,
+      "to": 2560.54,
+      "sid": 1060,
+      "location": 2,
+      "content": "然后把pro拼好",
+      "music": 0.0
+    },
+    {
+      "from": 2560.54,
+      "to": 2562.7,
+      "sid": 1061,
+      "location": 2,
+      "content": "然后最后全部都要喷了起来",
+      "music": 0.0
+    },
+    {
+      "from": 2562.7,
+      "to": 2563.85,
+      "sid": 1062,
+      "location": 2,
+      "content": "到这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 2563.85,
+      "to": 2567.6,
+      "sid": 1063,
+      "location": 2,
+      "content": "也就是说啊最最必要的呢就是这些东西",
+      "music": 0.0
+    },
+    {
+      "from": 2567.6,
+      "to": 2568.95,
+      "sid": 1064,
+      "location": 2,
+      "content": "一个是一个类",
+      "music": 0.0
+    },
+    {
+      "from": 2568.95,
+      "to": 2570.88,
+      "sid": 1065,
+      "location": 2,
+      "content": "然后这个类里面有漏的这个函数",
+      "music": 0.0
+    },
+    {
+      "from": 2570.88,
+      "to": 2572.98,
+      "sid": 1066,
+      "location": 2,
+      "content": "然后一个是这个CONFIG",
+      "music": 0.0
+    },
+    {
+      "from": 2572.98,
+      "to": 2576.22,
+      "sid": 1067,
+      "location": 2,
+      "content": "configure里面一定要有最后的这个东西",
+      "music": 0.0
+    },
+    {
+      "from": 2576.22,
+      "to": 2580.68,
+      "sid": 1068,
+      "location": 2,
+      "content": "最后的这个东西呢它一定要有你的pass name",
+      "music": 0.0
+    },
+    {
+      "from": 2580.68,
+      "to": 2582.3,
+      "sid": 1069,
+      "location": 2,
+      "content": "然后你的reader configure",
+      "music": 0.0
+    },
+    {
+      "from": 2582.3,
+      "to": 2583.38,
+      "sid": 1070,
+      "location": 2,
+      "content": "你的email configure",
+      "music": 0.0
+    },
+    {
+      "from": 2583.38,
+      "to": 2584.94,
+      "sid": 1071,
+      "location": 2,
+      "content": "info configure这些东西",
+      "music": 0.0
+    },
+    {
+      "from": 2584.94,
+      "to": 2588.16,
+      "sid": 1072,
+      "location": 2,
+      "content": "然后最后别忘了在int里面import就行了",
+      "music": 0.0
+    },
+    {
+      "from": 2588.16,
+      "to": 2589.96,
+      "sid": 1073,
+      "location": 2,
+      "content": "那这就是新",
+      "music": 0.0
+    },
+    {
+      "from": 2589.96,
+      "to": 2592.78,
+      "sid": 1074,
+      "location": 2,
+      "content": "就是新构造一个自己的数据集",
+      "music": 0.0
+    },
+    {
+      "from": 2592.78,
+      "to": 2595.27,
+      "sid": 1075,
+      "location": 2,
+      "content": "的完整的这样一个步骤啊",
+      "music": 0.0
+    },
+    {
+      "from": 2595.27,
+      "to": 2597.25,
+      "sid": 1076,
+      "location": 2,
+      "content": "那这就是第三部分内容",
+      "music": 0.0
+    },
+    {
+      "from": 2597.25,
+      "to": 2598.27,
+      "sid": 1077,
+      "location": 2,
+      "content": "然后第四部分内容呢",
+      "music": 0.0
+    },
+    {
+      "from": 2598.27,
+      "to": 2600.7,
+      "sid": 1078,
+      "location": 2,
+      "content": "就是on master的一些其他的功能啊",
+      "music": 0.0
+    },
+    {
+      "from": 2600.7,
+      "to": 2603.74,
+      "sid": 1079,
+      "location": 2,
+      "content": "就比如说有些同学可能需要用到一些",
+      "music": 0.0
+    },
+    {
+      "from": 2603.74,
+      "to": 2605.15,
+      "sid": 1080,
+      "location": 2,
+      "content": "主观评测啊",
+      "music": 0.0
+    },
+    {
+      "from": 2605.15,
+      "to": 2606.32,
+      "sid": 1081,
+      "location": 2,
+      "content": "长梦的评测啊",
+      "music": 0.0
+    },
+    {
+      "from": 2606.32,
+      "to": 2607.52,
+      "sid": 1082,
+      "location": 2,
+      "content": "大海捞针之类的",
+      "music": 0.0
+    },
+    {
+      "from": 2607.52,
+      "to": 2609.32,
+      "sid": 1083,
+      "location": 2,
+      "content": "那他们具体是在哪里找",
+      "music": 0.0
+    },
+    {
+      "from": 2609.32,
+      "to": 2611.7,
+      "sid": 1084,
+      "location": 2,
+      "content": "这个我就稍微简单的介绍一下就行",
+      "music": 0.0
+    },
+    {
+      "from": 2611.7,
+      "to": 2614.4,
+      "sid": 1085,
+      "location": 2,
+      "content": "比如说呃你要实现主观评测",
+      "music": 0.0
+    },
+    {
+      "from": 2614.4,
+      "to": 2618.0,
+      "sid": 1086,
+      "location": 2,
+      "content": "那你其实可以模仿就是configure",
+      "music": 0.0
+    },
+    {
+      "from": 2618.0,
+      "to": 2621.52,
+      "sid": 1087,
+      "location": 2,
+      "content": "然后以will subjective objective",
+      "music": 0.0
+    },
+    {
+      "from": 2621.52,
+      "to": 2622.06,
+      "sid": 1088,
+      "location": 2,
+      "content": "主观嘛",
+      "music": 0.0
+    },
+    {
+      "from": 2622.06,
+      "to": 2625.06,
+      "sid": 1089,
+      "location": 2,
+      "content": "你去你去模仿这里面的这些configure就行了",
+      "music": 0.0
+    },
+    {
+      "from": 2625.06,
+      "to": 2629.369,
+      "sid": 1090,
+      "location": 2,
+      "content": "然后呃就具体的这个教程呢",
+      "music": 0.0
+    },
+    {
+      "from": 2629.369,
+      "to": 2630.989,
+      "sid": 1091,
+      "location": 2,
+      "content": "也是有相关的文档的",
+      "music": 0.0
+    },
+    {
+      "from": 2630.989,
+      "to": 2632.249,
+      "sid": 1092,
+      "location": 2,
+      "content": "在这个dogs里面",
+      "music": 0.0
+    },
+    {
+      "from": 2632.249,
+      "to": 2635.93,
+      "sid": 1093,
+      "location": 2,
+      "content": "然后advance guidance里面去找",
+      "music": 0.0
+    },
+    {
+      "from": 2635.93,
+      "to": 2639.47,
+      "sid": 1094,
+      "location": 2,
+      "content": "比如这里的话也是在这个呃ADVANUS",
+      "music": 0.0
+    },
+    {
+      "from": 2639.47,
+      "to": 2642.23,
+      "sid": 1095,
+      "location": 2,
+      "content": "subjective evaluation这里面去找就行了",
+      "music": 0.0
+    },
+    {
+      "from": 2642.23,
+      "to": 2644.82,
+      "sid": 1096,
+      "location": 2,
+      "content": "这个在呃官网上也是可以直接看到的",
+      "music": 0.0
+    },
+    {
+      "from": 2644.82,
+      "to": 2645.9,
+      "sid": 1097,
+      "location": 2,
+      "content": "也是有相关的教程",
+      "music": 0.0
+    },
+    {
+      "from": 2645.9,
+      "to": 2647.19,
+      "sid": 1098,
+      "location": 2,
+      "content": "也是能直接看到的",
+      "music": 0.0
+    },
+    {
+      "from": 2647.19,
+      "to": 2648.69,
+      "sid": 1099,
+      "location": 2,
+      "content": "然后这是主观评测",
+      "music": 0.0
+    },
+    {
+      "from": 2648.69,
+      "to": 2652.59,
+      "sid": 1100,
+      "location": 2,
+      "content": "然后有有些比如说要做那个大海捞针啊之类的",
+      "music": 0.0
+    },
+    {
+      "from": 2652.59,
+      "to": 2654.56,
+      "sid": 1101,
+      "location": 2,
+      "content": "那些长文本的评测也是有的",
+      "music": 0.0
+    },
+    {
+      "from": 2654.56,
+      "to": 2656.21,
+      "sid": 1102,
+      "location": 2,
+      "content": "比如说needle bench",
+      "music": 0.0
+    },
+    {
+      "from": 2656.21,
+      "to": 2658.43,
+      "sid": 1103,
+      "location": 2,
+      "content": "就是一个大海捞针的这样一个configure",
+      "music": 0.0
+    },
+    {
+      "from": 2658.43,
+      "to": 2659.87,
+      "sid": 1104,
+      "location": 2,
+      "content": "在这个地方去啊",
+      "music": 0.0
+    },
+    {
+      "from": 2659.87,
+      "to": 2664.25,
+      "sid": 1105,
+      "location": 2,
+      "content": "看他相关的这个这个配置也是能够去读懂的",
+      "music": 0.0
+    },
+    {
+      "from": 2664.25,
+      "to": 2665.99,
+      "sid": 1106,
+      "location": 2,
+      "content": "比如说这里也是dinner work deer啊",
+      "music": 0.0
+    },
+    {
+      "from": 2665.99,
+      "to": 2666.41,
+      "sid": 1107,
+      "location": 2,
+      "content": "model啊",
+      "music": 0.0
+    },
+    {
+      "from": 2666.41,
+      "to": 2669.17,
+      "sid": 1108,
+      "location": 2,
+      "content": "这里全部写在一个一个CONFIG里面",
+      "music": 0.0
+    },
+    {
+      "from": 2670.19,
+      "to": 2671.67,
+      "sid": 1109,
+      "location": 2,
+      "content": "然后呃",
+      "music": 0.0
+    },
+    {
+      "from": 2671.67,
+      "to": 2676.29,
+      "sid": 1110,
+      "location": 2,
+      "content": "比如有的同学可能还需要这个一些其他的",
+      "music": 0.0
+    },
+    {
+      "from": 2676.29,
+      "to": 2677.01,
+      "sid": 1111,
+      "location": 2,
+      "content": "这个工具",
+      "music": 0.0
+    },
+    {
+      "from": 2677.01,
+      "to": 2680.069,
+      "sid": 1112,
+      "location": 2,
+      "content": "然后plus里面也会有一些相关的这个工具",
+      "music": 0.0
+    },
+    {
+      "from": 2680.069,
+      "to": 2682.079,
+      "sid": 1113,
+      "location": 2,
+      "content": "比如说list configure",
+      "music": 0.0
+    },
+    {
+      "from": 2682.079,
+      "to": 2684.629,
+      "sid": 1114,
+      "location": 2,
+      "content": "把你现在已有的所有CONFIG全部list出来",
+      "music": 0.0
+    },
+    {
+      "from": 2684.629,
+      "to": 2686.01,
+      "sid": 1115,
+      "location": 2,
+      "content": "看看有没有实现",
+      "music": 0.0
+    },
+    {
+      "from": 2686.01,
+      "to": 2687.45,
+      "sid": 1116,
+      "location": 2,
+      "content": "比如说有些同学",
+      "music": 0.0
+    },
+    {
+      "from": 2687.45,
+      "to": 2689.73,
+      "sid": 1117,
+      "location": 2,
+      "content": "刚刚刚刚不是实现了一个新的数据集嘛",
+      "music": 0.0
+    },
+    {
+      "from": 2689.73,
+      "to": 2691.17,
+      "sid": 1118,
+      "location": 2,
+      "content": "然后看有没有正确实现",
+      "music": 0.0
+    },
+    {
+      "from": 2691.17,
+      "to": 2692.37,
+      "sid": 1119,
+      "location": 2,
+      "content": "就可以least configure一下",
+      "music": 0.0
+    },
+    {
+      "from": 2692.37,
+      "to": 2693.81,
+      "sid": 1120,
+      "location": 2,
+      "content": "看看是不是正确的",
+      "music": 0.0
+    },
+    {
+      "from": 2693.81,
+      "to": 2695.79,
+      "sid": 1121,
+      "location": 2,
+      "content": "能够去给它识别出来",
+      "music": 0.0
+    },
+    {
+      "from": 2695.79,
+      "to": 2698.81,
+      "sid": 1122,
+      "location": 2,
+      "content": "然后还有一些其他的工具都可以在这里找到",
+      "music": 0.0
+    },
+    {
+      "from": 2698.81,
+      "to": 2701.09,
+      "sid": 1123,
+      "location": 2,
+      "content": "对啊",
+      "music": 0.0
+    },
+    {
+      "from": 2701.09,
+      "to": 2705.69,
+      "sid": 1124,
+      "location": 2,
+      "content": "那么就是整体的这个课代码的这个课程介绍呢",
+      "music": 0.0
+    },
+    {
+      "from": 2705.69,
+      "to": 2708.12,
+      "sid": 1125,
+      "location": 2,
+      "content": "就主要是呃就介绍到这个地方",
+      "music": 0.0
+    },
+    {
+      "from": 2708.12,
+      "to": 2710.58,
+      "sid": 1126,
+      "location": 2,
+      "content": "那么呃其实同学们也可以参照",
+      "music": 0.0
+    },
+    {
+      "from": 2710.58,
+      "to": 2712.8,
+      "sid": 1127,
+      "location": 2,
+      "content": "我们之前实战营的第一节课",
+      "music": 0.0
+    },
+    {
+      "from": 2712.8,
+      "to": 2714.15,
+      "sid": 1128,
+      "location": 2,
+      "content": "也来配合着一起用",
+      "music": 0.0
+    },
+    {
+      "from": 2714.15,
+      "to": 2717.49,
+      "sid": 1129,
+      "location": 2,
+      "content": "那节课可能关于一些细节可能讲得更详细一些",
+      "music": 0.0
+    },
+    {
+      "from": 2717.49,
+      "to": 2719.35,
+      "sid": 1130,
+      "location": 2,
+      "content": "大家可以一起参照着来看",
+      "music": 0.0
+    },
+    {
+      "from": 2719.35,
+      "to": 2721.81,
+      "sid": 1131,
+      "location": 2,
+      "content": "然后也欢迎大家如果有任何的艺术",
+      "music": 0.0
+    },
+    {
+      "from": 2721.81,
+      "to": 2724.75,
+      "sid": 1132,
+      "location": 2,
+      "content": "也可以到GITHUB上面去体现完艺术",
+      "music": 0.0
+    },
+    {
+      "from": 2724.75,
+      "to": 2727.35,
+      "sid": 1133,
+      "location": 2,
+      "content": "或者在discussion里去进行讨论",
+      "music": 0.0
+    },
+    {
+      "from": 2727.35,
+      "to": 2729.84,
+      "sid": 1134,
+      "location": 2,
+      "content": "或者我们的微信群也是就是欢迎大家进入",
+      "music": 0.0
+    },
+    {
+      "from": 2729.84,
+      "to": 2732.22,
+      "sid": 1135,
+      "location": 2,
+      "content": "然后来一起来交流讨论的",
+      "music": 0.0
+    },
+    {
+      "from": 2732.22,
+      "to": 2733.84,
+      "sid": 1136,
+      "location": 2,
+      "content": "那么今天的课程就到这里",
+      "music": 0.0
+    },
+    {
+      "from": 2733.84,
+      "to": 2734.98,
+      "sid": 1137,
+      "location": 2,
+      "content": "谢谢大家",
+      "music": 0.0
+    }
+  ]
+}
