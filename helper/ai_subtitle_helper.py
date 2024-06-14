@@ -6,7 +6,8 @@ if __name__ == '__main__':
     # 课程名称
     # course_name = '01-introduction'
     # course_name = '02-helloworld'
-    course_name = '03-huixiangdou'
+    # course_name = '03-huixiangdou'
+    course_name = '04-xtuner'
 
     # 定义文件路径
     json_file_path = os.path.join(os.path.dirname(__file__), '..', 'camp2', 'assets', 'video', 'aisubtitle',
