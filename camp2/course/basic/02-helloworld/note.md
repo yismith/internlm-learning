@@ -191,7 +191,84 @@ ssh -CNg -L 6006:127.0.0.1:6006 root@ssh.intern-ai.org.cn -p 38374
  
 
 #### 任务04-实战进阶 灵笔 InternLM-XComposer2
-_**TODO**_ （开启 50% A100 权限后继续）
+激活环境
+```shell
+conda activate demo
+```
+
+安装依赖包
+```text
+# 补充环境包
+pip install timm==0.4.12 sentencepiece==0.1.99 markdown2==2.4.10 xlsxwriter==3.1.2 gradio==4.13.0 modelscope==1.9.5
+```
+
+下载InternLM-XComposer
+```shell
+cd /root/demo
+git clone https://gitee.com/internlm/InternLM-XComposer.git
+# git clone https://github.com/internlm/InternLM-XComposer.git
+cd /root/demo/InternLM-XComposer
+git checkout f31220eddca2cf6246ee2ddf8e375a40457ff626
+```
+
+准备模型
+```shell
+ln -s /root/share/new_models/Shanghai_AI_Laboratory/internlm-xcomposer2-7b /root/models/internlm-xcomposer2-7b
+ln -s /root/share/new_models/Shanghai_AI_Laboratory/internlm-xcomposer2-vl-7b /root/models/internlm-xcomposer2-vl-7b
+```
+
+图文写作实战
+```shell
+cd /root/demo/InternLM-XComposer
+python /root/demo/InternLM-XComposer/examples/gradio_demo_composition.py  \
+--code_path /root/models/internlm-xcomposer2-7b \
+--private \
+--num_gpus 1 \
+--port 6006
+```
+![02-task04-text-image-error.png](../../../assets/image/02/02-task04-text-image-error.png)
+
+
+图片理解实战
+```shell
+conda activate demo
+
+cd /root/demo/InternLM-XComposer
+python /root/demo/InternLM-XComposer/examples/gradio_demo_chat.py  \
+--code_path /root/models/internlm-xcomposer2-vl-7b \
+--private \
+--num_gpus 1 \
+--port 6006
+```
+![02-task04-vl-error](../../../assets/image/02/02-task04-vl-error.png)
+
+
+对于该实战任务历史操作回顾
+```shell
+    1  conda activate demo
+    2  # 补充环境包
+    3  pip install timm==0.4.12 sentencepiece==0.1.99 markdown2==2.4.10 xlsxwriter==3.1.2 gradio==4.13.0 modelscope==1.9.5
+    4  cd /root/demo
+    5  git clone https://gitee.com/internlm/InternLM-XComposer.git
+    6  # git clone https://github.com/internlm/InternLM-XComposer.git
+    7  cd /root/demo/InternLM-XComposer
+    8  git checkout f31220eddca2cf6246ee2ddf8e375a40457ff626
+    9  ln -s /root/share/new_models/Shanghai_AI_Laboratory/internlm-xcomposer2-7b /root/models/internlm-xcomposer2-7b
+   10  cd /root/demo/InternLM-XComposer
+   11  python /root/demo/InternLM-XComposer/examples/gradio_demo_composition.py  --code_path /root/models/internlm-xcomposer2-7b --private --num_gpus 1 --port 6006
+   12  unlink /root/models/internlm-xcomposer2-7b
+   13  ln -s /root/share/new_models/Shanghai_AI_Laboratory/internlm-xcomposer2-7b-4bit /root/models/internlm-xcomposer2-7b
+   14  python /root/demo/InternLM-XComposer/examples/gradio_demo_composition.py  --code_path /root/models/internlm-xcomposer2-7b --private --num_gpus 1 --port 6006
+   15  ln -s /root/share/new_models/Shanghai_AI_Laboratory/internlm-xcomposer2-vl-7b /root/models/internlm-xcomposer2-vl-7b
+   16  conda activate demo
+   17  cd /root/demo/InternLM-XComposer
+   18  python /root/demo/InternLM-XComposer/examples/gradio_demo_chat.py  --code_path /root/models/internlm-xcomposer2-vl-7b --private --num_gpus 1 --port 6006
+   19  history
+```
+![02-task04-history-operation](../../../assets/image/02/02-task04-history-operation.png)
+
+_**TODO**_ （开启 50% A100 权限后继续验证）
+
 
 #### 总结
 通过本节课程的学习与实际操作，对于书生·浦语大模型有了进一步了解，无论是Chat模型、多模态的模型还是Lagent智能体，都有了更加直观的感受，以及对于与模型交互的命令行方式与web方式都有所了解。
