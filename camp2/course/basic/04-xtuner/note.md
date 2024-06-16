@@ -786,32 +786,66 @@ streamlit run /root/ft/web_demo/InternLM/chat/web_demo.py --server.address 127.0
 
 
 
-#### 实战-多模态LLM微调
-切换环境与生成训练数据
+#### 实战-多模态微调
+创建环境
 ```shell
-cd ~ && git clone https://github.com/InternLM/tutorial -b camp2 && conda activate xtuner0.1.17 && cd tutorial
+studio-conda xtuner0.1.17_llava
+```
+![04-conda-xtuner-llava](../../../assets/image/04/04-conda-xtuner-llava.png)
 
-python /root/tutorial/xtuner/llava/llava_data/repeat.py \
-  -i /root/tutorial/xtuner/llava/llava_data/unique_data.json \
-  -o /root/tutorial/xtuner/llava/llava_data/repeated_data.json \
-  -n 200
+激活环境
+```shell
+conda activate xtuner0.1.17_llava
 ```
 
+安装xtuner
+```shell
+mkdir -p /root/xtuner0117_llava
+cd /root/xtuner0117_llava
+
+git clone -b v0.1.17  https://github.com/InternLM/xtuner
+cd /root/xtuner0117_llava/xtuner
+pip install -e '.[all]'
+```
+
+下载tutorial
+```shell
+cd /root/xtuner0117_llava
+git clone https://github.com/InternLM/tutorial -b camp2
+```
+
+生成训练数据
+```shell
+cd /root/xtuner0117_llava/tutorial
+python /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/repeat.py \
+-i /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/unique_data.json \
+-o /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/repeated_data.json \
+-n 200
+```
 ![04-ft-vlm-data-sample](../../../assets/image/04/04-ft-vlm-data-sample.png)
 
-
-拷贝配置
+查询xtuner内置配置文件
 ```shell
-# 查询xtuner内置配置文件
 xtuner list-cfg -p llava_internlm2_chat_1_8b
+```
+![04-ft-vlm-list-config](../../../assets/image/04/04-ft-vlm-list-config.png)
 
-# 拷贝配置文件到当前目录
+
+拷贝配置文件到当前目录
+```shell
 xtuner copy-cfg \
-  llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune \
-  /root/tutorial/xtuner/llava
+llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune \
+/root/xtuner0117_llava/tutorial/xtuner/llava
 ```
 
-修改配置
+查看llava目录结构
+```shell
+cd /root/xtuner0117_llava/tutorial/xtuner/llava/
+tree
+```
+![04-ft-vlm-tree-llava](../../../assets/image/04/04-ft-vlm-tree-llava.png)
+
+修改配置文件
 ```diff
 # Model
 - llm_name_or_path = 'internlm/internlm2-chat-1_8b'
@@ -825,7 +859,7 @@ xtuner copy-cfg \
 
 # Data
 - data_root = './data/llava_data/'
-+ data_root = '/root/tutorial/xtuner/llava/llava_data/'
++ data_root = '/root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/'
 - data_path = data_root + 'LLaVA-Instruct-150K/llava_v1_5_mix665k.json'
 + data_path = data_root + 'repeated_data.json'
 - image_folder = data_root + 'llava_images'
@@ -839,113 +873,249 @@ xtuner copy-cfg \
 # evaluation_inputs
 - evaluation_inputs = ['请描述一下这张图片','Please describe this picture']
 + evaluation_inputs = ['Please describe this picture','What is the equipment in the image?']
-
 ```
 
 ![04-ft-vlm-config](../../../assets/image/04/04-ft-vlm-config.png)
 
-开始训练
+开始微调
 ```shell
-cd /root/tutorial/xtuner/llava/
-xtuner train /root/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune_copy.py --deepspeed deepspeed_zero2
+xtuner train /root/xtuner0117_llava/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune_copy.py --deepspeed deepspeed_zero2
 ```
 
-训练过程报错（TODO）
-![04-ft-vlm-train-error](../../../assets/image/04/04-ft-vlm-train-error.png)
-
-
-
-由于微调报错，先使用未微调的模型进行推理来观察效果先
-
-拷贝配置
+微调报错
 ```shell
-xtuner copy-cfg llava_internlm2_chat_1_8b_clip_vit_large_p14_336_e1_gpu8_pretrain   /root/tutorial/xtuner/llava
+06/16 12:18:23 - mmengine - INFO - before_train in EvaluateChatHook.
+You are using an old version of the checkpointing format that is deprecated (We will also silently ignore `gradient_checkpointing_kwargs` in case you passed it).Please update to the new format on your modeling file. To use the new format, you need to completely remove the definition of the method `_set_gradient_checkpointing` in your model.
+{'position_ids': None, 'attention_mask': tensor([[1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1,
+         1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1]], device='cuda:0'), 'past_key_values': None, 'inputs_embeds': tensor([[[ 0.0004, -0.0002,  0.0006,  ...,  0.0003,  0.0003, -0.0003],
+         [ 0.0002, -0.0010,  0.0008,  ...,  0.0009,  0.0022,  0.0006],
+         [ 0.0260,  0.0309,  0.0166,  ...,  0.0003, -0.0093,  0.0022],
+         ...,
+         [-0.0217, -0.0017,  0.0104,  ..., -0.0059,  0.0286, -0.0096],
+         [ 0.0140, -0.0104, -0.0098,  ..., -0.0217, -0.0069,  0.0008],
+         [-0.0043,  0.0007, -0.0021,  ..., -0.0022,  0.0098, -0.0069]]],
+       device='cuda:0', dtype=torch.bfloat16), 'labels': None, 'use_cache': True}
+Traceback (most recent call last):
+  File "/root/.conda/envs/xtuner0.1.17_llava/lib/python3.10/site-packages/mmengine/runner/_flexible_runner.py", line 1271, in call_hook
+    getattr(hook, fn_name)(self, **kwargs)
+  File "/root/xtuner0117_llava/xtuner/xtuner/engine/hooks/evaluate_chat_hook.py", line 221, in before_train
+    self._generate_samples(runner, max_new_tokens=50)
+  File "/root/xtuner0117_llava/xtuner/xtuner/engine/hooks/evaluate_chat_hook.py", line 207, in _generate_samples
+    self._eval_images(runner, model, device, max_new_tokens,
+  File "/root/xtuner0117_llava/xtuner/xtuner/engine/hooks/evaluate_chat_hook.py", line 146, in _eval_images
+    generation_output = model.generate(
+  File "/root/.conda/envs/xtuner0.1.17_llava/lib/python3.10/site-packages/peft/peft_model.py", line 1491, in generate
+    outputs = self.base_model.generate(*args, **kwargs)
+  File "/root/.conda/envs/xtuner0.1.17_llava/lib/python3.10/site-packages/torch/utils/_contextlib.py", line 115, in decorate_context
+    return func(*args, **kwargs)
+  File "/root/.conda/envs/xtuner0.1.17_llava/lib/python3.10/site-packages/transformers/generation/utils.py", line 1758, in generate
+    result = self._sample(
+  File "/root/.conda/envs/xtuner0.1.17_llava/lib/python3.10/site-packages/transformers/generation/utils.py", line 2390, in _sample
+    model_kwargs = self._get_initial_cache_position(input_ids, model_kwargs)
+  File "/root/.conda/envs/xtuner0.1.17_llava/lib/python3.10/site-packages/transformers/generation/utils.py", line 1321, in _get_initial_cache_position
+    past_length = model_kwargs["past_key_values"][0][0].shape[2]
+TypeError: 'NoneType' object is not subscriptable
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/root/xtuner0117_llava/xtuner/xtuner/tools/train.py", line 342, in <module>
+    main()
+  File "/root/xtuner0117_llava/xtuner/xtuner/tools/train.py", line 338, in main
+    runner.train()
+  File "/root/.conda/envs/xtuner0.1.17_llava/lib/python3.10/site-packages/mmengine/runner/_flexible_runner.py", line 1200, in train
+    model = self.train_loop.run()  # type: ignore
+  File "/root/.conda/envs/xtuner0.1.17_llava/lib/python3.10/site-packages/mmengine/runner/loops.py", line 271, in run
+    self.runner.call_hook('before_train')
+  File "/root/.conda/envs/xtuner0.1.17_llava/lib/python3.10/site-packages/mmengine/runner/_flexible_runner.py", line 1273, in call_hook
+    raise TypeError(f'{e} in {hook}') from e
+TypeError: 'NoneType' object is not subscriptable in <xtuner.engine.hooks.evaluate_chat_hook.EvaluateChatHook object at 0x7f971893bdf0>
 
 ```
+![img_9.png](../../../assets/image/04/04-ft-vlm-train-error.png)
 
-修改配置
-![04-vlm-infer-config](../../../assets/image/04/04-vlm-infer-config.png)
+微调报错[解决方案](https://aicarrier.feishu.cn/wiki/KJ1twMvW1iZ7xtk6GyDcP1Fyncb)
+```shell
+解决办法：重装transformers，transformers==4.40.0
+```
+![04-ft-vlm-train-error-solution](../../../assets/image/04/04-ft-vlm-train-error-solution.png)
+
+确认当前transformers版本情况
+```shell
+pip show transformers
+```
+![04-ft-vlm-transformers-version](../../../assets/image/04/04-ft-vlm-transformers-version.png)
+
+安装4.40.0版本的transformers
+```shell
+pip install transformers==4.40.0
+```
+![04-ft-vlm-reinstall-transformers](../../../assets/image/04/04-ft-vlm-reinstall-transformers.png)
+
+再次进行微调
+```shell
+xtuner train /root/xtuner0117_llava/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune_copy.py --deepspeed deepspeed_zero2
+```
+
+微调开始执行
+![04-ft-vlm-train-start](../../../assets/image/04/04-ft-vlm-train-start.png)
+
+微调到500步
+![04-ft-vlm-train-step-500-part1](../../../assets/image/04/04-ft-vlm-train-step-500-part1.png)
+![04-ft-vlm-train-step-500-part2](../../../assets/image/04/04-ft-vlm-train-step-500-part2.png)
+
+微调到1000步
+![04-ft-vlm-train-step-1000-part1](../../../assets/image/04/04-ft-vlm-train-step-1000-part1.png)
+![04-ft-vlm-train-step-1000-part2](../../../assets/image/04/04-ft-vlm-train-step-1000-part2.png)
+
+微调完成
+![04-ft-vlm-train-finish-part1](../../../assets/image/04/04-ft-vlm-train-finish-part1.png)
+![04-ft-vlm-train-finish-part2](../../../assets/image/04/04-ft-vlm-train-finish-part2.png)
 
 
-转换权重
+设置环境变量
 ```shell
 # 解决小bug
 export MKL_SERVICE_FORCE_INTEL=1
 export MKL_THREADING_LAYER=GNU
-
-# pth转huggingface
-xtuner convert pth_to_hf \
-  /root/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_clip_vit_large_p14_336_e1_gpu8_pretrain_copy.py \
-  /root/share/new_models/xtuner/iter_2181.pth \
-  /root/tutorial/xtuner/llava/llava_data/iter_2181_hf
-
-
 ```
 
-![04-vlm-infer-convert](../../../assets/image/04/04-vlm-infer-convert.png)
+模型权重格式转换
+```shell
+# pth转huggingface
+xtuner convert pth_to_hf \
+  /root/xtuner0117_llava/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune_copy.py \
+  /root/xtuner0117_llava/tutorial/xtuner/llava/work_dirs/llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune_copy/iter_1200.pth \
+  /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/iter_1200_hf
+```
+![04-ft-vlm-convert](../../../assets/image/04/04-ft-vlm-convert.png)
 
 
-执行推理
+与微调后的模型对话
 ```shell
 # 启动！
 xtuner chat /root/share/new_models/Shanghai_AI_Laboratory/internlm2-chat-1_8b \
   --visual-encoder /root/share/new_models/openai/clip-vit-large-patch14-336 \
-  --llava /root/tutorial/xtuner/llava/llava_data/iter_2181_hf \
+  --llava /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/iter_1200_hf \
   --prompt-template internlm2_chat \
-  --image /root/tutorial/xtuner/llava/llava_data/test_img/oph.jpg
+  --image /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/test_img/oph.jpg
 ```
 
 待测试问题
 - Q1: Describe this image.
 - Q2: What is the equipment in the image?
 
-推理过程报错（TODO）
-![04-vlm-infer-error](../../../assets/image/04/04-vlm-infer-error.png)
+![04-ft-vlm-chat](../../../assets/image/04/04-ft-vlm-chat.png)
 
 
-后续解决微调报错后执行（TODO）
+对比没微调前的情况
+
+拷贝配置
 ```shell
-# 解决小bug
-export MKL_SERVICE_FORCE_INTEL=1
-export MKL_THREADING_LAYER=GNU
+xtuner copy-cfg llava_internlm2_chat_1_8b_clip_vit_large_p14_336_e1_gpu8_pretrain /root/xtuner0117_llava/tutorial/xtuner/llava
+```
 
+修改配置
+```diff
+# Model
+- llm_name_or_path = 'internlm/internlm2-chat-1_8b'
++ llm_name_or_path = '/root/share/new_models/Shanghai_AI_Laboratory/internlm2-chat-1_8b'
+- visual_encoder_name_or_path = 'openai/clip-vit-large-patch14-336'
++ visual_encoder_name_or_path = '/root/share/new_models/openai/clip-vit-large-patch14-336'
+
+# Data
+- data_root = './data/llava_data/'
++ data_root = '/root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/'
+```
+![04-vlm-infer-config](../../../assets/image/04/04-vlm-infer-config.png)
+
+模型权重格式转换
+```shell
 # pth转huggingface
 xtuner convert pth_to_hf \
-  /root/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune_copy.py \
-  /root/tutorial/xtuner/llava/work_dirs/llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune_copy/iter_1200.pth \
-  /root/tutorial/xtuner/llava/llava_data/iter_1200_hf
+  /root/xtuner0117_llava/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_clip_vit_large_p14_336_e1_gpu8_pretrain_copy.py \
+  /root/share/new_models/xtuner/iter_2181.pth \
+  /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/iter_2181_hf
+```
+![04-vlm-infer-convert](../../../assets/image/04/04-vlm-infer-convert.png)
 
+
+与微调前的模型对话
+```shell
 # 启动！
 xtuner chat /root/share/new_models/Shanghai_AI_Laboratory/internlm2-chat-1_8b \
   --visual-encoder /root/share/new_models/openai/clip-vit-large-patch14-336 \
-  --llava /root/tutorial/xtuner/llava/llava_data/iter_1200_hf \
+  --llava /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/iter_2181_hf \
   --prompt-template internlm2_chat \
-  --image /root/tutorial/xtuner/llava/llava_data/test_img/oph.jpg
+  --image /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/test_img/oph.jpg
 ```
+
+待测试问题
+- Q1: Describe this image.
+- Q2: What is the equipment in the image?
+
+![04-vlm-infer-chat](../../../assets/image/04/04-vlm-infer-chat.png)
 
 
 对于该实战任务历史操作回顾
 ```shell
-    1  cd ~ && git clone https://github.com/InternLM/tutorial -b camp2 && conda activate xtuner0.1.17 && cd tutorial
-    2  python /root/tutorial/xtuner/llava/llava_data/repeat.py   -i /root/tutorial/xtuner/llava/llava_data/unique_data.json   -o /root/tutorial/xtuner/llava/llava_data/repeated_data.json   -n 200
-    3  xtuner list-cfg -p llava_internlm2_chat_1_8b
-    4  xtuner copy-cfg   llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune   /root/tutorial/xtuner/llava
-    5  cd /root/tutorial/xtuner/llava/
-    6  xtuner train /root/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune_copy.py --deepspeed deepspeed_zero2
-    7  history
-    8  export MKL_SERVICE_FORCE_INTEL=1
-    9  export MKL_THREADING_LAYER=GNU
-   10  xtuner convert pth_to_hf   llava_internlm2_chat_1_8b_clip_vit_large_p14_336_e1_gpu8_pretrain   /root/share/new_models/xtuner/iter_2181.pth   /root/tutorial/xtuner/llava/llava_data/iter_2181_hf
+    1  conda activate xtuner0.1.17_llava
+    2  mkdir -p /root/xtuner0117_llava
+    3  cd /root/xtuner0117_llava
+    4  git clone -b v0.1.17  https://github.com/InternLM/xtuner
+    5  cd /root/xtuner0117_llava/xtuner
+    6  pip install -e '.[all]'
+    7  cd /root/xtuner0117_llava
+    8  git clone https://github.com/InternLM/tutorial -b camp2
+    9  cd /root/xtuner0117_llava/tutorial
+   10  python /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/repeat.py -i /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/unique_data.json -o /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/repeated_data.json -n 200
    11  xtuner list-cfg -p llava_internlm2_chat_1_8b
-   12  xtuner copy-cfg llava_internlm2_chat_1_8b_clip_vit_large_p14_336_e1_gpu8_pretrain   /root/tutorial/xtuner/llava
-   13  xtuner convert pth_to_hf   /root/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_clip_vit_large_p14_336_e1_gpu8_pretrain_copy.py   /root/share/new_models/xtuner/iter_2181.pth   /root/tutorial/xtuner/llava/llava_data/iter_2181_hf
-   14  xtuner chat /root/share/new_models/Shanghai_AI_Laboratory/internlm2-chat-1_8b   --visual-encoder /root/share/new_models/openai/clip-vit-large-patch14-336   --llava /root/tutorial/xtuner/llava/llava_data/iter_2181_hf   --prompt-template internlm2_chat   --image /root/tutorial/xtuner/llava/llava_data/test_img/oph.jpg
-   15  history
+   12  xtuner copy-cfg llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune /root/xtuner0117_llava/tutorial/xtuner/llava
+   13  cd /root/xtuner0117_llava/tutorial/xtuner/llava/
+   14  tree
+   15  xtuner train /root/xtuner0117_llava/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune_copy.py --deepspeed deepspeed_zero2
+   16  pip show transformers
+   17  pip install transformers==4.40.0
+   18  xtuner train /root/xtuner0117_llava/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune_copy.py --deepspeed deepspeed_zero2
+   19  # 解决小bug
+   20  export MKL_SERVICE_FORCE_INTEL=1
+   21  export MKL_THREADING_LAYER=GNU
+   22  # pth转huggingface
+   23  xtuner convert pth_to_hf   /root/xtuner0117_llava/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune_copy.py   /root/xtuner0117_llava/tutorial/xtuner/llava/work_dirs/llava_internlm2_chat_1_8b_qlora_clip_vit_large_p14_336_lora_e1_gpu8_finetune_copy/iter_1200.pth   /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/iter_1200_hf
+   24  # 启动！
+   25  xtuner chat /root/share/new_models/Shanghai_AI_Laboratory/internlm2-chat-1_8b   --visual-encoder /root/share/new_models/openai/clip-vit-large-patch14-336   --llava /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/iter_1200_hf   --prompt-template internlm2_chat   --image /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/test_img/oph.jpg
+   26  xtuner copy-cfg llava_internlm2_chat_1_8b_clip_vit_large_p14_336_e1_gpu8_pretrain /root/xtuner0117_llava/tutorial/xtuner/llava
+   27  # pth转huggingface
+   28  xtuner convert pth_to_hf   /root/xtuner0117_llava/tutorial/xtuner/llava/llava_internlm2_chat_1_8b_clip_vit_large_p14_336_e1_gpu8_pretrain_copy.py   /root/share/new_models/xtuner/iter_2181.pth   /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/iter_2181_hf
+   29  # 启动！
+   30  xtuner chat /root/share/new_models/Shanghai_AI_Laboratory/internlm2-chat-1_8b   --visual-encoder /root/share/new_models/openai/clip-vit-large-patch14-336   --llava /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/iter_2181_hf   --prompt-template internlm2_chat   --image /root/xtuner0117_llava/tutorial/xtuner/llava/llava_data/test_img/oph.jpg
+   31  history
 ```
 
 ![04-vlm-infer-history-operation](../../../assets/image/04/04-vlm-infer-history-operation.png)
-
-
 
 #### 总结
 通过这节课程的学习，对模型微调有了直观的了解，接下来就是需要在实践的过程中对微调中各个参数的含义进行细化与进行更深入的了解。
