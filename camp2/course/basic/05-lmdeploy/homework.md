@@ -9,7 +9,7 @@
 参考 笔记中的 [动手实践](note.md#动手实践)
 
 
-## 2. 进阶作业 (优秀学员必做)
+## 2. 进阶作业
 完成以下任务，并将实现过程记录截图
 
 ### 2.1
@@ -363,4 +363,4 @@ ssh -CNg -L 7860:127.0.0.1:7860 root@ssh.intern-ai.org.cn -p <你的ssh端口>
 
 
 ### 2.5
-> - 将 LMDeploy Web Demo 部署到 **OpenXLab** 。
+> - 将 LMDeploy Web Demo 部署到 [OpenXLab](https://github.com/InternLM/Tutorial/blob/camp2/tools/openxlab-deploy) 。
