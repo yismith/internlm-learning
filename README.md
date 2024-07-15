@@ -29,3 +29,14 @@ InternLM learning
 - [笔记](./camp2/course/basic/07-opencompass/note.md)
 - [作业](./camp2/course/basic/07-opencompass/homework.md)
 
+
+## 书生·浦语大模型实战营第三期（夏季闯关）
+### 入门岛
+#### 01-Linux基础知识
+- [作业](./camp3/course/begin/01-linux/homework.md)
+
+#### 02-Python基础知识
+- [作业](./camp3/course/begin/02-python/homework.md)
+
+#### 03-Git基础知识
+- [作业](./camp3/course/begin/03-git/homework.md)
